@@ -1,6 +1,6 @@
 # uberon-go
 
-Welcome to uberon-go, where the anatomy ontology (UBERON)[http://uberon.org/] meets Gene Ontology (GO) to programatically download their relations.
+Welcome to uberon-go, where the anatomy ontology [UBERON](http://uberon.org/) meets the [Gene Ontology](https://www.geneontology.org/) (GO) to programatically download their relations.
 
 An R script is provided to obtain, relative to an anatomy ontology term:
 - descendant anatomic terms;
