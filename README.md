@@ -17,21 +17,29 @@ The parent term is included for familiar completeness.
 For large families (hundreds of descendants), it may take several minutes to complete the OLS queries.  
 
 Example:
-(head da tabela)
+| label      | obo_id      |
+| ------------- | ------------- |
+| nervous system | UBERON:0001016 |
+| neural cell | CL:0002319|
+| cerebral cortex endothelial cell| CL:1001602|
 
 ## Related GO BPs
 
-For each term of the obtained descendants, the related GO terms are obtained from the Ontology Lookup Service ([OLS](https://www.ebi.ac.uk/ols4/)) through the R package rols.  
+For each term of the obtained anatomic descendants, the related GO terms are obtained from the Ontology Lookup Service ([OLS](https://www.ebi.ac.uk/ols4/)) through the R package rols.  
 The term names, root node (BP/CC), and descendants of the obtained terms are retrieved with the R package GOfuncR.  
 For large families (hundreds of descendants), it may take several minutes to complete the OLS queries.  
+Please note that no relationship filters are applied (IN DEVELOPMENT).   
 
 Example:
-(head da tabela)
+| go_id      | go_name     | root_node |
+| ------------- | ------------- | ------------- |
+| GO:0050877 | nervous system process | biological_process |
+| GO:0007399 | nervous system development | biological_process |
+| GO:0007610| behavior | biological_process |
 
 
 ## Genes
 
-For each term of the obtained descendants, the related genes are obtained from the GO annotations for _Homo sapiens_, available at [http://current.geneontology.org/products/pages/downloads.html](http://current.geneontology.org/products/pages/downloads.html). Annotations for other organisms can also be used.
+For each term of the obtained anatomic descendants, the related genes are obtained from the GO annotations for _Homo sapiens_, available at [http://current.geneontology.org/products/pages/downloads.html](http://current.geneontology.org/products/pages/downloads.html). Annotations for other organisms can also be used.  
+Please note that no relationship filters are applied (I hope most are "occurs_in" or "part_of") (IN DEVELOPMENT).    
 
-Example:
-(head da tabela)
