@@ -47,10 +47,10 @@ Please note that no relationship filters are currently applied (in development).
 
 ## Bibliography
 
-Mungall, C. J.; Torniai, C.; Gkoutos, G. V.; Lewis, S. E.; Haendel, M. A. Uberon, an Integrative Multi-Species Anatomy Ontology. Genome Biology 2012, 13 (1), R5. https://doi.org/10.1186/gb-2012-13-1-r5.   
-Ashburner et al. Gene ontology: tool for the unification of biology. Nat Genet. 2000 May;25(1):25-9. https://doi.org/10.1038/75556.   
-The Gene Ontology Consortium. The Gene Ontology knowledgebase in 2023. Genetics. 2023 May 4;224(1):iyad031. https://doi.org/10.1093/genetics/iyad031.   
-Gatto L (2024). _rols: An R interface to the Ontology Lookup Service_. <https://doi.org/10.18129/B9.bioc.rols>, R package version 3.0.0, <https://bioconductor.org/packages/rols>.   
-Grote S (2024). _GOfuncR: Gene ontology enrichment using FUNC_. <https://doi.org/10.18129/B9.bioc.GOfuncR>, R package version 1.24.0,  <https://bioconductor.org/packages/GOfuncR>.   
-Wickham H (2023). _stringr: Simple, Consistent Wrappers for Common String Operations_. R package version 1.5.1, <https://CRAN.R-project.org/package=stringr>.   
-Wickham H, François R, Henry L, Müller K, Vaughan D (2023). _dplyr: A Grammar of Data Manipulation_. R package version 1.1.4, <https://CRAN.R-project.org/package=dplyr>.   
+- Mungall, C. J.; Torniai, C.; Gkoutos, G. V.; Lewis, S. E.; Haendel, M. A. Uberon, an Integrative Multi-Species Anatomy Ontology. Genome Biology 2012, 13 (1), R5. https://doi.org/10.1186/gb-2012-13-1-r5.   
+- Ashburner et al. Gene ontology: tool for the unification of biology. Nat Genet. 2000 May;25(1):25-9. https://doi.org/10.1038/75556.   
+- The Gene Ontology Consortium. The Gene Ontology knowledgebase in 2023. Genetics. 2023 May 4;224(1):iyad031. https://doi.org/10.1093/genetics/iyad031.   
+- Gatto L (2024). _rols: An R interface to the Ontology Lookup Service_. <https://doi.org/10.18129/B9.bioc.rols>, R package version 3.0.0, <https://bioconductor.org/packages/rols>.   
+- Grote S (2024). _GOfuncR: Gene ontology enrichment using FUNC_. <https://doi.org/10.18129/B9.bioc.GOfuncR>, R package version 1.24.0,  <https://bioconductor.org/packages/GOfuncR>.   
+- Wickham H (2023). _stringr: Simple, Consistent Wrappers for Common String Operations_. R package version 1.5.1, <https://CRAN.R-project.org/package=stringr>.   
+- Wickham H, François R, Henry L, Müller K, Vaughan D (2023). _dplyr: A Grammar of Data Manipulation_. R package version 1.1.4, <https://CRAN.R-project.org/package=dplyr>.   
