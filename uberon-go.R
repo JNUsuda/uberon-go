@@ -122,7 +122,7 @@ sep = "\t", col.names = T, row.names = F)
 # https://www.geneontology.org/docs/download-go-annotations/
 
 # load go annotations - human
-goa_human <- readr::read_delim("./goa_human.gaf", 
+goa_human <- readr::read_delim("./goa_human_release-2024-11-03.gaf", 
                          delim = "\t", escape_double = FALSE, 
                          col_names = FALSE, comment = "!", trim_ws = TRUE,
                          show_col_types = FALSE)
