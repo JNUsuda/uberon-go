@@ -11,7 +11,7 @@ library("GOfuncR")
 my_path = "./"
 
 # input desired ontology and term id 
-term = Term("uberon", "UBERON:0002405")
+term = Term("uberon", "UBERON:0001016")
 
 ## descendant anatomical terms ------
 
@@ -34,11 +34,10 @@ lista = append(term,lista) # add searched term as first item
 # df of descendants
 descs2 = lapply(lista, function(x){
   sublist = list()
-  #sublist[["label"]] 
-  sublist[["label"]]  =  x@label
   sublist[["id"]]  = x@obo_id
+  sublist[["label"]]  =  x@label
   return(sublist)})
-descs_df = do.call(rbind.data.frame, descs2)
+descs_df = do.call(rbind.data.frame, descs2) %>% distinct()
 
 # save table (careful with overwrites!!!)
 desc_name = paste0(my_path, termname, "_", termid, "_descendants.txt")
@@ -61,7 +60,7 @@ GO_rels = lapply(lista, function(x){
 
 # df of GO terms
 GO_rels_df = do.call(rbind.data.frame, GO_rels) %>% distinct()
-table(GO_rels_df$label)
+#table(GO_rels_df$label)
 GO_terms = c(GO_rels_df[,"source"], GO_rels_df[,"target"]) %>% unique()
 GO_terms_idx = GO_terms %>% grep(pattern = "http://purl.obolibrary.org/obo/GO_") 
 GO_terms = GO_terms[GO_terms_idx] %>% 
@@ -88,9 +87,9 @@ write.table(GO_d_terms_df, file = BP_name,
 ### optionally, evaluate relationships to filter terms: ------------------------
 
 # labels table
-BPs2 = BPs[,1:2] %>% relocate(go_name, .before = go_id)
+BPs2 = BPs[,1:2] 
 colnames(BPs2) = colnames(descs_df)
-labels_tab = rbind(descs_df,BPs2)
+labels_tab = rbind(descs_df, BPs2)
 
 GO_rels_df2 = GO_rels_df[,1:3] %>% 
   rename(relation = label) %>% 
@@ -108,7 +107,8 @@ GO_rels_df2 = GO_rels_df[,1:3] %>%
   rename(target_name = label) %>% 
   relocate(source_name, .after = source) %>% 
   relocate(target_name, .after = target) %>% 
-  relocate(relation, .before = target)
+  relocate(relation, .before = target) %>% 
+  distinct()
 
 # save relationship table (careful with overwrites!!!)
 rels_name = paste0(my_path, termname, "_", termid, "_GO-relations.txt")
@@ -124,7 +124,8 @@ sep = "\t", col.names = T, row.names = F)
 # load go annotations - human
 goa_human <- readr::read_delim("./goa_human.gaf", 
                          delim = "\t", escape_double = FALSE, 
-                         col_names = FALSE, comment = "!", trim_ws = TRUE)
+                         col_names = FALSE, comment = "!", trim_ws = TRUE,
+                         show_col_types = FALSE)
 colnames(goa_human) = c("DB","DB_ID", "DB_Symbol","Relation","GO_ID",
                         "DB_Reference","Evidence_Code","With_From","Aspect",
                         "DB_Name","DB_Synonym","DB_Type","Taxon","Date",
@@ -132,7 +133,7 @@ colnames(goa_human) = c("DB","DB_ID", "DB_Symbol","Relation","GO_ID",
                         "Gene_Product_Form_ID")
 
 # string of anatomy terms for searching:
-labels3 = paste(descs_df$obo_id, collapse = "|")
+labels3 = paste(descs_df$id, collapse = "|")
 # search form anatomy terms in the Annotation_Extension column
 related_genes = goa_human %>% 
   filter(str_detect(Annotation_Extension, pattern = labels3)) %>% 
@@ -142,5 +143,5 @@ related_genes = goa_human %>%
 genes_path = paste0(my_path ,termname, "_", termid, "_genes.txt")
 genes_path
 write.table(related_genes, file = genes_path, 
-            sep = "\t", col.names = T, row.names = F)
+            sep = "\t", col.names = F, row.names = F)
 
