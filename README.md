@@ -27,7 +27,7 @@ Example:
 ## Related GO BPs
 
 For each term of the obtained anatomic descendants, the related GO terms are obtained from OLS through the R package rols.  
-The term names, root node (BP/CC), and descendants of the obtained terms are retrieved with the R package GOfuncR.  
+The term names, root node (BP/CC/MF) classification, and descendants of the obtained terms are retrieved with the R package GOfuncR.  
 For large families (hundreds of descendants), it may take several minutes to complete the OLS queries.  
 
 Example:
@@ -37,7 +37,7 @@ Example:
 | GO:0007399 | nervous system development |
 | GO:0007610| behavior | 
 
-A table with the anatomic terms, related GO terms and relationship between them is available in an optional section. This can be used to filter the terms by relationship.   
+A table with the anatomic terms, related GO terms and relationship between them is available in an optional section (_GO-relations.txt). This could optionally be used to filter the terms by relationship.   
 
 
 ## Genes
