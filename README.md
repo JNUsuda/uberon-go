@@ -3,11 +3,11 @@
 Welcome to uberon-go, where the anatomy ontology [UBERON](http://uberon.org/) meets the [Gene Ontology](https://www.geneontology.org/) (GO) to programatically download their relations.
 
 An R script is provided to obtain, relative to an anatomy ontology term:
-- *descendant anatomic terms* (`descendants.txt`);
-- related Gene Ontology (GO) *Biological Process* (BP) terms (`GO_BPs.txt`);
-- related *genes* (`genes.txt`).
+- **descendant anatomic terms** (`descendants.txt`);
+- related Gene Ontology (GO) **Biological Process** (BP) terms (`GO_BPs.txt`);
+- related **genes** (`genes.txt`).
 
-Manually curated terms *specific for _Homo sapiens_* are further provided:
+Manually curated terms **specific for _Homo sapiens_** are further provided:
 - Relationships between anatomic terms and GO BPs for selection (`GO_relations.txt`);
 - Filtered GO BPs (`GO_BPs_filtered.txt`) and genes (`genes_filtered.txt`);
 - Applied filters (`GO-BPs_filter_param.txt`).
@@ -15,6 +15,7 @@ Manually curated terms *specific for _Homo sapiens_* are further provided:
 The results for 15 anatomical systems are provided. 
 
 ![Sharing of the Biological Processes and Genes (human filtered) between the 15 anatomical systems.](net.png)
+_Sharing of the Biological Processes and Genes (human filtered) between the 15 anatomical systems._
 
 Feel free to use the script to perform the analysis on any organ, tissue, cell type, etc., and to apply personalized filters.
 
