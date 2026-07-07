@@ -1,0 +1,6 @@
+removed_labels:
+- B cell differentiation
+- bursa of Fabricius development
+- hemopoiesis
+removed_ids: ~
+removed_children_of: ~

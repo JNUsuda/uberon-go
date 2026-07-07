@@ -1,0 +1,13 @@
+removed_labels:
+- detoxification
+- hepatic immune response
+- gamete generation
+- T cell differentiation
+- T cell selection
+- antigen processing and presentation of endogenous peptide antigen via MHC class
+  II
+- immature T cell proliferation in thymus
+- T cell differentiation in thymus
+- hemopoiesis
+removed_ids: ~
+removed_children_of: ~

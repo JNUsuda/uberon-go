@@ -1,0 +1,432 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0002314"	"germinal center B cell differentiation"	"GO:0002314"	"germinal center B cell differentiation"	0
+"GO:0002634"	"regulation of germinal center formation"	"GO:0002634"	"regulation of germinal center formation"	0
+"GO:0002634"	"regulation of germinal center formation"	"GO:0002635"	"negative regulation of germinal center formation"	1
+"GO:0002634"	"regulation of germinal center formation"	"GO:0002636"	"positive regulation of germinal center formation"	1
+"GO:0016446"	"somatic hypermutation of immunoglobulin genes"	"GO:0016446"	"somatic hypermutation of immunoglobulin genes"	0
+"GO:0016446"	"somatic hypermutation of immunoglobulin genes"	"GO:0002205"	"somatic hypermutation of immunoglobulin genes involved in immune response"	1
+"GO:0060836"	"lymphatic endothelial cell differentiation"	"GO:0060836"	"lymphatic endothelial cell differentiation"	0
+"GO:0060836"	"lymphatic endothelial cell differentiation"	"GO:0060838"	"lymphatic endothelial cell fate commitment"	1
+"GO:0060836"	"lymphatic endothelial cell differentiation"	"GO:0060851"	"vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment"	2
+"GO:1904977"	"lymphatic endothelial cell migration"	"GO:1904977"	"lymphatic endothelial cell migration"	0
+"GO:0048535"	"lymph node development"	"GO:0048535"	"lymph node development"	0
+"GO:0002388"	"immune response in Peyer's patch"	"GO:0002388"	"immune response in Peyer's patch"	0
+"GO:0002388"	"immune response in Peyer's patch"	"GO:0002389"	"tolerance induction in Peyer's patch"	1
+"GO:0048541"	"Peyer's patch development"	"GO:0048541"	"Peyer's patch development"	0
+"GO:0048541"	"Peyer's patch development"	"GO:0061146"	"Peyer's patch morphogenesis"	1
+"GO:0061146"	"Peyer's patch morphogenesis"	"GO:0061146"	"Peyer's patch morphogenesis"	0
+"GO:0002319"	"memory B cell differentiation"	"GO:0002319"	"memory B cell differentiation"	0
+"GO:0001945"	"lymph vessel development"	"GO:0001945"	"lymph vessel development"	0
+"GO:0001945"	"lymph vessel development"	"GO:0036303"	"lymph vessel morphogenesis"	1
+"GO:0001945"	"lymph vessel development"	"GO:0060836"	"lymphatic endothelial cell differentiation"	1
+"GO:0001945"	"lymph vessel development"	"GO:0060855"	"venous endothelial cell migration involved in lymph vessel development"	1
+"GO:0001945"	"lymph vessel development"	"GO:0001946"	"lymphangiogenesis"	2
+"GO:0001945"	"lymph vessel development"	"GO:0060838"	"lymphatic endothelial cell fate commitment"	2
+"GO:0001945"	"lymph vessel development"	"GO:1904977"	"lymphatic endothelial cell migration"	2
+"GO:0001945"	"lymph vessel development"	"GO:0060851"	"vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment"	3
+"GO:0001945"	"lymph vessel development"	"GO:0060854"	"branching involved in lymph vessel morphogenesis"	3
+"GO:0001945"	"lymph vessel development"	"GO:1901490"	"regulation of lymphangiogenesis"	3
+"GO:0001945"	"lymph vessel development"	"GO:1901491"	"negative regulation of lymphangiogenesis"	3
+"GO:0001945"	"lymph vessel development"	"GO:1901492"	"positive regulation of lymphangiogenesis"	3
+"GO:0001946"	"lymphangiogenesis"	"GO:0001946"	"lymphangiogenesis"	0
+"GO:0001946"	"lymphangiogenesis"	"GO:0060854"	"branching involved in lymph vessel morphogenesis"	1
+"GO:0001946"	"lymphangiogenesis"	"GO:1901490"	"regulation of lymphangiogenesis"	1
+"GO:0001946"	"lymphangiogenesis"	"GO:1901491"	"negative regulation of lymphangiogenesis"	1
+"GO:0001946"	"lymphangiogenesis"	"GO:1901492"	"positive regulation of lymphangiogenesis"	1
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:0036303"	"lymph vessel morphogenesis"	0
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:0001946"	"lymphangiogenesis"	1
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:1904977"	"lymphatic endothelial cell migration"	1
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:0060854"	"branching involved in lymph vessel morphogenesis"	2
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:1901490"	"regulation of lymphangiogenesis"	2
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:1901491"	"negative regulation of lymphangiogenesis"	2
+"GO:0036303"	"lymph vessel morphogenesis"	"GO:1901492"	"positive regulation of lymphangiogenesis"	2
+"GO:0042100"	"B cell proliferation"	"GO:0042100"	"B cell proliferation"	0
+"GO:0042100"	"B cell proliferation"	"GO:0002322"	"B cell proliferation involved in immune response"	1
+"GO:0042100"	"B cell proliferation"	"GO:0002358"	"B cell homeostatic proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0002359"	"B-1 B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030888"	"regulation of B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030889"	"negative regulation of B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030890"	"positive regulation of B cell proliferation"	1
+"GO:0002467"	"germinal center formation"	"GO:0002467"	"germinal center formation"	0
+"GO:0002467"	"germinal center formation"	"GO:0002634"	"regulation of germinal center formation"	1
+"GO:0002467"	"germinal center formation"	"GO:0002635"	"negative regulation of germinal center formation"	1
+"GO:0002467"	"germinal center formation"	"GO:0002636"	"positive regulation of germinal center formation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0046649"	"lymphocyte activation"	0
+"GO:0046649"	"lymphocyte activation"	"GO:0001767"	"establishment of lymphocyte polarity"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0001771"	"immunological synapse formation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0002285"	"lymphocyte activation involved in immune response"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0030098"	"lymphocyte differentiation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0030101"	"natural killer cell activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0042110"	"T cell activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0042113"	"B cell activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0046651"	"lymphocyte proliferation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0051249"	"regulation of lymphocyte activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0051250"	"negative regulation of lymphocyte activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0051251"	"positive regulation of lymphocyte activation"	1
+"GO:0046649"	"lymphocyte activation"	"GO:0001768"	"establishment of T cell polarity"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0001769"	"establishment of B cell polarity"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0001770"	"establishment of natural killer cell polarity"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0001779"	"natural killer cell differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0001787"	"natural killer cell proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0002286"	"T cell activation involved in immune response"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0002312"	"B cell activation involved in immune response"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0002323"	"natural killer cell activation involved in immune response"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0030183"	"B cell differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0030217"	"T cell differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0031294"	"lymphocyte costimulation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0032814"	"regulation of natural killer cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0032815"	"negative regulation of natural killer cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0032816"	"positive regulation of natural killer cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0035709"	"memory T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0042098"	"T cell proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0042100"	"B cell proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0044565"	"dendritic cell proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0045619"	"regulation of lymphocyte differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0045620"	"negative regulation of lymphocyte differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0045621"	"positive regulation of lymphocyte differentiation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0046629"	"gamma-delta T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0046631"	"alpha-beta T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050670"	"regulation of lymphocyte proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050671"	"positive regulation of lymphocyte proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050672"	"negative regulation of lymphocyte proliferation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050863"	"regulation of T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050864"	"regulation of B cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050868"	"negative regulation of T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050869"	"negative regulation of B cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050870"	"positive regulation of T cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0050871"	"positive regulation of B cell activation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:2000520"	"regulation of immunological synapse formation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:2000521"	"negative regulation of immunological synapse formation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:2000522"	"positive regulation of immunological synapse formation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:2000526"	"positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation"	2
+"GO:0046649"	"lymphocyte activation"	"GO:0001777"	"T cell homeostatic proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002287"	"alpha-beta T cell activation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002290"	"gamma-delta T cell activation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002291"	"T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002292"	"T cell differentiation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002309"	"T cell proliferation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002313"	"mature B cell differentiation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002322"	"B cell proliferation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002324"	"natural killer cell proliferation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002325"	"natural killer cell differentiation involved in immune response"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002326"	"B cell lineage commitment"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002327"	"immature B cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002335"	"mature B cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002339"	"B cell selection"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002358"	"B cell homeostatic proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002359"	"B-1 B cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002360"	"T cell lineage commitment"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002568"	"somatic diversification of T cell receptor genes"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0002572"	"pro-T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0030888"	"regulation of B cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0030889"	"negative regulation of B cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0030890"	"positive regulation of B cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0031295"	"T cell costimulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0031296"	"B cell costimulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032817"	"regulation of natural killer cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032818"	"negative regulation of natural killer cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032819"	"positive regulation of natural killer cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032823"	"regulation of natural killer cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032824"	"negative regulation of natural killer cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0032825"	"positive regulation of natural killer cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0033077"	"T cell differentiation in thymus"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0033078"	"extrathymic T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0033079"	"immature T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0035710"	"CD4-positive, alpha-beta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0036037"	"CD8-positive, alpha-beta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0039672"	"suppression by virus of host natural killer cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0042102"	"positive regulation of T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0042129"	"regulation of T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0042130"	"negative regulation of T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0042492"	"gamma-delta T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0042722"	"alpha-beta T cell activation by superantigen"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043316"	"cytotoxic T cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043317"	"regulation of cytotoxic T cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043318"	"negative regulation of cytotoxic T cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043319"	"positive regulation of cytotoxic T cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043320"	"natural killer cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043321"	"regulation of natural killer cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043322"	"negative regulation of natural killer cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0043323"	"positive regulation of natural killer cell degranulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045058"	"T cell selection"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045065"	"cytotoxic T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045066"	"regulatory T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045190"	"isotype switching"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045191"	"regulation of isotype switching"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045577"	"regulation of B cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045578"	"negative regulation of B cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045579"	"positive regulation of B cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045580"	"regulation of T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045581"	"negative regulation of T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045582"	"positive regulation of T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045829"	"negative regulation of isotype switching"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0045830"	"positive regulation of isotype switching"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046630"	"gamma-delta T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046632"	"alpha-beta T cell differentiation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046633"	"alpha-beta T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046634"	"regulation of alpha-beta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046635"	"positive regulation of alpha-beta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046636"	"negative regulation of alpha-beta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046643"	"regulation of gamma-delta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046644"	"negative regulation of gamma-delta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0046645"	"positive regulation of gamma-delta T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0050798"	"activated T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0051132"	"NK T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0061485"	"memory T cell proliferation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:1903903"	"regulation of establishment of T cell polarity"	3
+"GO:0046649"	"lymphocyte activation"	"GO:1903904"	"negative regulation of establishment of T cell polarity"	3
+"GO:0046649"	"lymphocyte activation"	"GO:1903905"	"positive regulation of establishment of T cell polarity"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2000523"	"regulation of T cell costimulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2000525"	"positive regulation of T cell costimulation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2000567"	"regulation of memory T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2000568"	"positive regulation of memory T cell activation"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2001188"	"regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2001189"	"negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"	3
+"GO:0046649"	"lymphocyte activation"	"GO:2001190"	"positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"	3
+"GO:0046649"	"lymphocyte activation"	"GO:0001865"	"NK T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0001866"	"NK T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0001923"	"B-1 B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0001924"	"regulation of B-1 B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0001925"	"negative regulation of B-1 B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0001926"	"positive regulation of B-1 B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002288"	"NK T cell activation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002293"	"alpha-beta T cell differentiation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002299"	"alpha-beta intraepithelial T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002303"	"gamma-delta T cell differentiation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002304"	"gamma-delta intraepithelial T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002307"	"CD8-positive, alpha-beta regulatory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002308"	"CD8-positive, alpha-beta cytotoxic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002310"	"alpha-beta T cell proliferation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002311"	"gamma-delta T cell proliferation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002314"	"germinal center B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002315"	"marginal zone B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002316"	"follicular B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002317"	"plasma cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002319"	"memory B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002329"	"pre-B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002332"	"transitional stage B cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002336"	"B-1 B cell lineage commitment"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002340"	"central B cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002343"	"peripheral B cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002346"	"B cell positive selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002352"	"B cell negative selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002361"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002363"	"alpha-beta T cell lineage commitment"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002365"	"gamma-delta T cell lineage commitment"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002571"	"somatic diversification of T cell receptor genes by N region addition"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002680"	"pro-T cell lineage commitment"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002681"	"somatic recombination of T cell receptor gene segments"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002898"	"regulation of central B cell deletion"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002899"	"negative regulation of central B cell deletion"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002900"	"positive regulation of central B cell deletion"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002914"	"regulation of central B cell anergy"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002915"	"negative regulation of central B cell anergy"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002916"	"positive regulation of central B cell anergy"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032820"	"regulation of natural killer cell proliferation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032821"	"negative regulation of natural killer cell proliferation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032822"	"positive regulation of natural killer cell proliferation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032826"	"regulation of natural killer cell differentiation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032827"	"negative regulation of natural killer cell differentiation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0032828"	"positive regulation of natural killer cell differentiation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033080"	"immature T cell proliferation in thymus"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033081"	"regulation of T cell differentiation in thymus"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033082"	"regulation of extrathymic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033083"	"regulation of immature T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033085"	"negative regulation of T cell differentiation in thymus"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033086"	"negative regulation of extrathymic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033087"	"negative regulation of immature T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033089"	"positive regulation of T cell differentiation in thymus"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033090"	"positive regulation of extrathymic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0033091"	"positive regulation of immature T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0035711"	"T-helper 1 cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0035712"	"T-helper 2 cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0035739"	"CD4-positive, alpha-beta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0035740"	"CD8-positive, alpha-beta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0035783"	"CD4-positive, alpha-beta T cell costimulation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0042103"	"positive regulation of T cell homeostatic proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0042104"	"positive regulation of activated T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043366"	"beta selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043367"	"CD4-positive, alpha-beta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043368"	"positive T cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043369"	"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043374"	"CD8-positive, alpha-beta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043379"	"memory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043380"	"regulation of memory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043381"	"negative regulation of memory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043382"	"positive regulation of memory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0043383"	"negative T cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045061"	"thymic T cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045062"	"extrathymic T cell selection"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045583"	"regulation of cytotoxic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045584"	"negative regulation of cytotoxic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045585"	"positive regulation of cytotoxic T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045586"	"regulation of gamma-delta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045587"	"negative regulation of gamma-delta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045588"	"positive regulation of gamma-delta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045589"	"regulation of regulatory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045590"	"negative regulation of regulatory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0045591"	"positive regulation of regulatory T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046006"	"regulation of activated T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046007"	"negative regulation of activated T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046013"	"regulation of T cell homeostatic proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046014"	"negative regulation of T cell homeostatic proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046637"	"regulation of alpha-beta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046638"	"positive regulation of alpha-beta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046639"	"negative regulation of alpha-beta T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046640"	"regulation of alpha-beta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046641"	"positive regulation of alpha-beta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046642"	"negative regulation of alpha-beta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046646"	"regulation of gamma-delta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046647"	"negative regulation of gamma-delta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0046648"	"positive regulation of gamma-delta T cell proliferation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048289"	"isotype switching to IgE isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048290"	"isotype switching to IgA isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048291"	"isotype switching to IgG isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048292"	"isotype switching to IgD isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048293"	"regulation of isotype switching to IgE isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048294"	"negative regulation of isotype switching to IgE isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048295"	"positive regulation of isotype switching to IgE isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048296"	"regulation of isotype switching to IgA isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048297"	"negative regulation of isotype switching to IgA isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048298"	"positive regulation of isotype switching to IgA isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048299"	"regulation of isotype switching to IgD isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048300"	"negative regulation of isotype switching to IgD isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048301"	"positive regulation of isotype switching to IgD isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048302"	"regulation of isotype switching to IgG isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048303"	"negative regulation of isotype switching to IgG isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0048304"	"positive regulation of isotype switching to IgG isotypes"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0051133"	"regulation of NK T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0051134"	"negative regulation of NK T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0051135"	"positive regulation of NK T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1900098"	"regulation of plasma cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1900099"	"negative regulation of plasma cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1900100"	"positive regulation of plasma cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1900279"	"regulation of CD4-positive, alpha-beta T cell costimulation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1900281"	"positive regulation of CD4-positive, alpha-beta T cell costimulation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1904155"	"DN2 thymocyte differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1904156"	"DN3 thymocyte differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:1904157"	"DN4 thymocyte differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000174"	"regulation of pro-T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000175"	"negative regulation of pro-T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000176"	"positive regulation of pro-T cell differentiation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000514"	"regulation of CD4-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000515"	"negative regulation of CD4-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000516"	"positive regulation of CD4-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2000524"	"negative regulation of T cell costimulation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001185"	"regulation of CD8-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001186"	"negative regulation of CD8-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001187"	"positive regulation of CD8-positive, alpha-beta T cell activation"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001191"	"regulation of gamma-delta T cell activation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001192"	"negative regulation of gamma-delta T cell activation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:2001193"	"positive regulation of gamma-delta T cell activation involved in immune response"	4
+"GO:0046649"	"lymphocyte activation"	"GO:0002289"	"NK T cell proliferation involved in immune response"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002294"	"CD4-positive, alpha-beta T cell differentiation involved in immune response"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002298"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002300"	"CD8-positive, alpha-beta intraepithelial T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002301"	"CD4-positive, alpha-beta intraepithelial T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002302"	"CD8-positive, alpha-beta T cell differentiation involved in immune response"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002305"	"CD8-positive, gamma-delta intraepithelial T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002306"	"CD4-positive gamma-delta intraepithelial T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002330"	"pre-B cell receptor expression"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002331"	"pre-B cell allelic exclusion"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002333"	"transitional one stage B cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002334"	"transitional two stage B cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002337"	"B-1a B cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002338"	"B-1b B cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002341"	"central B cell anergy"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002342"	"central B cell deletion"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002344"	"B cell affinity maturation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002348"	"central B cell positive selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002350"	"peripheral B cell positive selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002354"	"central B cell negative selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002356"	"peripheral B cell negative selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002362"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002364"	"NK T cell lineage commitment"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0032829"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0032830"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0032831"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0033153"	"T cell receptor V(D)J recombination"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0035708"	"interleukin-4-dependent isotype switching to IgE isotypes"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0035741"	"activated CD4-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0035742"	"activated CD8-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043370"	"regulation of CD4-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043371"	"negative regulation of CD4-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043372"	"positive regulation of CD4-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043373"	"CD4-positive, alpha-beta T cell lineage commitment"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043375"	"CD8-positive, alpha-beta T cell lineage commitment"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043376"	"regulation of CD8-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043377"	"negative regulation of CD8-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0043378"	"positive regulation of CD8-positive, alpha-beta T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0045059"	"positive thymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0045060"	"negative thymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0045067"	"positive extrathymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0045068"	"negative extrathymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051136"	"regulation of NK T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051137"	"negative regulation of NK T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051138"	"positive regulation of NK T cell differentiation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051140"	"regulation of NK T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051141"	"negative regulation of NK T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0051142"	"positive regulation of NK T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:1900280"	"negative regulation of CD4-positive, alpha-beta T cell costimulation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:1902232"	"regulation of positive thymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:1902233"	"negative regulation of positive thymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:1902234"	"positive regulation of positive thymic T cell selection"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000517"	"regulation of T-helper 1 cell activation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000518"	"negative regulation of T-helper 1 cell activation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000519"	"positive regulation of T-helper 1 cell activation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000561"	"regulation of CD4-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000562"	"negative regulation of CD4-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000563"	"positive regulation of CD4-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000564"	"regulation of CD8-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000565"	"negative regulation of CD8-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000566"	"positive regulation of CD8-positive, alpha-beta T cell proliferation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000569"	"regulation of T-helper 2 cell activation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000570"	"positive regulation of T-helper 2 cell activation"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000571"	"regulation of interleukin-4-dependent isotype switching to IgE isotypes"	5
+"GO:0046649"	"lymphocyte activation"	"GO:2000572"	"positive regulation of interleukin-4-dependent isotype switching to IgE isotypes"	5
+"GO:0046649"	"lymphocyte activation"	"GO:0002205"	"somatic hypermutation of immunoglobulin genes involved in immune response"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0002295"	"T-helper cell lineage commitment"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0032832"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0032833"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0032834"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0042093"	"T-helper cell differentiation"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0045622"	"regulation of T-helper cell differentiation"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0045623"	"negative regulation of T-helper cell differentiation"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0045624"	"positive regulation of T-helper cell differentiation"	6
+"GO:0046649"	"lymphocyte activation"	"GO:0002296"	"T-helper 1 cell lineage commitment"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0002297"	"T-helper 2 cell lineage commitment"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045063"	"T-helper 1 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045064"	"T-helper 2 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045625"	"regulation of T-helper 1 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045626"	"negative regulation of T-helper 1 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045627"	"positive regulation of T-helper 1 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045628"	"regulation of T-helper 2 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045629"	"negative regulation of T-helper 2 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0045630"	"positive regulation of T-helper 2 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0061470"	"T follicular helper cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0072539"	"T-helper 17 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:0072540"	"T-helper 17 cell lineage commitment"	7
+"GO:0046649"	"lymphocyte activation"	"GO:2000319"	"regulation of T-helper 17 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:2000320"	"negative regulation of T-helper 17 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:2000321"	"positive regulation of T-helper 17 cell differentiation"	7
+"GO:0046649"	"lymphocyte activation"	"GO:2000328"	"regulation of T-helper 17 cell lineage commitment"	8
+"GO:0046649"	"lymphocyte activation"	"GO:2000329"	"negative regulation of T-helper 17 cell lineage commitment"	8
+"GO:0046649"	"lymphocyte activation"	"GO:2000330"	"positive regulation of T-helper 17 cell lineage commitment"	8
+"GO:0048537"	"mucosa-associated lymphoid tissue development"	"GO:0048537"	"mucosa-associated lymphoid tissue development"	0
+"GO:0048537"	"mucosa-associated lymphoid tissue development"	"GO:0048541"	"Peyer's patch development"	1
+"GO:0048537"	"mucosa-associated lymphoid tissue development"	"GO:0061146"	"Peyer's patch morphogenesis"	2
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002387"	"immune response in gut-associated lymphoid tissue"	0
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002388"	"immune response in Peyer's patch"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002394"	"tolerance induction in gut-associated lymphoid tissue"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002389"	"tolerance induction in Peyer's patch"	2
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	2
+"GO:0002317"	"plasma cell differentiation"	"GO:0002317"	"plasma cell differentiation"	0
+"GO:0002317"	"plasma cell differentiation"	"GO:1900098"	"regulation of plasma cell differentiation"	1
+"GO:0002317"	"plasma cell differentiation"	"GO:1900099"	"negative regulation of plasma cell differentiation"	1
+"GO:0002317"	"plasma cell differentiation"	"GO:1900100"	"positive regulation of plasma cell differentiation"	1
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	1

@@ -1,0 +1,508 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0003016"	"respiratory system process"	"GO:0003016"	"respiratory system process"	0
+"GO:0003016"	"respiratory system process"	"GO:0002086"	"diaphragm contraction"	1
+"GO:0003016"	"respiratory system process"	"GO:0044064"	"modulation by symbiont of host respiratory system process"	1
+"GO:0003016"	"respiratory system process"	"GO:0044065"	"regulation of respiratory system process"	1
+"GO:0003016"	"respiratory system process"	"GO:0120197"	"mucociliary clearance"	1
+"GO:0003016"	"respiratory system process"	"GO:0002087"	"regulation of respiratory gaseous exchange by nervous system process"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0003016"	"respiratory system process"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0002086"	"diaphragm contraction"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0044064"	"modulation by symbiont of host respiratory system process"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0044065"	"regulation of respiratory system process"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0120197"	"mucociliary clearance"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0002087"	"regulation of respiratory gaseous exchange by nervous system process"	3
+"GO:0060541"	"respiratory system development"	"GO:0060541"	"respiratory system development"	0
+"GO:0060541"	"respiratory system development"	"GO:0007424"	"open tracheal system development"	1
+"GO:0060541"	"respiratory system development"	"GO:0030324"	"lung development"	1
+"GO:0060541"	"respiratory system development"	"GO:0043584"	"nose development"	1
+"GO:0060541"	"respiratory system development"	"GO:0060433"	"bronchus development"	1
+"GO:0060541"	"respiratory system development"	"GO:0060438"	"trachea development"	1
+"GO:0060541"	"respiratory system development"	"GO:0060539"	"diaphragm development"	1
+"GO:0060541"	"respiratory system development"	"GO:0120224"	"larynx development"	1
+"GO:0060541"	"respiratory system development"	"GO:0007425"	"epithelial cell fate determination, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0007426"	"tracheal outgrowth, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0007427"	"epithelial cell migration, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0030910"	"olfactory placode formation"	2
+"GO:0060541"	"respiratory system development"	"GO:0035001"	"dorsal trunk growth, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0035002"	"liquid clearance, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0035152"	"regulation of tube architecture, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0035153"	"epithelial cell type specification, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0035202"	"tracheal pit formation in open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0035277"	"spiracle morphogenesis, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0043585"	"nose morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0046845"	"branched duct epithelial cell fate determination, open tracheal system"	2
+"GO:0060541"	"respiratory system development"	"GO:0048286"	"lung alveolus development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060166"	"olfactory pit development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060425"	"lung morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0060426"	"lung vasculature development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060427"	"lung connective tissue development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060428"	"lung epithelium development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060432"	"lung pattern specification process"	2
+"GO:0060541"	"respiratory system development"	"GO:0060434"	"bronchus morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0060435"	"bronchiole development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060437"	"lung growth"	2
+"GO:0060541"	"respiratory system development"	"GO:0060439"	"trachea morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0060446"	"branching involved in open tracheal system development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060458"	"right lung development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060459"	"left lung development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060462"	"lung lobe development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060479"	"lung cell differentiation"	2
+"GO:0060541"	"respiratory system development"	"GO:0060482"	"lobar bronchus development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060484"	"lung-associated mesenchyme development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060495"	"cell-cell signaling involved in lung development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060532"	"bronchus cartilage development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060534"	"trachea cartilage development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060540"	"diaphragm morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0060915"	"mesenchymal cell differentiation involved in lung development"	2
+"GO:0060541"	"respiratory system development"	"GO:0060916"	"mesenchymal cell proliferation involved in lung development"	2
+"GO:0060541"	"respiratory system development"	"GO:0061145"	"lung smooth muscle development"	2
+"GO:0060541"	"respiratory system development"	"GO:0061152"	"trachea submucosa development"	2
+"GO:0060541"	"respiratory system development"	"GO:0120223"	"larynx morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0007428"	"primary branching, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0007429"	"secondary branching, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0007430"	"terminal branching, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0035147"	"branch fusion, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0035149"	"lumen formation, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0035151"	"regulation of tube size, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0035154"	"terminal cell fate specification, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0035156"	"fusion cell fate specification"	3
+"GO:0060541"	"respiratory system development"	"GO:0035160"	"maintenance of epithelial integrity, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:0060430"	"lung saccule development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060436"	"bronchiole morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060440"	"trachea formation"	3
+"GO:0060541"	"respiratory system development"	"GO:0060441"	"epithelial tube branching involved in lung morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060460"	"left lung morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060461"	"right lung morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060463"	"lung lobe morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060481"	"lobar bronchus epithelium development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060483"	"lobar bronchus mesenchyme development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060487"	"lung epithelial cell differentiation"	3
+"GO:0060541"	"respiratory system development"	"GO:0060496"	"mesenchymal-epithelial cell signaling involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060506"	"smoothened signaling pathway involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060507"	"epidermal growth factor receptor signaling pathway involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0060508"	"lung basal cell differentiation"	3
+"GO:0060541"	"respiratory system development"	"GO:0060533"	"bronchus cartilage morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0060535"	"trachea cartilage morphogenesis"	3
+"GO:0060541"	"respiratory system development"	"GO:0061033"	"secretion by lung epithelial cell involved in lung growth"	3
+"GO:0060541"	"respiratory system development"	"GO:0061111"	"epithelial-mesenchymal cell signaling involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0061115"	"lung proximal/distal axis specification"	3
+"GO:0060541"	"respiratory system development"	"GO:0061142"	"mesothelial-mesenchymal cell signaling involved in early lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0061143"	"alveolar primary septum development"	3
+"GO:0060541"	"respiratory system development"	"GO:0061144"	"alveolar secondary septum development"	3
+"GO:0060541"	"respiratory system development"	"GO:0061153"	"trachea gland development"	3
+"GO:0060541"	"respiratory system development"	"GO:1904653"	"regulation of lung alveolus development"	3
+"GO:0060541"	"respiratory system development"	"GO:1904654"	"negative regulation of lung alveolus development"	3
+"GO:0060541"	"respiratory system development"	"GO:1904655"	"positive regulation of lung alveolus development"	3
+"GO:0060541"	"respiratory system development"	"GO:2000274"	"regulation of epithelial cell migration, open tracheal system"	3
+"GO:0060541"	"respiratory system development"	"GO:2000790"	"regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:2000791"	"negative regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:2000792"	"positive regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0060541"	"respiratory system development"	"GO:0035155"	"negative regulation of terminal cell fate specification, open tracheal system"	4
+"GO:0060541"	"respiratory system development"	"GO:0035157"	"negative regulation of fusion cell fate specification"	4
+"GO:0060541"	"respiratory system development"	"GO:0035159"	"regulation of tube length, open tracheal system"	4
+"GO:0060541"	"respiratory system development"	"GO:0060431"	"primary lung bud formation"	4
+"GO:0060541"	"respiratory system development"	"GO:0060447"	"bud outgrowth involved in lung branching"	4
+"GO:0060541"	"respiratory system development"	"GO:0060448"	"dichotomous subdivision of terminal units involved in lung branching"	4
+"GO:0060541"	"respiratory system development"	"GO:0060449"	"bud elongation involved in lung branching"	4
+"GO:0060541"	"respiratory system development"	"GO:0060464"	"lung lobe formation"	4
+"GO:0060541"	"respiratory system development"	"GO:0060480"	"lung goblet cell differentiation"	4
+"GO:0060541"	"respiratory system development"	"GO:0060486"	"club cell differentiation"	4
+"GO:0060541"	"respiratory system development"	"GO:0060490"	"lateral sprouting involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	4
+"GO:0060541"	"respiratory system development"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0060503"	"bud dilation involved in lung branching"	4
+"GO:0060541"	"respiratory system development"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	4
+"GO:0060541"	"respiratory system development"	"GO:0060509"	"type I pneumocyte differentiation"	4
+"GO:0060541"	"respiratory system development"	"GO:0061046"	"regulation of branching involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0061047"	"positive regulation of branching involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0061048"	"negative regulation of branching involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0061140"	"lung secretory cell differentiation"	4
+"GO:0060541"	"respiratory system development"	"GO:0061141"	"lung ciliated cell differentiation"	4
+"GO:0060541"	"respiratory system development"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0060541"	"respiratory system development"	"GO:0035158"	"regulation of tube diameter, open tracheal system"	5
+"GO:0060541"	"respiratory system development"	"GO:0060424"	"lung field specification"	5
+"GO:0060541"	"respiratory system development"	"GO:0060488"	"orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0060541"	"respiratory system development"	"GO:0060489"	"planar dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0060541"	"respiratory system development"	"GO:0060492"	"lung induction"	5
+"GO:0060541"	"respiratory system development"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	5
+"GO:0060541"	"respiratory system development"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	5
+"GO:0060541"	"respiratory system development"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	5
+"GO:0060541"	"respiratory system development"	"GO:0060510"	"type II pneumocyte differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	5
+"GO:0060541"	"respiratory system development"	"GO:0061100"	"lung neuroendocrine cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:0061112"	"negative regulation of bud outgrowth involved in lung branching"	5
+"GO:0060541"	"respiratory system development"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	5
+"GO:0060541"	"respiratory system development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	5
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0060487"	"lung epithelial cell differentiation"	0
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0060486"	"club cell differentiation"	1
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0060509"	"type I pneumocyte differentiation"	1
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0061140"	"lung secretory cell differentiation"	1
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0061141"	"lung ciliated cell differentiation"	1
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0060480"	"lung goblet cell differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0060510"	"type II pneumocyte differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:0061100"	"lung neuroendocrine cell differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	2
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901249"	"regulation of lung goblet cell differentiation"	3
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	3
+"GO:0060487"	"lung epithelial cell differentiation"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	3
+"GO:0060486"	"club cell differentiation"	"GO:0060486"	"club cell differentiation"	0
+"GO:0060509"	"type I pneumocyte differentiation"	"GO:0060509"	"type I pneumocyte differentiation"	0
+"GO:0043129"	"surfactant homeostasis"	"GO:0043129"	"surfactant homeostasis"	0
+"GO:0060510"	"type II pneumocyte differentiation"	"GO:0060510"	"type II pneumocyte differentiation"	0
+"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	0
+"GO:1902691"	"respiratory basal cell differentiation"	"GO:1902691"	"respiratory basal cell differentiation"	0
+"GO:0060480"	"lung goblet cell differentiation"	"GO:0060480"	"lung goblet cell differentiation"	0
+"GO:0060480"	"lung goblet cell differentiation"	"GO:1901249"	"regulation of lung goblet cell differentiation"	1
+"GO:0060480"	"lung goblet cell differentiation"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	1
+"GO:0060480"	"lung goblet cell differentiation"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	1
+"GO:0070483"	"detection of hypoxia"	"GO:0070483"	"detection of hypoxia"	0
+"GO:0070483"	"detection of hypoxia"	"GO:0003020"	"detection of reduced oxygen by chemoreceptor signaling"	1
+"GO:0070483"	"detection of hypoxia"	"GO:0003038"	"detection of reduced oxygen by aortic body chemoreceptor signaling"	2
+"GO:0070483"	"detection of hypoxia"	"GO:0003039"	"detection of reduced oxygen by carotid body chemoreceptor signaling"	2
+"GO:0061100"	"lung neuroendocrine cell differentiation"	"GO:0061100"	"lung neuroendocrine cell differentiation"	0
+"GO:0061141"	"lung ciliated cell differentiation"	"GO:0061141"	"lung ciliated cell differentiation"	0
+"GO:0061141"	"lung ciliated cell differentiation"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	1
+"GO:0061141"	"lung ciliated cell differentiation"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	1
+"GO:0061141"	"lung ciliated cell differentiation"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	1
+"GO:0061140"	"lung secretory cell differentiation"	"GO:0061140"	"lung secretory cell differentiation"	0
+"GO:0061140"	"lung secretory cell differentiation"	"GO:0060480"	"lung goblet cell differentiation"	1
+"GO:0061140"	"lung secretory cell differentiation"	"GO:0060510"	"type II pneumocyte differentiation"	1
+"GO:0061140"	"lung secretory cell differentiation"	"GO:0061100"	"lung neuroendocrine cell differentiation"	1
+"GO:0061140"	"lung secretory cell differentiation"	"GO:1901249"	"regulation of lung goblet cell differentiation"	2
+"GO:0061140"	"lung secretory cell differentiation"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	2
+"GO:0061140"	"lung secretory cell differentiation"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	2
+"GO:0098535"	"de novo centriole assembly involved in multi-ciliated epithelial cell differentiation"	"GO:0098535"	"de novo centriole assembly involved in multi-ciliated epithelial cell differentiation"	0
+"GO:0060462"	"lung lobe development"	"GO:0060462"	"lung lobe development"	0
+"GO:0060462"	"lung lobe development"	"GO:0060463"	"lung lobe morphogenesis"	1
+"GO:0060462"	"lung lobe development"	"GO:0060464"	"lung lobe formation"	2
+"GO:0060463"	"lung lobe morphogenesis"	"GO:0060463"	"lung lobe morphogenesis"	0
+"GO:0060463"	"lung lobe morphogenesis"	"GO:0060464"	"lung lobe formation"	1
+"GO:0060464"	"lung lobe formation"	"GO:0060464"	"lung lobe formation"	0
+"GO:0060426"	"lung vasculature development"	"GO:0060426"	"lung vasculature development"	0
+"GO:0060427"	"lung connective tissue development"	"GO:0060427"	"lung connective tissue development"	0
+"GO:0060428"	"lung epithelium development"	"GO:0060428"	"lung epithelium development"	0
+"GO:0060428"	"lung epithelium development"	"GO:0060481"	"lobar bronchus epithelium development"	1
+"GO:0060428"	"lung epithelium development"	"GO:0060487"	"lung epithelial cell differentiation"	1
+"GO:0060428"	"lung epithelium development"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	1
+"GO:0060428"	"lung epithelium development"	"GO:0060508"	"lung basal cell differentiation"	1
+"GO:0060428"	"lung epithelium development"	"GO:0061143"	"alveolar primary septum development"	1
+"GO:0060428"	"lung epithelium development"	"GO:0061144"	"alveolar secondary septum development"	1
+"GO:0060428"	"lung epithelium development"	"GO:0060480"	"lung goblet cell differentiation"	2
+"GO:0060428"	"lung epithelium development"	"GO:0060486"	"club cell differentiation"	2
+"GO:0060428"	"lung epithelium development"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060428"	"lung epithelium development"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	2
+"GO:0060428"	"lung epithelium development"	"GO:0060509"	"type I pneumocyte differentiation"	2
+"GO:0060428"	"lung epithelium development"	"GO:0061140"	"lung secretory cell differentiation"	2
+"GO:0060428"	"lung epithelium development"	"GO:0061141"	"lung ciliated cell differentiation"	2
+"GO:0060428"	"lung epithelium development"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060428"	"lung epithelium development"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060428"	"lung epithelium development"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	3
+"GO:0060428"	"lung epithelium development"	"GO:0060510"	"type II pneumocyte differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:0061100"	"lung neuroendocrine cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	3
+"GO:0060428"	"lung epithelium development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	3
+"GO:0060430"	"lung saccule development"	"GO:0060430"	"lung saccule development"	0
+"GO:0060430"	"lung saccule development"	"GO:0061143"	"alveolar primary septum development"	1
+"GO:0060430"	"lung saccule development"	"GO:0061144"	"alveolar secondary septum development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0030323"	"respiratory tube development"	0
+"GO:0030323"	"respiratory tube development"	"GO:0030324"	"lung development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0060433"	"bronchus development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0060435"	"bronchiole development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0048286"	"lung alveolus development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060425"	"lung morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060426"	"lung vasculature development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060427"	"lung connective tissue development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060428"	"lung epithelium development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060432"	"lung pattern specification process"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060434"	"bronchus morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060436"	"bronchiole morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060437"	"lung growth"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060458"	"right lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060459"	"left lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060462"	"lung lobe development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060479"	"lung cell differentiation"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060482"	"lobar bronchus development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060484"	"lung-associated mesenchyme development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060495"	"cell-cell signaling involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060532"	"bronchus cartilage development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060915"	"mesenchymal cell differentiation involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060916"	"mesenchymal cell proliferation involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0061145"	"lung smooth muscle development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060430"	"lung saccule development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060441"	"epithelial tube branching involved in lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060460"	"left lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060461"	"right lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060463"	"lung lobe morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060481"	"lobar bronchus epithelium development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060483"	"lobar bronchus mesenchyme development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060487"	"lung epithelial cell differentiation"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060496"	"mesenchymal-epithelial cell signaling involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060506"	"smoothened signaling pathway involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060507"	"epidermal growth factor receptor signaling pathway involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060508"	"lung basal cell differentiation"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060533"	"bronchus cartilage morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061033"	"secretion by lung epithelial cell involved in lung growth"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061111"	"epithelial-mesenchymal cell signaling involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061115"	"lung proximal/distal axis specification"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061142"	"mesothelial-mesenchymal cell signaling involved in early lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061143"	"alveolar primary septum development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061144"	"alveolar secondary septum development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904653"	"regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904654"	"negative regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904655"	"positive regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000790"	"regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000791"	"negative regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000792"	"positive regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060431"	"primary lung bud formation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060447"	"bud outgrowth involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060448"	"dichotomous subdivision of terminal units involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060449"	"bud elongation involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060464"	"lung lobe formation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060480"	"lung goblet cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060486"	"club cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060490"	"lateral sprouting involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060503"	"bud dilation involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060509"	"type I pneumocyte differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061046"	"regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061047"	"positive regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061048"	"negative regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061140"	"lung secretory cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061141"	"lung ciliated cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060424"	"lung field specification"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060488"	"orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060489"	"planar dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060492"	"lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060510"	"type II pneumocyte differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0061100"	"lung neuroendocrine cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0061112"	"negative regulation of bud outgrowth involved in lung branching"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	5
+"GO:0060438"	"trachea development"	"GO:0060438"	"trachea development"	0
+"GO:0060438"	"trachea development"	"GO:0060439"	"trachea morphogenesis"	1
+"GO:0060438"	"trachea development"	"GO:0060534"	"trachea cartilage development"	1
+"GO:0060438"	"trachea development"	"GO:0061152"	"trachea submucosa development"	1
+"GO:0060438"	"trachea development"	"GO:0060440"	"trachea formation"	2
+"GO:0060438"	"trachea development"	"GO:0060535"	"trachea cartilage morphogenesis"	2
+"GO:0060438"	"trachea development"	"GO:0061153"	"trachea gland development"	2
+"GO:0060439"	"trachea morphogenesis"	"GO:0060439"	"trachea morphogenesis"	0
+"GO:0060439"	"trachea morphogenesis"	"GO:0060440"	"trachea formation"	1
+"GO:0060439"	"trachea morphogenesis"	"GO:0060535"	"trachea cartilage morphogenesis"	1
+"GO:0060440"	"trachea formation"	"GO:0060440"	"trachea formation"	0
+"GO:0060539"	"diaphragm development"	"GO:0060539"	"diaphragm development"	0
+"GO:0060539"	"diaphragm development"	"GO:0060540"	"diaphragm morphogenesis"	1
+"GO:0060540"	"diaphragm morphogenesis"	"GO:0060540"	"diaphragm morphogenesis"	0
+"GO:0120223"	"larynx morphogenesis"	"GO:0120223"	"larynx morphogenesis"	0
+"GO:0120224"	"larynx development"	"GO:0120224"	"larynx development"	0
+"GO:0120224"	"larynx development"	"GO:0120223"	"larynx morphogenesis"	1
+"GO:0060532"	"bronchus cartilage development"	"GO:0060532"	"bronchus cartilage development"	0
+"GO:0060532"	"bronchus cartilage development"	"GO:0060533"	"bronchus cartilage morphogenesis"	1
+"GO:0060533"	"bronchus cartilage morphogenesis"	"GO:0060533"	"bronchus cartilage morphogenesis"	0
+"GO:0030324"	"lung development"	"GO:0030324"	"lung development"	0
+"GO:0030324"	"lung development"	"GO:0048286"	"lung alveolus development"	1
+"GO:0030324"	"lung development"	"GO:0060425"	"lung morphogenesis"	1
+"GO:0030324"	"lung development"	"GO:0060426"	"lung vasculature development"	1
+"GO:0030324"	"lung development"	"GO:0060427"	"lung connective tissue development"	1
+"GO:0030324"	"lung development"	"GO:0060428"	"lung epithelium development"	1
+"GO:0030324"	"lung development"	"GO:0060432"	"lung pattern specification process"	1
+"GO:0030324"	"lung development"	"GO:0060435"	"bronchiole development"	1
+"GO:0030324"	"lung development"	"GO:0060437"	"lung growth"	1
+"GO:0030324"	"lung development"	"GO:0060458"	"right lung development"	1
+"GO:0030324"	"lung development"	"GO:0060459"	"left lung development"	1
+"GO:0030324"	"lung development"	"GO:0060462"	"lung lobe development"	1
+"GO:0030324"	"lung development"	"GO:0060479"	"lung cell differentiation"	1
+"GO:0030324"	"lung development"	"GO:0060484"	"lung-associated mesenchyme development"	1
+"GO:0030324"	"lung development"	"GO:0060495"	"cell-cell signaling involved in lung development"	1
+"GO:0030324"	"lung development"	"GO:0060915"	"mesenchymal cell differentiation involved in lung development"	1
+"GO:0030324"	"lung development"	"GO:0060916"	"mesenchymal cell proliferation involved in lung development"	1
+"GO:0030324"	"lung development"	"GO:0061145"	"lung smooth muscle development"	1
+"GO:0030324"	"lung development"	"GO:0060430"	"lung saccule development"	2
+"GO:0030324"	"lung development"	"GO:0060436"	"bronchiole morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060441"	"epithelial tube branching involved in lung morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060460"	"left lung morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060461"	"right lung morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060463"	"lung lobe morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060481"	"lobar bronchus epithelium development"	2
+"GO:0030324"	"lung development"	"GO:0060483"	"lobar bronchus mesenchyme development"	2
+"GO:0030324"	"lung development"	"GO:0060487"	"lung epithelial cell differentiation"	2
+"GO:0030324"	"lung development"	"GO:0060496"	"mesenchymal-epithelial cell signaling involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0030324"	"lung development"	"GO:0060506"	"smoothened signaling pathway involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:0060507"	"epidermal growth factor receptor signaling pathway involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:0060508"	"lung basal cell differentiation"	2
+"GO:0030324"	"lung development"	"GO:0061033"	"secretion by lung epithelial cell involved in lung growth"	2
+"GO:0030324"	"lung development"	"GO:0061111"	"epithelial-mesenchymal cell signaling involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:0061115"	"lung proximal/distal axis specification"	2
+"GO:0030324"	"lung development"	"GO:0061142"	"mesothelial-mesenchymal cell signaling involved in early lung development"	2
+"GO:0030324"	"lung development"	"GO:0061143"	"alveolar primary septum development"	2
+"GO:0030324"	"lung development"	"GO:0061144"	"alveolar secondary septum development"	2
+"GO:0030324"	"lung development"	"GO:1904653"	"regulation of lung alveolus development"	2
+"GO:0030324"	"lung development"	"GO:1904654"	"negative regulation of lung alveolus development"	2
+"GO:0030324"	"lung development"	"GO:1904655"	"positive regulation of lung alveolus development"	2
+"GO:0030324"	"lung development"	"GO:2000790"	"regulation of mesenchymal cell proliferation involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:2000791"	"negative regulation of mesenchymal cell proliferation involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:2000792"	"positive regulation of mesenchymal cell proliferation involved in lung development"	2
+"GO:0030324"	"lung development"	"GO:0060431"	"primary lung bud formation"	3
+"GO:0030324"	"lung development"	"GO:0060447"	"bud outgrowth involved in lung branching"	3
+"GO:0030324"	"lung development"	"GO:0060448"	"dichotomous subdivision of terminal units involved in lung branching"	3
+"GO:0030324"	"lung development"	"GO:0060449"	"bud elongation involved in lung branching"	3
+"GO:0030324"	"lung development"	"GO:0060464"	"lung lobe formation"	3
+"GO:0030324"	"lung development"	"GO:0060480"	"lung goblet cell differentiation"	3
+"GO:0030324"	"lung development"	"GO:0060486"	"club cell differentiation"	3
+"GO:0030324"	"lung development"	"GO:0060490"	"lateral sprouting involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	3
+"GO:0030324"	"lung development"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0060503"	"bud dilation involved in lung branching"	3
+"GO:0030324"	"lung development"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	3
+"GO:0030324"	"lung development"	"GO:0060509"	"type I pneumocyte differentiation"	3
+"GO:0030324"	"lung development"	"GO:0061046"	"regulation of branching involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0061047"	"positive regulation of branching involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0061048"	"negative regulation of branching involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0061140"	"lung secretory cell differentiation"	3
+"GO:0030324"	"lung development"	"GO:0061141"	"lung ciliated cell differentiation"	3
+"GO:0030324"	"lung development"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0030324"	"lung development"	"GO:0060424"	"lung field specification"	4
+"GO:0030324"	"lung development"	"GO:0060488"	"orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis"	4
+"GO:0030324"	"lung development"	"GO:0060489"	"planar dichotomous subdivision of terminal units involved in lung branching morphogenesis"	4
+"GO:0030324"	"lung development"	"GO:0060492"	"lung induction"	4
+"GO:0030324"	"lung development"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	4
+"GO:0030324"	"lung development"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	4
+"GO:0030324"	"lung development"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	4
+"GO:0030324"	"lung development"	"GO:0060510"	"type II pneumocyte differentiation"	4
+"GO:0030324"	"lung development"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	4
+"GO:0030324"	"lung development"	"GO:0061100"	"lung neuroendocrine cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:0061112"	"negative regulation of bud outgrowth involved in lung branching"	4
+"GO:0030324"	"lung development"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	4
+"GO:0030324"	"lung development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	4
+"GO:0060425"	"lung morphogenesis"	"GO:0060425"	"lung morphogenesis"	0
+"GO:0060425"	"lung morphogenesis"	"GO:0060441"	"epithelial tube branching involved in lung morphogenesis"	1
+"GO:0060425"	"lung morphogenesis"	"GO:0060460"	"left lung morphogenesis"	1
+"GO:0060425"	"lung morphogenesis"	"GO:0060461"	"right lung morphogenesis"	1
+"GO:0060425"	"lung morphogenesis"	"GO:0060463"	"lung lobe morphogenesis"	1
+"GO:0060425"	"lung morphogenesis"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	1
+"GO:0060425"	"lung morphogenesis"	"GO:0060431"	"primary lung bud formation"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060447"	"bud outgrowth involved in lung branching"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060448"	"dichotomous subdivision of terminal units involved in lung branching"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060449"	"bud elongation involved in lung branching"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060464"	"lung lobe formation"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060490"	"lateral sprouting involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060503"	"bud dilation involved in lung branching"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0061046"	"regulation of branching involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0061047"	"positive regulation of branching involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0061048"	"negative regulation of branching involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0060425"	"lung morphogenesis"	"GO:0060424"	"lung field specification"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060488"	"orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060489"	"planar dichotomous subdivision of terminal units involved in lung branching morphogenesis"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060492"	"lung induction"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0061112"	"negative regulation of bud outgrowth involved in lung branching"	3
+"GO:0060425"	"lung morphogenesis"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	4
+"GO:0060425"	"lung morphogenesis"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	5
+"GO:0060425"	"lung morphogenesis"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	5
+"GO:0060431"	"primary lung bud formation"	"GO:0060431"	"primary lung bud formation"	0
+"GO:0060431"	"primary lung bud formation"	"GO:0060424"	"lung field specification"	1
+"GO:0060431"	"primary lung bud formation"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	1
+"GO:0060431"	"primary lung bud formation"	"GO:0060492"	"lung induction"	2
+"GO:0060431"	"primary lung bud formation"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	3
+"GO:0060431"	"primary lung bud formation"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	4
+"GO:0060431"	"primary lung bud formation"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	4
+"GO:0060437"	"lung growth"	"GO:0060437"	"lung growth"	0
+"GO:0060437"	"lung growth"	"GO:0061033"	"secretion by lung epithelial cell involved in lung growth"	1
+"GO:0060458"	"right lung development"	"GO:0060458"	"right lung development"	0
+"GO:0060458"	"right lung development"	"GO:0060461"	"right lung morphogenesis"	1
+"GO:0060461"	"right lung morphogenesis"	"GO:0060461"	"right lung morphogenesis"	0
+"GO:0060459"	"left lung development"	"GO:0060459"	"left lung development"	0
+"GO:0060459"	"left lung development"	"GO:0060460"	"left lung morphogenesis"	1
+"GO:0060460"	"left lung morphogenesis"	"GO:0060460"	"left lung morphogenesis"	0
+"GO:0060482"	"lobar bronchus development"	"GO:0060482"	"lobar bronchus development"	0
+"GO:0060482"	"lobar bronchus development"	"GO:0060481"	"lobar bronchus epithelium development"	1
+"GO:0060482"	"lobar bronchus development"	"GO:0060483"	"lobar bronchus mesenchyme development"	1
+"GO:0060482"	"lobar bronchus development"	"GO:0060480"	"lung goblet cell differentiation"	2
+"GO:0060482"	"lobar bronchus development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	3
+"GO:0060482"	"lobar bronchus development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	3
+"GO:0060482"	"lobar bronchus development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	3
+"GO:0060433"	"bronchus development"	"GO:0060433"	"bronchus development"	0
+"GO:0060433"	"bronchus development"	"GO:0060434"	"bronchus morphogenesis"	1
+"GO:0060433"	"bronchus development"	"GO:0060482"	"lobar bronchus development"	1
+"GO:0060433"	"bronchus development"	"GO:0060532"	"bronchus cartilage development"	1
+"GO:0060433"	"bronchus development"	"GO:0060481"	"lobar bronchus epithelium development"	2
+"GO:0060433"	"bronchus development"	"GO:0060483"	"lobar bronchus mesenchyme development"	2
+"GO:0060433"	"bronchus development"	"GO:0060533"	"bronchus cartilage morphogenesis"	2
+"GO:0060433"	"bronchus development"	"GO:0060480"	"lung goblet cell differentiation"	3
+"GO:0060433"	"bronchus development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	4
+"GO:0060433"	"bronchus development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	4
+"GO:0060433"	"bronchus development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	4
+"GO:0060434"	"bronchus morphogenesis"	"GO:0060434"	"bronchus morphogenesis"	0
+"GO:0060434"	"bronchus morphogenesis"	"GO:0060533"	"bronchus cartilage morphogenesis"	1
+"GO:0060435"	"bronchiole development"	"GO:0060435"	"bronchiole development"	0
+"GO:0060435"	"bronchiole development"	"GO:0060436"	"bronchiole morphogenesis"	1
+"GO:0060436"	"bronchiole morphogenesis"	"GO:0060436"	"bronchiole morphogenesis"	0
+"GO:0061152"	"trachea submucosa development"	"GO:0061152"	"trachea submucosa development"	0
+"GO:0061152"	"trachea submucosa development"	"GO:0061153"	"trachea gland development"	1
+"GO:0048286"	"lung alveolus development"	"GO:0048286"	"lung alveolus development"	0
+"GO:0048286"	"lung alveolus development"	"GO:0060430"	"lung saccule development"	1
+"GO:0048286"	"lung alveolus development"	"GO:1904653"	"regulation of lung alveolus development"	1
+"GO:0048286"	"lung alveolus development"	"GO:1904654"	"negative regulation of lung alveolus development"	1
+"GO:0048286"	"lung alveolus development"	"GO:1904655"	"positive regulation of lung alveolus development"	1
+"GO:0048286"	"lung alveolus development"	"GO:0061143"	"alveolar primary septum development"	2
+"GO:0048286"	"lung alveolus development"	"GO:0061144"	"alveolar secondary septum development"	2
+"GO:0060481"	"lobar bronchus epithelium development"	"GO:0060481"	"lobar bronchus epithelium development"	0
+"GO:0060481"	"lobar bronchus epithelium development"	"GO:0060480"	"lung goblet cell differentiation"	1
+"GO:0060481"	"lobar bronchus epithelium development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	2
+"GO:0060481"	"lobar bronchus epithelium development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	2
+"GO:0060481"	"lobar bronchus epithelium development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	2
+"GO:0060534"	"trachea cartilage development"	"GO:0060534"	"trachea cartilage development"	0
+"GO:0060534"	"trachea cartilage development"	"GO:0060535"	"trachea cartilage morphogenesis"	1
+"GO:0060535"	"trachea cartilage morphogenesis"	"GO:0060535"	"trachea cartilage morphogenesis"	0
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0061626"	"pharyngeal arch artery morphogenesis"	"GO:0061626"	"pharyngeal arch artery morphogenesis"	0
+"GO:0060483"	"lobar bronchus mesenchyme development"	"GO:0060483"	"lobar bronchus mesenchyme development"	0
+"GO:0061153"	"trachea gland development"	"GO:0061153"	"trachea gland development"	0
+"GO:0061143"	"alveolar primary septum development"	"GO:0061143"	"alveolar primary septum development"	0
+"GO:0061144"	"alveolar secondary septum development"	"GO:0061144"	"alveolar secondary septum development"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	1
+"GO:0042048"	"olfactory behavior"	"GO:0042048"	"olfactory behavior"	0
+"GO:0042048"	"olfactory behavior"	"GO:0008355"	"olfactory learning"	1
+"GO:0042048"	"olfactory behavior"	"GO:0090328"	"regulation of olfactory learning"	2

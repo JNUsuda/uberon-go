@@ -1,0 +1,869 @@
+removed_labels:
+- cell population proliferation
+- grooming behavior
+- flight
+- vibrational conductance of sound to the inner ear
+- macrophage differentiation
+- granulocyte differentiation
+- detection of stimulus involved in sensory perception
+- hatching
+removed_ids: ~
+removed_children_of:
+- taxis
+- thigmotaxis
+- chemotaxis
+- energy taxis
+- interneuron sorting involved in substrate-independent cerebral cortex tangential
+  migration
+- gravitaxis
+- thermotaxis
+- aerotaxis
+- redox taxis
+- chemotaxis to arachidonic acid
+- phototaxis
+- chemotaxis to oxidizable substrate
+- taxis to electron acceptor
+- chemotaxis to folate
+- chemotaxis to cAMP
+- negative gravitaxis
+- positive gravitaxis
+- positive chemotaxis
+- negative chemotaxis
+- regulation of chemotaxis
+- positive regulation of chemotaxis
+- negative regulation of chemotaxis
+- positive energy taxis
+- negative energy taxis
+- cell chemotaxis
+- neuron projection guidance
+- regulation of leukocyte chemotaxis
+- negative regulation of leukocyte chemotaxis
+- positive regulation of leukocyte chemotaxis
+- axon guidance
+- pollen tube guidance
+- synaptic target attraction
+- synaptic target inhibition
+- chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration
+- chemoattraction involved in embryonic olfactory bulb interneuron precursor migration
+- chemorepulsion involved in postnatal olfactory bulb interneuron migration
+- chemoattraction involved in interneuron migration from the subpallium to the cortex
+- chemorepulsion involved in interneuron migration from the subpallium to the cortex
+- chemorepulsion involved in precerebellar neuron migration
+- chemoattraction involved in precerebellar neuron migration
+- leukocyte chemotaxis
+- germ cell attraction
+- germ cell repulsion
+- astrocyte chemotaxis
+- cell chemotaxis to fibroblast growth factor
+- endothelial cell chemotaxis
+- muscle cell chemotaxis toward tendon cell
+- positive phototaxis
+- negative phototaxis
+- positive regulation of axon extension involved in axon guidance
+- negative regulation of axon extension involved in axon guidance
+- regulation of negative chemotaxis
+- positive regulation of negative chemotaxis
+- negative regulation of negative chemotaxis
+- regulation of positive chemotaxis
+- positive regulation of positive chemotaxis
+- negative regulation of positive chemotaxis
+- negative aerotaxis
+- positive aerotaxis
+- regulation of positive chemotaxis to cAMP
+- positive regulation of positive chemotaxis to cAMP
+- negative regulation of positive chemotaxis to cAMP
+- cell chemotaxis involved in Malpighian tubule morphogenesis
+- colon epithelial cell chemotaxis
+- chemoattraction of axon
+- chemorepulsion of axon
+- dendrite guidance
+- cell chemotaxis to angiotensin
+- smooth muscle cell chemotaxis
+- regulation of smooth muscle cell chemotaxis
+- negative regulation of smooth muscle cell chemotaxis
+- positive regulation of smooth muscle cell chemotaxis
+- cell chemotaxis to vascular endothelial growth factor
+- sympathetic neuron projection guidance
+- negative regulation of chemokine activity
+- neuron projection extension involved in neuron projection guidance
+- semaphorin-plexin signaling pathway involved in neuron projection guidance
+- regulation of axon guidance
+- negative regulation of axon guidance
+- regulation of Schwann cell chemotaxis
+- negative regulation of Schwann cell chemotaxis
+- positive regulation of Schwann cell chemotaxis
+- regulation of chemotaxis to arachidonic acid
+- negative regulation of chemotaxis to arachidonic acid
+- positive regulation of chemotaxis to arachidonic acid
+- regulation of cell chemotaxis to fibroblast growth factor
+- negative regulation of cell chemotaxis to fibroblast growth factor
+- positive regulation of cell chemotaxis to fibroblast growth factor
+- regulation of endothelial cell chemotaxis to vascular endothelial growth factor
+- negative regulation of endothelial cell chemotaxis to vascular endothelial growth
+  factor
+- positive regulation of endothelial cell chemotaxis to vascular endothelial growth
+  factor
+- regulation of fibroblast chemotaxis
+- negative regulation of fibroblast chemotaxis
+- positive regulation of fibroblast chemotaxis
+- Schwann cell chemotaxis
+- fibroblast chemotaxis
+- regulation of astrocyte chemotaxis
+- negative regulation of astrocyte chemotaxis
+- positive regulation of astrocyte chemotaxis
+- regulation of endothelial cell chemotaxis
+- negative regulation of endothelial cell chemotaxis
+- positive regulation of endothelial cell chemotaxis
+- regulation of muscle cell chemotaxis toward tendon cell
+- negative regulation of muscle cell chemotaxis toward tendon cell
+- leukocyte chemotaxis involved in inflammatory response
+- leukocyte chemotaxis involved in immune response
+- dendritic cell chemotaxis
+- monocyte chemotaxis
+- mast cell chemotaxis
+- motor neuron axon guidance
+- regulation of macrophage chemotaxis
+- positive regulation of macrophage chemotaxis
+- negative regulation of macrophage chemotaxis
+- axon choice point recognition
+- chemoattraction of branchiomotor axon
+- chemorepulsion of branchiomotor axon
+- corticospinal neuron axon guidance
+- corticospinal neuron axon guidance through the cerebral cortex
+- corticospinal neuron axon guidance through the internal capsule
+- corticospinal neuron axon guidance through the cerebral peduncle
+- corticospinal neuron axon guidance through the basilar pons
+- corticospinal neuron axon guidance through the medullary pyramid
+- corticospinal neuron axon guidance through spinal cord
+- retinal ganglion cell axon guidance
+- dorsal/ventral axon guidance
+- anterior/posterior axon guidance
+- endothelial cell chemotaxis to fibroblast growth factor
+- dopaminergic neuron axon guidance
+- serotonergic neuron axon guidance
+- chemoattraction of dopaminergic neuron axon
+- chemoattraction of serotonergic neuron axon
+- chemorepulsion of dopaminergic neuron axon
+- chemorepulsion of serotonergic neuron axon
+- positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial
+  growth factor receptor signaling pathway
+- macrophage chemotaxis
+- lymphocyte chemotaxis
+- axon extension involved in axon guidance
+- induction of negative chemotaxis
+- induction of positive chemotaxis
+- regulation of mast cell chemotaxis
+- positive regulation of mast cell chemotaxis
+- negative regulation of mast cell chemotaxis
+- regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+- positive regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+- negative regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+- BMP signaling pathway involved in Malpighian tubule cell chemotaxis
+- granulocyte chemotaxis
+- regulation of granulocyte chemotaxis
+- negative regulation of granulocyte chemotaxis
+- positive regulation of granulocyte chemotaxis
+- olfactory bulb axon guidance
+- commissural neuron axon guidance
+- photoreceptor cell axon guidance
+- regulation of monocyte chemotaxis
+- positive regulation of monocyte chemotaxis
+- negative regulation of monocyte chemotaxis
+- regulation of retinal ganglion cell axon guidance
+- negative regulation of retinal ganglion cell axon guidance
+- endothelial cell chemotaxis to vascular endothelial growth factor
+- sensory neuron axon guidance
+- interneuron axon guidance
+- sympathetic neuron axon guidance
+- positive regulation of lymphocyte chemotaxis
+- regulation of lymphocyte chemotaxis
+- negative regulation of lymphocyte chemotaxis
+- semaphorin-plexin signaling pathway involved in dendrite guidance
+- semaphorin-plexin signaling pathway involved in axon guidance
+- VEGF-activated neuropilin signaling pathway involved in axon guidance
+- positive regulation of axon guidance
+- regulation of chemorepellent activity
+- negative regulation of chemorepellent activity
+- planar cell polarity pathway involved in axon guidance
+- regulation of anterior/posterior axon guidance
+- negative regulation of anterior/posterior axon guidance
+- regulation of sensory neuron axon guidance
+- negative regulation of sensory neuron axon guidance
+- regulation of motor neuron axon guidance
+- negative regulation of motor neuron axon guidance
+- regulation of dorsal/ventral axon guidance
+- negative regulation of dorsal/ventral axon guidance
+- regulation of photoreceptor cell axon guidance
+- regulation of dendritic cell chemotaxis
+- negative regulation of dendritic cell chemotaxis
+- positive regulation of dendritic cell chemotaxis
+- regulation of endothelial cell chemotaxis to fibroblast growth factor
+- negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+- positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+- Roundabout signaling pathway involved in axon guidance
+- Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell
+- myeloid dendritic cell chemotaxis
+- plasmacytoid dendritic cell chemotaxis
+- lymphocyte chemotaxis across high endothelial venule
+- basophil chemotaxis
+- T cell chemotaxis
+- regulation of T cell chemotaxis
+- positive regulation of T cell chemotaxis
+- axon midline choice point recognition
+- branchiomotor neuron axon guidance
+- chemorepulsion of branchiomotor neuron axon in neural tube
+- chemoattraction of branchiomotor neuron axon in neural tube
+- chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme
+- chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme
+- corticospinal neuron axon decussation
+- neutrophil chemotaxis
+- natural killer cell chemotaxis
+- B cell chemotaxis
+- eosinophil chemotaxis
+- regulation of axon extension involved in axon guidance
+- regulation of positive chemotaxis to cAMP by DIF-1
+- regulation of positive chemotaxis to cAMP by DIF-2
+- positive regulation of positive chemotaxis to cAMP by DIF-1
+- negative regulation of positive chemotaxis to cAMP by DIF-1
+- positive regulation of chemotaxis to cAMP by DIF-2
+- negative regulation of positive chemotaxis to cAMP by DIF-2
+- regulation of neutrophil chemotaxis
+- positive regulation of neutrophil chemotaxis
+- negative regulation of neutrophil chemotaxis
+- spinal sensory neuron axon guidance
+- spinal cord interneuron axon guidance
+- dorsal spinal cord interneuron posterior axon guidance
+- dorsal spinal cord interneuron anterior axon guidance
+- positive regulation of retinal ganglion cell axon guidance
+- positive regulation of chemorepellent activity
+- positive regulation of anterior/posterior axon guidance
+- positive regulation of sensory neuron axon guidance
+- positive regulation of motor neuron axon guidance
+- positive regulation of dorsal/ventral axon guidance
+- semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell
+  axon guidance
+- regulation of eosinophil chemotaxis
+- negative regulation of eosinophil chemotaxis
+- positive regulation of eosinophil chemotaxis
+- regulation of natural killer cell chemotaxis
+- negative regulation of natural killer cell chemotaxis
+- positive regulation of natural killer cell chemotaxis
+- regulation of myeloid dendritic cell chemotaxis
+- negative regulation of myeloid dendritic cell chemotaxis
+- positive regulation of myeloid dendritic cell chemotaxis
+- regulation of B cell chemotaxis
+- positive regulation of B cell chemotaxis
+- negative regulation of B cell chemotaxis
+- Langerhans cell chemotaxis
+- branchiomotor neuron axon guidance in neural tube
+- branchiomotor neuron axon guidance in branchial arch mesenchyme
+- helper T cell chemotaxis
+- T-helper 17 cell chemotaxis
+- T-helper 1 cell chemotaxis
+- T-helper 2 cell chemotaxis
+- B cell chemotaxis across high endothelial venule
+- mature natural killer cell chemotaxis
+- dorsal spinal cord interneuron axon guidance
+- cell motility
+- cilium or flagellum-dependent cell motility
+- cell motility involved in camera-type eye morphogenesis
+- cell migration
+- cell movement involved in somal translocation
+- cell motility involved in cerebral cortex radial glia guided migration
+- type IV pilus-dependent motility
+- cytoplasmic actin-based contraction involved in cell motility
+- actin polymerization-dependent cell motility
+- cell swimming
+- cell gliding
+- cell motility in response to potassium ion
+- cell motility in response to calcium ion
+- sperm motility
+- modulation by symbiont of host cell motility
+- regulation of cell motility
+- negative regulation of cell motility
+- positive regulation of cell motility
+- ameboidal-type cell migration
+- neuron migration
+- hepatocyte cell migration
+- chondrocyte intercalation involved in growth plate cartilage morphogenesis
+- substrate-dependent cell migration
+- substrate-dependent cell migration, cell contraction
+- dorsal closure, spreading of leading edge cells
+- glial cell migration
+- germ cell migration
+- muscle cell migration
+- cell migration in hindbrain
+- initiation of movement involved in cerebral cortex radial glia guided migration
+- modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided
+  migration
+- modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral
+  cortex radial glia guided migration
+- negative regulation of cell motility involved in cerebral cortex radial glia guided
+  migration
+- hypothalamus cell migration
+- forebrain cell migration
+- flagellated sperm motility
+- regulation of cell migration
+- positive regulation of cell migration
+- negative regulation of cell migration
+- adventurous gliding motility
+- hemocyte migration
+- cell migration involved in vasculogenesis
+- angioblast cell migration
+- hematopoietic stem cell migration
+- cell migration involved in kidney development
+- inductive cell migration
+- wound healing, spreading of cells
+- neuromast primordium migration
+- leukocyte migration
+- cilium-dependent cell motility
+- cell chemotaxis
+- cytoplasmic actin-based contraction involved in forward cell motility
+- cytoplasmic actin-based contraction involved in rearward cell motility
+- cell migration involved in heart development
+- cell rearrangement involved in Malpighian tubule morphogenesis
+- mesonephric cell migration involved in male gonad development
+- actin polymerization-dependent cell motility involved in migration of symbiont in
+  host
+- bacterial-type flagellum-dependent swimming motility
+- cytoskeleton-mediated cell swimming
+- cell surface adhesin-mediated gliding motility
+- cell migration involved in somitogenic axis elongation
+- neuroblast migration
+- lymphoid lineage cell migration
+- archaeal or bacterial-type flagellum-dependent cell motility
+- distal tip cell migration
+- amoeboid sperm motility
+- migracytosis
+- regulation of cilium-dependent cell motility
+- negative regulation of cilium-dependent cell motility
+- regulation of bacterial-type flagellum-dependent cell motility
+- negative regulation of bacterial-type flagellum-dependent cell motility
+- skeletal muscle satellite cell migration
+- anterior visceral endoderm cell migration
+- mesenchymal stem cell migration
+- pericyte cell migration
+- regulation of amoeboid sperm motility
+- negative regulation of amoeboid sperm motility
+- positive regulation of amoeboid sperm motility
+- positive regulation of cilium-dependent cell motility
+- neural crest cell migration
+- leukocyte migration involved in immune response
+- leukocyte migration involved in inflammatory response
+- regulation of leukocyte migration
+- negative regulation of leukocyte migration
+- positive regulation of leukocyte migration
+- cardiac neural crest cell migration involved in outflow tract morphogenesis
+- cell migration involved in endocardial cushion formation
+- cell migration involved in heart jogging
+- cell migration to the midline involved in heart development
+- proepicardium cell migration involved in pericardium morphogenesis
+- epicardium-derived cell migration to the myocardium
+- lamellipodium assembly involved in ameboidal cell migration
+- establishment of cell polarity involved in ameboidal cell migration
+- cell-matrix adhesion involved in ameboidal cell migration
+- neuron migration involved in retrograde extension
+- substrate-dependent cell migration, cell extension
+- substrate-dependent cell migration, cell attachment to substrate
+- negative regulation of cell adhesion involved in substrate-bound cell migration
+- pole cell migration
+- mesodermal cell migration
+- epithelial cell migration
+- regulation of epithelial cell migration
+- negative regulation of epithelial cell migration
+- positive regulation of epithelial cell migration
+- fibroblast migration
+- regulation of fibroblast migration
+- positive regulation of fibroblast migration
+- negative regulation of fibroblast migration
+- smooth muscle cell migration
+- regulation of smooth muscle cell migration
+- positive regulation of smooth muscle cell migration
+- negative regulation of smooth muscle cell migration
+- motogenic signaling initiating cell movement in cerebral cortex
+- cytosolic calcium signaling involved in initiation of cell movement in glial-mediated
+  radial cell migration
+- extension of a leading process involved in cell motility in cerebral cortex radial
+  glia guided migration
+- nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration
+- substrate-dependent cerebral cortex tangential migration
+- gonadotrophin-releasing hormone neuronal migration to the hypothalamus
+- directional guidance of interneurons involved in migration from the subpallium to
+  the cortex
+- neurotransmitter-mediated guidance of interneurons involved in substrate-independent
+  cerebral cortex tangential migration
+- pyramidal neuron migration
+- hypothalamic tangential migration using cell-axon interactions
+- hindbrain radial glia guided cell migration
+- hindbrain tangential cell migration
+- positive regulation of cerebellar granule cell migration by calcium
+- deep nuclear neuron cell migration
+- outward migration of deep nuclear neurons
+- inward migration of deep nuclear neurons
+- telencephalon cell migration
+- telencephalon glial cell migration
+- rhombomere cell migration
+- leukocyte chemotaxis
+- germ cell attraction
+- germ cell repulsion
+- wound healing, spreading of epidermal cells
+- angioblast cell migration involved in selective angioblast sprouting
+- regulation of angioblast cell migration involved in selective angioblast sprouting
+- angioblast cell migration from lateral mesoderm to midline
+- astrocyte chemotaxis
+- motor neuron precursor migration involved in dorsal motor nucleus of vagus nerve
+  formation
+- cell chemotaxis to fibroblast growth factor
+- endothelial cell chemotaxis
+- cell migration involved in metanephros development
+- muscle cell chemotaxis toward tendon cell
+- Schwann cell migration
+- positive regulation of cell migration by vascular endothelial growth factor signaling
+  pathway
+- cell migration involved in gastrulation
+- astrocyte cell migration
+- modulation of cell migration in other organism
+- negative regulation of cell migration in other organism
+- positive regulation of cell migration in other organism
+- cellular extravasation
+- neuromast deposition
+- anterior lateral line neuromast primordium migration
+- posterior lateral line neuromast primordium migration
+- diapedesis
+- myoblast migration
+- cilium movement involved in cell motility
+- regulation of cilium movement involved in cell motility
+- cell migration involved in heart formation
+- cell migration involved in coronary vasculogenesis
+- cell migration involved in coronary angiogenesis
+- cell chemotaxis involved in Malpighian tubule morphogenesis
+- cell migration in diencephalon
+- trophoblast cell migration
+- mesenchymal stem cell migration involved in uteric bud morphogenesis
+- colon epithelial cell chemotaxis
+- regulation of neuroblast migration
+- positive regulation of neuroblast migration
+- negative regulation of neuroblast migration
+- cell chemotaxis to angiotensin
+- smooth muscle cell chemotaxis
+- mononuclear cell migration
+- regulation of bacterial-type flagellum-dependent cell motility by regulation of
+  motor speed
+- bacterial-type flagellum-dependent cell motility
+- epithelial cell migration involved in nephron tubule morphogenesis
+- extracellular matrix-dependent thymocyte migration
+- regulation of cell migration involved in somitogenic axis elongation
+- mesenchymal cell migration
+- cell chemotaxis to vascular endothelial growth factor
+- hematopoietic stem cell migration to bone marrow
+- motor neuron migration
+- myeloid leukocyte migration
+- lymphoid lineage cell migration into thymus
+- archaeal-type flagellum-dependent cell motility
+- myotube cell migration
+- regulation of myotube cell migration
+- positive regulation of myotube cell migration
+- negative regulation of myotube cell migration
+- sperm flagellum assembly
+- negative regulation of chemokine activity
+- regulation of trophoblast cell migration
+- negative regulation of trophoblast cell migration
+- positive regulation of trophoblast cell migration
+- regulation of flagellated sperm motility
+- negative regulation of flagellated sperm motility
+- positive regulation of flagellated sperm motility
+- regulation of distal tip cell migration
+- negative regulation of distal tip cell migration
+- positive regulation of distal tip cell migration
+- regulation of wound healing, spreading of epidermal cells
+- negative regulation of wound healing, spreading of epidermal cells
+- positive regulation of wound healing, spreading of epidermal cells
+- regulation of glial cell migration
+- negative regulation of glial cell migration
+- positive regulation of glial cell migration
+- microglial cell migration
+- regulation of substrate-dependent cell migration, cell attachment to substrate
+- negative regulation of substrate-dependent cell migration, cell attachment to substrate
+- positive regulation of substrate-dependent cell migration, cell attachment to substrate
+- regulation of cell chemotaxis to fibroblast growth factor
+- negative regulation of cell chemotaxis to fibroblast growth factor
+- positive regulation of cell chemotaxis to fibroblast growth factor
+- regulation of endothelial cell chemotaxis to vascular endothelial growth factor
+- negative regulation of endothelial cell chemotaxis to vascular endothelial growth
+  factor
+- positive regulation of endothelial cell chemotaxis to vascular endothelial growth
+  factor
+- interneuron migration
+- sensory neuron migration
+- regulation of fibroblast chemotaxis
+- negative regulation of fibroblast chemotaxis
+- positive regulation of fibroblast chemotaxis
+- regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis
+- negative regulation of cardiac neural crest cell migration involved in outflow tract
+  morphogenesis
+- positive regulation of cardiac neural crest cell migration involved in outflow tract
+  morphogenesis
+- regulation of mesenchymal stem cell migration
+- negative regulation of mesenchymal stem cell migration
+- positive regulation of mesenchymal stem cell migration
+- Schwann cell chemotaxis
+- fibroblast chemotaxis
+- regulation of hematopoietic stem cell migration
+- negative regulation of hematopoietic stem cell migration
+- positive regulation of hematopoietic stem cell migration
+- regulation of metanephric mesenchymal cell migration
+- negative regulation of metanephric mesenchymal cell migration
+- positive regulation of metanephric mesenchymal cell migration
+- regulation of neuron migration
+- negative regulation of neuron migration
+- positive regulation of neuron migration
+- regulation of muscle cell chemotaxis toward tendon cell
+- negative regulation of muscle cell chemotaxis toward tendon cell
+- leukocyte chemotaxis involved in inflammatory response
+- leukocyte chemotaxis involved in immune response
+- dendritic cell chemotaxis
+- myeloid dendritic cell chemotaxis
+- monocyte chemotaxis
+- mast cell chemotaxis
+- regulation of leukocyte chemotaxis
+- negative regulation of leukocyte chemotaxis
+- positive regulation of leukocyte chemotaxis
+- regulation of cellular extravasation
+- negative regulation of cellular extravasation
+- positive regulation of cellular extravasation
+- neural crest cell migration involved in heart formation
+- cardioblast migration
+- cardioblast migration to the midline involved in heart rudiment formation
+- lamellipodium assembly involved in mesendodermal cell migration
+- cell-cell adhesion involved in ameboidal cell migration
+- cell-matrix adhesion involved in mesendodermal cell migration
+- establishment or maintenance of cytoskeleton polarity involved in ameboidal cell
+  migration
+- establishment of cell polarity involved in gastrulation cell migration
+- neuron migration involved in dendrite retrograde extension
+- substrate-bound cell migration, adhesion receptor recycling
+- sperm axoneme assembly
+- ovarian follicle cell migration
+- epithelial cell migration, open tracheal system
+- mesoderm migration involved in gastrulation
+- regulation of endothelial cell migration
+- positive regulation of endothelial cell migration
+- negative regulation of endothelial cell migration
+- myoblast migration involved in skeletal muscle regeneration
+- cerebral cortex cell migration
+- cerebral cortex radial glia guided migration
+- neurotrophic factor signaling initiating cell movement, involved in cerebral cortex
+  radial glia guided migration
+- neurotransmitter signaling initiating cell movement, involved in cerebral cortex
+  radial glia guided migration
+- growth factor signaling initiating cell movement involved in cerebral cortex radial
+  glia guided migration
+- cerebral cortex tangential migration using cell-cell interactions
+- cerebral cortex tangential migration using cell-axon interactions
+- substrate-independent telencephalic tangential migration
+- oligodendrocyte cell migration from the subpallium to the cortex
+- chemoattraction involved in interneuron migration from the subpallium to the cortex
+- chemorepulsion involved in interneuron migration from the subpallium to the cortex
+- cerebral cortex GABAergic interneuron migration
+- radial glia guided migration of cerebellar granule cell
+- cerebellar granule cell precursor tangential migration
+- radial glia guided migration of Purkinje cell
+- formation of radial glial scaffolds
+- neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration
+- brainstem precerebellar neuron precursor migration
+- subpallium cell migration
+- tangential migration from the subventricular zone to the olfactory bulb
+- telencephalon astrocyte cell migration
+- telencephalon oligodendrocyte cell migration
+- telencephalon microglial cell migration
+- mesenchymal cell migration involved in limb bud formation
+- Wnt signaling pathway involved in wound healing, spreading of epidermal cells
+- helper T cell diapedesis
+- monocyte extravasation
+- monocyte migration into blood stream
+- endothelial cell chemotaxis to fibroblast growth factor
+- metanephric mesenchymal cell migration
+- positive regulation of metanephric mesenchymal cell migration by platelet-derived
+  growth factor receptor-beta signaling pathway
+- dendritic cell migration
+- trunk neural crest cell migration
+- positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial
+  growth factor receptor signaling pathway
+- positive regulation of cell migration by VEGF-activated platelet derived growth
+  factor receptor signaling pathway
+- endothelial cell migration
+- macrophage chemotaxis
+- lymphocyte chemotaxis
+- lateral line nerve glial cell migration
+- anterior lateral line neuromast deposition
+- posterior lateral line neuromast deposition
+- leukocyte tethering or rolling
+- leukocyte adhesive activation
+- leukocyte activation-dependent arrest
+- keratinocyte migration
+- regulation of keratinocyte migration
+- negative regulation of keratinocyte migration
+- positive regulation of keratinocyte migration
+- ingression involved in gastrulation with mouth forming second
+- dorsal convergence
+- mediolateral intercalation
+- regulation of cilium beat frequency involved in ciliary motility
+- positive regulation of flagellated sperm motility involved in capacitation
+- cell migration involved in prostatic bud elongation
+- cell migration involved in mammary placode formation
+- cardioblast migration to the midline involved in heart field formation
+- epithelial cell migration involved in mesonephric nephron tubule morphogenesis
+- BMP signaling pathway involved in Malpighian tubule cell chemotaxis
+- corneal epithelial cell migration
+- intestinal epithelial cell migration
+- hepatic stellate cell migration
+- regulation of hepatic stellate cell migration
+- positive regulation of hepatic stellate cell migration
+- negative regulation of hepatic stellate cell migration
+- granulocyte chemotaxis
+- regulation of smooth muscle cell chemotaxis
+- negative regulation of smooth muscle cell chemotaxis
+- positive regulation of smooth muscle cell chemotaxis
+- regulation of mononuclear cell migration
+- negative regulation of mononuclear cell migration
+- positive regulation of mononuclear cell migration
+- bacterial-type flagellum-dependent swarming motility
+- epithelial cell migration involved in distal tubule morphogenesis
+- epithelial cell migration involved in proximal tubule morphogenesis
+- epithelial cell migration involved in metanephric nephron tubule morphogenesis
+- neutrophil extravasation
+- lymphocyte migration
+- fibronectin-dependent thymocyte migration
+- eosinophil extravasation
+- T cell extravasation
+- cell migration involved in mesendoderm migration
+- glomerular visceral epithelial cell migration
+- endothelial cell chemotaxis to vascular endothelial growth factor
+- melanocyte migration
+- spinal cord motor neuron migration
+- granulocyte migration
+- mast cell migration
+- sperm mitochondrial sheath assembly
+- regulation of Schwann cell migration
+- negative regulation of Schwann cell migration
+- positive regulation of Schwann cell migration
+- regulation of metanephric mesenchymal cell migration by platelet-derived growth
+  factor receptor-beta signaling pathway
+- neural crest cell migration involved in autonomic nervous system development
+- lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis
+- regulation of neutrophil migration
+- negative regulation of neutrophil migration
+- positive regulation of neutrophil migration
+- regulation of border follicle cell migration
+- negative regulation of border follicle cell migration
+- positive regulation of border follicle cell migration
+- regulation of microglial cell migration
+- negative regulation of microglial cell migration
+- positive regulation of microglial cell migration
+- regulation of Schwann cell chemotaxis
+- negative regulation of Schwann cell chemotaxis
+- positive regulation of Schwann cell chemotaxis
+- vascular associated smooth muscle cell migration
+- regulation of vascular associated smooth muscle cell migration
+- negative regulation of vascular associated smooth muscle cell migration
+- positive regulation of vascular associated smooth muscle cell migration
+- slow muscle cell migration
+- regulation of motor neuron migration
+- negative regulation of motor neuron migration
+- positive regulation of motor neuron migration
+- macrophage migration
+- regulation of macrophage migration
+- negative regulation of macrophage migration
+- positive regulation of macrophage migration
+- regulation of epithelial cell migration, open tracheal system
+- regulation of eosinophil migration
+- negative regulation of eosinophil migration
+- positive regulation of eosinophil migration
+- regulation of astrocyte chemotaxis
+- negative regulation of astrocyte chemotaxis
+- positive regulation of astrocyte chemotaxis
+- regulation of endothelial cell chemotaxis to fibroblast growth factor
+- negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+- positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+- regulation of endothelial cell chemotaxis
+- negative regulation of endothelial cell chemotaxis
+- positive regulation of endothelial cell chemotaxis
+- Roundabout signaling pathway involved in muscle cell chemotaxis toward tendon cell
+- Langerhans cell chemotaxis
+- plasmacytoid dendritic cell chemotaxis
+- lymphocyte chemotaxis across high endothelial venule
+- basophil chemotaxis
+- cardioblast anterior-lateral migration
+- cardiac muscle progenitor cell migration to the midline involved in heart field
+  formation
+- endocardial progenitor cell migration to the midline involved in heart field formation
+- establishment of cell polarity involved in mesendodermal cell migration
+- cell-cell adhesion involved in mesendodermal cell migration
+- establishment or maintenance of cytoskeleton polarity involved in gastrulation
+- neuron migration involved in amphid sensory organ dendrite retrograde extension
+- border follicle cell migration
+- regulation of macrophage chemotaxis
+- positive regulation of macrophage chemotaxis
+- negative regulation of macrophage chemotaxis
+- T cell chemotaxis
+- cerebral cortex radially oriented cell migration
+- cerebral cortex tangential migration
+- neuronal-glial interaction involved in cerebral cortex radial glia guided migration
+- layer formation in cerebral cortex
+- postnatal olfactory bulb interneuron migration
+- embryonic olfactory bulb interneuron precursor migration
+- cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell
+  interactions
+- cell-matrix adhesion involved in tangential migration using cell-cell interactions
+- substrate-independent telencephalic tangential interneuron migration
+- chemorepulsion involved in precerebellar neuron migration
+- chemoattraction involved in precerebellar neuron migration
+- subpallium radially oriented migration
+- neutrophil chemotaxis
+- memory T cell extravasation
+- helper T cell extravasation
+- T-helper 1 cell diapedesis
+- CD8-positive, alpha-beta T cell extravasation
+- natural killer cell chemotaxis
+- B cell chemotaxis
+- dorsolateral trunk neural crest cell migration
+- ventral trunk neural crest cell migration
+- blood vessel endothelial cell migration
+- regulation of blood vessel endothelial cell migration
+- positive regulation of blood vessel endothelial cell migration
+- negative regulation of blood vessel endothelial cell migration
+- canonical Wnt signaling pathway involved in positive regulation of endothelial cell
+  migration
+- eosinophil chemotaxis
+- glial cell migration in anterior lateral line nerve
+- glial cell migration in posterior lateral line nerve
+- centripetally migrating follicle cell migration
+- main body follicle cell migration
+- regulation of mast cell chemotaxis
+- positive regulation of mast cell chemotaxis
+- negative regulation of mast cell chemotaxis
+- planar cell polarity pathway involved in gastrula mediolateral intercalation
+- epithelial cell migration involved in mesonephric distal tubule morphogenesis
+- epithelial cell migration involved in mesonephric proximal tubule morphogenesis
+- colon epithelial cell migration
+- regulation of formation of radial glial scaffolds
+- negative regulation of formation of radial glial scaffolds
+- positive regulation of formation of radial glial scaffolds
+- regulation of granulocyte chemotaxis
+- negative regulation of granulocyte chemotaxis
+- positive regulation of granulocyte chemotaxis
+- epithelial cell migration involved in metanephric distal tubule morphogenesis
+- epithelial cell migration involved in metanephric proximal tubule morphogenesis
+- eosinophil migration
+- T cell migration
+- regulation of neutrophil chemotaxis
+- positive regulation of neutrophil chemotaxis
+- negative regulation of neutrophil chemotaxis
+- regulation of monocyte chemotaxis
+- positive regulation of monocyte chemotaxis
+- negative regulation of monocyte chemotaxis
+- lymphocyte migration into lymphoid organs
+- lateral motor column neuron migration
+- positive regulation of cilium beat frequency involved in ciliary motility
+- positive regulation of lymphocyte chemotaxis
+- regulation of lymphocyte chemotaxis
+- negative regulation of lymphocyte chemotaxis
+- regulation of lateral motor column neuron migration
+- negative regulation of lateral motor column neuron migration
+- positive regulation of lateral motor column neuron migration
+- neural crest cell migration involved in sympathetic nervous system development
+- regulation of leukocyte tethering or rolling
+- negative regulation of leukocyte tethering or rolling
+- positive regulation of leukocyte tethering or rolling
+- lymphatic endothelial cell migration
+- neutrophil migration
+- regulation of neutrophil extravasation
+- negative regulation of neutrophil extravasation
+- positive regulation of neutrophil extravasation
+- regulation of lymphocyte migration
+- negative regulation of lymphocyte migration
+- positive regulation of lymphocyte migration
+- regulation of T cell extravasation
+- negative regulation of T cell extravasation
+- positive regulation of T cell extravasation
+- regulation of fibronectin-dependent thymocyte migration
+- negative regulation of fibronectin-dependent thymocyte migration
+- positive regulation of fibronectin-dependent thymocyte migration
+- regulation of eosinophil extravasation
+- negative regulation of eosinophil extravasation
+- positive regulation of eosinophil extravasation
+- regulation of eosinophil chemotaxis
+- negative regulation of eosinophil chemotaxis
+- positive regulation of eosinophil chemotaxis
+- regulation of monocyte extravasation
+- negative regulation of monocyte extravasation
+- positive regulation of monocyte extravasation
+- regulation of dendritic cell chemotaxis
+- negative regulation of dendritic cell chemotaxis
+- positive regulation of dendritic cell chemotaxis
+- regulation of myeloid dendritic cell chemotaxis
+- negative regulation of myeloid dendritic cell chemotaxis
+- positive regulation of myeloid dendritic cell chemotaxis
+- cell migration involved in sprouting angiogenesis
+- blood vessel endothelial cell migration involved in intussusceptive angiogenesis
+- establishment or maintenance of cytoskeleton polarity involved in mesendodermal
+  cell migration
+- regulation of T cell chemotaxis
+- positive regulation of T cell chemotaxis
+- somal translocation
+- cell-cell adhesion involved in neuronal-glial interactions involved in cerebral
+  cortex radial glia guided migration
+- extracellular matrix organization in marginal zone involved in cerebral cortex radial
+  glia guided migration
+- negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination
+- interneuron migration from the subpallium to the cortex
+- chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration
+- chemoattraction involved in embryonic olfactory bulb interneuron precursor migration
+- chemorepulsion involved in postnatal olfactory bulb interneuron migration
+- motogenic signaling involved in postnatal olfactory bulb interneuron migration
+- interneuron sorting involved in substrate-independent cerebral cortex tangential
+  migration
+- T-helper 1 cell extravasation
+- CD8-positive, alpha-beta cytotoxic T cell extravasation
+- T-helper 17 cell extravasation
+- helper T cell chemotaxis
+- T-helper 17 cell chemotaxis
+- T-helper 1 cell chemotaxis
+- T-helper 2 cell chemotaxis
+- B cell chemotaxis across high endothelial venule
+- mature natural killer cell chemotaxis
+- venous endothelial cell migration involved in lymph vessel development
+- thymocyte migration
+- regulation of cell migration involved in sprouting angiogenesis
+- positive regulation of cell migration involved in sprouting angiogenesis
+- negative regulation of cell migration involved in sprouting angiogenesis
+- lymphocyte migration into lymph node
+- T cell meandering migration
+- neutrophil dispersal
+- regulation of T cell migration
+- negative regulation of T cell migration
+- positive regulation of T cell migration
+- regulation of CD8-positive, alpha-beta T cell extravasation
+- negative regulation of CD8-positive, alpha-beta T cell extravasation
+- positive regulation of CD8-positive, alpha-beta T cell extravasation
+- regulation of natural killer cell chemotaxis
+- negative regulation of natural killer cell chemotaxis
+- positive regulation of natural killer cell chemotaxis
+- regulation of B cell chemotaxis
+- positive regulation of B cell chemotaxis
+- negative regulation of B cell chemotaxis
+- extension of leading cell process to pial surface
+- negative regulation of cell adhesion in ventricular zone
+- motogenic signaling involved in interneuron migration from the subpallium to the
+  cortex
+- interneuron-substratum interaction involved in interneuron migration from the subpallium
+  to the cortex
+- regulation of thymocyte migration
+- negative regulation of thymocyte migration
+- positive regulation of thymocyte migration
+- regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+- negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+- positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+- regulation of T-helper 17 cell extravasation
+- negative regulation of T-helper 17 cell extravasation
+- positive regulation of T-helper 17 cell extravasation

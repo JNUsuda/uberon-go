@@ -1,0 +1,1482 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0003016"	"respiratory system process"	"GO:0003016"	"respiratory system process"	0
+"GO:0003016"	"respiratory system process"	"GO:0002086"	"diaphragm contraction"	1
+"GO:0003016"	"respiratory system process"	"GO:0044064"	"modulation by symbiont of host respiratory system process"	1
+"GO:0003016"	"respiratory system process"	"GO:0044065"	"regulation of respiratory system process"	1
+"GO:0003016"	"respiratory system process"	"GO:0120197"	"mucociliary clearance"	1
+"GO:0003016"	"respiratory system process"	"GO:0002087"	"regulation of respiratory gaseous exchange by nervous system process"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0060541"	"respiratory system development"	"GO:0060541"	"respiratory system development"	0
+"GO:0060541"	"respiratory system development"	"GO:0043584"	"nose development"	1
+"GO:0060541"	"respiratory system development"	"GO:0120224"	"larynx development"	1
+"GO:0060541"	"respiratory system development"	"GO:0030910"	"olfactory placode formation"	2
+"GO:0060541"	"respiratory system development"	"GO:0043585"	"nose morphogenesis"	2
+"GO:0060541"	"respiratory system development"	"GO:0060166"	"olfactory pit development"	2
+"GO:0060541"	"respiratory system development"	"GO:0120223"	"larynx morphogenesis"	2
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0032940"	"secretion by cell"	"GO:0032940"	"secretion by cell"	0
+"GO:0032940"	"secretion by cell"	"GO:0006887"	"exocytosis"	1
+"GO:0032940"	"secretion by cell"	"GO:0009306"	"protein secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0010585"	"glutamine secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0014047"	"glutamate secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0023061"	"signal release"	1
+"GO:0032940"	"secretion by cell"	"GO:0044097"	"secretion by the type IV secretion system"	1
+"GO:0032940"	"secretion by cell"	"GO:0050432"	"catecholamine secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0061528"	"aspartate secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0061531"	"primary amine secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0061536"	"glycine secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0061539"	"octopamine secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:0070278"	"extracellular matrix constituent secretion"	1
+"GO:0032940"	"secretion by cell"	"GO:1903530"	"regulation of secretion by cell"	1
+"GO:0032940"	"secretion by cell"	"GO:1903531"	"negative regulation of secretion by cell"	1
+"GO:0032940"	"secretion by cell"	"GO:1903532"	"positive regulation of secretion by cell"	1
+"GO:0032940"	"secretion by cell"	"GO:0001820"	"serotonin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0001956"	"positive regulation of neurotransmitter secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0002001"	"renin secretion into blood stream"	2
+"GO:0032940"	"secretion by cell"	"GO:0003330"	"regulation of extracellular matrix constituent secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0003331"	"positive regulation of extracellular matrix constituent secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0003332"	"negative regulation of extracellular matrix constituent secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014046"	"dopamine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014048"	"regulation of glutamate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014049"	"positive regulation of glutamate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014050"	"negative regulation of glutamate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014062"	"regulation of serotonin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014063"	"negative regulation of serotonin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0014064"	"positive regulation of serotonin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0015628"	"protein secretion by the type II secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0017157"	"regulation of exocytosis"	2
+"GO:0032940"	"secretion by cell"	"GO:0030073"	"insulin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0030253"	"protein secretion by the type I secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0030254"	"protein secretion by the type III secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0030255"	"protein secretion by the type IV secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0032306"	"regulation of prostaglandin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0032307"	"negative regulation of prostaglandin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0032308"	"positive regulation of prostaglandin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0032310"	"prostaglandin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0033103"	"protein secretion by the type VI secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0033299"	"secretion of lysosomal enzymes"	2
+"GO:0032940"	"secretion by cell"	"GO:0033604"	"negative regulation of catecholamine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0033605"	"positive regulation of catecholamine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0036394"	"amylase secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0038055"	"BMP secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0044098"	"DNA secretion by the type IV secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0044315"	"protein secretion by the type VII secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0045054"	"constitutive secretory pathway"	2
+"GO:0032940"	"secretion by cell"	"GO:0045055"	"regulated exocytosis"	2
+"GO:0032940"	"secretion by cell"	"GO:0045920"	"negative regulation of exocytosis"	2
+"GO:0032940"	"secretion by cell"	"GO:0045921"	"positive regulation of exocytosis"	2
+"GO:0032940"	"secretion by cell"	"GO:0046819"	"protein secretion by the type V secretion system"	2
+"GO:0032940"	"secretion by cell"	"GO:0046879"	"hormone secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0046883"	"regulation of hormone secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0046887"	"positive regulation of hormone secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0046888"	"negative regulation of hormone secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0046928"	"regulation of neurotransmitter secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0046929"	"negative regulation of neurotransmitter secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0048242"	"epinephrine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0048243"	"norepinephrine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0050433"	"regulation of catecholamine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0050708"	"regulation of protein secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0050709"	"negative regulation of protein secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0050714"	"positive regulation of protein secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0061355"	"Wnt protein secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0061526"	"acetylcholine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0061530"	"aspartate secretion, neurotransmission"	2
+"GO:0032940"	"secretion by cell"	"GO:0061535"	"glutamate secretion, neurotransmission"	2
+"GO:0032940"	"secretion by cell"	"GO:0061537"	"glycine secretion, neurotransmission"	2
+"GO:0032940"	"secretion by cell"	"GO:0061540"	"octopamine secretion, neurotransmission"	2
+"GO:0032940"	"secretion by cell"	"GO:0061545"	"tyramine secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0061864"	"basement membrane constituent secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0070162"	"adiponectin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0070459"	"prolactin secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0070468"	"dentin extracellular matrix secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0070560"	"protein secretion by platelet"	2
+"GO:0032940"	"secretion by cell"	"GO:0098967"	"exocytic insertion of neurotransmitter receptor to postsynaptic membrane"	2
+"GO:0032940"	"secretion by cell"	"GO:0099643"	"signal release from synapse"	2
+"GO:0032940"	"secretion by cell"	"GO:0110010"	"basolateral protein secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0140029"	"exocytic process"	2
+"GO:0032940"	"secretion by cell"	"GO:1904448"	"regulation of aspartate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:1904449"	"negative regulation of aspartate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:1904450"	"positive regulation of aspartate secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:1990182"	"exosomal secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:1990747"	"pancreatic trypsinogen secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:1990773"	"matrix metallopeptidase secretion"	2
+"GO:0032940"	"secretion by cell"	"GO:0001927"	"exocyst assembly"	3
+"GO:0032940"	"secretion by cell"	"GO:0001929"	"negative regulation of exocyst assembly"	3
+"GO:0032940"	"secretion by cell"	"GO:0002441"	"histamine secretion involved in inflammatory response"	3
+"GO:0032940"	"secretion by cell"	"GO:0002442"	"serotonin secretion involved in inflammatory response"	3
+"GO:0032940"	"secretion by cell"	"GO:0002533"	"lysosomal enzyme secretion involved in inflammatory response"	3
+"GO:0032940"	"secretion by cell"	"GO:0002552"	"serotonin secretion by mast cell"	3
+"GO:0032940"	"secretion by cell"	"GO:0002553"	"histamine secretion by mast cell"	3
+"GO:0032940"	"secretion by cell"	"GO:0002554"	"serotonin secretion by platelet"	3
+"GO:0032940"	"secretion by cell"	"GO:0002555"	"histamine secretion by platelet"	3
+"GO:0032940"	"secretion by cell"	"GO:0002556"	"serotonin secretion by basophil"	3
+"GO:0032940"	"secretion by cell"	"GO:0002557"	"histamine secretion by basophil"	3
+"GO:0032940"	"secretion by cell"	"GO:0002576"	"platelet degranulation"	3
+"GO:0032940"	"secretion by cell"	"GO:0006904"	"vesicle docking involved in exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:0007269"	"neurotransmitter secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0007558"	"regulation of juvenile hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0010700"	"negative regulation of norepinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0010701"	"positive regulation of norepinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0014055"	"acetylcholine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0014056"	"regulation of acetylcholine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0014057"	"positive regulation of acetylcholine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0014058"	"negative regulation of acetylcholine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0014059"	"regulation of dopamine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0014060"	"regulation of epinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0014061"	"regulation of norepinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0016079"	"synaptic vesicle exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:0016080"	"synaptic vesicle targeting"	3
+"GO:0032940"	"secretion by cell"	"GO:0016082"	"synaptic vesicle priming"	3
+"GO:0032940"	"secretion by cell"	"GO:0017156"	"calcium-ion regulated exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:0030072"	"peptide hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032024"	"positive regulation of insulin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032276"	"regulation of gonadotropin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032277"	"negative regulation of gonadotropin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032278"	"positive regulation of gonadotropin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032333"	"activin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032335"	"regulation of activin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032336"	"negative regulation of activin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032337"	"positive regulation of activin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032338"	"regulation of inhibin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032339"	"negative regulation of inhibin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032340"	"positive regulation of inhibin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032811"	"negative regulation of epinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0032812"	"positive regulation of epinephrine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0033602"	"negative regulation of dopamine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0033603"	"positive regulation of dopamine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0035773"	"insulin secretion involved in cellular response to glucose stimulus"	3
+"GO:0032940"	"secretion by cell"	"GO:0035936"	"testosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0035938"	"estradiol secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0035941"	"androstenedione secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0035942"	"dehydroepiandrosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0035943"	"estrone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0036395"	"pancreatic amylase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0043299"	"leukocyte degranulation"	3
+"GO:0032940"	"secretion by cell"	"GO:0044762"	"negative regulation by symbiont of host neurotransmitter secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0045972"	"negative regulation of juvenile hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0045973"	"positive regulation of juvenile hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0046676"	"negative regulation of insulin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0050796"	"regulation of insulin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0060096"	"serotonin secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0060986"	"endocrine hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0061078"	"positive regulation of prostaglandin secretion involved in immune response"	3
+"GO:0032940"	"secretion by cell"	"GO:0061356"	"regulation of Wnt protein secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0061357"	"positive regulation of Wnt protein secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0061358"	"negative regulation of Wnt protein secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0061359"	"regulation of Wnt signaling pathway by Wnt protein secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0061529"	"epinephrine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0061532"	"primary amine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0061533"	"norepinephrine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:0061789"	"dense core granule priming"	3
+"GO:0032940"	"secretion by cell"	"GO:0061865"	"polarized secretion of basement membrane proteins in epithelium"	3
+"GO:0032940"	"secretion by cell"	"GO:0070163"	"regulation of adiponectin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0070164"	"negative regulation of adiponectin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0070165"	"positive regulation of adiponectin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0070177"	"contractile vacuole discharge"	3
+"GO:0032940"	"secretion by cell"	"GO:0071810"	"regulation of fever generation by regulation of prostaglandin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0071812"	"positive regulation of fever generation by positive regulation of prostaglandin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0090182"	"regulation of secretion of lysosomal enzymes"	3
+"GO:0032940"	"secretion by cell"	"GO:0090276"	"regulation of peptide hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0090277"	"positive regulation of peptide hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0090278"	"negative regulation of peptide hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0090323"	"prostaglandin secretion involved in immune response"	3
+"GO:0032940"	"secretion by cell"	"GO:0090340"	"positive regulation of secretion of lysosomal enzymes"	3
+"GO:0032940"	"secretion by cell"	"GO:0090341"	"negative regulation of secretion of lysosomal enzymes"	3
+"GO:0032940"	"secretion by cell"	"GO:0090522"	"vesicle tethering involved in exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:0098866"	"multivesicular body fusion to apical plasma membrane"	3
+"GO:0032940"	"secretion by cell"	"GO:0099123"	"somato-dendritic dopamine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0099124"	"axonal dopamine secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0099145"	"regulation of exocytic insertion of neurotransmitter receptor to postsynaptic membrane"	3
+"GO:0032940"	"secretion by cell"	"GO:0099500"	"vesicle fusion to plasma membrane"	3
+"GO:0032940"	"secretion by cell"	"GO:0100009"	"regulation of fever generation by prostaglandin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0140028"	"pore formation during contractile vacuole discharge"	3
+"GO:0032940"	"secretion by cell"	"GO:1900133"	"regulation of renin secretion into blood stream"	3
+"GO:0032940"	"secretion by cell"	"GO:1900134"	"negative regulation of renin secretion into blood stream"	3
+"GO:0032940"	"secretion by cell"	"GO:1900135"	"positive regulation of renin secretion into blood stream"	3
+"GO:0032940"	"secretion by cell"	"GO:1900144"	"positive regulation of BMP secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1902276"	"regulation of pancreatic amylase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1902277"	"negative regulation of pancreatic amylase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1902278"	"positive regulation of pancreatic amylase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1902721"	"negative regulation of prolactin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1902722"	"positive regulation of prolactin secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1903294"	"regulation of glutamate secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1903295"	"negative regulation of glutamate secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1903296"	"positive regulation of glutamate secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1903305"	"regulation of regulated secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903306"	"negative regulation of regulated secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903307"	"positive regulation of regulated secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903433"	"regulation of constitutive secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903434"	"negative regulation of constitutive secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903435"	"positive regulation of constitutive secretory pathway"	3
+"GO:0032940"	"secretion by cell"	"GO:1903541"	"regulation of exosomal secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1903542"	"negative regulation of exosomal secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1903543"	"positive regulation of exosomal secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1903593"	"regulation of histamine secretion by mast cell"	3
+"GO:0032940"	"secretion by cell"	"GO:1903594"	"negative regulation of histamine secretion by mast cell"	3
+"GO:0032940"	"secretion by cell"	"GO:1903595"	"positive regulation of histamine secretion by mast cell"	3
+"GO:0032940"	"secretion by cell"	"GO:1904048"	"regulation of spontaneous neurotransmitter secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904049"	"negative regulation of spontaneous neurotransmitter secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904050"	"positive regulation of spontaneous neurotransmitter secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904242"	"regulation of pancreatic trypsinogen secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904243"	"negative regulation of pancreatic trypsinogen secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904244"	"positive regulation of pancreatic trypsinogen secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904464"	"regulation of matrix metallopeptidase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904465"	"negative regulation of matrix metallopeptidase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904466"	"positive regulation of matrix metallopeptidase secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:1904494"	"regulation of substance P secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1904495"	"negative regulation of substance P secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1904496"	"positive regulation of substance P secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1904624"	"regulation of glycine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1904625"	"negative regulation of glycine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:1904626"	"positive regulation of glycine secretion, neurotransmission"	3
+"GO:0032940"	"secretion by cell"	"GO:2000300"	"regulation of synaptic vesicle exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:2000301"	"negative regulation of synaptic vesicle exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:2000302"	"positive regulation of synaptic vesicle exocytosis"	3
+"GO:0032940"	"secretion by cell"	"GO:2000828"	"regulation of parathyroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000829"	"negative regulation of parathyroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000830"	"positive regulation of parathyroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000831"	"regulation of steroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000832"	"negative regulation of steroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000833"	"positive regulation of steroid hormone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000837"	"regulation of androstenedione secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000838"	"negative regulation of androstenedione secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000839"	"positive regulation of androstenedione secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000840"	"regulation of dehydroepiandrosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000841"	"negative regulation of dehydroepiandrosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000842"	"positive regulation of dehydroepiandrosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000843"	"regulation of testosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000844"	"negative regulation of testosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000845"	"positive regulation of testosterone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000864"	"regulation of estradiol secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000865"	"negative regulation of estradiol secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000866"	"positive regulation of estradiol secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000867"	"regulation of estrone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000868"	"negative regulation of estrone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2000869"	"positive regulation of estrone secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2001284"	"regulation of BMP secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:2001285"	"negative regulation of BMP secretion"	3
+"GO:0032940"	"secretion by cell"	"GO:0001928"	"regulation of exocyst assembly"	4
+"GO:0032940"	"secretion by cell"	"GO:0001930"	"positive regulation of exocyst assembly"	4
+"GO:0032940"	"secretion by cell"	"GO:0002561"	"basophil degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0007555"	"regulation of ecdysteroid secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0010807"	"regulation of synaptic vesicle priming"	4
+"GO:0032940"	"secretion by cell"	"GO:0010808"	"positive regulation of synaptic vesicle priming"	4
+"GO:0032940"	"secretion by cell"	"GO:0010809"	"negative regulation of synaptic vesicle priming"	4
+"GO:0032940"	"secretion by cell"	"GO:0014860"	"neurotransmitter secretion involved in regulation of skeletal muscle contraction"	4
+"GO:0032940"	"secretion by cell"	"GO:0016081"	"synaptic vesicle docking"	4
+"GO:0032940"	"secretion by cell"	"GO:0017158"	"regulation of calcium ion-dependent exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0030103"	"vasopressin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0030252"	"growth hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0031629"	"synaptic vesicle fusion to presynaptic active zone membrane"	4
+"GO:0032940"	"secretion by cell"	"GO:0031631"	"negative regulation of synaptic vesicle fusion to presynaptic active zone membrane"	4
+"GO:0032940"	"secretion by cell"	"GO:0032274"	"gonadotropin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0032334"	"inhibin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0033684"	"regulation of luteinizing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0033685"	"negative regulation of luteinizing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0033686"	"positive regulation of luteinizing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0035774"	"positive regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0032940"	"secretion by cell"	"GO:0035898"	"parathyroid hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0035929"	"steroid hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0036160"	"melanocyte-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0036161"	"calcitonin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0036162"	"oxytocin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0036321"	"ghrelin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0036322"	"pancreatic polypeptide secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0038056"	"negative regulation of BMP signaling pathway by negative regulation of BMP secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0043300"	"regulation of leukocyte degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043301"	"negative regulation of leukocyte degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043302"	"positive regulation of leukocyte degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043303"	"mast cell degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043308"	"eosinophil degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043312"	"neutrophil degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043316"	"cytotoxic T cell degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043320"	"natural killer cell degranulation"	4
+"GO:0032940"	"secretion by cell"	"GO:0043396"	"corticotropin-releasing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0043397"	"regulation of corticotropin-releasing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0044079"	"modulation by symbiont of host neurotransmitter secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0045443"	"juvenile hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0045955"	"negative regulation of calcium ion-dependent exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0045956"	"positive regulation of calcium ion-dependent exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0045999"	"negative regulation of ecdysteroid secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0046000"	"positive regulation of ecdysteroid secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0046880"	"regulation of follicle-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0046881"	"positive regulation of follicle-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0046882"	"negative regulation of follicle-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0048791"	"calcium ion-regulated exocytosis of neurotransmitter"	4
+"GO:0032940"	"secretion by cell"	"GO:0048792"	"spontaneous exocytosis of neurotransmitter"	4
+"GO:0032940"	"secretion by cell"	"GO:0051458"	"corticotropin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0051459"	"regulation of corticotropin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0051460"	"negative regulation of corticotropin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0051461"	"positive regulation of corticotropin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0051465"	"negative regulation of corticotropin-releasing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0051466"	"positive regulation of corticotropin-releasing hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0060123"	"regulation of growth hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0060124"	"positive regulation of growth hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0060125"	"negative regulation of growth hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0060471"	"cortical granule exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0060478"	"acrosomal vesicle exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0061178"	"regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0032940"	"secretion by cell"	"GO:0061179"	"negative regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0032940"	"secretion by cell"	"GO:0061527"	"dopamine secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:0061534"	"gamma-aminobutyric acid secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:0061538"	"histamine secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:0061544"	"peptide secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:0061546"	"tyramine secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:0061646"	"positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization"	4
+"GO:0032940"	"secretion by cell"	"GO:0061669"	"spontaneous neurotransmitter secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0061670"	"evoked neurotransmitter secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0061790"	"dense core granule docking"	4
+"GO:0032940"	"secretion by cell"	"GO:0070091"	"glucagon secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070092"	"regulation of glucagon secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070093"	"negative regulation of glucagon secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070094"	"positive regulation of glucagon secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070253"	"somatostatin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070460"	"thyroid-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0070625"	"zymogen granule exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0071834"	"mating pheromone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0071911"	"synchronous neurotransmitter secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0071912"	"asynchronous neurotransmitter secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0090273"	"regulation of somatostatin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0090274"	"positive regulation of somatostatin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0090275"	"negative regulation of somatostatin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0090538"	"peptide pheromone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0097280"	"histamine secretion mediated by immunoglobulin"	4
+"GO:0032940"	"secretion by cell"	"GO:0098881"	"exocytic insertion of neurotransmitter receptor to plasma membrane"	4
+"GO:0032940"	"secretion by cell"	"GO:0099069"	"synaptic vesicle tethering involved in synaptic vesicle exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:0099502"	"calcium-dependent activation of synaptic vesicle fusion"	4
+"GO:0032940"	"secretion by cell"	"GO:0099703"	"induction of synaptic vesicle exocytosis by positive regulation of presynaptic cytosolic calcium ion concentration"	4
+"GO:0032940"	"secretion by cell"	"GO:0100011"	"positive regulation of fever generation by prostaglandin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0140025"	"contractile vacuole tethering involved in discharge"	4
+"GO:0032940"	"secretion by cell"	"GO:1902279"	"positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway"	4
+"GO:0032940"	"secretion by cell"	"GO:1903233"	"regulation of calcium ion-dependent exocytosis of neurotransmitter"	4
+"GO:0032940"	"secretion by cell"	"GO:1903234"	"negative regulation of calcium ion-dependent exocytosis of neurotransmitter"	4
+"GO:0032940"	"secretion by cell"	"GO:1903235"	"positive regulation of calcium ion-dependent exocytosis of neurotransmitter"	4
+"GO:0032940"	"secretion by cell"	"GO:1904065"	"G protein-coupled acetylcholine receptor signaling pathway involved in positive regulation of acetylcholine secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:1904362"	"regulation of calcitonin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1904363"	"negative regulation of calcitonin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1904364"	"positive regulation of calcitonin secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1904458"	"regulation of substance P secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1904459"	"negative regulation of substance P secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1904460"	"positive regulation of substance P secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1990504"	"dense core granule exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:1990772"	"substance P secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:1990793"	"substance P secretion, neurotransmission"	4
+"GO:0032940"	"secretion by cell"	"GO:1990927"	"calcium ion regulated lysosome exocytosis"	4
+"GO:0032940"	"secretion by cell"	"GO:2000612"	"regulation of thyroid-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000613"	"negative regulation of thyroid-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000614"	"positive regulation of thyroid-stimulating hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000834"	"regulation of androgen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000835"	"negative regulation of androgen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000836"	"positive regulation of androgen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000846"	"regulation of corticosteroid hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000847"	"negative regulation of corticosteroid hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000848"	"positive regulation of corticosteroid hormone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000861"	"regulation of estrogen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000862"	"negative regulation of estrogen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000863"	"positive regulation of estrogen secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000870"	"regulation of progesterone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000871"	"negative regulation of progesterone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:2000872"	"positive regulation of progesterone secretion"	4
+"GO:0032940"	"secretion by cell"	"GO:0002004"	"secretion of vasopressin involved in fast regulation of systemic arterial blood pressure"	5
+"GO:0032940"	"secretion by cell"	"GO:0031630"	"regulation of synaptic vesicle fusion to presynaptic active zone membrane"	5
+"GO:0032940"	"secretion by cell"	"GO:0031632"	"positive regulation of synaptic vesicle fusion to presynaptic active zone membrane"	5
+"GO:0032940"	"secretion by cell"	"GO:0032275"	"luteinizing hormone secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0035930"	"corticosteroid hormone secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0035935"	"androgen secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0035937"	"estrogen secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0042701"	"progesterone secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0043304"	"regulation of mast cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043305"	"negative regulation of mast cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043306"	"positive regulation of mast cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043309"	"regulation of eosinophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043310"	"negative regulation of eosinophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043311"	"positive regulation of eosinophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043313"	"regulation of neutrophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043314"	"negative regulation of neutrophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043315"	"positive regulation of neutrophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043317"	"regulation of cytotoxic T cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043318"	"negative regulation of cytotoxic T cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043319"	"positive regulation of cytotoxic T cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043321"	"regulation of natural killer cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043322"	"negative regulation of natural killer cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0043323"	"positive regulation of natural killer cell degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:0045457"	"ecdysteroid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0046884"	"follicle-stimulating hormone secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0060472"	"positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration"	5
+"GO:0032940"	"secretion by cell"	"GO:0061585"	"hypocretin secretion, neurotransmission"	5
+"GO:0032940"	"secretion by cell"	"GO:0071631"	"mating pheromone secretion involved in positive regulation of conjugation with cellular fusion"	5
+"GO:0032940"	"secretion by cell"	"GO:0071835"	"mating pheromone secretion involved in regulation of conjugation"	5
+"GO:0032940"	"secretion by cell"	"GO:0097279"	"histamine secretion mediated by IgE immunoglobulin"	5
+"GO:0032940"	"secretion by cell"	"GO:0098746"	"fast, calcium ion-dependent exocytosis of neurotransmitter"	5
+"GO:0032940"	"secretion by cell"	"GO:0098747"	"slow, calcium ion-dependent exocytosis of neurotransmitter"	5
+"GO:0032940"	"secretion by cell"	"GO:0099011"	"neuronal dense core vesicle exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:0099148"	"regulation of synaptic vesicle docking"	5
+"GO:0032940"	"secretion by cell"	"GO:0099161"	"regulation of presynaptic dense core granule exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:0099525"	"presynaptic dense core vesicle exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:0150037"	"regulation of calcium-dependent activation of synaptic vesicle fusion"	5
+"GO:0032940"	"secretion by cell"	"GO:0150044"	"regulation of postsynaptic dense core vesicle exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:1903581"	"regulation of basophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:1903582"	"negative regulation of basophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:1903583"	"positive regulation of basophil degranulation"	5
+"GO:0032940"	"secretion by cell"	"GO:1905413"	"regulation of dense core granule exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:1905414"	"negative regulation of dense core granule exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:1905415"	"positive regulation of dense core granule exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:2000367"	"regulation of acrosomal vesicle exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:2000368"	"positive regulation of acrosomal vesicle exocytosis"	5
+"GO:0032940"	"secretion by cell"	"GO:2000849"	"regulation of glucocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:2000850"	"negative regulation of glucocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:2000851"	"positive regulation of glucocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:2000855"	"regulation of mineralocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:2000856"	"negative regulation of mineralocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:2000857"	"positive regulation of mineralocorticoid secretion"	5
+"GO:0032940"	"secretion by cell"	"GO:0035895"	"modulation of mast cell degranulation in other organism"	6
+"GO:0032940"	"secretion by cell"	"GO:0035896"	"positive regulation of mast cell degranulation in other organism"	6
+"GO:0032940"	"secretion by cell"	"GO:0035931"	"mineralocorticoid secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0035933"	"glucocorticoid secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0051462"	"regulation of cortisol secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0051463"	"negative regulation of cortisol secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0051464"	"positive regulation of cortisol secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0099539"	"neuropeptide secretion from presynapse"	6
+"GO:0032940"	"secretion by cell"	"GO:0150038"	"postsynaptic dense core vesicle exocytosis"	6
+"GO:0032940"	"secretion by cell"	"GO:2000852"	"regulation of corticosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:2000853"	"negative regulation of corticosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:2000854"	"positive regulation of corticosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:2000858"	"regulation of aldosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:2000859"	"negative regulation of aldosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:2000860"	"positive regulation of aldosterone secretion"	6
+"GO:0032940"	"secretion by cell"	"GO:0002018"	"renin-angiotensin regulation of aldosterone production"	7
+"GO:0032940"	"secretion by cell"	"GO:0035932"	"aldosterone secretion"	7
+"GO:0032940"	"secretion by cell"	"GO:0035934"	"corticosterone secretion"	7
+"GO:0032940"	"secretion by cell"	"GO:0043400"	"cortisol secretion"	7
+"GO:0043129"	"surfactant homeostasis"	"GO:0043129"	"surfactant homeostasis"	0
+"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	0
+"GO:1902691"	"respiratory basal cell differentiation"	"GO:1902691"	"respiratory basal cell differentiation"	0
+"GO:0070483"	"detection of hypoxia"	"GO:0070483"	"detection of hypoxia"	0
+"GO:0070483"	"detection of hypoxia"	"GO:0003020"	"detection of reduced oxygen by chemoreceptor signaling"	1
+"GO:0070483"	"detection of hypoxia"	"GO:0003038"	"detection of reduced oxygen by aortic body chemoreceptor signaling"	2
+"GO:0070483"	"detection of hypoxia"	"GO:0003039"	"detection of reduced oxygen by carotid body chemoreceptor signaling"	2
+"GO:0098535"	"de novo centriole assembly involved in multi-ciliated epithelial cell differentiation"	"GO:0098535"	"de novo centriole assembly involved in multi-ciliated epithelial cell differentiation"	0
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:0072091"	"regulation of stem cell proliferation"	0
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902033"	"regulation of hematopoietic stem cell proliferation"	1
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902460"	"regulation of mesenchymal stem cell proliferation"	1
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:2000647"	"negative regulation of stem cell proliferation"	1
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:2000648"	"positive regulation of stem cell proliferation"	1
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:0072042"	"regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis"	2
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902034"	"negative regulation of hematopoietic stem cell proliferation"	2
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902035"	"positive regulation of hematopoietic stem cell proliferation"	2
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902461"	"negative regulation of mesenchymal stem cell proliferation"	2
+"GO:0072091"	"regulation of stem cell proliferation"	"GO:1902462"	"positive regulation of mesenchymal stem cell proliferation"	2
+"GO:0030323"	"respiratory tube development"	"GO:0030323"	"respiratory tube development"	0
+"GO:0030323"	"respiratory tube development"	"GO:0030324"	"lung development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0060433"	"bronchus development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0060435"	"bronchiole development"	1
+"GO:0030323"	"respiratory tube development"	"GO:0048286"	"lung alveolus development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060425"	"lung morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060426"	"lung vasculature development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060427"	"lung connective tissue development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060428"	"lung epithelium development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060432"	"lung pattern specification process"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060434"	"bronchus morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060436"	"bronchiole morphogenesis"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060437"	"lung growth"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060458"	"right lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060459"	"left lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060462"	"lung lobe development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060479"	"lung cell differentiation"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060482"	"lobar bronchus development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060484"	"lung-associated mesenchyme development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060495"	"cell-cell signaling involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060532"	"bronchus cartilage development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060915"	"mesenchymal cell differentiation involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060916"	"mesenchymal cell proliferation involved in lung development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0061145"	"lung smooth muscle development"	2
+"GO:0030323"	"respiratory tube development"	"GO:0060430"	"lung saccule development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060441"	"epithelial tube branching involved in lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060460"	"left lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060461"	"right lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060463"	"lung lobe morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060481"	"lobar bronchus epithelium development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060483"	"lobar bronchus mesenchyme development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060487"	"lung epithelial cell differentiation"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060496"	"mesenchymal-epithelial cell signaling involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060506"	"smoothened signaling pathway involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060507"	"epidermal growth factor receptor signaling pathway involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060508"	"lung basal cell differentiation"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060533"	"bronchus cartilage morphogenesis"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061033"	"secretion by lung epithelial cell involved in lung growth"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061111"	"epithelial-mesenchymal cell signaling involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061115"	"lung proximal/distal axis specification"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061142"	"mesothelial-mesenchymal cell signaling involved in early lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061143"	"alveolar primary septum development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0061144"	"alveolar secondary septum development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904653"	"regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904654"	"negative regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:1904655"	"positive regulation of lung alveolus development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000790"	"regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000791"	"negative regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:2000792"	"positive regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0030323"	"respiratory tube development"	"GO:0060431"	"primary lung bud formation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060447"	"bud outgrowth involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060448"	"dichotomous subdivision of terminal units involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060449"	"bud elongation involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060464"	"lung lobe formation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060480"	"lung goblet cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060486"	"club cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060490"	"lateral sprouting involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060503"	"bud dilation involved in lung branching"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060509"	"type I pneumocyte differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061046"	"regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061047"	"positive regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061048"	"negative regulation of branching involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061140"	"lung secretory cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:0061141"	"lung ciliated cell differentiation"	4
+"GO:0030323"	"respiratory tube development"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	4
+"GO:0030323"	"respiratory tube development"	"GO:0060424"	"lung field specification"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060488"	"orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060489"	"planar dichotomous subdivision of terminal units involved in lung branching morphogenesis"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060492"	"lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060498"	"retinoic acid receptor signaling pathway involved in lung bud formation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060510"	"type II pneumocyte differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	5
+"GO:0030323"	"respiratory tube development"	"GO:0061100"	"lung neuroendocrine cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:0061112"	"negative regulation of bud outgrowth involved in lung branching"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901246"	"regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901247"	"negative regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901248"	"positive regulation of lung ciliated cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901249"	"regulation of lung goblet cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901250"	"negative regulation of lung goblet cell differentiation"	5
+"GO:0030323"	"respiratory tube development"	"GO:1901251"	"positive regulation of lung goblet cell differentiation"	5
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0060438"	"trachea development"	"GO:0060438"	"trachea development"	0
+"GO:0060438"	"trachea development"	"GO:0060439"	"trachea morphogenesis"	1
+"GO:0060438"	"trachea development"	"GO:0060534"	"trachea cartilage development"	1
+"GO:0060438"	"trachea development"	"GO:0061152"	"trachea submucosa development"	1
+"GO:0060438"	"trachea development"	"GO:0060440"	"trachea formation"	2
+"GO:0060438"	"trachea development"	"GO:0060535"	"trachea cartilage morphogenesis"	2
+"GO:0060438"	"trachea development"	"GO:0061153"	"trachea gland development"	2
+"GO:0060539"	"diaphragm development"	"GO:0060539"	"diaphragm development"	0
+"GO:0060539"	"diaphragm development"	"GO:0060540"	"diaphragm morphogenesis"	1
+"GO:0022008"	"neurogenesis"	"GO:0022008"	"neurogenesis"	0
+"GO:0022008"	"neurogenesis"	"GO:0042063"	"gliogenesis"	1
+"GO:0022008"	"neurogenesis"	"GO:0048699"	"generation of neurons"	1
+"GO:0022008"	"neurogenesis"	"GO:0050767"	"regulation of neurogenesis"	1
+"GO:0022008"	"neurogenesis"	"GO:0050768"	"negative regulation of neurogenesis"	1
+"GO:0022008"	"neurogenesis"	"GO:0050769"	"positive regulation of neurogenesis"	1
+"GO:0022008"	"neurogenesis"	"GO:0001764"	"neuron migration"	2
+"GO:0022008"	"neurogenesis"	"GO:0002052"	"positive regulation of neuroblast proliferation"	2
+"GO:0022008"	"neurogenesis"	"GO:0007405"	"neuroblast proliferation"	2
+"GO:0022008"	"neurogenesis"	"GO:0007406"	"negative regulation of neuroblast proliferation"	2
+"GO:0022008"	"neurogenesis"	"GO:0007407"	"neuroblast activation"	2
+"GO:0022008"	"neurogenesis"	"GO:0008347"	"glial cell migration"	2
+"GO:0022008"	"neurogenesis"	"GO:0010001"	"glial cell differentiation"	2
+"GO:0022008"	"neurogenesis"	"GO:0014009"	"glial cell proliferation"	2
+"GO:0022008"	"neurogenesis"	"GO:0014013"	"regulation of gliogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0014014"	"negative regulation of gliogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0014015"	"positive regulation of gliogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0014016"	"neuroblast differentiation"	2
+"GO:0022008"	"neurogenesis"	"GO:0021872"	"forebrain generation of neurons"	2
+"GO:0022008"	"neurogenesis"	"GO:0030182"	"neuron differentiation"	2
+"GO:0022008"	"neurogenesis"	"GO:0042065"	"glial cell growth"	2
+"GO:0022008"	"neurogenesis"	"GO:0048170"	"positive regulation of long-term neuronal synaptic plasticity"	2
+"GO:0022008"	"neurogenesis"	"GO:0048171"	"negative regulation of long-term neuronal synaptic plasticity"	2
+"GO:0022008"	"neurogenesis"	"GO:0048173"	"positive regulation of short-term neuronal synaptic plasticity"	2
+"GO:0022008"	"neurogenesis"	"GO:0048174"	"negative regulation of short-term neuronal synaptic plasticity"	2
+"GO:0022008"	"neurogenesis"	"GO:0050771"	"negative regulation of axonogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0050772"	"positive regulation of axonogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0050774"	"negative regulation of dendrite morphogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0050775"	"positive regulation of dendrite morphogenesis"	2
+"GO:0022008"	"neurogenesis"	"GO:0070444"	"oligodendrocyte progenitor proliferation"	2
+"GO:0022008"	"neurogenesis"	"GO:0003357"	"noradrenergic neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0003387"	"neuron differentiation involved in amphid sensory organ development"	3
+"GO:0022008"	"neurogenesis"	"GO:0003393"	"neuron migration involved in retrograde extension"	3
+"GO:0022008"	"neurogenesis"	"GO:0003398"	"glial cell differentiation involved in amphid sensory organ development"	3
+"GO:0022008"	"neurogenesis"	"GO:0014004"	"microglia differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0014010"	"Schwann cell proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0014017"	"neuroblast fate commitment"	3
+"GO:0022008"	"neurogenesis"	"GO:0014019"	"neuroblast development"	3
+"GO:0022008"	"neurogenesis"	"GO:0014037"	"Schwann cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0021526"	"medial motor column neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0021781"	"glial cell fate commitment"	3
+"GO:0022008"	"neurogenesis"	"GO:0021782"	"glial cell development"	3
+"GO:0022008"	"neurogenesis"	"GO:0021828"	"gonadotrophin-releasing hormone neuronal migration to the hypothalamus"	3
+"GO:0022008"	"neurogenesis"	"GO:0021852"	"pyramidal neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:0021861"	"forebrain radial glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0021863"	"forebrain neuroblast differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0021873"	"forebrain neuroblast division"	3
+"GO:0022008"	"neurogenesis"	"GO:0021879"	"forebrain neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0021947"	"outward migration of deep nuclear neurons"	3
+"GO:0022008"	"neurogenesis"	"GO:0021948"	"inward migration of deep nuclear neurons"	3
+"GO:0022008"	"neurogenesis"	"GO:0021953"	"central nervous system neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0022030"	"telencephalon glial cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:0030517"	"negative regulation of axon extension"	3
+"GO:0022008"	"neurogenesis"	"GO:0035315"	"hair cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0035881"	"amacrine cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0036135"	"Schwann cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:0042066"	"perineurial glial growth"	3
+"GO:0022008"	"neurogenesis"	"GO:0042490"	"mechanoreceptor differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0043615"	"astrocyte cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:0045664"	"regulation of neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045665"	"negative regulation of neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045666"	"positive regulation of neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045685"	"regulation of glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045686"	"negative regulation of glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045687"	"positive regulation of glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0045773"	"positive regulation of axon extension"	3
+"GO:0022008"	"neurogenesis"	"GO:0046530"	"photoreceptor cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0048663"	"neuron fate commitment"	3
+"GO:0022008"	"neurogenesis"	"GO:0048666"	"neuron development"	3
+"GO:0022008"	"neurogenesis"	"GO:0048671"	"negative regulation of collateral sprouting"	3
+"GO:0022008"	"neurogenesis"	"GO:0048672"	"positive regulation of collateral sprouting"	3
+"GO:0022008"	"neurogenesis"	"GO:0048708"	"astrocyte differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0048709"	"oligodendrocyte differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0048895"	"lateral line nerve glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0048934"	"peripheral nervous system neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0055057"	"neuroblast division"	3
+"GO:0022008"	"neurogenesis"	"GO:0060019"	"radial glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0060251"	"regulation of glial cell proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0060252"	"positive regulation of glial cell proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0060253"	"negative regulation of glial cell proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0060705"	"neuron differentiation involved in salivary gland development"	3
+"GO:0022008"	"neurogenesis"	"GO:0060945"	"cardiac neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0060950"	"cardiac glial cell differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0061003"	"positive regulation of dendritic spine morphogenesis"	3
+"GO:0022008"	"neurogenesis"	"GO:0061518"	"microglial cell proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0070445"	"regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0070446"	"negative regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0070447"	"positive regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:0071542"	"dopaminergic neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0097154"	"GABAergic neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:0097475"	"motor neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1902692"	"regulation of neuroblast proliferation"	3
+"GO:0022008"	"neurogenesis"	"GO:1903975"	"regulation of glial cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1903976"	"negative regulation of glial cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1903977"	"positive regulation of glial cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1904081"	"positive regulation of transcription from RNA polymerase II promoter involved in neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:1904124"	"microglial cell migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1904936"	"interneuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1904937"	"sensory neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:1905275"	"Rohon-Beard neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:1905962"	"glutamatergic neuron differentiation"	3
+"GO:0022008"	"neurogenesis"	"GO:2001222"	"regulation of neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:2001223"	"negative regulation of neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:2001224"	"positive regulation of neuron migration"	3
+"GO:0022008"	"neurogenesis"	"GO:0001754"	"eye photoreceptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0003358"	"noradrenergic neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:0003359"	"noradrenergic neuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0003361"	"noradrenergic neuron differentiation involved in brainstem development"	4
+"GO:0022008"	"neurogenesis"	"GO:0003388"	"neuron development involved in amphid sensory organ development"	4
+"GO:0022008"	"neurogenesis"	"GO:0003395"	"neuron migration involved in dendrite retrograde extension"	4
+"GO:0022008"	"neurogenesis"	"GO:0007400"	"neuroblast fate determination"	4
+"GO:0022008"	"neurogenesis"	"GO:0007403"	"glial cell fate determination"	4
+"GO:0022008"	"neurogenesis"	"GO:0008038"	"neuron recognition"	4
+"GO:0022008"	"neurogenesis"	"GO:0010624"	"regulation of Schwann cell proliferation"	4
+"GO:0022008"	"neurogenesis"	"GO:0010625"	"positive regulation of Schwann cell proliferation"	4
+"GO:0022008"	"neurogenesis"	"GO:0010626"	"negative regulation of Schwann cell proliferation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014002"	"astrocyte development"	4
+"GO:0022008"	"neurogenesis"	"GO:0014003"	"oligodendrocyte development"	4
+"GO:0022008"	"neurogenesis"	"GO:0014005"	"microglia development"	4
+"GO:0022008"	"neurogenesis"	"GO:0014006"	"regulation of microglia differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014007"	"negative regulation of microglia differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014008"	"positive regulation of microglia differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014011"	"Schwann cell proliferation involved in axon regeneration"	4
+"GO:0022008"	"neurogenesis"	"GO:0014018"	"neuroblast fate specification"	4
+"GO:0022008"	"neurogenesis"	"GO:0014038"	"regulation of Schwann cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014039"	"negative regulation of Schwann cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014040"	"positive regulation of Schwann cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014041"	"regulation of neuron maturation"	4
+"GO:0022008"	"neurogenesis"	"GO:0014044"	"Schwann cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0021514"	"ventral spinal cord interneuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021522"	"spinal cord motor neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021527"	"spinal cord association neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021528"	"commissural neuron differentiation in spinal cord"	4
+"GO:0022008"	"neurogenesis"	"GO:0021529"	"spinal cord oligodendrocyte cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021531"	"spinal cord radial glial cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021701"	"cerebellar Golgi cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021702"	"cerebellar Purkinje cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021707"	"cerebellar granule cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021708"	"Lugaro cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021709"	"cerebellar basket cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021710"	"cerebellar stellate cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021711"	"cerebellar unipolar brush cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021712"	"candelabrum cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021755"	"eurydendroid cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021773"	"striatal medium spiny neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021779"	"oligodendrocyte cell fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021780"	"glial cell fate specification"	4
+"GO:0022008"	"neurogenesis"	"GO:0021801"	"cerebral cortex radial glia guided migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0021822"	"negative regulation of cell motility involved in cerebral cortex radial glia guided migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0021829"	"oligodendrocyte cell migration from the subpallium to the cortex"	4
+"GO:0022008"	"neurogenesis"	"GO:0021847"	"ventricular zone neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0021848"	"neuroblast division in subpallium"	4
+"GO:0022008"	"neurogenesis"	"GO:0021849"	"neuroblast division in subventricular zone"	4
+"GO:0022008"	"neurogenesis"	"GO:0021853"	"cerebral cortex GABAergic interneuron migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0021858"	"GABAergic neuron differentiation in basal ganglia"	4
+"GO:0022008"	"neurogenesis"	"GO:0021859"	"pyramidal neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021862"	"early neuron differentiation in forebrain"	4
+"GO:0022008"	"neurogenesis"	"GO:0021874"	"Wnt signaling pathway involved in forebrain neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0021875"	"fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0021876"	"Notch signaling pathway involved in forebrain neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0021877"	"forebrain neuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021884"	"forebrain neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:0021889"	"olfactory bulb interneuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021890"	"olfactory bulb interneuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021892"	"cerebral cortex GABAergic interneuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021893"	"cerebral cortex GABAergic interneuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021895"	"cerebral cortex neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021896"	"forebrain astrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0021900"	"ventricular zone cell fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021917"	"somatic motor neuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0021954"	"central nervous system neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:0022017"	"neuroblast division in pallium"	4
+"GO:0022008"	"neurogenesis"	"GO:0022023"	"radial glial cell fate commitment in forebrain"	4
+"GO:0022008"	"neurogenesis"	"GO:0022031"	"telencephalon astrocyte cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0022032"	"telencephalon oligodendrocyte cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0022033"	"telencephalon microglial cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0031175"	"neuron projection development"	4
+"GO:0022008"	"neurogenesis"	"GO:0035316"	"non-sensory hair organization"	4
+"GO:0022008"	"neurogenesis"	"GO:0035675"	"neuromast hair cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0035700"	"astrocyte chemotaxis"	4
+"GO:0022008"	"neurogenesis"	"GO:0042461"	"photoreceptor cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0042491"	"inner ear auditory receptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0042551"	"neuron maturation"	4
+"GO:0022008"	"neurogenesis"	"GO:0042705"	"ocellus photoreceptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0045631"	"regulation of mechanoreceptor differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0045632"	"negative regulation of mechanoreceptor differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0045633"	"positive regulation of mechanoreceptor differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0046532"	"regulation of photoreceptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0046533"	"negative regulation of photoreceptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0046534"	"positive regulation of photoreceptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0046552"	"photoreceptor cell fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0048664"	"neuron fate determination"	4
+"GO:0022008"	"neurogenesis"	"GO:0048665"	"neuron fate specification"	4
+"GO:0022008"	"neurogenesis"	"GO:0048667"	"cell morphogenesis involved in neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048684"	"positive regulation of collateral sprouting of intact axon in response to injury"	4
+"GO:0022008"	"neurogenesis"	"GO:0048685"	"negative regulation of collateral sprouting of intact axon in response to injury"	4
+"GO:0022008"	"neurogenesis"	"GO:0048691"	"positive regulation of axon extension involved in regeneration"	4
+"GO:0022008"	"neurogenesis"	"GO:0048692"	"negative regulation of axon extension involved in regeneration"	4
+"GO:0022008"	"neurogenesis"	"GO:0048694"	"positive regulation of collateral sprouting of injured axon"	4
+"GO:0022008"	"neurogenesis"	"GO:0048695"	"negative regulation of collateral sprouting of injured axon"	4
+"GO:0022008"	"neurogenesis"	"GO:0048697"	"positive regulation of collateral sprouting in absence of injury"	4
+"GO:0022008"	"neurogenesis"	"GO:0048698"	"negative regulation of collateral sprouting in absence of injury"	4
+"GO:0022008"	"neurogenesis"	"GO:0048710"	"regulation of astrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048711"	"positive regulation of astrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048712"	"negative regulation of astrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048713"	"regulation of oligodendrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048714"	"positive regulation of oligodendrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048715"	"negative regulation of oligodendrocyte differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048842"	"positive regulation of axon extension involved in axon guidance"	4
+"GO:0022008"	"neurogenesis"	"GO:0048843"	"negative regulation of axon extension involved in axon guidance"	4
+"GO:0022008"	"neurogenesis"	"GO:0048886"	"neuromast hair cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048891"	"lateral line ganglion neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048896"	"lateral line nerve glial cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0048913"	"anterior lateral line nerve glial cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048931"	"posterior lateral line nerve glial cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0048935"	"peripheral nervous system neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:0048937"	"lateral line nerve glial cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0055058"	"symmetric neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0055059"	"asymmetric neuroblast division"	4
+"GO:0022008"	"neurogenesis"	"GO:0055060"	"asymmetric neuroblast division resulting in ganglion mother cell formation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060018"	"astrocyte fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0060020"	"Bergmann glial cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060040"	"retinal bipolar neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060113"	"inner ear receptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060114"	"vestibular receptor cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060119"	"inner ear receptor cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0060120"	"inner ear receptor cell fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0060163"	"subpallium neuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0060164"	"regulation of timing of neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060579"	"ventral spinal cord interneuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0060857"	"establishment of glial blood-brain barrier"	4
+"GO:0022008"	"neurogenesis"	"GO:0060951"	"neural crest-derived cardiac glial cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0060952"	"cardiac glial cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0060953"	"cardiac glial cell fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0060959"	"cardiac neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:0060960"	"cardiac neuron fate commitment"	4
+"GO:0022008"	"neurogenesis"	"GO:0061449"	"olfactory bulb tufted cell development"	4
+"GO:0022008"	"neurogenesis"	"GO:0061452"	"retrotrapezoid nucleus neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0070656"	"mechanoreceptor differentiation involved in mechanosensory epithelium regeneration"	4
+"GO:0022008"	"neurogenesis"	"GO:0097410"	"hippocampal interneuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0097432"	"hippocampal pyramidal neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0097476"	"spinal cord motor neuron migration"	4
+"GO:0022008"	"neurogenesis"	"GO:0106091"	"glial cell projection elongation"	4
+"GO:0022008"	"neurogenesis"	"GO:0120006"	"regulation of glutamatergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0120007"	"negative regulation of glutamatergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0120008"	"positive regulation of glutamatergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1900147"	"regulation of Schwann cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1900148"	"negative regulation of Schwann cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1900149"	"positive regulation of Schwann cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1902829"	"regulation of spinal cord association neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1902830"	"negative regulation of spinal cord association neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1902831"	"positive regulation of spinal cord association neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1902869"	"regulation of amacrine cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1902870"	"negative regulation of amacrine cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1902871"	"positive regulation of amacrine cell differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1904139"	"regulation of microglial cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1904140"	"negative regulation of microglial cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1904141"	"positive regulation of microglial cell migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1904338"	"regulation of dopaminergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1904339"	"negative regulation of dopaminergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1904340"	"positive regulation of dopaminergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1904948"	"midbrain dopaminergic neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:1905079"	"regulation of cerebellar neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:1905080"	"negative regulation of cerebellar neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:1905081"	"positive regulation of cerebellar neuron development"	4
+"GO:0022008"	"neurogenesis"	"GO:1905483"	"regulation of motor neuron migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1905484"	"negative regulation of motor neuron migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1905485"	"positive regulation of motor neuron migration"	4
+"GO:0022008"	"neurogenesis"	"GO:1990751"	"Schwann cell chemotaxis"	4
+"GO:0022008"	"neurogenesis"	"GO:2000458"	"regulation of astrocyte chemotaxis"	4
+"GO:0022008"	"neurogenesis"	"GO:2000459"	"negative regulation of astrocyte chemotaxis"	4
+"GO:0022008"	"neurogenesis"	"GO:2000464"	"positive regulation of astrocyte chemotaxis"	4
+"GO:0022008"	"neurogenesis"	"GO:2000977"	"regulation of forebrain neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:2000978"	"negative regulation of forebrain neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:2000979"	"positive regulation of forebrain neuron differentiation"	4
+"GO:0022008"	"neurogenesis"	"GO:0001751"	"compound eye photoreceptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0002093"	"auditory receptor cell morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0003362"	"noradrenergic neuron fate commitment involved in brainstem development"	5
+"GO:0022008"	"neurogenesis"	"GO:0003389"	"retrograde extension"	5
+"GO:0022008"	"neurogenesis"	"GO:0003391"	"amphid sensory organ dendrite retrograde extension"	5
+"GO:0022008"	"neurogenesis"	"GO:0003397"	"neuron migration involved in amphid sensory organ dendrite retrograde extension"	5
+"GO:0022008"	"neurogenesis"	"GO:0007409"	"axonogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0007413"	"axonal fasciculation"	5
+"GO:0022008"	"neurogenesis"	"GO:0007414"	"axonal defasciculation"	5
+"GO:0022008"	"neurogenesis"	"GO:0008039"	"synaptic target recognition"	5
+"GO:0022008"	"neurogenesis"	"GO:0008594"	"photoreceptor cell morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0009912"	"auditory receptor cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0010975"	"regulation of neuron projection development"	5
+"GO:0022008"	"neurogenesis"	"GO:0010976"	"positive regulation of neuron projection development"	5
+"GO:0022008"	"neurogenesis"	"GO:0010977"	"negative regulation of neuron projection development"	5
+"GO:0022008"	"neurogenesis"	"GO:0014042"	"positive regulation of neuron maturation"	5
+"GO:0022008"	"neurogenesis"	"GO:0014043"	"negative regulation of neuron maturation"	5
+"GO:0022008"	"neurogenesis"	"GO:0016198"	"axon choice point recognition"	5
+"GO:0022008"	"neurogenesis"	"GO:0016322"	"neuron remodeling"	5
+"GO:0022008"	"neurogenesis"	"GO:0016358"	"dendrite development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021518"	"spinal cord commissural neuron specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021519"	"spinal cord association neuron specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021520"	"spinal cord motor neuron cell fate specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021521"	"ventral spinal cord interneuron specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021523"	"somatic motor neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0021524"	"visceral motor neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0021525"	"lateral motor column neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0021530"	"spinal cord oligodendrocyte cell fate specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021778"	"oligodendrocyte cell fate specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0021812"	"neuronal-glial interaction involved in cerebral cortex radial glia guided migration"	5
+"GO:0022008"	"neurogenesis"	"GO:0021814"	"cell motility involved in cerebral cortex radial glia guided migration"	5
+"GO:0022008"	"neurogenesis"	"GO:0021819"	"layer formation in cerebral cortex"	5
+"GO:0022008"	"neurogenesis"	"GO:0021851"	"neuroblast division in dorsal lateral ganglionic eminence"	5
+"GO:0022008"	"neurogenesis"	"GO:0021860"	"pyramidal neuron development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021870"	"Cajal-Retzius cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0021878"	"forebrain astrocyte fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0021888"	"hypothalamus gonadotrophin-releasing hormone neuron development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021891"	"olfactory bulb interneuron development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021894"	"cerebral cortex GABAergic interneuron development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021897"	"forebrain astrocyte development"	5
+"GO:0022008"	"neurogenesis"	"GO:0021898"	"commitment of multipotent stem cells to neuronal lineage in forebrain"	5
+"GO:0022008"	"neurogenesis"	"GO:0021901"	"early neuron fate commitment in forebrain"	5
+"GO:0022008"	"neurogenesis"	"GO:0021902"	"commitment of neuronal cell to specific neuron type in forebrain"	5
+"GO:0022008"	"neurogenesis"	"GO:0021916"	"inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors"	5
+"GO:0022008"	"neurogenesis"	"GO:0021955"	"central nervous system neuron axonogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0022010"	"central nervous system myelination"	5
+"GO:0022008"	"neurogenesis"	"GO:0022011"	"myelination in peripheral nervous system"	5
+"GO:0022008"	"neurogenesis"	"GO:0031102"	"neuron projection regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:0035317"	"imaginal disc-derived wing hair organization"	5
+"GO:0022008"	"neurogenesis"	"GO:0035676"	"anterior lateral line neuromast hair cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0035677"	"posterior lateral line neuromast hair cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0035678"	"neuromast hair cell morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0035845"	"photoreceptor cell outer segment organization"	5
+"GO:0022008"	"neurogenesis"	"GO:0042462"	"eye photoreceptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0042463"	"ocellus photoreceptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0042478"	"regulation of eye photoreceptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0042479"	"positive regulation of eye photoreceptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0042667"	"auditory receptor cell fate specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0042668"	"auditory receptor cell fate determination"	5
+"GO:0022008"	"neurogenesis"	"GO:0042706"	"eye photoreceptor cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0042707"	"ocellus photoreceptor cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0043703"	"photoreceptor cell fate determination"	5
+"GO:0022008"	"neurogenesis"	"GO:0043704"	"photoreceptor cell fate specification"	5
+"GO:0022008"	"neurogenesis"	"GO:0045161"	"neuronal ion channel clustering"	5
+"GO:0022008"	"neurogenesis"	"GO:0045196"	"establishment or maintenance of neuroblast polarity"	5
+"GO:0022008"	"neurogenesis"	"GO:0045314"	"regulation of compound eye photoreceptor development"	5
+"GO:0022008"	"neurogenesis"	"GO:0045607"	"regulation of inner ear auditory receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0045608"	"negative regulation of inner ear auditory receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0045609"	"positive regulation of inner ear auditory receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048143"	"astrocyte activation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048812"	"neuron projection morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0048813"	"dendrite morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0048903"	"anterior lateral line neuromast hair cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048908"	"anterior lateral line ganglion neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048912"	"glial cell migration in anterior lateral line nerve"	5
+"GO:0022008"	"neurogenesis"	"GO:0048923"	"posterior lateral line neuromast hair cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048928"	"posterior lateral line ganglion neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048930"	"glial cell migration in posterior lateral line nerve"	5
+"GO:0022008"	"neurogenesis"	"GO:0048936"	"peripheral nervous system neuron axonogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0048938"	"lateral line nerve glial cell morphogenesis involved in differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0048939"	"anterior lateral line nerve glial cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0048941"	"posterior lateral line nerve glial cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0060115"	"vestibular receptor cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0060116"	"vestibular receptor cell morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0060117"	"auditory receptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0060118"	"vestibular receptor cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0060122"	"inner ear receptor cell stereocilium organization"	5
+"GO:0022008"	"neurogenesis"	"GO:0060165"	"regulation of timing of subpallium neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0060219"	"camera-type eye photoreceptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0060224"	"regulation of retinal rod cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0060225"	"positive regulation of retinal rod cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0060226"	"negative regulation of retinal cone cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0060580"	"ventral spinal cord interneuron fate determination"	5
+"GO:0022008"	"neurogenesis"	"GO:0060954"	"neural crest-derived cardiac glial cell development"	5
+"GO:0022008"	"neurogenesis"	"GO:0060955"	"neural crest-derived cardiac glial cell fate commitment"	5
+"GO:0022008"	"neurogenesis"	"GO:0060997"	"dendritic spine morphogenesis"	5
+"GO:0022008"	"neurogenesis"	"GO:0061564"	"axon development"	5
+"GO:0022008"	"neurogenesis"	"GO:0061888"	"regulation of astrocyte activation"	5
+"GO:0022008"	"neurogenesis"	"GO:0061889"	"negative regulation of astrocyte activation"	5
+"GO:0022008"	"neurogenesis"	"GO:0061890"	"positive regulation of astrocyte activation"	5
+"GO:0022008"	"neurogenesis"	"GO:0070593"	"dendrite self-avoidance"	5
+"GO:0022008"	"neurogenesis"	"GO:0070658"	"neuromast hair cell differentiation involved in neuromast regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:0070660"	"inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:0097477"	"lateral motor column neuron migration"	5
+"GO:0022008"	"neurogenesis"	"GO:0098749"	"cerebellar neuron development"	5
+"GO:0022008"	"neurogenesis"	"GO:0100067"	"positive regulation of spinal cord association neuron differentiation by canonical Wnt signaling pathway"	5
+"GO:0022008"	"neurogenesis"	"GO:0106030"	"neuron projection fasciculation"	5
+"GO:0022008"	"neurogenesis"	"GO:0106092"	"glial cell projection elongation involved in axon ensheathment"	5
+"GO:0022008"	"neurogenesis"	"GO:0110116"	"regulation of compound eye photoreceptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0110117"	"positive regulation of compound eye photoreceptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0110118"	"negative regulation of compound eye photoreceptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1902076"	"regulation of lateral motor column neuron migration"	5
+"GO:0022008"	"neurogenesis"	"GO:1902077"	"negative regulation of lateral motor column neuron migration"	5
+"GO:0022008"	"neurogenesis"	"GO:1902078"	"positive regulation of lateral motor column neuron migration"	5
+"GO:0022008"	"neurogenesis"	"GO:1902844"	"positive regulation of spinal cord association neuron differentiation by negative regulation of canonical Wnt signaling pathway"	5
+"GO:0022008"	"neurogenesis"	"GO:1904266"	"regulation of Schwann cell chemotaxis"	5
+"GO:0022008"	"neurogenesis"	"GO:1904267"	"negative regulation of Schwann cell chemotaxis"	5
+"GO:0022008"	"neurogenesis"	"GO:1904268"	"positive regulation of Schwann cell chemotaxis"	5
+"GO:0022008"	"neurogenesis"	"GO:1904389"	"rod bipolar cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1904390"	"cone retinal bipolar cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1904799"	"regulation of neuron remodeling"	5
+"GO:0022008"	"neurogenesis"	"GO:1904953"	"Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1904956"	"regulation of midbrain dopaminergic neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1904957"	"negative regulation of midbrain dopaminergic neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1904958"	"positive regulation of midbrain dopaminergic neuron differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:1905044"	"regulation of Schwann cell proliferation involved in axon regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:1905045"	"negative regulation of Schwann cell proliferation involved in axon regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:1905046"	"positive regulation of Schwann cell proliferation involved in axon regeneration"	5
+"GO:0022008"	"neurogenesis"	"GO:1905270"	"Meynert cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:2000980"	"regulation of inner ear receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:2000981"	"negative regulation of inner ear receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:2000982"	"positive regulation of inner ear receptor cell differentiation"	5
+"GO:0022008"	"neurogenesis"	"GO:0001737"	"establishment of imaginal disc-derived wing hair orientation"	6
+"GO:0022008"	"neurogenesis"	"GO:0001752"	"compound eye photoreceptor fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0002265"	"astrocyte activation involved in immune response"	6
+"GO:0022008"	"neurogenesis"	"GO:0003390"	"dendrite development by retrograde extension"	6
+"GO:0022008"	"neurogenesis"	"GO:0003392"	"cell adhesion involved in retrograde extension"	6
+"GO:0022008"	"neurogenesis"	"GO:0003396"	"cell adhesion involved in amphid sensory organ dendrite retrograde extension"	6
+"GO:0022008"	"neurogenesis"	"GO:0007411"	"axon guidance"	6
+"GO:0022008"	"neurogenesis"	"GO:0007412"	"axon target recognition"	6
+"GO:0022008"	"neurogenesis"	"GO:0007415"	"defasciculation of motor neuron axon"	6
+"GO:0022008"	"neurogenesis"	"GO:0009998"	"negative regulation of retinal cone cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0009999"	"negative regulation of auditory receptor cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0016199"	"axon midline choice point recognition"	6
+"GO:0022008"	"neurogenesis"	"GO:0016200"	"synaptic target attraction"	6
+"GO:0022008"	"neurogenesis"	"GO:0016201"	"synaptic target inhibition"	6
+"GO:0022008"	"neurogenesis"	"GO:0021774"	"retinoic acid receptor signaling pathway involved in ventral spinal cord interneuron specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0021775"	"smoothened signaling pathway involved in ventral spinal cord interneuron specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0021776"	"smoothened signaling pathway involved in spinal cord motor neuron cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0021806"	"initiation of movement involved in cerebral cortex radial glia guided migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021813"	"cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021815"	"modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021818"	"modulation of the microfilament cytoskeleton involved in cell locomotion in cerebral cortex radial glia guided migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021820"	"extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021821"	"negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination"	6
+"GO:0022008"	"neurogenesis"	"GO:0021827"	"postnatal olfactory bulb interneuron migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021831"	"embryonic olfactory bulb interneuron precursor migration"	6
+"GO:0022008"	"neurogenesis"	"GO:0021880"	"Notch signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0021881"	"Wnt-activated signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0021899"	"fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0021952"	"central nervous system projection neuron axonogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0021956"	"central nervous system interneuron axonogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0022024"	"BMP signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0022025"	"leukemia inhibitory factor signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0022026"	"epidermal growth factor signaling pathway involved in forebrain neuron fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0031103"	"axon regeneration"	6
+"GO:0022008"	"neurogenesis"	"GO:0031104"	"dendrite regeneration"	6
+"GO:0022008"	"neurogenesis"	"GO:0032286"	"central nervous system myelin maintenance"	6
+"GO:0022008"	"neurogenesis"	"GO:0032287"	"peripheral nervous system myelin maintenance"	6
+"GO:0022008"	"neurogenesis"	"GO:0032289"	"central nervous system myelin formation"	6
+"GO:0022008"	"neurogenesis"	"GO:0032290"	"peripheral nervous system myelin formation"	6
+"GO:0022008"	"neurogenesis"	"GO:0035318"	"imaginal disc-derived wing hair outgrowth"	6
+"GO:0022008"	"neurogenesis"	"GO:0035319"	"imaginal disc-derived wing hair elongation"	6
+"GO:0022008"	"neurogenesis"	"GO:0035321"	"maintenance of imaginal disc-derived wing hair orientation"	6
+"GO:0022008"	"neurogenesis"	"GO:0035679"	"anterior lateral line neuromast hair cell morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0035680"	"posterior lateral line neuromast hair cell morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0042051"	"compound eye photoreceptor development"	6
+"GO:0022008"	"neurogenesis"	"GO:0042480"	"negative regulation of eye photoreceptor cell development"	6
+"GO:0022008"	"neurogenesis"	"GO:0042669"	"regulation of inner ear auditory receptor cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0042670"	"retinal cone cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0042671"	"retinal cone cell fate determination"	6
+"GO:0022008"	"neurogenesis"	"GO:0042672"	"retinal cone cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0045162"	"clustering of voltage-gated sodium channels"	6
+"GO:0022008"	"neurogenesis"	"GO:0045163"	"clustering of voltage-gated potassium channels"	6
+"GO:0022008"	"neurogenesis"	"GO:0045200"	"establishment of neuroblast polarity"	6
+"GO:0022008"	"neurogenesis"	"GO:0045201"	"maintenance of neuroblast polarity"	6
+"GO:0022008"	"neurogenesis"	"GO:0045315"	"positive regulation of compound eye photoreceptor development"	6
+"GO:0022008"	"neurogenesis"	"GO:0045316"	"negative regulation of compound eye photoreceptor development"	6
+"GO:0022008"	"neurogenesis"	"GO:0045464"	"R8 cell fate specification"	6
+"GO:0022008"	"neurogenesis"	"GO:0045465"	"R8 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045466"	"R7 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045676"	"regulation of R7 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045677"	"negative regulation of R7 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045678"	"positive regulation of R7 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045679"	"regulation of R8 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045680"	"negative regulation of R8 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0045681"	"positive regulation of R8 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0046548"	"retinal rod cell development"	6
+"GO:0022008"	"neurogenesis"	"GO:0046549"	"retinal cone cell development"	6
+"GO:0022008"	"neurogenesis"	"GO:0048052"	"R1/R6 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0048054"	"R2/R5 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0048056"	"R3/R4 cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0048668"	"collateral sprouting"	6
+"GO:0022008"	"neurogenesis"	"GO:0048675"	"axon extension"	6
+"GO:0022008"	"neurogenesis"	"GO:0048814"	"regulation of dendrite morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0048893"	"afferent axon development in lateral line nerve"	6
+"GO:0022008"	"neurogenesis"	"GO:0048894"	"efferent axon development in a lateral line nerve"	6
+"GO:0022008"	"neurogenesis"	"GO:0048897"	"myelination of lateral line nerve axons"	6
+"GO:0022008"	"neurogenesis"	"GO:0048940"	"anterior lateral line nerve glial cell morphogenesis involved in differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0048942"	"posterior lateral line nerve glial cell morphogenesis involved in differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0050770"	"regulation of axonogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0050773"	"regulation of dendrite development"	6
+"GO:0022008"	"neurogenesis"	"GO:0060088"	"auditory receptor cell stereocilium organization"	6
+"GO:0022008"	"neurogenesis"	"GO:0060121"	"vestibular receptor cell stereocilium organization"	6
+"GO:0022008"	"neurogenesis"	"GO:0060220"	"camera-type eye photoreceptor cell fate commitment"	6
+"GO:0022008"	"neurogenesis"	"GO:0060221"	"retinal rod cell differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:0060385"	"axonogenesis involved in innervation"	6
+"GO:0022008"	"neurogenesis"	"GO:0060996"	"dendritic spine development"	6
+"GO:0022008"	"neurogenesis"	"GO:0061001"	"regulation of dendritic spine morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0061002"	"negative regulation of dendritic spine morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0061541"	"rhabdomere morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0062139"	"camera-type eye photoreceptor cell development"	6
+"GO:0022008"	"neurogenesis"	"GO:0070073"	"clustering of voltage-gated calcium channels"	6
+"GO:0022008"	"neurogenesis"	"GO:0070570"	"regulation of neuron projection regeneration"	6
+"GO:0022008"	"neurogenesis"	"GO:0070571"	"negative regulation of neuron projection regeneration"	6
+"GO:0022008"	"neurogenesis"	"GO:0070572"	"positive regulation of neuron projection regeneration"	6
+"GO:0022008"	"neurogenesis"	"GO:0070983"	"dendrite guidance"	6
+"GO:0022008"	"neurogenesis"	"GO:0097155"	"fasciculation of sensory neuron axon"	6
+"GO:0022008"	"neurogenesis"	"GO:0097156"	"fasciculation of motor neuron axon"	6
+"GO:0022008"	"neurogenesis"	"GO:0097485"	"neuron projection guidance"	6
+"GO:0022008"	"neurogenesis"	"GO:0120045"	"stereocilium maintenance"	6
+"GO:0022008"	"neurogenesis"	"GO:0140058"	"neuron projection arborization"	6
+"GO:0022008"	"neurogenesis"	"GO:0140059"	"dendrite arborization"	6
+"GO:0022008"	"neurogenesis"	"GO:0140060"	"axon arborization"	6
+"GO:0022008"	"neurogenesis"	"GO:0150018"	"basal dendrite development"	6
+"GO:0022008"	"neurogenesis"	"GO:0150019"	"basal dendrite morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0150021"	"apical dendrite morphogenesis"	6
+"GO:0022008"	"neurogenesis"	"GO:0150022"	"apical dendrite development"	6
+"GO:0022008"	"neurogenesis"	"GO:1900006"	"positive regulation of dendrite development"	6
+"GO:0022008"	"neurogenesis"	"GO:1904800"	"negative regulation of neuron remodeling"	6
+"GO:0022008"	"neurogenesis"	"GO:1904801"	"positive regulation of neuron remodeling"	6
+"GO:0022008"	"neurogenesis"	"GO:1904954"	"canonical Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:1905424"	"regulation of Wnt-mediated midbrain dopaminergic neuron differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:1905425"	"negative regulation of Wnt-mediated midbrain dopaminergic neuron differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:1905426"	"positive regulation of Wnt-mediated midbrain dopaminergic neuron differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:1905438"	"non-canonical Wnt signaling pathway involved in midbrain dopaminergic neuron differentiation"	6
+"GO:0022008"	"neurogenesis"	"GO:1990138"	"neuron projection extension"	6
+"GO:0022008"	"neurogenesis"	"GO:2000171"	"negative regulation of dendrite development"	6
+"GO:0022008"	"neurogenesis"	"GO:2000248"	"negative regulation of establishment or maintenance of neuroblast polarity"	6
+"GO:0022008"	"neurogenesis"	"GO:0003394"	"cell adhesion involved in dendrite retrograde extension"	7
+"GO:0022008"	"neurogenesis"	"GO:0007460"	"R8 cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0007462"	"R1/R6 cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0007463"	"R2/R5 cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0007464"	"R3/R4 cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0007465"	"R7 cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0008045"	"motor neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0014012"	"peripheral nervous system axon regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0014814"	"axon regeneration at neuromuscular junction"	7
+"GO:0022008"	"neurogenesis"	"GO:0021540"	"corpus callosum morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021807"	"motogenic signaling initiating cell movement in cerebral cortex"	7
+"GO:0022008"	"neurogenesis"	"GO:0021808"	"cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021816"	"extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021817"	"nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021834"	"chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021835"	"chemoattraction involved in embryonic olfactory bulb interneuron precursor migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021836"	"chemorepulsion involved in postnatal olfactory bulb interneuron migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021837"	"motogenic signaling involved in postnatal olfactory bulb interneuron migration"	7
+"GO:0022008"	"neurogenesis"	"GO:0021957"	"corticospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021958"	"gracilis tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021959"	"cuneatus tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021960"	"anterior commissure morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021961"	"posterior commissure morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021962"	"vestibulospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021963"	"spinothalamic tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021964"	"rubrospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021965"	"spinal cord ventral commissure morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021966"	"corticospinal neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0021967"	"corticospinal neuron axon guidance through the cerebral cortex"	7
+"GO:0022008"	"neurogenesis"	"GO:0021968"	"corticospinal neuron axon guidance through the internal capsule"	7
+"GO:0022008"	"neurogenesis"	"GO:0021969"	"corticospinal neuron axon guidance through the cerebral peduncle"	7
+"GO:0022008"	"neurogenesis"	"GO:0021970"	"corticospinal neuron axon guidance through the basilar pons"	7
+"GO:0022008"	"neurogenesis"	"GO:0021971"	"corticospinal neuron axon guidance through the medullary pyramid"	7
+"GO:0022008"	"neurogenesis"	"GO:0021972"	"corticospinal neuron axon guidance through spinal cord"	7
+"GO:0022008"	"neurogenesis"	"GO:0021973"	"corticospinal neuron axon decussation"	7
+"GO:0022008"	"neurogenesis"	"GO:0021974"	"trigeminothalamic tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021975"	"pons reticulospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021976"	"medulla reticulospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0021977"	"tectospinal tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0030516"	"regulation of axon extension"	7
+"GO:0022008"	"neurogenesis"	"GO:0031133"	"regulation of axon diameter"	7
+"GO:0022008"	"neurogenesis"	"GO:0031290"	"retinal ganglion cell axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0033563"	"dorsal/ventral axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0033564"	"anterior/posterior axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0034429"	"tectobulbar tract morphogenesis"	7
+"GO:0022008"	"neurogenesis"	"GO:0035320"	"imaginal disc-derived wing hair site selection"	7
+"GO:0022008"	"neurogenesis"	"GO:0036514"	"dopaminergic neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0036515"	"serotonergic neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0042052"	"rhabdomere development"	7
+"GO:0022008"	"neurogenesis"	"GO:0042673"	"regulation of retinal cone cell fate specification"	7
+"GO:0022008"	"neurogenesis"	"GO:0045463"	"R8 cell development"	7
+"GO:0022008"	"neurogenesis"	"GO:0045467"	"R7 cell development"	7
+"GO:0022008"	"neurogenesis"	"GO:0045470"	"R8 cell-mediated photoreceptor organization"	7
+"GO:0022008"	"neurogenesis"	"GO:0045501"	"regulation of sevenless signaling pathway"	7
+"GO:0022008"	"neurogenesis"	"GO:0045873"	"negative regulation of sevenless signaling pathway"	7
+"GO:0022008"	"neurogenesis"	"GO:0046551"	"retinal cone cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0048053"	"R1/R6 development"	7
+"GO:0022008"	"neurogenesis"	"GO:0048055"	"R2/R5 development"	7
+"GO:0022008"	"neurogenesis"	"GO:0048057"	"R3/R4 development"	7
+"GO:0022008"	"neurogenesis"	"GO:0048669"	"collateral sprouting in absence of injury"	7
+"GO:0022008"	"neurogenesis"	"GO:0048670"	"regulation of collateral sprouting"	7
+"GO:0022008"	"neurogenesis"	"GO:0048673"	"collateral sprouting of intact axon in response to injury"	7
+"GO:0022008"	"neurogenesis"	"GO:0048674"	"collateral sprouting of injured axon"	7
+"GO:0022008"	"neurogenesis"	"GO:0048677"	"axon extension involved in regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0048679"	"regulation of axon regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0048680"	"positive regulation of axon regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0048681"	"negative regulation of axon regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0048682"	"sprouting of injured axon"	7
+"GO:0022008"	"neurogenesis"	"GO:0048846"	"axon extension involved in axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0048910"	"afferent axon development in anterior lateral line nerve"	7
+"GO:0022008"	"neurogenesis"	"GO:0048911"	"efferent axon development in anterior lateral line nerve"	7
+"GO:0022008"	"neurogenesis"	"GO:0048914"	"myelination of anterior lateral line nerve axons"	7
+"GO:0022008"	"neurogenesis"	"GO:0048929"	"efferent axon development in posterior lateral line nerve"	7
+"GO:0022008"	"neurogenesis"	"GO:0048932"	"myelination of posterior lateral line nerve axons"	7
+"GO:0022008"	"neurogenesis"	"GO:0048933"	"afferent axon development in posterior lateral line nerve"	7
+"GO:0022008"	"neurogenesis"	"GO:0060223"	"retinal rod cell fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0060227"	"Notch signaling pathway involved in camera-type eye photoreceptor fate commitment"	7
+"GO:0022008"	"neurogenesis"	"GO:0060998"	"regulation of dendritic spine development"	7
+"GO:0022008"	"neurogenesis"	"GO:0060999"	"positive regulation of dendritic spine development"	7
+"GO:0022008"	"neurogenesis"	"GO:0061000"	"negative regulation of dendritic spine development"	7
+"GO:0022008"	"neurogenesis"	"GO:0061642"	"chemoattraction of axon"	7
+"GO:0022008"	"neurogenesis"	"GO:0061643"	"chemorepulsion of axon"	7
+"GO:0022008"	"neurogenesis"	"GO:0071678"	"olfactory bulb axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0071679"	"commissural neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0072499"	"photoreceptor cell axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0097374"	"sensory neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0097376"	"interneuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0097484"	"dendrite extension"	7
+"GO:0022008"	"neurogenesis"	"GO:0097490"	"sympathetic neuron projection extension"	7
+"GO:0022008"	"neurogenesis"	"GO:0097491"	"sympathetic neuron projection guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0097492"	"sympathetic neuron axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0101027"	"optical nerve axon regeneration"	7
+"GO:0022008"	"neurogenesis"	"GO:0150011"	"regulation of neuron projection arborization"	7
+"GO:0022008"	"neurogenesis"	"GO:0150012"	"positive regulation of neuron projection arborization"	7
+"GO:0022008"	"neurogenesis"	"GO:0150013"	"negative regulation of neuron projection arborization"	7
+"GO:0022008"	"neurogenesis"	"GO:0150020"	"basal dendrite arborization"	7
+"GO:0022008"	"neurogenesis"	"GO:0150023"	"apical dendrite arborization"	7
+"GO:0022008"	"neurogenesis"	"GO:1902284"	"neuron projection extension involved in neuron projection guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902285"	"semaphorin-plexin signaling pathway involved in neuron projection guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902286"	"semaphorin-plexin signaling pathway involved in dendrite guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902287"	"semaphorin-plexin signaling pathway involved in axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902378"	"VEGF-activated neuropilin signaling pathway involved in axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902667"	"regulation of axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902668"	"negative regulation of axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1902669"	"positive regulation of axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1904938"	"planar cell polarity pathway involved in axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:1904955"	"planar cell polarity pathway involved in midbrain dopaminergic neuron differentiation"	7
+"GO:0022008"	"neurogenesis"	"GO:2001266"	"Roundabout signaling pathway involved in axon guidance"	7
+"GO:0022008"	"neurogenesis"	"GO:0021785"	"branchiomotor neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0021792"	"chemoattraction of branchiomotor axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0021793"	"chemorepulsion of branchiomotor axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0021809"	"neurotrophic factor signaling initiating cell movement, involved in cerebral cortex radial glia guided migration"	8
+"GO:0022008"	"neurogenesis"	"GO:0021810"	"neurotransmitter signaling initiating cell movement, involved in cerebral cortex radial glia guided migration"	8
+"GO:0022008"	"neurogenesis"	"GO:0021811"	"growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration"	8
+"GO:0022008"	"neurogenesis"	"GO:0036516"	"chemoattraction of dopaminergic neuron axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0036517"	"chemoattraction of serotonergic neuron axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0036518"	"chemorepulsion of dopaminergic neuron axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0036519"	"chemorepulsion of serotonergic neuron axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0045313"	"rhabdomere membrane biogenesis"	8
+"GO:0022008"	"neurogenesis"	"GO:0045500"	"sevenless signaling pathway"	8
+"GO:0022008"	"neurogenesis"	"GO:0045874"	"positive regulation of sevenless signaling pathway"	8
+"GO:0022008"	"neurogenesis"	"GO:0048683"	"regulation of collateral sprouting of intact axon in response to injury"	8
+"GO:0022008"	"neurogenesis"	"GO:0048686"	"regulation of sprouting of injured axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0048687"	"positive regulation of sprouting of injured axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0048688"	"negative regulation of sprouting of injured axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0048689"	"formation of growth cone in injured axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0048690"	"regulation of axon extension involved in regeneration"	8
+"GO:0022008"	"neurogenesis"	"GO:0048693"	"regulation of collateral sprouting of injured axon"	8
+"GO:0022008"	"neurogenesis"	"GO:0048696"	"regulation of collateral sprouting in absence of injury"	8
+"GO:0022008"	"neurogenesis"	"GO:0048841"	"regulation of axon extension involved in axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0060222"	"regulation of retinal cone cell fate commitment"	8
+"GO:0022008"	"neurogenesis"	"GO:0090259"	"regulation of retinal ganglion cell axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0090260"	"negative regulation of retinal ganglion cell axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0097375"	"spinal sensory neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0097377"	"spinal cord interneuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0097379"	"dorsal spinal cord interneuron posterior axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0097380"	"dorsal spinal cord interneuron anterior axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1902336"	"positive regulation of retinal ganglion cell axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1903859"	"regulation of dendrite extension"	8
+"GO:0022008"	"neurogenesis"	"GO:1903860"	"negative regulation of dendrite extension"	8
+"GO:0022008"	"neurogenesis"	"GO:1903861"	"positive regulation of dendrite extension"	8
+"GO:0022008"	"neurogenesis"	"GO:1905486"	"regulation of anterior/posterior axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905487"	"negative regulation of anterior/posterior axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905488"	"positive regulation of anterior/posterior axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905489"	"regulation of sensory neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905490"	"negative regulation of sensory neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905491"	"positive regulation of sensory neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905591"	"regulation of optical nerve axon regeneration"	8
+"GO:0022008"	"neurogenesis"	"GO:1905592"	"negative regulation of optical nerve axon regeneration"	8
+"GO:0022008"	"neurogenesis"	"GO:1905593"	"positive regulation of optical nerve axon regeneration"	8
+"GO:0022008"	"neurogenesis"	"GO:1905812"	"regulation of motor neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905813"	"negative regulation of motor neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905814"	"positive regulation of motor neuron axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905815"	"regulation of dorsal/ventral axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905816"	"negative regulation of dorsal/ventral axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:1905817"	"positive regulation of dorsal/ventral axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:2000289"	"regulation of photoreceptor cell axon guidance"	8
+"GO:0022008"	"neurogenesis"	"GO:0021786"	"branchiomotor neuron axon guidance in neural tube"	9
+"GO:0022008"	"neurogenesis"	"GO:0021787"	"chemorepulsion of branchiomotor neuron axon in neural tube"	9
+"GO:0022008"	"neurogenesis"	"GO:0021788"	"chemoattraction of branchiomotor neuron axon in neural tube"	9
+"GO:0022008"	"neurogenesis"	"GO:0021789"	"branchiomotor neuron axon guidance in branchial arch mesenchyme"	9
+"GO:0022008"	"neurogenesis"	"GO:0021790"	"chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme"	9
+"GO:0022008"	"neurogenesis"	"GO:0021791"	"chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme"	9
+"GO:0022008"	"neurogenesis"	"GO:0097378"	"dorsal spinal cord interneuron axon guidance"	9
+"GO:0022008"	"neurogenesis"	"GO:1905942"	"regulation of formation of growth cone in injured axon"	9
+"GO:0022008"	"neurogenesis"	"GO:1905943"	"negative regulation of formation of growth cone in injured axon"	9
+"GO:0022008"	"neurogenesis"	"GO:1905944"	"positive regulation of formation of growth cone in injured axon"	9
+"GO:0022008"	"neurogenesis"	"GO:2000305"	"semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance"	9
+"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	"GO:0050911"	"detection of chemical stimulus involved in sensory perception of smell"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0061626"	"pharyngeal arch artery morphogenesis"	"GO:0061626"	"pharyngeal arch artery morphogenesis"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0007424"	"open tracheal system development"	"GO:0007424"	"open tracheal system development"	0
+"GO:0007424"	"open tracheal system development"	"GO:0007425"	"epithelial cell fate determination, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0007426"	"tracheal outgrowth, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0007427"	"epithelial cell migration, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035001"	"dorsal trunk growth, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035002"	"liquid clearance, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035152"	"regulation of tube architecture, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035153"	"epithelial cell type specification, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035202"	"tracheal pit formation in open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0035277"	"spiracle morphogenesis, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0046845"	"branched duct epithelial cell fate determination, open tracheal system"	1
+"GO:0007424"	"open tracheal system development"	"GO:0060446"	"branching involved in open tracheal system development"	1
+"GO:0007424"	"open tracheal system development"	"GO:0007428"	"primary branching, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0007429"	"secondary branching, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0007430"	"terminal branching, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035147"	"branch fusion, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035149"	"lumen formation, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035151"	"regulation of tube size, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035154"	"terminal cell fate specification, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035156"	"fusion cell fate specification"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035160"	"maintenance of epithelial integrity, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:2000274"	"regulation of epithelial cell migration, open tracheal system"	2
+"GO:0007424"	"open tracheal system development"	"GO:0035155"	"negative regulation of terminal cell fate specification, open tracheal system"	3
+"GO:0007424"	"open tracheal system development"	"GO:0035157"	"negative regulation of fusion cell fate specification"	3
+"GO:0007424"	"open tracheal system development"	"GO:0035159"	"regulation of tube length, open tracheal system"	3
+"GO:0007424"	"open tracheal system development"	"GO:0035158"	"regulation of tube diameter, open tracheal system"	4
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0007631"	"feeding behavior"	0
+"GO:0007631"	"feeding behavior"	"GO:0001661"	"conditioned taste aversion"	1
+"GO:0007631"	"feeding behavior"	"GO:0001967"	"suckling behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0008343"	"adult feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0030536"	"larval feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0035199"	"salt aversion"	1
+"GO:0007631"	"feeding behavior"	"GO:0042755"	"eating behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0042756"	"drinking behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0060259"	"regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:2000252"	"negative regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:2000253"	"positive regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0002023"	"reduction of food intake in response to dietary excess"	2
+"GO:0007631"	"feeding behavior"	"GO:0003051"	"angiotensin-mediated drinking behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:0043050"	"pharyngeal pumping"	2
+"GO:0007631"	"feeding behavior"	"GO:0075329"	"regulation of arbuscule formation for nutrient acquisition from host"	2
+"GO:0007631"	"feeding behavior"	"GO:1903998"	"regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:1903999"	"negative regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:1904000"	"positive regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:0043051"	"regulation of pharyngeal pumping"	3
+"GO:0007631"	"feeding behavior"	"GO:0075330"	"positive regulation of arbuscule formation for nutrient acquisition from host"	3
+"GO:0007631"	"feeding behavior"	"GO:0075331"	"negative regulation of arbuscule formation for nutrient acquisition from host"	3
+"GO:0007631"	"feeding behavior"	"GO:1903745"	"negative regulation of pharyngeal pumping"	3
+"GO:0007631"	"feeding behavior"	"GO:1903746"	"positive regulation of pharyngeal pumping"	3
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0055074"	"calcium ion homeostasis"	"GO:0055074"	"calcium ion homeostasis"	0
+"GO:0055074"	"calcium ion homeostasis"	"GO:0006874"	"cellular calcium ion homeostasis"	1
+"GO:0055074"	"calcium ion homeostasis"	"GO:0007036"	"vacuolar calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032468"	"Golgi calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032469"	"endoplasmic reticulum calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051208"	"sequestering of calcium ion"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051480"	"regulation of cytosolic calcium ion concentration"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051560"	"mitochondrial calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0007204"	"positive regulation of cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010617"	"circadian regulation of calcium ion oscillation"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032470"	"positive regulation of endoplasmic reticulum calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032471"	"negative regulation of endoplasmic reticulum calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051282"	"regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051283"	"negative regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051284"	"positive regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051481"	"negative regulation of cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051561"	"positive regulation of mitochondrial calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051562"	"negative regulation of mitochondrial calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051563"	"smooth endoplasmic reticulum calcium ion homeostasis"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099509"	"regulation of presynaptic cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099566"	"regulation of postsynaptic cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0008377"	"light-induced release of internally sequestered calcium ion"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010524"	"positive regulation of calcium ion transport into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051209"	"release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051279"	"regulation of release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051280"	"negative regulation of release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051482"	"positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051564"	"positive regulation of smooth endoplasmic reticulum calcium ion concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051565"	"negative regulation of smooth endoplasmic reticulum calcium ion concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060402"	"calcium ion transport into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060470"	"positive regulation of cytosolic calcium ion concentration involved in egg activation"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099113"	"negative regulation of presynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099533"	"positive regulation of presynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099588"	"positive regulation of postsynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010522"	"regulation of calcium ion transport into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010523"	"negative regulation of calcium ion transport into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010880"	"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031585"	"regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031586"	"negative regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051281"	"positive regulation of release of sequestered calcium ion into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060314"	"regulation of ryanodine-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060315"	"negative regulation of ryanodine-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0061454"	"release of sequestered calcium ion into cytosol by Golgi"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0097553"	"calcium ion transmembrane import into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099093"	"calcium export from the mitochondrion"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099585"	"release of sequestered calcium ion into presynaptic cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099586"	"release of sequestered calcium ion into postsynaptic cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901198"	"positive regulation of calcium ion transport into cytosol involved in cellular response to calcium ion"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901199"	"positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901472"	"regulation of Golgi calcium ion export"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1902656"	"calcium ion import into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1903514"	"release of sequestered calcium ion into cytosol by endoplasmic reticulum"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905665"	"positive regulation of calcium ion import across plasma membrane"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905741"	"calcium export from the mitochondrion involved in positive regulation of presynaptic cytosolic calcium concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905743"	"calcium import into the mitochondrion involved in negative regulation of presynaptic cytosolic calcium concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010881"	"regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014808"	"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014809"	"regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031587"	"positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060316"	"positive regulation of ryanodine-sensitive calcium-release channel activity"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0098703"	"calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901200"	"negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905664"	"regulation of calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905949"	"negative regulation of calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014810"	"positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	7
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014811"	"negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	7
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0055078"	"sodium ion homeostasis"	0
+"GO:0055078"	"sodium ion homeostasis"	"GO:0006883"	"cellular sodium ion homeostasis"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035812"	"renal sodium excretion"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035813"	"regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035814"	"negative regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035815"	"positive regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0043182"	"vacuolar sequestering of sodium ion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035817"	"renal sodium ion absorption involved in negative regulation of renal sodium excretion"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035819"	"positive regulation of renal sodium excretion by pressure natriuresis"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035820"	"negative regulation of renal sodium excretion by angiotensin"	3
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0007585"	"respiratory gaseous exchange by respiratory system"	0
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:0043576"	"regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903941"	"negative regulation of respiratory gaseous exchange"	1
+"GO:0007585"	"respiratory gaseous exchange by respiratory system"	"GO:1903942"	"positive regulation of respiratory gaseous exchange"	1
+"GO:0042048"	"olfactory behavior"	"GO:0042048"	"olfactory behavior"	0
+"GO:0042048"	"olfactory behavior"	"GO:0008355"	"olfactory learning"	1
+"GO:0042048"	"olfactory behavior"	"GO:0090328"	"regulation of olfactory learning"	2
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0002377"	"immunoglobulin production"	0
+"GO:0002377"	"immunoglobulin production"	"GO:0002381"	"immunoglobulin production involved in immunoglobulin-mediated immune response"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0002637"	"regulation of immunoglobulin production"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0002638"	"negative regulation of immunoglobulin production"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0002639"	"positive regulation of immunoglobulin production"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0016445"	"somatic diversification of immunoglobulins"	1
+"GO:0002377"	"immunoglobulin production"	"GO:0002206"	"gene conversion of immunoglobulin genes"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002208"	"somatic diversification of immunoglobulins involved in immune response"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002344"	"B cell affinity maturation"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002426"	"immunoglobulin production in mucosal tissue"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002564"	"alternate splicing of immunoglobulin genes"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002570"	"somatic diversification of immunoglobulin genes by N region addition"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0016446"	"somatic hypermutation of immunoglobulin genes"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0016447"	"somatic recombination of immunoglobulin gene segments"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0045191"	"regulation of isotype switching"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0045829"	"negative regulation of isotype switching"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0045830"	"positive regulation of isotype switching"	2
+"GO:0002377"	"immunoglobulin production"	"GO:2000557"	"regulation of immunoglobulin production in mucosal tissue"	2
+"GO:0002377"	"immunoglobulin production"	"GO:2000558"	"positive regulation of immunoglobulin production in mucosal tissue"	2
+"GO:0002377"	"immunoglobulin production"	"GO:0002204"	"somatic recombination of immunoglobulin genes involved in immune response"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0002205"	"somatic hypermutation of immunoglobulin genes involved in immune response"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0002207"	"gene conversion of immunoglobulin genes involved in immune response"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0002452"	"B cell receptor editing"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0033152"	"immunoglobulin V(D)J recombination"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048293"	"regulation of isotype switching to IgE isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048294"	"negative regulation of isotype switching to IgE isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048295"	"positive regulation of isotype switching to IgE isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048296"	"regulation of isotype switching to IgA isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048297"	"negative regulation of isotype switching to IgA isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048298"	"positive regulation of isotype switching to IgA isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048299"	"regulation of isotype switching to IgD isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048300"	"negative regulation of isotype switching to IgD isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048301"	"positive regulation of isotype switching to IgD isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048302"	"regulation of isotype switching to IgG isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048303"	"negative regulation of isotype switching to IgG isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0048304"	"positive regulation of isotype switching to IgG isotypes"	3
+"GO:0002377"	"immunoglobulin production"	"GO:0002345"	"peripheral B cell receptor editing"	4
+"GO:0002377"	"immunoglobulin production"	"GO:0002511"	"central B cell receptor editing"	4
+"GO:0002377"	"immunoglobulin production"	"GO:0045190"	"isotype switching"	4
+"GO:0002377"	"immunoglobulin production"	"GO:0071707"	"immunoglobulin heavy chain V-D-J recombination"	4
+"GO:0002377"	"immunoglobulin production"	"GO:0071708"	"immunoglobulin light chain V-J recombination"	4
+"GO:0002377"	"immunoglobulin production"	"GO:2000571"	"regulation of interleukin-4-dependent isotype switching to IgE isotypes"	4
+"GO:0002377"	"immunoglobulin production"	"GO:2000572"	"positive regulation of interleukin-4-dependent isotype switching to IgE isotypes"	4
+"GO:0002377"	"immunoglobulin production"	"GO:0048289"	"isotype switching to IgE isotypes"	5
+"GO:0002377"	"immunoglobulin production"	"GO:0048290"	"isotype switching to IgA isotypes"	5
+"GO:0002377"	"immunoglobulin production"	"GO:0048291"	"isotype switching to IgG isotypes"	5
+"GO:0002377"	"immunoglobulin production"	"GO:0048292"	"isotype switching to IgD isotypes"	5
+"GO:0002377"	"immunoglobulin production"	"GO:0035708"	"interleukin-4-dependent isotype switching to IgE isotypes"	6

@@ -1,0 +1,141 @@
+removed_labels: blood circulation
+removed_ids: ~
+removed_children_of:
+- neural crest cell migration
+- neural crest cell migration involved in heart formation
+- cardiac neural crest cell migration involved in outflow tract morphogenesis
+- trunk neural crest cell migration
+- neural crest cell migration involved in autonomic nervous system development
+- dorsolateral trunk neural crest cell migration
+- ventral trunk neural crest cell migration
+- neural crest cell migration involved in sympathetic nervous system development
+- regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis
+- negative regulation of cardiac neural crest cell migration involved in outflow tract
+  morphogenesis
+- positive regulation of cardiac neural crest cell migration involved in outflow tract
+  morphogenesis
+- somatic diversification of DSCAM-based immune receptors
+- somatic diversification of variable lymphocyte receptors of jawless fish
+- mesodermal cell migration
+- mesoderm migration involved in gastrulation
+- epithelial cell migration
+- ovarian follicle cell migration
+- epithelial cell migration, open tracheal system
+- regulation of epithelial cell migration
+- negative regulation of epithelial cell migration
+- positive regulation of epithelial cell migration
+- endothelial cell migration
+- keratinocyte migration
+- cell migration involved in prostatic bud elongation
+- cell migration involved in mammary placode formation
+- corneal epithelial cell migration
+- intestinal epithelial cell migration
+- epithelial cell migration involved in nephron tubule morphogenesis
+- glomerular visceral epithelial cell migration
+- melanocyte migration
+- border follicle cell migration
+- regulation of endothelial cell migration
+- positive regulation of endothelial cell migration
+- negative regulation of endothelial cell migration
+- endothelial cell chemotaxis
+- blood vessel endothelial cell migration
+- regulation of keratinocyte migration
+- negative regulation of keratinocyte migration
+- positive regulation of keratinocyte migration
+- centripetally migrating follicle cell migration
+- main body follicle cell migration
+- epithelial cell migration involved in mesonephric nephron tubule morphogenesis
+- colon epithelial cell migration
+- epithelial cell migration involved in distal tubule morphogenesis
+- epithelial cell migration involved in proximal tubule morphogenesis
+- epithelial cell migration involved in metanephric nephron tubule morphogenesis
+- regulation of border follicle cell migration
+- negative regulation of border follicle cell migration
+- positive regulation of border follicle cell migration
+- lymphatic endothelial cell migration
+- regulation of epithelial cell migration, open tracheal system
+- cell migration involved in sprouting angiogenesis
+- blood vessel endothelial cell migration involved in intussusceptive angiogenesis
+- endothelial cell chemotaxis to fibroblast growth factor
+- regulation of blood vessel endothelial cell migration
+- positive regulation of blood vessel endothelial cell migration
+- negative regulation of blood vessel endothelial cell migration
+- canonical Wnt signaling pathway involved in positive regulation of endothelial cell
+  migration
+- venous endothelial cell migration involved in lymph vessel development
+- epithelial cell migration involved in mesonephric distal tubule morphogenesis
+- epithelial cell migration involved in mesonephric proximal tubule morphogenesis
+- colon epithelial cell chemotaxis
+- epithelial cell migration involved in metanephric distal tubule morphogenesis
+- epithelial cell migration involved in metanephric proximal tubule morphogenesis
+- regulation of endothelial cell chemotaxis
+- negative regulation of endothelial cell chemotaxis
+- positive regulation of endothelial cell chemotaxis
+- positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial
+  growth factor receptor signaling pathway
+- regulation of cell migration involved in sprouting angiogenesis
+- positive regulation of cell migration involved in sprouting angiogenesis
+- negative regulation of cell migration involved in sprouting angiogenesis
+- regulation of endothelial cell chemotaxis to fibroblast growth factor
+- negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+- positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+- fibroblast migration
+- regulation of fibroblast migration
+- positive regulation of fibroblast migration
+- negative regulation of fibroblast migration
+- hepatic stellate cell migration
+- regulation of hepatic stellate cell migration
+- positive regulation of hepatic stellate cell migration
+- negative regulation of hepatic stellate cell migration
+- initiation of movement involved in cerebral cortex radial glia guided migration
+- motogenic signaling initiating cell movement in cerebral cortex
+- cytosolic calcium signaling involved in initiation of cell movement in glial-mediated
+  radial cell migration
+- neurotrophic factor signaling initiating cell movement, involved in cerebral cortex
+  radial glia guided migration
+- neurotransmitter signaling initiating cell movement, involved in cerebral cortex
+  radial glia guided migration
+- growth factor signaling initiating cell movement involved in cerebral cortex radial
+  glia guided migration
+- larval lymph gland hemopoiesis
+- larval lymph gland hemocyte differentiation
+- lymph gland plasmatocyte differentiation
+- lymph gland crystal cell differentiation
+- lamellocyte differentiation
+- regulation of lamellocyte differentiation
+- negative regulation of lamellocyte differentiation
+- positive regulation of lamellocyte differentiation
+- larval lymph gland hemocyte differentiation
+- lymph gland plasmatocyte differentiation
+- lymph gland crystal cell differentiation
+- lamellocyte differentiation
+- regulation of lamellocyte differentiation
+- negative regulation of lamellocyte differentiation
+- positive regulation of lamellocyte differentiation
+- cell migration involved in gastrulation
+- establishment of cell polarity involved in gastrulation cell migration
+- mesoderm migration involved in gastrulation
+- ingression involved in gastrulation with mouth forming second
+- dorsal convergence
+- mediolateral intercalation
+- cell migration involved in mesendoderm migration
+- lamellipodium assembly involved in mesendodermal cell migration
+- cell-matrix adhesion involved in mesendodermal cell migration
+- establishment of cell polarity involved in mesendodermal cell migration
+- establishment or maintenance of cytoskeleton polarity involved in gastrulation
+- planar cell polarity pathway involved in gastrula mediolateral intercalation
+- cell-cell adhesion involved in mesendodermal cell migration
+- establishment or maintenance of cytoskeleton polarity involved in mesendodermal
+  cell migration
+- crystal cell differentiation
+- embryonic crystal cell differentiation
+- lymph gland crystal cell differentiation
+- regulation of crystal cell differentiation
+- negative regulation of crystal cell differentiation
+- positive regulation of crystal cell differentiation
+- trophoblast cell migration
+- regulation of trophoblast cell migration
+- negative regulation of trophoblast cell migration
+- positive regulation of trophoblast cell migration
+- mesenchymal cell migration
+- mesenchymal cell migration involved in limb bud formation

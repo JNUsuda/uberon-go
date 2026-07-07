@@ -1,0 +1,8 @@
+"source"	"source_label"	"rel"	"rel_label"	"target"	"target_label"	"go_id"
+"GO:0001655"	"urogenital system development"	"RO:0002296"	"results in development of"	"UBERON:0004122"	"genitourinary system"	"GO:0001655"
+"GO:0035844"	"cloaca development"	"RO:0002296"	"results in development of"	"UBERON:0000162"	"cloaca"	"GO:0035844"
+"GO:0060513"	"prostatic bud formation"	"RO:0002297"	"results in formation of anatomical entity"	"UBERON:0003820"	"prostate bud"	"GO:0060513"
+"UBERON:0003903"	"bursa of Fabricius"	"BFO:0000067"	"contains process"	"GO:0030097"	"hemopoiesis"	"GO:0030097"
+"UBERON:0003903"	"bursa of Fabricius"	"BFO:0000067"	"contains process"	"GO:0030183"	"B cell differentiation"	"GO:0030183"
+"GO:0048540"	"bursa of Fabricius development"	"RO:0002296"	"results in development of"	"UBERON:0003903"	"bursa of Fabricius"	"GO:0048540"
+"GO:1904484"	"cloacal gland development"	"RO:0002296"	"results in development of"	"UBERON:0012478"	"cloacal gland"	"GO:1904484"

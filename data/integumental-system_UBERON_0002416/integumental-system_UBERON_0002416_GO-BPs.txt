@@ -1,0 +1,958 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1990654"	"sebum secreting cell proliferation"	0
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904002"	"regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904003"	"negative regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904004"	"positive regulation of sebum secreting cell proliferation"	1
+"GO:0031069"	"hair follicle morphogenesis"	"GO:0031069"	"hair follicle morphogenesis"	0
+"GO:0042634"	"regulation of hair cycle"	"GO:0042634"	"regulation of hair cycle"	0
+"GO:0042634"	"regulation of hair cycle"	"GO:0042635"	"positive regulation of hair cycle"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0042636"	"negative regulation of hair cycle"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0051797"	"regulation of hair follicle development"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0060901"	"regulation of hair cycle by canonical Wnt signaling pathway"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0060902"	"regulation of hair cycle by BMP signaling pathway"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0051798"	"positive regulation of hair follicle development"	2
+"GO:0042634"	"regulation of hair cycle"	"GO:0051799"	"negative regulation of hair follicle development"	2
+"GO:0042634"	"regulation of hair cycle"	"GO:0048817"	"negative regulation of hair follicle maturation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0048818"	"positive regulation of hair follicle maturation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0061170"	"negative regulation of hair follicle placode formation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0051795"	"positive regulation of timing of catagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051796"	"negative regulation of timing of catagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051885"	"positive regulation of timing of anagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051886"	"negative regulation of timing of anagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051888"	"positive regulation of timing of exogen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051889"	"negative regulation of timing of exogen"	4
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060638"	"mesenchymal-epithelial cell signaling"	0
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060496"	"mesenchymal-epithelial cell signaling involved in lung development"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060497"	"mesenchymal-endodermal cell signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060640"	"positive regulation of dentin-containing tooth bud formation by mesenchymal-epithelial signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060739"	"mesenchymal-epithelial cell signaling involved in prostate gland development"	1
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060493"	"mesenchymal-endodermal cell signaling involved in lung induction"	2
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	2
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060499"	"fibroblast growth factor receptor signaling pathway involved in lung induction"	3
+"GO:0060638"	"mesenchymal-epithelial cell signaling"	"GO:0060511"	"creation of an inductive signal by a mesenchymal cell involved in lung induction"	3
+"GO:1903680"	"acinar cell of sebaceous gland differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	0
+"GO:0003335"	"corneocyte development"	"GO:0003335"	"corneocyte development"	0
+"GO:0003335"	"corneocyte development"	"GO:0003336"	"corneocyte desquamation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0030216"	"keratinocyte differentiation"	0
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003334"	"keratinocyte development"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0031424"	"keratinization"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045616"	"regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045617"	"negative regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045618"	"positive regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060890"	"limb spinous cell differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060891"	"limb granular cell differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003335"	"corneocyte development"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060893"	"limb granular cell fate specification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060894"	"limb spinous cell fate specification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0070268"	"cornification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003336"	"corneocyte desquamation"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905715"	"regulation of cornification"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905716"	"negative regulation of cornification"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905717"	"positive regulation of cornification"	3
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060644"	"mammary gland epithelial cell differentiation"	0
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	2
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	2
+"GO:0036334"	"epidermal stem cell homeostasis"	"GO:0036334"	"epidermal stem cell homeostasis"	0
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:0001949"	"sebaceous gland cell differentiation"	0
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070278"	"extracellular matrix constituent secretion"	0
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003330"	"regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003331"	"positive regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003332"	"negative regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061864"	"basement membrane constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070468"	"dentin extracellular matrix secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061865"	"polarized secretion of basement membrane proteins in epithelium"	2
+"GO:0090023"	"positive regulation of neutrophil chemotaxis"	"GO:0090023"	"positive regulation of neutrophil chemotaxis"	0
+"GO:0007625"	"grooming behavior"	"GO:0007625"	"grooming behavior"	0
+"GO:0007625"	"grooming behavior"	"GO:2000821"	"regulation of grooming behavior"	1
+"GO:0040003"	"chitin-based cuticle development"	"GO:0040003"	"chitin-based cuticle development"	0
+"GO:0040003"	"chitin-based cuticle development"	"GO:0006035"	"cuticle chitin biosynthetic process"	1
+"GO:0040003"	"chitin-based cuticle development"	"GO:0008362"	"chitin-based embryonic cuticle biosynthetic process"	1
+"GO:0040003"	"chitin-based cuticle development"	"GO:0008365"	"adult chitin-based cuticle development"	1
+"GO:0040003"	"chitin-based cuticle development"	"GO:0042337"	"cuticle development involved in chitin-based cuticle molting cycle"	1
+"GO:0040003"	"chitin-based cuticle development"	"GO:0008363"	"larval chitin-based cuticle development"	2
+"GO:0040003"	"chitin-based cuticle development"	"GO:0008364"	"pupal chitin-based cuticle development"	2
+"GO:0040003"	"chitin-based cuticle development"	"GO:0035018"	"adult chitin-based cuticle pattern formation"	2
+"GO:0040003"	"chitin-based cuticle development"	"GO:0035293"	"chitin-based larval cuticle pattern formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0098773"	"skin epidermis development"	0
+"GO:0098773"	"skin epidermis development"	"GO:0001942"	"hair follicle development"	1
+"GO:0098773"	"skin epidermis development"	"GO:0060887"	"limb epidermis development"	1
+"GO:0098773"	"skin epidermis development"	"GO:0031069"	"hair follicle morphogenesis"	2
+"GO:0098773"	"skin epidermis development"	"GO:0048820"	"hair follicle maturation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051797"	"regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051798"	"positive regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051799"	"negative regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060789"	"hair follicle placode formation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060888"	"limb epidermis stratification"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060889"	"limb basal epidermal cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060890"	"limb spinous cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060891"	"limb granular cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0042637"	"catagen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0042638"	"exogen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0042640"	"anagen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048817"	"negative regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048818"	"positive regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048819"	"regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060892"	"limb basal epidermal cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060893"	"limb granular cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060894"	"limb spinous cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061168"	"regulation of hair follicle placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061169"	"positive regulation of hair placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0051794"	"regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051795"	"positive regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051796"	"negative regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051884"	"regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051885"	"positive regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051886"	"negative regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051887"	"regulation of timing of exogen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051888"	"positive regulation of timing of exogen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051889"	"negative regulation of timing of exogen"	4
+"GO:0035878"	"nail development"	"GO:0035878"	"nail development"	0
+"GO:0035878"	"nail development"	"GO:0035880"	"embryonic nail plate morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	0
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060615"	"mammary gland bud formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060616"	"mammary gland cord formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:1903699"	"tarsal gland development"	"GO:1903699"	"tarsal gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060792"	"sweat gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060793"	"sweat gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0048733"	"sebaceous gland development"	0
+"GO:0048733"	"sebaceous gland development"	"GO:0001949"	"sebaceous gland cell differentiation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0060791"	"sebaceous gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903699"	"tarsal gland development"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	2
+"GO:0007595"	"lactation"	"GO:0007595"	"lactation"	0
+"GO:0007595"	"lactation"	"GO:0060156"	"milk ejection reflex"	1
+"GO:0007595"	"lactation"	"GO:1903487"	"regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903488"	"negative regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903489"	"positive regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	2
+"GO:0030879"	"mammary gland development"	"GO:0030879"	"mammary gland development"	0
+"GO:0030879"	"mammary gland development"	"GO:0002174"	"mammary stem cell proliferation"	1
+"GO:0030879"	"mammary gland development"	"GO:0007595"	"lactation"	1
+"GO:0030879"	"mammary gland development"	"GO:0042695"	"thelarche"	1
+"GO:0030879"	"mammary gland development"	"GO:0060443"	"mammary gland morphogenesis"	1
+"GO:0030879"	"mammary gland development"	"GO:0060610"	"mesenchymal cell differentiation involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060611"	"mammary gland fat development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060614"	"negative regulation of mammary gland development in males by androgen receptor signaling pathway"	1
+"GO:0030879"	"mammary gland development"	"GO:0060618"	"nipple development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060764"	"cell-cell signaling involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061180"	"mammary gland epithelium development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061377"	"mammary gland lobule development"	1
+"GO:0030879"	"mammary gland development"	"GO:0033598"	"mammary gland epithelial cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060056"	"mammary gland involution"	2
+"GO:0030879"	"mammary gland development"	"GO:0060156"	"milk ejection reflex"	2
+"GO:0030879"	"mammary gland development"	"GO:0060592"	"mammary gland formation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060603"	"mammary gland duct morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060644"	"mammary gland epithelial cell differentiation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060658"	"nipple morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0030879"	"mammary gland development"	"GO:0060749"	"mammary gland alveolus development"	2
+"GO:0030879"	"mammary gland development"	"GO:1903487"	"regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903488"	"negative regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903489"	"positive regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000101"	"regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000102"	"negative regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000103"	"positive regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0033599"	"regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033600"	"negative regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033601"	"positive regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060594"	"mammary gland specification"	3
+"GO:0030879"	"mammary gland development"	"GO:0060596"	"mammary placode formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060604"	"mammary gland duct cavitation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	3
+"GO:0030879"	"mammary gland development"	"GO:0060641"	"mammary gland duct regression in males"	3
+"GO:0030879"	"mammary gland development"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060648"	"mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060652"	"mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060659"	"nipple sheath formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060763"	"mammary duct terminal end bud growth"	3
+"GO:0030879"	"mammary gland development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	3
+"GO:0030879"	"mammary gland development"	"GO:1903519"	"regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903520"	"negative regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903521"	"positive regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	4
+"GO:0030879"	"mammary gland development"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060615"	"mammary gland bud formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060616"	"mammary gland cord formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	4
+"GO:0030879"	"mammary gland development"	"GO:0060619"	"cell migration involved in mammary placode formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060649"	"mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060654"	"mammary gland cord elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060745"	"mammary gland branching involved in pregnancy"	4
+"GO:0030879"	"mammary gland development"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	4
+"GO:0030879"	"mammary gland development"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	5
+"GO:0030879"	"mammary gland development"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060443"	"mammary gland morphogenesis"	0
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060056"	"mammary gland involution"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060592"	"mammary gland formation"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060594"	"mammary gland specification"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060596"	"mammary placode formation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903519"	"regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903520"	"negative regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903521"	"positive regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060615"	"mammary gland bud formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060616"	"mammary gland cord formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060619"	"cell migration involved in mammary placode formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	5
+"GO:0060592"	"mammary gland formation"	"GO:0060592"	"mammary gland formation"	0
+"GO:0060592"	"mammary gland formation"	"GO:0060594"	"mammary gland specification"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060596"	"mammary placode formation"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060619"	"cell migration involved in mammary placode formation"	2
+"GO:0061377"	"mammary gland lobule development"	"GO:0061377"	"mammary gland lobule development"	0
+"GO:0061377"	"mammary gland lobule development"	"GO:0060749"	"mammary gland alveolus development"	1
+"GO:0061377"	"mammary gland lobule development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	2
+"GO:0031424"	"keratinization"	"GO:0031424"	"keratinization"	0
+"GO:0031424"	"keratinization"	"GO:0070268"	"cornification"	1
+"GO:0031424"	"keratinization"	"GO:1905715"	"regulation of cornification"	2
+"GO:0031424"	"keratinization"	"GO:1905716"	"negative regulation of cornification"	2
+"GO:0031424"	"keratinization"	"GO:1905717"	"positive regulation of cornification"	2
+"GO:0060618"	"nipple development"	"GO:0060618"	"nipple development"	0
+"GO:0060618"	"nipple development"	"GO:0060658"	"nipple morphogenesis"	1
+"GO:0060618"	"nipple development"	"GO:0060659"	"nipple sheath formation"	2
+"GO:0060618"	"nipple development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	2
+"GO:0060658"	"nipple morphogenesis"	"GO:0060658"	"nipple morphogenesis"	0
+"GO:0060658"	"nipple morphogenesis"	"GO:0060659"	"nipple sheath formation"	1
+"GO:0060658"	"nipple morphogenesis"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	1
+"GO:0001942"	"hair follicle development"	"GO:0001942"	"hair follicle development"	0
+"GO:0001942"	"hair follicle development"	"GO:0031069"	"hair follicle morphogenesis"	1
+"GO:0001942"	"hair follicle development"	"GO:0048820"	"hair follicle maturation"	1
+"GO:0001942"	"hair follicle development"	"GO:0051797"	"regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0051798"	"positive regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0051799"	"negative regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0060789"	"hair follicle placode formation"	1
+"GO:0001942"	"hair follicle development"	"GO:0042637"	"catagen"	2
+"GO:0001942"	"hair follicle development"	"GO:0042638"	"exogen"	2
+"GO:0001942"	"hair follicle development"	"GO:0042640"	"anagen"	2
+"GO:0001942"	"hair follicle development"	"GO:0048817"	"negative regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0048818"	"positive regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0048819"	"regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061168"	"regulation of hair follicle placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061169"	"positive regulation of hair placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0051794"	"regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051795"	"positive regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051796"	"negative regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051884"	"regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051885"	"positive regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051886"	"negative regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051887"	"regulation of timing of exogen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051888"	"positive regulation of timing of exogen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051889"	"negative regulation of timing of exogen"	3
+"GO:0048820"	"hair follicle maturation"	"GO:0048820"	"hair follicle maturation"	0
+"GO:0048820"	"hair follicle maturation"	"GO:0042637"	"catagen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0042638"	"exogen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0042640"	"anagen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048817"	"negative regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048818"	"positive regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048819"	"regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0051794"	"regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051795"	"positive regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051796"	"negative regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051884"	"regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051885"	"positive regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051886"	"negative regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051887"	"regulation of timing of exogen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051888"	"positive regulation of timing of exogen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051889"	"negative regulation of timing of exogen"	2
+"GO:0043588"	"skin development"	"GO:0043588"	"skin development"	0
+"GO:0043588"	"skin development"	"GO:0030216"	"keratinocyte differentiation"	1
+"GO:0043588"	"skin development"	"GO:0043589"	"skin morphogenesis"	1
+"GO:0043588"	"skin development"	"GO:0048733"	"sebaceous gland development"	1
+"GO:0043588"	"skin development"	"GO:0061436"	"establishment of skin barrier"	1
+"GO:0043588"	"skin development"	"GO:0098773"	"skin epidermis development"	1
+"GO:0043588"	"skin development"	"GO:0001942"	"hair follicle development"	2
+"GO:0043588"	"skin development"	"GO:0001949"	"sebaceous gland cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:0003334"	"keratinocyte development"	2
+"GO:0043588"	"skin development"	"GO:0031424"	"keratinization"	2
+"GO:0043588"	"skin development"	"GO:0045616"	"regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0045617"	"negative regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0045618"	"positive regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0060791"	"sebaceous gland placode formation"	2
+"GO:0043588"	"skin development"	"GO:0060887"	"limb epidermis development"	2
+"GO:0043588"	"skin development"	"GO:0060890"	"limb spinous cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:0060891"	"limb granular cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:1903699"	"tarsal gland development"	2
+"GO:0043588"	"skin development"	"GO:0003335"	"corneocyte development"	3
+"GO:0043588"	"skin development"	"GO:0031069"	"hair follicle morphogenesis"	3
+"GO:0043588"	"skin development"	"GO:0048820"	"hair follicle maturation"	3
+"GO:0043588"	"skin development"	"GO:0051797"	"regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0051798"	"positive regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0051799"	"negative regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0060789"	"hair follicle placode formation"	3
+"GO:0043588"	"skin development"	"GO:0060888"	"limb epidermis stratification"	3
+"GO:0043588"	"skin development"	"GO:0060889"	"limb basal epidermal cell differentiation"	3
+"GO:0043588"	"skin development"	"GO:0060893"	"limb granular cell fate specification"	3
+"GO:0043588"	"skin development"	"GO:0060894"	"limb spinous cell fate specification"	3
+"GO:0043588"	"skin development"	"GO:0070268"	"cornification"	3
+"GO:0043588"	"skin development"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	3
+"GO:0043588"	"skin development"	"GO:0003336"	"corneocyte desquamation"	4
+"GO:0043588"	"skin development"	"GO:0042637"	"catagen"	4
+"GO:0043588"	"skin development"	"GO:0042638"	"exogen"	4
+"GO:0043588"	"skin development"	"GO:0042640"	"anagen"	4
+"GO:0043588"	"skin development"	"GO:0048817"	"negative regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0048818"	"positive regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0048819"	"regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0060892"	"limb basal epidermal cell fate specification"	4
+"GO:0043588"	"skin development"	"GO:0061168"	"regulation of hair follicle placode formation"	4
+"GO:0043588"	"skin development"	"GO:0061169"	"positive regulation of hair placode formation"	4
+"GO:0043588"	"skin development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	4
+"GO:0043588"	"skin development"	"GO:1905715"	"regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:1905716"	"negative regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:1905717"	"positive regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:0051794"	"regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051795"	"positive regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051796"	"negative regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051884"	"regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051885"	"positive regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051886"	"negative regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051887"	"regulation of timing of exogen"	5
+"GO:0043588"	"skin development"	"GO:0051888"	"positive regulation of timing of exogen"	5
+"GO:0043588"	"skin development"	"GO:0051889"	"negative regulation of timing of exogen"	5
+"GO:0043589"	"skin morphogenesis"	"GO:0043589"	"skin morphogenesis"	0
+"GO:0008283"	"cell population proliferation"	"GO:0008283"	"cell population proliferation"	0
+"GO:0008283"	"cell population proliferation"	"GO:0001833"	"inner cell mass cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0001834"	"trophectodermal cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0002174"	"mammary stem cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0002941"	"synoviocyte proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0003419"	"growth plate cartilage chondrocyte proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0008284"	"positive regulation of cell population proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0008285"	"negative regulation of cell population proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0010463"	"mesenchymal cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0014009"	"glial cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0033002"	"muscle cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0033687"	"osteoblast proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0035172"	"hemocyte proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0035726"	"common myeloid progenitor cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0035736"	"cell proliferation involved in compound eye morphogenesis"	1
+"GO:0008283"	"cell population proliferation"	"GO:0035988"	"chondrocyte proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0036093"	"germ cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0042127"	"regulation of cell population proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0044340"	"canonical Wnt signaling pathway involved in regulation of cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0048134"	"germ-line cyst formation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0048144"	"fibroblast proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0050673"	"epithelial cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0051450"	"myoblast proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0060722"	"cell proliferation involved in embryonic placenta development"	1
+"GO:0008283"	"cell population proliferation"	"GO:0061323"	"cell proliferation involved in heart morphogenesis"	1
+"GO:0008283"	"cell population proliferation"	"GO:0061351"	"neural precursor cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0070341"	"fat cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0070661"	"leukocyte proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0071335"	"hair follicle cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0071838"	"cell proliferation in bone marrow"	1
+"GO:0008283"	"cell population proliferation"	"GO:0072089"	"stem cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:0072111"	"cell proliferation involved in kidney development"	1
+"GO:0008283"	"cell population proliferation"	"GO:0090255"	"cell proliferation involved in imaginal disc-derived wing morphogenesis"	1
+"GO:0008283"	"cell population proliferation"	"GO:0097360"	"chorionic trophoblast cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:1990654"	"sebum secreting cell proliferation"	1
+"GO:0008283"	"cell population proliferation"	"GO:2000793"	"cell proliferation involved in heart valve development"	1
+"GO:0008283"	"cell population proliferation"	"GO:0001935"	"endothelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0002053"	"positive regulation of mesenchymal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0002158"	"osteoclast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0002176"	"male germ cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003249"	"cell proliferation involved in heart valve morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003263"	"cardioblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003267"	"canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003295"	"cell proliferation involved in atrial ventricular junction remodeling"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003420"	"regulation of growth plate cartilage chondrocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0003423"	"growth plate cartilage chondrocyte division"	2
+"GO:0008283"	"cell population proliferation"	"GO:0007405"	"neuroblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0010456"	"cell proliferation in dorsal spinal cord"	2
+"GO:0008283"	"cell population proliferation"	"GO:0010464"	"regulation of mesenchymal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014010"	"Schwann cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014844"	"myoblast proliferation involved in skeletal muscle regeneration"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014855"	"striated muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014857"	"regulation of skeletal muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014858"	"positive regulation of skeletal muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0014859"	"negative regulation of skeletal muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0021534"	"cell proliferation in hindbrain"	2
+"GO:0008283"	"cell population proliferation"	"GO:0021846"	"cell proliferation in forebrain"	2
+"GO:0008283"	"cell population proliferation"	"GO:0021992"	"cell proliferation involved in neural plate elongation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0022034"	"rhombomere cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0032943"	"mononuclear cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0033278"	"cell proliferation in midbrain"	2
+"GO:0008283"	"cell population proliferation"	"GO:0033598"	"mammary gland epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0033688"	"regulation of osteoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0033689"	"negative regulation of osteoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0033690"	"positive regulation of osteoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0035206"	"regulation of hemocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0035207"	"negative regulation of hemocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0035208"	"positive regulation of hemocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0038091"	"positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway"	2
+"GO:0008283"	"cell population proliferation"	"GO:0039015"	"cell proliferation involved in pronephros development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0043616"	"keratinocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0044342"	"type B pancreatic cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0044343"	"canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048135"	"female germ-line cyst formation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048136"	"male germ-line cyst formation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048145"	"regulation of fibroblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048146"	"positive regulation of fibroblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048147"	"negative regulation of fibroblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048659"	"smooth muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048660"	"regulation of smooth muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048661"	"positive regulation of smooth muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0048662"	"negative regulation of smooth muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0050674"	"urothelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0050678"	"regulation of epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0050679"	"positive regulation of epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0050680"	"negative regulation of epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060011"	"Sertoli cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060043"	"regulation of cardiac muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060044"	"negative regulation of cardiac muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060045"	"positive regulation of cardiac muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060244"	"negative regulation of cell proliferation involved in contact inhibition"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060251"	"regulation of glial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060252"	"positive regulation of glial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060253"	"negative regulation of glial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060502"	"epithelial cell proliferation involved in lung morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060720"	"spongiotrophoblast cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060723"	"regulation of cell proliferation involved in embryonic placenta development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060767"	"epithelial cell proliferation involved in prostate gland development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060781"	"mesenchymal cell proliferation involved in prostate gland development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060784"	"regulation of cell proliferation involved in tissue homeostasis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0060916"	"mesenchymal cell proliferation involved in lung development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061006"	"regulation of cell proliferation involved in kidney morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061209"	"cell proliferation involved in mesonephros development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061315"	"canonical Wnt signaling pathway involved in positive regulation of cardiac muscle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061324"	"canonical Wnt signaling pathway involved in positive regulation of cardiac outflow tract cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061325"	"cell proliferation involved in outflow tract morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061385"	"fibroblast proliferation involved in heart morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061516"	"monocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061517"	"macrophage proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061518"	"microglial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061913"	"positive regulation of growth plate cartilage chondrocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0061914"	"negative regulation of growth plate cartilage chondrocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070342"	"brown fat cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070343"	"white fat cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070344"	"regulation of fat cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070345"	"negative regulation of fat cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070346"	"positive regulation of fat cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070444"	"oligodendrocyte progenitor proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070662"	"mast cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070663"	"regulation of leukocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070664"	"negative regulation of leukocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0070665"	"positive regulation of leukocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071336"	"regulation of hair follicle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071337"	"negative regulation of hair follicle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071338"	"positive regulation of hair follicle cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071425"	"hematopoietic stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071863"	"regulation of cell proliferation in bone marrow"	2
+"GO:0008283"	"cell population proliferation"	"GO:0071864"	"positive regulation of cell proliferation in bone marrow"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072091"	"regulation of stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072110"	"glomerular mesangial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072122"	"extraglomerular mesangial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072135"	"kidney mesenchymal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072137"	"condensed mesenchymal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072138"	"mesenchymal cell proliferation involved in ureteric bud development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072198"	"mesenchymal cell proliferation involved in ureter development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072201"	"negative regulation of mesenchymal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072203"	"cell proliferation involved in metanephros development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072343"	"pancreatic stellate cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072513"	"positive regulation of secondary heart field cardioblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0090094"	"metanephric cap mesenchymal cell proliferation involved in metanephros development"	2
+"GO:0008283"	"cell population proliferation"	"GO:0090256"	"regulation of cell proliferation involved in imaginal disc-derived wing morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0097166"	"lens epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0097168"	"mesenchymal stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0097325"	"melanocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:0110021"	"cardiac muscle myoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901382"	"regulation of chorionic trophoblast cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901383"	"negative regulation of chorionic trophoblast cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901384"	"positive regulation of chorionic trophoblast cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901645"	"regulation of synoviocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901646"	"negative regulation of synoviocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901647"	"positive regulation of synoviocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901722"	"regulation of cell proliferation involved in kidney development"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901723"	"negative regulation of cell proliferation involved in kidney development"	2
+"GO:0008283"	"cell population proliferation"	"GO:1901724"	"positive regulation of cell proliferation involved in kidney development"	2
+"GO:0008283"	"cell population proliferation"	"GO:1902731"	"negative regulation of chondrocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1902732"	"positive regulation of chondrocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1903769"	"negative regulation of cell proliferation in bone marrow"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904002"	"regulation of sebum secreting cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904003"	"negative regulation of sebum secreting cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904004"	"positive regulation of sebum secreting cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904073"	"regulation of trophectodermal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904074"	"negative regulation of trophectodermal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1904075"	"positive regulation of trophectodermal cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1905315"	"cell proliferation involved in endocardial cushion morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:1905474"	"canonical Wnt signaling pathway involved in stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1905936"	"regulation of germ cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1905937"	"negative regulation of germ cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1905938"	"positive regulation of germ cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1990705"	"cholangiocyte proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1990739"	"granulosa cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1990789"	"thyroid gland epithelial cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1990863"	"acinar cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:1990922"	"hepatic stellate cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000101"	"regulation of mammary stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000102"	"negative regulation of mammary stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000103"	"positive regulation of mammary stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000136"	"regulation of cell proliferation involved in heart morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000137"	"negative regulation of cell proliferation involved in heart morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000138"	"positive regulation of cell proliferation involved in heart morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000177"	"regulation of neural precursor cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000178"	"negative regulation of neural precursor cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000179"	"positive regulation of neural precursor cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000288"	"positive regulation of myoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000291"	"regulation of myoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000495"	"regulation of cell proliferation involved in compound eye morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000496"	"negative regulation of cell proliferation involved in compound eye morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000497"	"positive regulation of cell proliferation involved in compound eye morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000647"	"negative regulation of stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000648"	"positive regulation of stem cell proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2000818"	"negative regulation of myoblast proliferation"	2
+"GO:0008283"	"cell population proliferation"	"GO:2001013"	"epithelial cell proliferation involved in renal tubule morphogenesis"	2
+"GO:0008283"	"cell population proliferation"	"GO:0001936"	"regulation of endothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0001937"	"negative regulation of endothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0001938"	"positive regulation of endothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0002043"	"blood vessel endothelial cell proliferation involved in sprouting angiogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0002052"	"positive regulation of neuroblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0003250"	"regulation of cell proliferation involved in heart valve morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0003251"	"positive regulation of cell proliferation involved in heart valve morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0003252"	"negative regulation of cell proliferation involved in heart valve morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0003264"	"regulation of cardioblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0003424"	"establishment of cell polarity involved in growth plate cartilage chondrocyte division"	3
+"GO:0008283"	"cell population proliferation"	"GO:0007406"	"negative regulation of neuroblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010624"	"regulation of Schwann cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010625"	"positive regulation of Schwann cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010626"	"negative regulation of Schwann cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010837"	"regulation of keratinocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010838"	"positive regulation of keratinocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0010839"	"negative regulation of keratinocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0014011"	"Schwann cell proliferation involved in axon regeneration"	3
+"GO:0008283"	"cell population proliferation"	"GO:0014842"	"regulation of skeletal muscle satellite cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0014856"	"skeletal muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021849"	"neuroblast division in subventricular zone"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021869"	"forebrain ventricular zone progenitor cell division"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021921"	"regulation of cell proliferation in dorsal spinal cord"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021923"	"cell proliferation in hindbrain ventricular zone"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021924"	"cell proliferation in external granule layer"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021936"	"regulation of cerebellar granule cell precursor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021940"	"positive regulation of cerebellar granule cell precursor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0021941"	"negative regulation of cerebellar granule cell precursor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0022012"	"subpallium cell proliferation in forebrain"	3
+"GO:0008283"	"cell population proliferation"	"GO:0022013"	"pallium cell proliferation in forebrain"	3
+"GO:0008283"	"cell population proliferation"	"GO:0022027"	"interkinetic nuclear migration"	3
+"GO:0008283"	"cell population proliferation"	"GO:0030727"	"germarium-derived female germ-line cyst formation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0032944"	"regulation of mononuclear cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0032945"	"negative regulation of mononuclear cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0032946"	"positive regulation of mononuclear cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0033599"	"regulation of mammary gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0033600"	"negative regulation of mammary gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0033601"	"positive regulation of mammary gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0035604"	"fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow"	3
+"GO:0008283"	"cell population proliferation"	"GO:0046651"	"lymphocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0050675"	"regulation of urothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0050676"	"negative regulation of urothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0050677"	"positive regulation of urothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0055057"	"neuroblast division"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060038"	"cardiac muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060054"	"positive regulation of epithelial cell proliferation involved in wound healing"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060501"	"positive regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060505"	"epithelial cell proliferation involved in lung bud dilation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060721"	"regulation of spongiotrophoblast cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060768"	"regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060769"	"positive regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060770"	"negative regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0060782"	"regulation of mesenchymal cell proliferation involved in prostate gland development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0061222"	"mesonephric mesenchymal cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0061225"	"mesonephric extraglomerular mesangial cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0061269"	"mesonephric glomerular mesangial cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0061469"	"regulation of type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070347"	"regulation of brown fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070348"	"negative regulation of brown fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070349"	"positive regulation of brown fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070350"	"regulation of white fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070351"	"negative regulation of white fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070352"	"positive regulation of white fat cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070445"	"regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070446"	"negative regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070447"	"positive regulation of oligodendrocyte progenitor proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070666"	"regulation of mast cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070667"	"negative regulation of mast cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0070668"	"positive regulation of mast cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072090"	"mesenchymal stem cell proliferation involved in nephron morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072123"	"intraglomerular mesangial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072124"	"regulation of glomerular mesangial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072125"	"negative regulation of glomerular mesangial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072126"	"positive regulation of glomerular mesangial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072136"	"metanephric mesenchymal cell proliferation involved in metanephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072199"	"regulation of mesenchymal cell proliferation involved in ureter development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072200"	"negative regulation of mesenchymal cell proliferation involved in ureter development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072261"	"metanephric extraglomerular mesangial cell proliferation involved in metanephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072262"	"metanephric glomerular mesangial cell proliferation involved in metanephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:0072574"	"hepatocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0090095"	"regulation of metanephric cap mesenchymal cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0090096"	"positive regulation of metanephric cap mesenchymal cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0090289"	"regulation of osteoclast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0090290"	"positive regulation of osteoclast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0090291"	"negative regulation of osteoclast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0101023"	"vascular endothelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0110022"	"regulation of cardiac muscle myoblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0110023"	"negative regulation of cardiac muscle myoblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0110024"	"positive regulation of cardiac muscle myoblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0120040"	"regulation of macrophage proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0120041"	"positive regulation of macrophage proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0120042"	"negative regulation of macrophage proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1901963"	"regulation of cell proliferation involved in outflow tract morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:1901964"	"positive regulation of cell proliferation involved in outflow tract morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902033"	"regulation of hematopoietic stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902034"	"negative regulation of hematopoietic stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902035"	"positive regulation of hematopoietic stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902460"	"regulation of mesenchymal stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902461"	"negative regulation of mesenchymal stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902462"	"positive regulation of mesenchymal stem cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902692"	"regulation of neuroblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902723"	"negative regulation of skeletal muscle satellite cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902724"	"positive regulation of skeletal muscle satellite cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902832"	"negative regulation of cell proliferation in dorsal spinal cord"	3
+"GO:0008283"	"cell population proliferation"	"GO:1902833"	"positive regulation of cell proliferation in dorsal spinal cord"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904054"	"regulation of cholangiocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904055"	"negative regulation of cholangiocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904056"	"positive regulation of cholangiocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904195"	"regulation of granulosa cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904196"	"negative regulation of granulosa cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904197"	"positive regulation of granulosa cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904441"	"regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904442"	"negative regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904443"	"positive regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904691"	"negative regulation of type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904692"	"positive regulation of type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904697"	"regulation of acinar cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904698"	"negative regulation of acinar cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904699"	"positive regulation of acinar cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904705"	"regulation of vascular associated smooth muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904706"	"negative regulation of vascular associated smooth muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904707"	"positive regulation of vascular associated smooth muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904897"	"regulation of hepatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904898"	"negative regulation of hepatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904899"	"positive regulation of hepatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904933"	"regulation of cell proliferation in midbrain"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904934"	"negative regulation of cell proliferation in midbrain"	3
+"GO:0008283"	"cell population proliferation"	"GO:1904935"	"positive regulation of cell proliferation in midbrain"	3
+"GO:0008283"	"cell population proliferation"	"GO:1905061"	"negative regulation of cardioblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1905062"	"positive regulation of cardioblast proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:1990874"	"vascular associated smooth muscle cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000079"	"regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000080"	"negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000081"	"positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000229"	"regulation of pancreatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000230"	"negative regulation of pancreatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000231"	"positive regulation of pancreatic stellate cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000254"	"regulation of male germ cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000255"	"negative regulation of male germ cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000256"	"positive regulation of male germ cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000345"	"regulation of hepatocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000606"	"regulation of cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000607"	"negative regulation of cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000608"	"positive regulation of cell proliferation involved in mesonephros development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000729"	"positive regulation of mesenchymal cell proliferation involved in ureter development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000790"	"regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000791"	"negative regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000792"	"positive regulation of mesenchymal cell proliferation involved in lung development"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000794"	"regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:2000795"	"negative regulation of epithelial cell proliferation involved in lung morphogenesis"	3
+"GO:0008283"	"cell population proliferation"	"GO:2001109"	"regulation of lens epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2001110"	"negative regulation of lens epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:2001111"	"positive regulation of lens epithelial cell proliferation"	3
+"GO:0008283"	"cell population proliferation"	"GO:0001787"	"natural killer cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0003265"	"regulation of primary heart field cardioblast proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0003266"	"regulation of secondary heart field cardioblast proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0003426"	"cytoskeleton polarization involved in growth plate cartilage chondrocyte division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0014841"	"skeletal muscle satellite cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0014843"	"growth factor dependent regulation of skeletal muscle satellite cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021847"	"ventricular zone neuroblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021848"	"neuroblast division in subpallium"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021850"	"subpallium glioblast cell division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021873"	"forebrain neuroblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021922"	"Wnt signaling pathway involved in regulation of cell proliferation in dorsal spinal cord"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021925"	"cerebellar Purkinje cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021926"	"Golgi cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021927"	"deep nuclear neuron precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021928"	"basket cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021929"	"stellate cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021930"	"cerebellar granule cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021931"	"rostral hindbrain neuronal precursor cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021937"	"cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0021939"	"extracellular matrix-granule cell signaling involved in regulation of granule cell precursor proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022015"	"radial glial cell division in pallium"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022016"	"pallium glioblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022017"	"neuroblast division in pallium"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022018"	"lateral ganglionic eminence cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022019"	"dorsal lateral ganglionic eminence cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022020"	"medial ganglionic eminence cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022021"	"caudal ganglionic eminence cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0022022"	"septal cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0042098"	"T cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0042100"	"B cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0044565"	"dendritic cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0048142"	"germarium-derived cystoblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0050670"	"regulation of lymphocyte proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0050671"	"positive regulation of lymphocyte proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0050672"	"negative regulation of lymphocyte proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0055058"	"symmetric neuroblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0055059"	"asymmetric neuroblast division"	4
+"GO:0008283"	"cell population proliferation"	"GO:0060504"	"positive regulation of epithelial cell proliferation involved in lung bud dilation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0061270"	"mesonephric intraglomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0072042"	"regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis"	4
+"GO:0008283"	"cell population proliferation"	"GO:0072263"	"metanephric intraglomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0072301"	"regulation of metanephric glomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0072302"	"negative regulation of metanephric glomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0072303"	"positive regulation of glomerular metanephric mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:1902727"	"negative regulation of growth factor dependent skeletal muscle satellite cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:1902728"	"positive regulation of growth factor dependent skeletal muscle satellite cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:1903587"	"regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"	4
+"GO:0008283"	"cell population proliferation"	"GO:1903588"	"negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"	4
+"GO:0008283"	"cell population proliferation"	"GO:1903589"	"positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905044"	"regulation of Schwann cell proliferation involved in axon regeneration"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905045"	"negative regulation of Schwann cell proliferation involved in axon regeneration"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905046"	"positive regulation of Schwann cell proliferation involved in axon regeneration"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905562"	"regulation of vascular endothelial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905563"	"negative regulation of vascular endothelial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:1905564"	"positive regulation of vascular endothelial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:2000090"	"regulation of mesonephric glomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:2000091"	"negative regulation of mesonephric glomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:2000092"	"positive regulation of mesonephric glomerular mesangial cell proliferation"	4
+"GO:0008283"	"cell population proliferation"	"GO:0001777"	"T cell homeostatic proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0002309"	"T cell proliferation involved in immune response"	5
+"GO:0008283"	"cell population proliferation"	"GO:0002322"	"B cell proliferation involved in immune response"	5
+"GO:0008283"	"cell population proliferation"	"GO:0002324"	"natural killer cell proliferation involved in immune response"	5
+"GO:0008283"	"cell population proliferation"	"GO:0002358"	"B cell homeostatic proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0002359"	"B-1 B cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003268"	"fibroblast growth factor receptor signaling pathway involved in regulation of secondary heart field cardioblast proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003269"	"BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003270"	"Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003271"	"smoothened signaling pathway involved in regulation of secondary heart field cardioblast proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003425"	"establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division"	5
+"GO:0008283"	"cell population proliferation"	"GO:0003427"	"regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division"	5
+"GO:0008283"	"cell population proliferation"	"GO:0021851"	"neuroblast division in dorsal lateral ganglionic eminence"	5
+"GO:0008283"	"cell population proliferation"	"GO:0021874"	"Wnt signaling pathway involved in forebrain neuroblast division"	5
+"GO:0008283"	"cell population proliferation"	"GO:0021875"	"fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division"	5
+"GO:0008283"	"cell population proliferation"	"GO:0021876"	"Notch signaling pathway involved in forebrain neuroblast division"	5
+"GO:0008283"	"cell population proliferation"	"GO:0021938"	"smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0030888"	"regulation of B cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0030889"	"negative regulation of B cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0030890"	"positive regulation of B cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0032817"	"regulation of natural killer cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0032818"	"negative regulation of natural killer cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0032819"	"positive regulation of natural killer cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0033079"	"immature T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0042102"	"positive regulation of T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0042129"	"regulation of T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0042130"	"negative regulation of T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0045196"	"establishment or maintenance of neuroblast polarity"	5
+"GO:0008283"	"cell population proliferation"	"GO:0046630"	"gamma-delta T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0046633"	"alpha-beta T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0050798"	"activated T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0055060"	"asymmetric neuroblast division resulting in ganglion mother cell formation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0061485"	"memory T cell proliferation"	5
+"GO:0008283"	"cell population proliferation"	"GO:0001866"	"NK T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0002310"	"alpha-beta T cell proliferation involved in immune response"	6
+"GO:0008283"	"cell population proliferation"	"GO:0002311"	"gamma-delta T cell proliferation involved in immune response"	6
+"GO:0008283"	"cell population proliferation"	"GO:0032820"	"regulation of natural killer cell proliferation involved in immune response"	6
+"GO:0008283"	"cell population proliferation"	"GO:0032821"	"negative regulation of natural killer cell proliferation involved in immune response"	6
+"GO:0008283"	"cell population proliferation"	"GO:0032822"	"positive regulation of natural killer cell proliferation involved in immune response"	6
+"GO:0008283"	"cell population proliferation"	"GO:0033080"	"immature T cell proliferation in thymus"	6
+"GO:0008283"	"cell population proliferation"	"GO:0033083"	"regulation of immature T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0033087"	"negative regulation of immature T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0033091"	"positive regulation of immature T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0035739"	"CD4-positive, alpha-beta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0035740"	"CD8-positive, alpha-beta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0042103"	"positive regulation of T cell homeostatic proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0042104"	"positive regulation of activated T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0045200"	"establishment of neuroblast polarity"	6
+"GO:0008283"	"cell population proliferation"	"GO:0045201"	"maintenance of neuroblast polarity"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046006"	"regulation of activated T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046007"	"negative regulation of activated T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046013"	"regulation of T cell homeostatic proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046014"	"negative regulation of T cell homeostatic proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046640"	"regulation of alpha-beta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046641"	"positive regulation of alpha-beta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046642"	"negative regulation of alpha-beta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046646"	"regulation of gamma-delta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046647"	"negative regulation of gamma-delta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:0046648"	"positive regulation of gamma-delta T cell proliferation"	6
+"GO:0008283"	"cell population proliferation"	"GO:2000248"	"negative regulation of establishment or maintenance of neuroblast polarity"	6
+"GO:0008283"	"cell population proliferation"	"GO:0002289"	"NK T cell proliferation involved in immune response"	7
+"GO:0008283"	"cell population proliferation"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	7
+"GO:0008283"	"cell population proliferation"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	7
+"GO:0008283"	"cell population proliferation"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	7
+"GO:0008283"	"cell population proliferation"	"GO:0035741"	"activated CD4-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:0035742"	"activated CD8-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:0051140"	"regulation of NK T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:0051141"	"negative regulation of NK T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:0051142"	"positive regulation of NK T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000561"	"regulation of CD4-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000562"	"negative regulation of CD4-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000563"	"positive regulation of CD4-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000564"	"regulation of CD8-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000565"	"negative regulation of CD8-positive, alpha-beta T cell proliferation"	7
+"GO:0008283"	"cell population proliferation"	"GO:2000566"	"positive regulation of CD8-positive, alpha-beta T cell proliferation"	7
+"GO:0060749"	"mammary gland alveolus development"	"GO:0060749"	"mammary gland alveolus development"	0
+"GO:0060749"	"mammary gland alveolus development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0060611"	"mammary gland fat development"	"GO:0060611"	"mammary gland fat development"	0
+"GO:0060611"	"mammary gland fat development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	1
+"GO:0060611"	"mammary gland fat development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	1
+"GO:0060616"	"mammary gland cord formation"	"GO:0060616"	"mammary gland cord formation"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060616"	"mammary gland cord formation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	2
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	2
+"GO:0060659"	"nipple sheath formation"	"GO:0060659"	"nipple sheath formation"	0
+"GO:0071834"	"mating pheromone secretion"	"GO:0071834"	"mating pheromone secretion"	0
+"GO:0071834"	"mating pheromone secretion"	"GO:0071631"	"mating pheromone secretion involved in positive regulation of conjugation with cellular fusion"	1
+"GO:0071834"	"mating pheromone secretion"	"GO:0071835"	"mating pheromone secretion involved in regulation of conjugation"	1
+"GO:0060763"	"mammary duct terminal end bud growth"	"GO:0060763"	"mammary duct terminal end bud growth"	0
+"GO:0050975"	"sensory perception of touch"	"GO:0050975"	"sensory perception of touch"	0
+"GO:0050975"	"sensory perception of touch"	"GO:0050976"	"detection of mechanical stimulus involved in sensory perception of touch"	1
+"GO:0050975"	"sensory perception of touch"	"GO:1905787"	"regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0050975"	"sensory perception of touch"	"GO:1905788"	"negative regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0050975"	"sensory perception of touch"	"GO:1905789"	"positive regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0001659"	"temperature homeostasis"	0
+"GO:0001659"	"temperature homeostasis"	"GO:0031649"	"heat generation"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0031653"	"heat dissipation"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0042309"	"homoiothermy"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0060086"	"circadian temperature homeostasis"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0106106"	"cold-induced thermogenesis"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0001660"	"fever generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031650"	"regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031651"	"negative regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031652"	"positive regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031654"	"regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031655"	"negative regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031656"	"positive regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120161"	"regulation of cold-induced thermogenesis"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120162"	"positive regulation of cold-induced thermogenesis"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120163"	"negative regulation of cold-induced thermogenesis"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031620"	"regulation of fever generation"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0031621"	"negative regulation of fever generation"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0031622"	"positive regulation of fever generation"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0100008"	"regulation of fever generation by prostaglandin biosynthetic process"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0100009"	"regulation of fever generation by prostaglandin secretion"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0100010"	"positive regulation of fever generation by prostaglandin biosynthetic process"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0100011"	"positive regulation of fever generation by prostaglandin secretion"	3
+"GO:0001659"	"temperature homeostasis"	"GO:0071809"	"regulation of fever generation by regulation of prostaglandin biosynthesis"	4
+"GO:0001659"	"temperature homeostasis"	"GO:0071810"	"regulation of fever generation by regulation of prostaglandin secretion"	4
+"GO:0001659"	"temperature homeostasis"	"GO:0071811"	"positive regulation of fever generation by positive regulation of prostaglandin biosynthesis"	4
+"GO:0001659"	"temperature homeostasis"	"GO:0071812"	"positive regulation of fever generation by positive regulation of prostaglandin secretion"	4
+"GO:0060887"	"limb epidermis development"	"GO:0060887"	"limb epidermis development"	0
+"GO:0060887"	"limb epidermis development"	"GO:0060888"	"limb epidermis stratification"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060889"	"limb basal epidermal cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060890"	"limb spinous cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060891"	"limb granular cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060892"	"limb basal epidermal cell fate specification"	2
+"GO:0060887"	"limb epidermis development"	"GO:0060893"	"limb granular cell fate specification"	2
+"GO:0060887"	"limb epidermis development"	"GO:0060894"	"limb spinous cell fate specification"	2
+"GO:0060361"	"flight"	"GO:0060361"	"flight"	0
+"GO:0060361"	"flight"	"GO:0060362"	"flight involved in flight behavior"	1
+"GO:0043616"	"keratinocyte proliferation"	"GO:0043616"	"keratinocyte proliferation"	0
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010837"	"regulation of keratinocyte proliferation"	1
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010838"	"positive regulation of keratinocyte proliferation"	1
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010839"	"negative regulation of keratinocyte proliferation"	1
+"GO:0007620"	"copulation"	"GO:0007620"	"copulation"	0
+"GO:0007620"	"copulation"	"GO:0007320"	"insemination"	1
+"GO:0007620"	"copulation"	"GO:0043084"	"penile erection"	1
+"GO:0007620"	"copulation"	"GO:0042628"	"mating plug formation"	2
+"GO:0007620"	"copulation"	"GO:0042713"	"sperm ejaculation"	2
+"GO:0007620"	"copulation"	"GO:0046692"	"sperm competition"	2
+"GO:0007620"	"copulation"	"GO:0060405"	"regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0060406"	"positive regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0060407"	"negative regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0070684"	"seminal clot liquefaction"	2
+"GO:0007620"	"copulation"	"GO:0007321"	"sperm displacement"	3
+"GO:0007620"	"copulation"	"GO:0046693"	"sperm storage"	3
+"GO:0007620"	"copulation"	"GO:0046694"	"sperm incapacitation"	3
+"GO:0060209"	"estrus"	"GO:0060209"	"estrus"	0

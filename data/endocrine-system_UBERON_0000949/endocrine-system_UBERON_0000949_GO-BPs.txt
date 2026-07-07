@@ -1,0 +1,1542 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0035270"	"endocrine system development"	"GO:0035270"	"endocrine system development"	0
+"GO:0035270"	"endocrine system development"	"GO:0021982"	"pineal gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0021983"	"pituitary gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0030325"	"adrenal gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0030878"	"thyroid gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0031018"	"endocrine pancreas development"	1
+"GO:0035270"	"endocrine system development"	"GO:0035271"	"ring gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0060017"	"parathyroid gland development"	1
+"GO:0035270"	"endocrine system development"	"GO:0003309"	"type B pancreatic cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:0003310"	"pancreatic A cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:0003311"	"pancreatic D cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:0003312"	"pancreatic PP cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:0021984"	"adenohypophysis development"	2
+"GO:0035270"	"endocrine system development"	"GO:0021985"	"neurohypophysis development"	2
+"GO:0035270"	"endocrine system development"	"GO:0035801"	"adrenal cortex development"	2
+"GO:0035270"	"endocrine system development"	"GO:0048850"	"hypophysis morphogenesis"	2
+"GO:0035270"	"endocrine system development"	"GO:0061104"	"adrenal chromaffin cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:0090104"	"pancreatic epsilon cell differentiation"	2
+"GO:0035270"	"endocrine system development"	"GO:1902638"	"neural crest cell differentiation involved in parathyroid gland development"	2
+"GO:0035270"	"endocrine system development"	"GO:1990789"	"thyroid gland epithelial cell proliferation"	2
+"GO:0035270"	"endocrine system development"	"GO:0003322"	"pancreatic A cell development"	3
+"GO:0035270"	"endocrine system development"	"GO:0003323"	"type B pancreatic cell development"	3
+"GO:0035270"	"endocrine system development"	"GO:0003324"	"pancreatic D cell development"	3
+"GO:0035270"	"endocrine system development"	"GO:0003325"	"pancreatic PP cell development"	3
+"GO:0035270"	"endocrine system development"	"GO:0003326"	"pancreatic A cell fate commitment"	3
+"GO:0035270"	"endocrine system development"	"GO:0003327"	"type B pancreatic cell fate commitment"	3
+"GO:0035270"	"endocrine system development"	"GO:0003328"	"pancreatic D cell fate commitment"	3
+"GO:0035270"	"endocrine system development"	"GO:0003329"	"pancreatic PP cell fate commitment"	3
+"GO:0035270"	"endocrine system development"	"GO:0035802"	"adrenal cortex formation"	3
+"GO:0035270"	"endocrine system development"	"GO:0048848"	"neurohypophysis morphogenesis"	3
+"GO:0035270"	"endocrine system development"	"GO:0048851"	"hypophysis formation"	3
+"GO:0035270"	"endocrine system development"	"GO:0048855"	"adenohypophysis morphogenesis"	3
+"GO:0035270"	"endocrine system development"	"GO:0060126"	"somatotropin secreting cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:0060127"	"prolactin secreting cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:0060128"	"corticotropin hormone secreting cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:0090105"	"pancreatic E cell development"	3
+"GO:0035270"	"endocrine system development"	"GO:0090106"	"pancreatic E cell fate commitment"	3
+"GO:0035270"	"endocrine system development"	"GO:1904441"	"regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0035270"	"endocrine system development"	"GO:1904442"	"negative regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0035270"	"endocrine system development"	"GO:1904443"	"positive regulation of thyroid gland epithelial cell proliferation"	3
+"GO:0035270"	"endocrine system development"	"GO:2000226"	"regulation of pancreatic A cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:2000227"	"negative regulation of pancreatic A cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:2000228"	"positive regulation of pancreatic A cell differentiation"	3
+"GO:0035270"	"endocrine system development"	"GO:0048847"	"adenohypophysis formation"	4
+"GO:0035270"	"endocrine system development"	"GO:0048849"	"neurohypophysis formation"	4
+"GO:0035270"	"endocrine system development"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:0060131"	"corticotropin hormone secreting cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:0060132"	"prolactin secreting cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:0060133"	"somatotropin secreting cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:0072560"	"type B pancreatic cell maturation"	4
+"GO:0035270"	"endocrine system development"	"GO:2000074"	"regulation of type B pancreatic cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:2000077"	"negative regulation of type B pancreatic cell development"	4
+"GO:0035270"	"endocrine system development"	"GO:2000078"	"positive regulation of type B pancreatic cell development"	4
+"GO:0046879"	"hormone secretion"	"GO:0046879"	"hormone secretion"	0
+"GO:0046879"	"hormone secretion"	"GO:0002441"	"histamine secretion involved in inflammatory response"	1
+"GO:0046879"	"hormone secretion"	"GO:0030072"	"peptide hormone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0032333"	"activin secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0035936"	"testosterone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0035938"	"estradiol secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0035941"	"androstenedione secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0035942"	"dehydroepiandrosterone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0035943"	"estrone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0046883"	"regulation of hormone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0046887"	"positive regulation of hormone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0046888"	"negative regulation of hormone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0060986"	"endocrine hormone secretion"	1
+"GO:0046879"	"hormone secretion"	"GO:0002553"	"histamine secretion by mast cell"	2
+"GO:0046879"	"hormone secretion"	"GO:0002555"	"histamine secretion by platelet"	2
+"GO:0046879"	"hormone secretion"	"GO:0002557"	"histamine secretion by basophil"	2
+"GO:0046879"	"hormone secretion"	"GO:0007558"	"regulation of juvenile hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0030073"	"insulin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0030103"	"vasopressin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0030252"	"growth hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032274"	"gonadotropin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032276"	"regulation of gonadotropin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032277"	"negative regulation of gonadotropin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032278"	"positive regulation of gonadotropin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032334"	"inhibin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032335"	"regulation of activin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032336"	"negative regulation of activin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032337"	"positive regulation of activin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032338"	"regulation of inhibin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032339"	"negative regulation of inhibin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0032340"	"positive regulation of inhibin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0035898"	"parathyroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0035929"	"steroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0036160"	"melanocyte-stimulating hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0036161"	"calcitonin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0036162"	"oxytocin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0036321"	"ghrelin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0036322"	"pancreatic polypeptide secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0043396"	"corticotropin-releasing hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0045443"	"juvenile hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0045972"	"negative regulation of juvenile hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0045973"	"positive regulation of juvenile hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0051458"	"corticotropin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070091"	"glucagon secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070162"	"adiponectin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070163"	"regulation of adiponectin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070164"	"negative regulation of adiponectin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070165"	"positive regulation of adiponectin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070253"	"somatostatin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070459"	"prolactin secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0070460"	"thyroid-stimulating hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0071834"	"mating pheromone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0090276"	"regulation of peptide hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0090277"	"positive regulation of peptide hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0090278"	"negative regulation of peptide hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0090538"	"peptide pheromone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0097280"	"histamine secretion mediated by immunoglobulin"	2
+"GO:0046879"	"hormone secretion"	"GO:1903593"	"regulation of histamine secretion by mast cell"	2
+"GO:0046879"	"hormone secretion"	"GO:1903594"	"negative regulation of histamine secretion by mast cell"	2
+"GO:0046879"	"hormone secretion"	"GO:1903595"	"positive regulation of histamine secretion by mast cell"	2
+"GO:0046879"	"hormone secretion"	"GO:1990772"	"substance P secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000828"	"regulation of parathyroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000829"	"negative regulation of parathyroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000830"	"positive regulation of parathyroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000831"	"regulation of steroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000832"	"negative regulation of steroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000833"	"positive regulation of steroid hormone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000837"	"regulation of androstenedione secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000838"	"negative regulation of androstenedione secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000839"	"positive regulation of androstenedione secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000840"	"regulation of dehydroepiandrosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000841"	"negative regulation of dehydroepiandrosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000842"	"positive regulation of dehydroepiandrosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000843"	"regulation of testosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000844"	"negative regulation of testosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000845"	"positive regulation of testosterone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000864"	"regulation of estradiol secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000865"	"negative regulation of estradiol secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000866"	"positive regulation of estradiol secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000867"	"regulation of estrone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000868"	"negative regulation of estrone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:2000869"	"positive regulation of estrone secretion"	2
+"GO:0046879"	"hormone secretion"	"GO:0002004"	"secretion of vasopressin involved in fast regulation of systemic arterial blood pressure"	3
+"GO:0046879"	"hormone secretion"	"GO:0007555"	"regulation of ecdysteroid secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0032024"	"positive regulation of insulin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0032275"	"luteinizing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0033684"	"regulation of luteinizing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0033685"	"negative regulation of luteinizing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0033686"	"positive regulation of luteinizing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0035773"	"insulin secretion involved in cellular response to glucose stimulus"	3
+"GO:0046879"	"hormone secretion"	"GO:0035930"	"corticosteroid hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0035935"	"androgen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0035937"	"estrogen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0042701"	"progesterone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0043397"	"regulation of corticotropin-releasing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0045457"	"ecdysteroid secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0045999"	"negative regulation of ecdysteroid secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046000"	"positive regulation of ecdysteroid secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046676"	"negative regulation of insulin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046880"	"regulation of follicle-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046881"	"positive regulation of follicle-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046882"	"negative regulation of follicle-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0046884"	"follicle-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0050796"	"regulation of insulin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0051459"	"regulation of corticotropin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0051460"	"negative regulation of corticotropin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0051461"	"positive regulation of corticotropin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0051465"	"negative regulation of corticotropin-releasing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0051466"	"positive regulation of corticotropin-releasing hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0060123"	"regulation of growth hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0060124"	"positive regulation of growth hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0060125"	"negative regulation of growth hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0070092"	"regulation of glucagon secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0070093"	"negative regulation of glucagon secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0070094"	"positive regulation of glucagon secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0071631"	"mating pheromone secretion involved in positive regulation of conjugation with cellular fusion"	3
+"GO:0046879"	"hormone secretion"	"GO:0071835"	"mating pheromone secretion involved in regulation of conjugation"	3
+"GO:0046879"	"hormone secretion"	"GO:0090273"	"regulation of somatostatin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0090274"	"positive regulation of somatostatin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0090275"	"negative regulation of somatostatin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0097279"	"histamine secretion mediated by IgE immunoglobulin"	3
+"GO:0046879"	"hormone secretion"	"GO:1902721"	"negative regulation of prolactin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1902722"	"positive regulation of prolactin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904362"	"regulation of calcitonin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904363"	"negative regulation of calcitonin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904364"	"positive regulation of calcitonin secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904458"	"regulation of substance P secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904459"	"negative regulation of substance P secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1904460"	"positive regulation of substance P secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:1990793"	"substance P secretion, neurotransmission"	3
+"GO:0046879"	"hormone secretion"	"GO:2000612"	"regulation of thyroid-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000613"	"negative regulation of thyroid-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000614"	"positive regulation of thyroid-stimulating hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000834"	"regulation of androgen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000835"	"negative regulation of androgen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000836"	"positive regulation of androgen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000846"	"regulation of corticosteroid hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000847"	"negative regulation of corticosteroid hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000848"	"positive regulation of corticosteroid hormone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000861"	"regulation of estrogen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000862"	"negative regulation of estrogen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000863"	"positive regulation of estrogen secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000870"	"regulation of progesterone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000871"	"negative regulation of progesterone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:2000872"	"positive regulation of progesterone secretion"	3
+"GO:0046879"	"hormone secretion"	"GO:0035774"	"positive regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0046879"	"hormone secretion"	"GO:0035931"	"mineralocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:0035933"	"glucocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:0061178"	"regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0046879"	"hormone secretion"	"GO:0061179"	"negative regulation of insulin secretion involved in cellular response to glucose stimulus"	4
+"GO:0046879"	"hormone secretion"	"GO:1904494"	"regulation of substance P secretion, neurotransmission"	4
+"GO:0046879"	"hormone secretion"	"GO:1904495"	"negative regulation of substance P secretion, neurotransmission"	4
+"GO:0046879"	"hormone secretion"	"GO:1904496"	"positive regulation of substance P secretion, neurotransmission"	4
+"GO:0046879"	"hormone secretion"	"GO:2000849"	"regulation of glucocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:2000850"	"negative regulation of glucocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:2000851"	"positive regulation of glucocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:2000855"	"regulation of mineralocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:2000856"	"negative regulation of mineralocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:2000857"	"positive regulation of mineralocorticoid secretion"	4
+"GO:0046879"	"hormone secretion"	"GO:0035932"	"aldosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0035934"	"corticosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0043400"	"cortisol secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0051462"	"regulation of cortisol secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0051463"	"negative regulation of cortisol secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0051464"	"positive regulation of cortisol secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000852"	"regulation of corticosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000853"	"negative regulation of corticosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000854"	"positive regulation of corticosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000858"	"regulation of aldosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000859"	"negative regulation of aldosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:2000860"	"positive regulation of aldosterone secretion"	5
+"GO:0046879"	"hormone secretion"	"GO:0002018"	"renin-angiotensin regulation of aldosterone production"	6
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0035883"	"enteroendocrine cell differentiation"	0
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003309"	"type B pancreatic cell differentiation"	1
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003310"	"pancreatic A cell differentiation"	1
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003311"	"pancreatic D cell differentiation"	1
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003312"	"pancreatic PP cell differentiation"	1
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003322"	"pancreatic A cell development"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003323"	"type B pancreatic cell development"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003324"	"pancreatic D cell development"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003325"	"pancreatic PP cell development"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003326"	"pancreatic A cell fate commitment"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003327"	"type B pancreatic cell fate commitment"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003328"	"pancreatic D cell fate commitment"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0003329"	"pancreatic PP cell fate commitment"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000226"	"regulation of pancreatic A cell differentiation"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000227"	"negative regulation of pancreatic A cell differentiation"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000228"	"positive regulation of pancreatic A cell differentiation"	2
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:0072560"	"type B pancreatic cell maturation"	3
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000074"	"regulation of type B pancreatic cell development"	3
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000077"	"negative regulation of type B pancreatic cell development"	3
+"GO:0035883"	"enteroendocrine cell differentiation"	"GO:2000078"	"positive regulation of type B pancreatic cell development"	3
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061101"	"neuroendocrine cell differentiation"	0
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061100"	"lung neuroendocrine cell differentiation"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061103"	"carotid body glomus cell differentiation"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061104"	"adrenal chromaffin cell differentiation"	1
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	2
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	2
+"GO:0061101"	"neuroendocrine cell differentiation"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	2
+"GO:0030073"	"insulin secretion"	"GO:0030073"	"insulin secretion"	0
+"GO:0030073"	"insulin secretion"	"GO:0032024"	"positive regulation of insulin secretion"	1
+"GO:0030073"	"insulin secretion"	"GO:0035773"	"insulin secretion involved in cellular response to glucose stimulus"	1
+"GO:0030073"	"insulin secretion"	"GO:0046676"	"negative regulation of insulin secretion"	1
+"GO:0030073"	"insulin secretion"	"GO:0050796"	"regulation of insulin secretion"	1
+"GO:0030073"	"insulin secretion"	"GO:0035774"	"positive regulation of insulin secretion involved in cellular response to glucose stimulus"	2
+"GO:0030073"	"insulin secretion"	"GO:0061178"	"regulation of insulin secretion involved in cellular response to glucose stimulus"	2
+"GO:0030073"	"insulin secretion"	"GO:0061179"	"negative regulation of insulin secretion involved in cellular response to glucose stimulus"	2
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:0003309"	"type B pancreatic cell differentiation"	0
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:0003323"	"type B pancreatic cell development"	1
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:0003327"	"type B pancreatic cell fate commitment"	1
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:0072560"	"type B pancreatic cell maturation"	2
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:2000074"	"regulation of type B pancreatic cell development"	2
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:2000077"	"negative regulation of type B pancreatic cell development"	2
+"GO:0003309"	"type B pancreatic cell differentiation"	"GO:2000078"	"positive regulation of type B pancreatic cell development"	2
+"GO:0003323"	"type B pancreatic cell development"	"GO:0003323"	"type B pancreatic cell development"	0
+"GO:0003323"	"type B pancreatic cell development"	"GO:0072560"	"type B pancreatic cell maturation"	1
+"GO:0003323"	"type B pancreatic cell development"	"GO:2000074"	"regulation of type B pancreatic cell development"	1
+"GO:0003323"	"type B pancreatic cell development"	"GO:2000077"	"negative regulation of type B pancreatic cell development"	1
+"GO:0003323"	"type B pancreatic cell development"	"GO:2000078"	"positive regulation of type B pancreatic cell development"	1
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:0044342"	"type B pancreatic cell proliferation"	0
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:0061469"	"regulation of type B pancreatic cell proliferation"	1
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:1904691"	"negative regulation of type B pancreatic cell proliferation"	1
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:1904692"	"positive regulation of type B pancreatic cell proliferation"	1
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:0044343"	"canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation"	2
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:2000079"	"regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:2000080"	"negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0044342"	"type B pancreatic cell proliferation"	"GO:2000081"	"positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation"	3
+"GO:0072560"	"type B pancreatic cell maturation"	"GO:0072560"	"type B pancreatic cell maturation"	0
+"GO:0097050"	"type B pancreatic cell apoptotic process"	"GO:0097050"	"type B pancreatic cell apoptotic process"	0
+"GO:0097050"	"type B pancreatic cell apoptotic process"	"GO:2000674"	"regulation of type B pancreatic cell apoptotic process"	1
+"GO:0097050"	"type B pancreatic cell apoptotic process"	"GO:2000675"	"negative regulation of type B pancreatic cell apoptotic process"	1
+"GO:0097050"	"type B pancreatic cell apoptotic process"	"GO:2000676"	"positive regulation of type B pancreatic cell apoptotic process"	1
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:0003310"	"pancreatic A cell differentiation"	0
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:0003322"	"pancreatic A cell development"	1
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:0003326"	"pancreatic A cell fate commitment"	1
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:2000226"	"regulation of pancreatic A cell differentiation"	1
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:2000227"	"negative regulation of pancreatic A cell differentiation"	1
+"GO:0003310"	"pancreatic A cell differentiation"	"GO:2000228"	"positive regulation of pancreatic A cell differentiation"	1
+"GO:0003322"	"pancreatic A cell development"	"GO:0003322"	"pancreatic A cell development"	0
+"GO:0003311"	"pancreatic D cell differentiation"	"GO:0003311"	"pancreatic D cell differentiation"	0
+"GO:0003311"	"pancreatic D cell differentiation"	"GO:0003324"	"pancreatic D cell development"	1
+"GO:0003311"	"pancreatic D cell differentiation"	"GO:0003328"	"pancreatic D cell fate commitment"	1
+"GO:0003324"	"pancreatic D cell development"	"GO:0003324"	"pancreatic D cell development"	0
+"GO:1903728"	"luteal cell differentiation"	"GO:1903728"	"luteal cell differentiation"	0
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0006699"	"bile acid biosynthetic process"	0
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070857"	"regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070858"	"negative regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070859"	"positive regulation of bile acid biosynthetic process"	1
+"GO:0098754"	"detoxification"	"GO:0098754"	"detoxification"	0
+"GO:0098754"	"detoxification"	"GO:0009407"	"toxin catabolic process"	1
+"GO:0098754"	"detoxification"	"GO:0010127"	"mycothiol-dependent detoxification"	1
+"GO:0098754"	"detoxification"	"GO:0010312"	"detoxification of zinc ion"	1
+"GO:0098754"	"detoxification"	"GO:0051410"	"detoxification of nitrogen compound"	1
+"GO:0098754"	"detoxification"	"GO:0061687"	"detoxification of inorganic compound"	1
+"GO:0098754"	"detoxification"	"GO:0071722"	"detoxification of arsenic-containing substance"	1
+"GO:0098754"	"detoxification"	"GO:0140330"	"xenobiotic detoxification by transmembrane export across the cell outer membrane"	1
+"GO:0098754"	"detoxification"	"GO:1990748"	"cellular detoxification"	1
+"GO:0098754"	"detoxification"	"GO:1990961"	"xenobiotic detoxification by transmembrane export across the plasma membrane"	1
+"GO:0098754"	"detoxification"	"GO:0010273"	"detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:0010299"	"detoxification of cobalt ion"	2
+"GO:0098754"	"detoxification"	"GO:0043387"	"mycotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0045574"	"sterigmatocystin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046216"	"indole phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046225"	"bacteriocin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046701"	"insecticide catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0050787"	"detoxification of mercury ion"	2
+"GO:0098754"	"detoxification"	"GO:0052316"	"phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0061691"	"detoxification of hydrogen peroxide"	2
+"GO:0098754"	"detoxification"	"GO:0070458"	"cellular detoxification of nitrogen compound"	2
+"GO:0098754"	"detoxification"	"GO:0071585"	"detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098849"	"cellular detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098869"	"cellular oxidant detoxification"	2
+"GO:0098754"	"detoxification"	"GO:0110052"	"toxic metabolite repair"	2
+"GO:0098754"	"detoxification"	"GO:0110095"	"cellular detoxification of aldehyde"	2
+"GO:0098754"	"detoxification"	"GO:0140114"	"cellular detoxification of fluoride"	2
+"GO:0098754"	"detoxification"	"GO:1905699"	"regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905700"	"negative regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905701"	"positive regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1990461"	"detoxification of iron ion"	2
+"GO:0098754"	"detoxification"	"GO:1990880"	"cellular detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:2001309"	"gliotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0015694"	"mercury ion transport"	3
+"GO:0098754"	"detoxification"	"GO:0019430"	"removal of superoxide radicals"	3
+"GO:0098754"	"detoxification"	"GO:0042188"	"1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046223"	"aflatoxin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046286"	"flavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046290"	"isoflavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046294"	"formaldehyde catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0050788"	"sequestering of mercury"	3
+"GO:0098754"	"detoxification"	"GO:0061692"	"cellular detoxification of hydrogen peroxide"	3
+"GO:0098754"	"detoxification"	"GO:0140041"	"cellular detoxification of methylglyoxal"	3
+"GO:0098754"	"detoxification"	"GO:0106045"	"guanine deglycation, methylglyoxal removal"	4
+"GO:0098754"	"detoxification"	"GO:1904832"	"negative regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1904833"	"positive regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:2000121"	"regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1901670"	"negative regulation of superoxide dismutase activity"	5
+"GO:0036333"	"hepatocyte homeostasis"	"GO:0036333"	"hepatocyte homeostasis"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070365"	"hepatocyte differentiation"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070366"	"regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:0097284"	"hepatocyte apoptotic process"	0
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903943"	"regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903944"	"negative regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903945"	"positive regulation of hepatocyte apoptotic process"	1
+"GO:0035898"	"parathyroid hormone secretion"	"GO:0035898"	"parathyroid hormone secretion"	0
+"GO:0035898"	"parathyroid hormone secretion"	"GO:2000828"	"regulation of parathyroid hormone secretion"	1
+"GO:0035898"	"parathyroid hormone secretion"	"GO:2000829"	"negative regulation of parathyroid hormone secretion"	1
+"GO:0035898"	"parathyroid hormone secretion"	"GO:2000830"	"positive regulation of parathyroid hormone secretion"	1
+"GO:0001820"	"serotonin secretion"	"GO:0001820"	"serotonin secretion"	0
+"GO:0001820"	"serotonin secretion"	"GO:0002442"	"serotonin secretion involved in inflammatory response"	1
+"GO:0001820"	"serotonin secretion"	"GO:0014062"	"regulation of serotonin secretion"	1
+"GO:0001820"	"serotonin secretion"	"GO:0014063"	"negative regulation of serotonin secretion"	1
+"GO:0001820"	"serotonin secretion"	"GO:0014064"	"positive regulation of serotonin secretion"	1
+"GO:0001820"	"serotonin secretion"	"GO:0060096"	"serotonin secretion, neurotransmission"	1
+"GO:0001820"	"serotonin secretion"	"GO:0002552"	"serotonin secretion by mast cell"	2
+"GO:0001820"	"serotonin secretion"	"GO:0002554"	"serotonin secretion by platelet"	2
+"GO:0001820"	"serotonin secretion"	"GO:0002556"	"serotonin secretion by basophil"	2
+"GO:0036161"	"calcitonin secretion"	"GO:0036161"	"calcitonin secretion"	0
+"GO:0036161"	"calcitonin secretion"	"GO:1904362"	"regulation of calcitonin secretion"	1
+"GO:0036161"	"calcitonin secretion"	"GO:1904363"	"negative regulation of calcitonin secretion"	1
+"GO:0036161"	"calcitonin secretion"	"GO:1904364"	"positive regulation of calcitonin secretion"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:0035733"	"hepatic stellate cell activation"	0
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000489"	"regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000490"	"negative regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000491"	"positive regulation of hepatic stellate cell activation"	1
+"GO:0061521"	"hepatic stellate cell differentiation"	"GO:0061521"	"hepatic stellate cell differentiation"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061868"	"hepatic stellate cell migration"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061869"	"regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061870"	"positive regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061871"	"negative regulation of hepatic stellate cell migration"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1990922"	"hepatic stellate cell proliferation"	0
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904897"	"regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904898"	"negative regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904899"	"positive regulation of hepatic stellate cell proliferation"	1
+"GO:0030187"	"melatonin biosynthetic process"	"GO:0030187"	"melatonin biosynthetic process"	0
+"GO:0045058"	"T cell selection"	"GO:0045058"	"T cell selection"	0
+"GO:0045058"	"T cell selection"	"GO:0043366"	"beta selection"	1
+"GO:0045058"	"T cell selection"	"GO:0043368"	"positive T cell selection"	1
+"GO:0045058"	"T cell selection"	"GO:0043383"	"negative T cell selection"	1
+"GO:0045058"	"T cell selection"	"GO:0045061"	"thymic T cell selection"	1
+"GO:0045058"	"T cell selection"	"GO:0045062"	"extrathymic T cell selection"	1
+"GO:0045058"	"T cell selection"	"GO:0043369"	"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"	2
+"GO:0045058"	"T cell selection"	"GO:0045059"	"positive thymic T cell selection"	2
+"GO:0045058"	"T cell selection"	"GO:0045060"	"negative thymic T cell selection"	2
+"GO:0045058"	"T cell selection"	"GO:0045067"	"positive extrathymic T cell selection"	2
+"GO:0045058"	"T cell selection"	"GO:0045068"	"negative extrathymic T cell selection"	2
+"GO:0045058"	"T cell selection"	"GO:0043373"	"CD4-positive, alpha-beta T cell lineage commitment"	3
+"GO:0045058"	"T cell selection"	"GO:0043375"	"CD8-positive, alpha-beta T cell lineage commitment"	3
+"GO:0045058"	"T cell selection"	"GO:1902232"	"regulation of positive thymic T cell selection"	3
+"GO:0045058"	"T cell selection"	"GO:1902233"	"negative regulation of positive thymic T cell selection"	3
+"GO:0045058"	"T cell selection"	"GO:1902234"	"positive regulation of positive thymic T cell selection"	3
+"GO:0045058"	"T cell selection"	"GO:0002295"	"T-helper cell lineage commitment"	4
+"GO:0045058"	"T cell selection"	"GO:0002362"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment"	4
+"GO:0045058"	"T cell selection"	"GO:0002296"	"T-helper 1 cell lineage commitment"	5
+"GO:0045058"	"T cell selection"	"GO:0002297"	"T-helper 2 cell lineage commitment"	5
+"GO:0045058"	"T cell selection"	"GO:0072540"	"T-helper 17 cell lineage commitment"	5
+"GO:0045058"	"T cell selection"	"GO:2000328"	"regulation of T-helper 17 cell lineage commitment"	6
+"GO:0045058"	"T cell selection"	"GO:2000329"	"negative regulation of T-helper 17 cell lineage commitment"	6
+"GO:0045058"	"T cell selection"	"GO:2000330"	"positive regulation of T-helper 17 cell lineage commitment"	6
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033077"	"T cell differentiation in thymus"	0
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033080"	"immature T cell proliferation in thymus"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033081"	"regulation of T cell differentiation in thymus"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033085"	"negative regulation of T cell differentiation in thymus"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033089"	"positive regulation of T cell differentiation in thymus"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0045061"	"thymic T cell selection"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1904155"	"DN2 thymocyte differentiation"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1904156"	"DN3 thymocyte differentiation"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1904157"	"DN4 thymocyte differentiation"	1
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0045059"	"positive thymic T cell selection"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:0045060"	"negative thymic T cell selection"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1902232"	"regulation of positive thymic T cell selection"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1902233"	"negative regulation of positive thymic T cell selection"	2
+"GO:0033077"	"T cell differentiation in thymus"	"GO:1902234"	"positive regulation of positive thymic T cell selection"	2
+"GO:0033080"	"immature T cell proliferation in thymus"	"GO:0033080"	"immature T cell proliferation in thymus"	0
+"GO:0033080"	"immature T cell proliferation in thymus"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	1
+"GO:0033080"	"immature T cell proliferation in thymus"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	1
+"GO:0033080"	"immature T cell proliferation in thymus"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	1
+"GO:0070242"	"thymocyte apoptotic process"	"GO:0070242"	"thymocyte apoptotic process"	0
+"GO:0070242"	"thymocyte apoptotic process"	"GO:0070243"	"regulation of thymocyte apoptotic process"	1
+"GO:0070242"	"thymocyte apoptotic process"	"GO:0070244"	"negative regulation of thymocyte apoptotic process"	1
+"GO:0070242"	"thymocyte apoptotic process"	"GO:0070245"	"positive regulation of thymocyte apoptotic process"	1
+"GO:0072679"	"thymocyte migration"	"GO:0072679"	"thymocyte migration"	0
+"GO:0072679"	"thymocyte migration"	"GO:0072680"	"extracellular matrix-dependent thymocyte migration"	1
+"GO:0072679"	"thymocyte migration"	"GO:2000410"	"regulation of thymocyte migration"	1
+"GO:0072679"	"thymocyte migration"	"GO:2000411"	"negative regulation of thymocyte migration"	1
+"GO:0072679"	"thymocyte migration"	"GO:2000412"	"positive regulation of thymocyte migration"	1
+"GO:0072679"	"thymocyte migration"	"GO:0072681"	"fibronectin-dependent thymocyte migration"	2
+"GO:0072679"	"thymocyte migration"	"GO:2000413"	"regulation of fibronectin-dependent thymocyte migration"	2
+"GO:0072679"	"thymocyte migration"	"GO:2000414"	"negative regulation of fibronectin-dependent thymocyte migration"	2
+"GO:0072679"	"thymocyte migration"	"GO:2000415"	"positive regulation of fibronectin-dependent thymocyte migration"	2
+"GO:0070091"	"glucagon secretion"	"GO:0070091"	"glucagon secretion"	0
+"GO:0070091"	"glucagon secretion"	"GO:0070092"	"regulation of glucagon secretion"	1
+"GO:0070091"	"glucagon secretion"	"GO:0070093"	"negative regulation of glucagon secretion"	1
+"GO:0070091"	"glucagon secretion"	"GO:0070094"	"positive regulation of glucagon secretion"	1
+"GO:0048242"	"epinephrine secretion"	"GO:0048242"	"epinephrine secretion"	0
+"GO:0048242"	"epinephrine secretion"	"GO:0014060"	"regulation of epinephrine secretion"	1
+"GO:0048242"	"epinephrine secretion"	"GO:0032811"	"negative regulation of epinephrine secretion"	1
+"GO:0048242"	"epinephrine secretion"	"GO:0032812"	"positive regulation of epinephrine secretion"	1
+"GO:0048242"	"epinephrine secretion"	"GO:0061529"	"epinephrine secretion, neurotransmission"	1
+"GO:0048243"	"norepinephrine secretion"	"GO:0048243"	"norepinephrine secretion"	0
+"GO:0048243"	"norepinephrine secretion"	"GO:0010700"	"negative regulation of norepinephrine secretion"	1
+"GO:0048243"	"norepinephrine secretion"	"GO:0010701"	"positive regulation of norepinephrine secretion"	1
+"GO:0048243"	"norepinephrine secretion"	"GO:0014061"	"regulation of norepinephrine secretion"	1
+"GO:0048243"	"norepinephrine secretion"	"GO:0061533"	"norepinephrine secretion, neurotransmission"	1
+"GO:0070460"	"thyroid-stimulating hormone secretion"	"GO:0070460"	"thyroid-stimulating hormone secretion"	0
+"GO:0070460"	"thyroid-stimulating hormone secretion"	"GO:2000612"	"regulation of thyroid-stimulating hormone secretion"	1
+"GO:0070460"	"thyroid-stimulating hormone secretion"	"GO:2000613"	"negative regulation of thyroid-stimulating hormone secretion"	1
+"GO:0070460"	"thyroid-stimulating hormone secretion"	"GO:2000614"	"positive regulation of thyroid-stimulating hormone secretion"	1
+"GO:0003312"	"pancreatic PP cell differentiation"	"GO:0003312"	"pancreatic PP cell differentiation"	0
+"GO:0003312"	"pancreatic PP cell differentiation"	"GO:0003325"	"pancreatic PP cell development"	1
+"GO:0003312"	"pancreatic PP cell differentiation"	"GO:0003329"	"pancreatic PP cell fate commitment"	1
+"GO:0003325"	"pancreatic PP cell development"	"GO:0003325"	"pancreatic PP cell development"	0
+"GO:0046717"	"acid secretion"	"GO:0046717"	"acid secretion"	0
+"GO:0046717"	"acid secretion"	"GO:0001696"	"gastric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0014051"	"gamma-aminobutyric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0032782"	"bile acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046720"	"citric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046721"	"formic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046722"	"lactic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046723"	"malic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046724"	"oxalic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0001697"	"histamine-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0001698"	"gastrin-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014052"	"regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014053"	"negative regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014054"	"positive regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060453"	"regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060454"	"positive regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060455"	"negative regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0061534"	"gamma-aminobutyric acid secretion, neurotransmission"	2
+"GO:0046717"	"acid secretion"	"GO:0120188"	"regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0120189"	"positive regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0120190"	"negative regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	3
+"GO:0046717"	"acid secretion"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	3
+"GO:0046717"	"acid secretion"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	3
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	0
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	1
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	1
+"GO:0070483"	"detection of hypoxia"	"GO:0070483"	"detection of hypoxia"	0
+"GO:0070483"	"detection of hypoxia"	"GO:0003020"	"detection of reduced oxygen by chemoreceptor signaling"	1
+"GO:0070483"	"detection of hypoxia"	"GO:0003038"	"detection of reduced oxygen by aortic body chemoreceptor signaling"	2
+"GO:0070483"	"detection of hypoxia"	"GO:0003039"	"detection of reduced oxygen by carotid body chemoreceptor signaling"	2
+"GO:0061100"	"lung neuroendocrine cell differentiation"	"GO:0061100"	"lung neuroendocrine cell differentiation"	0
+"GO:0061104"	"adrenal chromaffin cell differentiation"	"GO:0061104"	"adrenal chromaffin cell differentiation"	0
+"GO:0030103"	"vasopressin secretion"	"GO:0030103"	"vasopressin secretion"	0
+"GO:0030103"	"vasopressin secretion"	"GO:0002004"	"secretion of vasopressin involved in fast regulation of systemic arterial blood pressure"	1
+"GO:0002491"	"antigen processing and presentation of endogenous peptide antigen via MHC class II"	"GO:0002491"	"antigen processing and presentation of endogenous peptide antigen via MHC class II"	0
+"GO:0007276"	"gamete generation"	"GO:0007276"	"gamete generation"	0
+"GO:0007276"	"gamete generation"	"GO:0007277"	"pole cell development"	1
+"GO:0007276"	"gamete generation"	"GO:0007281"	"germ cell development"	1
+"GO:0007276"	"gamete generation"	"GO:0007292"	"female gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0008354"	"germ cell migration"	1
+"GO:0007276"	"gamete generation"	"GO:0036093"	"germ cell proliferation"	1
+"GO:0007276"	"gamete generation"	"GO:0043046"	"DNA methylation involved in gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0048138"	"germ-line cyst encapsulation"	1
+"GO:0007276"	"gamete generation"	"GO:0048232"	"male gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0061988"	"karyosome formation"	1
+"GO:0007276"	"gamete generation"	"GO:0002176"	"male germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:0007140"	"male meiotic nuclear division"	2
+"GO:0007276"	"gamete generation"	"GO:0007143"	"female meiotic nuclear division"	2
+"GO:0007276"	"gamete generation"	"GO:0007278"	"pole cell fate determination"	2
+"GO:0007276"	"gamete generation"	"GO:0007279"	"pole cell formation"	2
+"GO:0007276"	"gamete generation"	"GO:0007280"	"pole cell migration"	2
+"GO:0007276"	"gamete generation"	"GO:0007282"	"cystoblast division"	2
+"GO:0007276"	"gamete generation"	"GO:0007283"	"spermatogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0007286"	"spermatid development"	2
+"GO:0007276"	"gamete generation"	"GO:0007296"	"vitellogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0009560"	"embryo sac egg cell differentiation"	2
+"GO:0007276"	"gamete generation"	"GO:0030717"	"oocyte karyosome formation"	2
+"GO:0007276"	"gamete generation"	"GO:0030728"	"ovulation"	2
+"GO:0007276"	"gamete generation"	"GO:0035232"	"germ cell attraction"	2
+"GO:0007276"	"gamete generation"	"GO:0035233"	"germ cell repulsion"	2
+"GO:0007276"	"gamete generation"	"GO:0042078"	"germ-line stem cell division"	2
+"GO:0007276"	"gamete generation"	"GO:0048134"	"germ-line cyst formation"	2
+"GO:0007276"	"gamete generation"	"GO:0048139"	"female germ-line cyst encapsulation"	2
+"GO:0007276"	"gamete generation"	"GO:0048140"	"male germ-line cyst encapsulation"	2
+"GO:0007276"	"gamete generation"	"GO:0048235"	"pollen sperm cell differentiation"	2
+"GO:0007276"	"gamete generation"	"GO:0048477"	"oogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0048599"	"oocyte development"	2
+"GO:0007276"	"gamete generation"	"GO:0055047"	"generative cell mitosis"	2
+"GO:0007276"	"gamete generation"	"GO:0061989"	"sperm karyosome formation"	2
+"GO:0007276"	"gamete generation"	"GO:1905936"	"regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:1905937"	"negative regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:1905938"	"positive regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:0001542"	"ovulation from ovarian follicle"	3
+"GO:0007276"	"gamete generation"	"GO:0001555"	"oocyte growth"	3
+"GO:0007276"	"gamete generation"	"GO:0001556"	"oocyte maturation"	3
+"GO:0007276"	"gamete generation"	"GO:0001675"	"acrosome assembly"	3
+"GO:0007276"	"gamete generation"	"GO:0007053"	"spindle assembly involved in male meiosis"	3
+"GO:0007276"	"gamete generation"	"GO:0007056"	"spindle assembly involved in female meiosis"	3
+"GO:0007276"	"gamete generation"	"GO:0007060"	"male meiosis chromosome segregation"	3
+"GO:0007276"	"gamete generation"	"GO:0007065"	"male meiosis sister chromatid cohesion"	3
+"GO:0007276"	"gamete generation"	"GO:0007066"	"female meiosis sister chromatid cohesion"	3
+"GO:0007276"	"gamete generation"	"GO:0007112"	"male meiosis cytokinesis"	3
+"GO:0007276"	"gamete generation"	"GO:0007141"	"male meiosis I"	3
+"GO:0007276"	"gamete generation"	"GO:0007142"	"male meiosis II"	3
+"GO:0007276"	"gamete generation"	"GO:0007144"	"female meiosis I"	3
+"GO:0007276"	"gamete generation"	"GO:0007147"	"female meiosis II"	3
+"GO:0007276"	"gamete generation"	"GO:0007284"	"spermatogonial cell division"	3
+"GO:0007276"	"gamete generation"	"GO:0007285"	"primary spermatocyte growth"	3
+"GO:0007276"	"gamete generation"	"GO:0007287"	"Nebenkern assembly"	3
+"GO:0007276"	"gamete generation"	"GO:0007289"	"spermatid nucleus differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0007291"	"sperm individualization"	3
+"GO:0007276"	"gamete generation"	"GO:0007293"	"germarium-derived egg chamber formation"	3
+"GO:0007276"	"gamete generation"	"GO:0007295"	"growth of a germarium-derived egg chamber"	3
+"GO:0007276"	"gamete generation"	"GO:0007300"	"ovarian nurse cell to oocyte transport"	3
+"GO:0007276"	"gamete generation"	"GO:0007308"	"oocyte construction"	3
+"GO:0007276"	"gamete generation"	"GO:0009994"	"oocyte differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0016321"	"female meiosis chromosome segregation"	3
+"GO:0007276"	"gamete generation"	"GO:0022605"	"mammalian oogenesis stage"	3
+"GO:0007276"	"gamete generation"	"GO:0030703"	"eggshell formation"	3
+"GO:0007276"	"gamete generation"	"GO:0030707"	"ovarian follicle cell development"	3
+"GO:0007276"	"gamete generation"	"GO:0030708"	"germarium-derived female germ-line cyst encapsulation"	3
+"GO:0007276"	"gamete generation"	"GO:0030724"	"testicular fusome organization"	3
+"GO:0007276"	"gamete generation"	"GO:0030726"	"male germline ring canal formation"	3
+"GO:0007276"	"gamete generation"	"GO:0035803"	"egg coat formation"	3
+"GO:0007276"	"gamete generation"	"GO:0040038"	"polar body extrusion after meiotic divisions"	3
+"GO:0007276"	"gamete generation"	"GO:0045476"	"nurse cell apoptotic process"	3
+"GO:0007276"	"gamete generation"	"GO:0045694"	"regulation of embryo sac egg cell differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0045695"	"negative regulation of embryo sac egg cell differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0045696"	"positive regulation of embryo sac egg cell differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0048132"	"female germ-line stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0048133"	"male germ-line stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0048135"	"female germ-line cyst formation"	3
+"GO:0007276"	"gamete generation"	"GO:0048136"	"male germ-line cyst formation"	3
+"GO:0007276"	"gamete generation"	"GO:0048137"	"spermatocyte division"	3
+"GO:0007276"	"gamete generation"	"GO:0048142"	"germarium-derived cystoblast division"	3
+"GO:0007276"	"gamete generation"	"GO:0048240"	"sperm capacitation"	3
+"GO:0007276"	"gamete generation"	"GO:0048515"	"spermatid differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0048601"	"oocyte morphogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:0060278"	"regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060279"	"positive regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060280"	"negative regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060281"	"regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0060282"	"positive regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0060283"	"negative regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0061883"	"clathrin-dependent endocytosis involved in vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:0098728"	"germline stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0098729"	"germline stem cell symmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0120313"	"regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120314"	"negative regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120315"	"positive regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120316"	"sperm flagellum assembly"	3
+"GO:0007276"	"gamete generation"	"GO:1902064"	"regulation of transcription from RNA polymerase II promoter involved in spermatogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903186"	"regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903187"	"negative regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903188"	"positive regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905198"	"manchette assembly"	3
+"GO:0007276"	"gamete generation"	"GO:1905199"	"manchette disassembly"	3
+"GO:0007276"	"gamete generation"	"GO:1905879"	"regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905880"	"negative regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905881"	"positive regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1990953"	"intramanchette transport"	3
+"GO:0007276"	"gamete generation"	"GO:2000254"	"regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:2000255"	"negative regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:2000256"	"positive regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:0001543"	"ovarian follicle rupture"	4
+"GO:0007276"	"gamete generation"	"GO:0007054"	"spindle assembly involved in male meiosis I"	4
+"GO:0007276"	"gamete generation"	"GO:0007055"	"spindle assembly involved in male meiosis II"	4
+"GO:0007276"	"gamete generation"	"GO:0007057"	"spindle assembly involved in female meiosis I"	4
+"GO:0007276"	"gamete generation"	"GO:0007058"	"spindle assembly involved in female meiosis II"	4
+"GO:0007276"	"gamete generation"	"GO:0007288"	"sperm axoneme assembly"	4
+"GO:0007276"	"gamete generation"	"GO:0007290"	"spermatid nucleus elongation"	4
+"GO:0007276"	"gamete generation"	"GO:0007297"	"ovarian follicle cell migration"	4
+"GO:0007276"	"gamete generation"	"GO:0007299"	"ovarian follicle cell-cell adhesion"	4
+"GO:0007276"	"gamete generation"	"GO:0007301"	"female germline ring canal formation"	4
+"GO:0007276"	"gamete generation"	"GO:0007303"	"cytoplasmic transport, nurse cell to oocyte"	4
+"GO:0007276"	"gamete generation"	"GO:0007304"	"chorion-containing eggshell formation"	4
+"GO:0007276"	"gamete generation"	"GO:0007309"	"oocyte axis specification"	4
+"GO:0007276"	"gamete generation"	"GO:0008069"	"dorsal/ventral axis specification, ovarian follicular epithelium"	4
+"GO:0007276"	"gamete generation"	"GO:0008335"	"female germline ring canal stabilization"	4
+"GO:0007276"	"gamete generation"	"GO:0009971"	"anastral spindle assembly involved in male meiosis"	4
+"GO:0007276"	"gamete generation"	"GO:0016325"	"oocyte microtubule cytoskeleton organization"	4
+"GO:0007276"	"gamete generation"	"GO:0016345"	"female meiotic chromosome movement towards spindle pole"	4
+"GO:0007276"	"gamete generation"	"GO:0016346"	"male meiotic chromosome movement towards spindle pole"	4
+"GO:0007276"	"gamete generation"	"GO:0030704"	"vitelline membrane formation"	4
+"GO:0007276"	"gamete generation"	"GO:0030706"	"germarium-derived oocyte differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0030709"	"border follicle cell delamination"	4
+"GO:0007276"	"gamete generation"	"GO:0030713"	"ovarian follicle cell stalk formation"	4
+"GO:0007276"	"gamete generation"	"GO:0030714"	"anterior/posterior axis specification, follicular epithelium"	4
+"GO:0007276"	"gamete generation"	"GO:0030715"	"oocyte growth in germarium-derived egg chamber"	4
+"GO:0007276"	"gamete generation"	"GO:0030720"	"oocyte localization involved in germarium-derived egg chamber formation"	4
+"GO:0007276"	"gamete generation"	"GO:0030723"	"ovarian fusome organization"	4
+"GO:0007276"	"gamete generation"	"GO:0030727"	"germarium-derived female germ-line cyst formation"	4
+"GO:0007276"	"gamete generation"	"GO:0035092"	"sperm chromatin condensation"	4
+"GO:0007276"	"gamete generation"	"GO:0045477"	"regulation of nurse cell apoptotic process"	4
+"GO:0007276"	"gamete generation"	"GO:0045700"	"regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0045701"	"negative regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0045702"	"positive regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0045849"	"negative regulation of nurse cell apoptotic process"	4
+"GO:0007276"	"gamete generation"	"GO:0045850"	"positive regulation of nurse cell apoptotic process"	4
+"GO:0007276"	"gamete generation"	"GO:0048158"	"oogonium stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048159"	"primary oocyte stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048160"	"primary follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048161"	"double layer follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048162"	"multi-layer follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048163"	"scattered antral spaces stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048164"	"distinct antral spaces stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048165"	"fused antrum stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048166"	"mature follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048600"	"oocyte fate commitment"	4
+"GO:0007276"	"gamete generation"	"GO:0051308"	"male meiosis chromosome separation"	4
+"GO:0007276"	"gamete generation"	"GO:0051309"	"female meiosis chromosome separation"	4
+"GO:0007276"	"gamete generation"	"GO:0055050"	"astral spindle assembly involved in male meiosis"	4
+"GO:0007276"	"gamete generation"	"GO:0060474"	"positive regulation of flagellated sperm motility involved in capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:0061954"	"positive regulation of actin filament polymerization involved in sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:0062102"	"female germline stem cell symmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0098730"	"male germline stem cell symmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0120211"	"proacrosomal vesicle fusion"	4
+"GO:0007276"	"gamete generation"	"GO:0120317"	"sperm mitochondrial sheath assembly"	4
+"GO:0007276"	"gamete generation"	"GO:1900193"	"regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1900194"	"negative regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1900195"	"positive regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1902490"	"regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1902491"	"negative regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1902492"	"positive regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1903537"	"meiotic cell cycle process involved in oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1904838"	"regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:1904839"	"negative regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:1904840"	"positive regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0001546"	"preantral ovarian follicle growth"	5
+"GO:0007276"	"gamete generation"	"GO:0001549"	"cumulus cell differentiation"	5
+"GO:0007276"	"gamete generation"	"GO:0001550"	"ovarian cumulus expansion"	5
+"GO:0007276"	"gamete generation"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	5
+"GO:0007276"	"gamete generation"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	5
+"GO:0007276"	"gamete generation"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	5
+"GO:0007276"	"gamete generation"	"GO:0007294"	"germarium-derived oocyte fate determination"	5
+"GO:0007276"	"gamete generation"	"GO:0007298"	"border follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0007305"	"vitelline membrane formation involved in chorion-containing eggshell formation"	5
+"GO:0007276"	"gamete generation"	"GO:0007306"	"eggshell chorion assembly"	5
+"GO:0007276"	"gamete generation"	"GO:0007310"	"oocyte dorsal/ventral axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:0007314"	"oocyte anterior/posterior axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:0008070"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"	5
+"GO:0007276"	"gamete generation"	"GO:0008071"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"	5
+"GO:0007276"	"gamete generation"	"GO:0008103"	"oocyte microtubule cytoskeleton polarization"	5
+"GO:0007276"	"gamete generation"	"GO:0008302"	"female germline ring canal formation, actin assembly"	5
+"GO:0007276"	"gamete generation"	"GO:0019749"	"cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte"	5
+"GO:0007276"	"gamete generation"	"GO:0030381"	"chorion-containing eggshell pattern formation"	5
+"GO:0007276"	"gamete generation"	"GO:0030710"	"regulation of border follicle cell delamination"	5
+"GO:0007276"	"gamete generation"	"GO:0030711"	"positive regulation of border follicle cell delamination"	5
+"GO:0007276"	"gamete generation"	"GO:0030712"	"negative regulation of border follicle cell delamination"	5
+"GO:0007276"	"gamete generation"	"GO:0035093"	"spermatogenesis, exchange of chromosomal proteins"	5
+"GO:0007276"	"gamete generation"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	5
+"GO:0007276"	"gamete generation"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	5
+"GO:0007276"	"gamete generation"	"GO:0060269"	"centripetally migrating follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0060270"	"main body follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0060832"	"oocyte animal/vegetal axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:1903538"	"regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:1904145"	"negative regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:1904146"	"positive regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:0007307"	"eggshell chorion gene amplification"	6
+"GO:0007276"	"gamete generation"	"GO:0007311"	"maternal specification of dorsal/ventral axis, oocyte, germ-line encoded"	6
+"GO:0007276"	"gamete generation"	"GO:0007313"	"maternal specification of dorsal/ventral axis, oocyte, soma encoded"	6
+"GO:0007276"	"gamete generation"	"GO:0007315"	"pole plasm assembly"	6
+"GO:0007276"	"gamete generation"	"GO:0045450"	"bicoid mRNA localization"	6
+"GO:0007276"	"gamete generation"	"GO:0045592"	"regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0046843"	"dorsal appendage formation"	6
+"GO:0007276"	"gamete generation"	"GO:0046844"	"chorion micropyle formation"	6
+"GO:0007276"	"gamete generation"	"GO:0051663"	"oocyte nucleus localization involved in oocyte dorsal/ventral axis specification"	6
+"GO:0007276"	"gamete generation"	"GO:0060833"	"Wnt signaling pathway involved in animal/vegetal axis specification"	6
+"GO:0007276"	"gamete generation"	"GO:1903684"	"regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:1903687"	"negative regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:1903688"	"positive regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:0007312"	"oocyte nucleus migration involved in oocyte dorsal/ventral axis specification"	7
+"GO:0007276"	"gamete generation"	"GO:0007316"	"pole plasm RNA localization"	7
+"GO:0007276"	"gamete generation"	"GO:0007318"	"pole plasm protein localization"	7
+"GO:0007276"	"gamete generation"	"GO:0008359"	"regulation of bicoid mRNA localization"	7
+"GO:0007276"	"gamete generation"	"GO:0030719"	"P granule organization"	7
+"GO:0007276"	"gamete generation"	"GO:0042070"	"maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification"	7
+"GO:0007276"	"gamete generation"	"GO:0045853"	"negative regulation of bicoid mRNA localization"	7
+"GO:0007276"	"gamete generation"	"GO:0045854"	"positive regulation of bicoid mRNA localization"	7
+"GO:0007276"	"gamete generation"	"GO:0019094"	"pole plasm mRNA localization"	8
+"GO:0007276"	"gamete generation"	"GO:0019095"	"pole plasm mitochondrial rRNA localization"	8
+"GO:0007276"	"gamete generation"	"GO:1903863"	"P granule assembly"	8
+"GO:0007276"	"gamete generation"	"GO:1903864"	"P granule disassembly"	8
+"GO:0007276"	"gamete generation"	"GO:0019096"	"pole plasm mitochondrial lrRNA localization"	9
+"GO:0007276"	"gamete generation"	"GO:0019097"	"pole plasm mitochondrial srRNA localization"	9
+"GO:0007276"	"gamete generation"	"GO:0045451"	"pole plasm oskar mRNA localization"	9
+"GO:0007276"	"gamete generation"	"GO:0046594"	"maintenance of pole plasm mRNA location"	9
+"GO:0007276"	"gamete generation"	"GO:0046595"	"establishment of pole plasm mRNA localization"	9
+"GO:0007276"	"gamete generation"	"GO:0007317"	"regulation of pole plasm oskar mRNA localization"	10
+"GO:0007276"	"gamete generation"	"GO:0045855"	"negative regulation of pole plasm oskar mRNA localization"	10
+"GO:0007276"	"gamete generation"	"GO:0045856"	"positive regulation of pole plasm oskar mRNA localization"	10
+"GO:0021983"	"pituitary gland development"	"GO:0021983"	"pituitary gland development"	0
+"GO:0021983"	"pituitary gland development"	"GO:0021984"	"adenohypophysis development"	1
+"GO:0021983"	"pituitary gland development"	"GO:0021985"	"neurohypophysis development"	1
+"GO:0021983"	"pituitary gland development"	"GO:0048850"	"hypophysis morphogenesis"	1
+"GO:0021983"	"pituitary gland development"	"GO:0048848"	"neurohypophysis morphogenesis"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048851"	"hypophysis formation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048855"	"adenohypophysis morphogenesis"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060126"	"somatotropin secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060127"	"prolactin secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060128"	"corticotropin hormone secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048847"	"adenohypophysis formation"	3
+"GO:0021983"	"pituitary gland development"	"GO:0048849"	"neurohypophysis formation"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060131"	"corticotropin hormone secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060132"	"prolactin secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060133"	"somatotropin secreting cell development"	3
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048850"	"hypophysis morphogenesis"	0
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048848"	"neurohypophysis morphogenesis"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048851"	"hypophysis formation"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048855"	"adenohypophysis morphogenesis"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048847"	"adenohypophysis formation"	2
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048849"	"neurohypophysis formation"	2
+"GO:0048851"	"hypophysis formation"	"GO:0048851"	"hypophysis formation"	0
+"GO:0070253"	"somatostatin secretion"	"GO:0070253"	"somatostatin secretion"	0
+"GO:0070253"	"somatostatin secretion"	"GO:0090273"	"regulation of somatostatin secretion"	1
+"GO:0070253"	"somatostatin secretion"	"GO:0090274"	"positive regulation of somatostatin secretion"	1
+"GO:0070253"	"somatostatin secretion"	"GO:0090275"	"negative regulation of somatostatin secretion"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0031018"	"endocrine pancreas development"	0
+"GO:0031018"	"endocrine pancreas development"	"GO:0003309"	"type B pancreatic cell differentiation"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0003310"	"pancreatic A cell differentiation"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0003311"	"pancreatic D cell differentiation"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0003312"	"pancreatic PP cell differentiation"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0090104"	"pancreatic epsilon cell differentiation"	1
+"GO:0031018"	"endocrine pancreas development"	"GO:0003322"	"pancreatic A cell development"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003323"	"type B pancreatic cell development"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003324"	"pancreatic D cell development"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003325"	"pancreatic PP cell development"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003326"	"pancreatic A cell fate commitment"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003327"	"type B pancreatic cell fate commitment"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003328"	"pancreatic D cell fate commitment"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0003329"	"pancreatic PP cell fate commitment"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0090105"	"pancreatic E cell development"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0090106"	"pancreatic E cell fate commitment"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:2000226"	"regulation of pancreatic A cell differentiation"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:2000227"	"negative regulation of pancreatic A cell differentiation"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:2000228"	"positive regulation of pancreatic A cell differentiation"	2
+"GO:0031018"	"endocrine pancreas development"	"GO:0072560"	"type B pancreatic cell maturation"	3
+"GO:0031018"	"endocrine pancreas development"	"GO:2000074"	"regulation of type B pancreatic cell development"	3
+"GO:0031018"	"endocrine pancreas development"	"GO:2000077"	"negative regulation of type B pancreatic cell development"	3
+"GO:0031018"	"endocrine pancreas development"	"GO:2000078"	"positive regulation of type B pancreatic cell development"	3
+"GO:0045443"	"juvenile hormone secretion"	"GO:0045443"	"juvenile hormone secretion"	0
+"GO:0045443"	"juvenile hormone secretion"	"GO:0007558"	"regulation of juvenile hormone secretion"	1
+"GO:0045443"	"juvenile hormone secretion"	"GO:0045972"	"negative regulation of juvenile hormone secretion"	1
+"GO:0045443"	"juvenile hormone secretion"	"GO:0045973"	"positive regulation of juvenile hormone secretion"	1
+"GO:0055074"	"calcium ion homeostasis"	"GO:0055074"	"calcium ion homeostasis"	0
+"GO:0055074"	"calcium ion homeostasis"	"GO:0006874"	"cellular calcium ion homeostasis"	1
+"GO:0055074"	"calcium ion homeostasis"	"GO:0007036"	"vacuolar calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032468"	"Golgi calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032469"	"endoplasmic reticulum calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051208"	"sequestering of calcium ion"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051480"	"regulation of cytosolic calcium ion concentration"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051560"	"mitochondrial calcium ion homeostasis"	2
+"GO:0055074"	"calcium ion homeostasis"	"GO:0007204"	"positive regulation of cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010617"	"circadian regulation of calcium ion oscillation"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032470"	"positive regulation of endoplasmic reticulum calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0032471"	"negative regulation of endoplasmic reticulum calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051282"	"regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051283"	"negative regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051284"	"positive regulation of sequestering of calcium ion"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051481"	"negative regulation of cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051561"	"positive regulation of mitochondrial calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051562"	"negative regulation of mitochondrial calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051563"	"smooth endoplasmic reticulum calcium ion homeostasis"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099509"	"regulation of presynaptic cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099566"	"regulation of postsynaptic cytosolic calcium ion concentration"	3
+"GO:0055074"	"calcium ion homeostasis"	"GO:0008377"	"light-induced release of internally sequestered calcium ion"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010524"	"positive regulation of calcium ion transport into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051209"	"release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051279"	"regulation of release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051280"	"negative regulation of release of sequestered calcium ion into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051482"	"positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051564"	"positive regulation of smooth endoplasmic reticulum calcium ion concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051565"	"negative regulation of smooth endoplasmic reticulum calcium ion concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060402"	"calcium ion transport into cytosol"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060470"	"positive regulation of cytosolic calcium ion concentration involved in egg activation"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099113"	"negative regulation of presynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099533"	"positive regulation of presynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099588"	"positive regulation of postsynaptic cytosolic calcium concentration"	4
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010522"	"regulation of calcium ion transport into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010523"	"negative regulation of calcium ion transport into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010880"	"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031585"	"regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031586"	"negative regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0051281"	"positive regulation of release of sequestered calcium ion into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060314"	"regulation of ryanodine-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060315"	"negative regulation of ryanodine-sensitive calcium-release channel activity"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060472"	"positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0061454"	"release of sequestered calcium ion into cytosol by Golgi"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0097553"	"calcium ion transmembrane import into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099093"	"calcium export from the mitochondrion"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099585"	"release of sequestered calcium ion into presynaptic cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099586"	"release of sequestered calcium ion into postsynaptic cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0099703"	"induction of synaptic vesicle exocytosis by positive regulation of presynaptic cytosolic calcium ion concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901198"	"positive regulation of calcium ion transport into cytosol involved in cellular response to calcium ion"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901199"	"positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901472"	"regulation of Golgi calcium ion export"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1902656"	"calcium ion import into cytosol"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1903514"	"release of sequestered calcium ion into cytosol by endoplasmic reticulum"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905665"	"positive regulation of calcium ion import across plasma membrane"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905741"	"calcium export from the mitochondrion involved in positive regulation of presynaptic cytosolic calcium concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905743"	"calcium import into the mitochondrion involved in negative regulation of presynaptic cytosolic calcium concentration"	5
+"GO:0055074"	"calcium ion homeostasis"	"GO:0010881"	"regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014808"	"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014809"	"regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0031587"	"positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0060316"	"positive regulation of ryanodine-sensitive calcium-release channel activity"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0098703"	"calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1901200"	"negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905664"	"regulation of calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:1905949"	"negative regulation of calcium ion import across plasma membrane"	6
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014810"	"positive regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	7
+"GO:0055074"	"calcium ion homeostasis"	"GO:0014811"	"negative regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion"	7
+"GO:0060017"	"parathyroid gland development"	"GO:0060017"	"parathyroid gland development"	0
+"GO:0060017"	"parathyroid gland development"	"GO:1902638"	"neural crest cell differentiation involved in parathyroid gland development"	1
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:0006704"	"glucocorticoid biosynthetic process"	0
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:0031946"	"regulation of glucocorticoid biosynthetic process"	1
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:0031947"	"negative regulation of glucocorticoid biosynthetic process"	1
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:0031948"	"positive regulation of glucocorticoid biosynthetic process"	1
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:0034651"	"cortisol biosynthetic process"	1
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:2000064"	"regulation of cortisol biosynthetic process"	2
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:2000065"	"negative regulation of cortisol biosynthetic process"	2
+"GO:0006704"	"glucocorticoid biosynthetic process"	"GO:2000066"	"positive regulation of cortisol biosynthetic process"	2
+"GO:0006705"	"mineralocorticoid biosynthetic process"	"GO:0006705"	"mineralocorticoid biosynthetic process"	0
+"GO:0006705"	"mineralocorticoid biosynthetic process"	"GO:0032342"	"aldosterone biosynthetic process"	1
+"GO:0006705"	"mineralocorticoid biosynthetic process"	"GO:0032347"	"regulation of aldosterone biosynthetic process"	2
+"GO:0006705"	"mineralocorticoid biosynthetic process"	"GO:0032348"	"negative regulation of aldosterone biosynthetic process"	2
+"GO:0006705"	"mineralocorticoid biosynthetic process"	"GO:0032349"	"positive regulation of aldosterone biosynthetic process"	2
+"GO:0035932"	"aldosterone secretion"	"GO:0035932"	"aldosterone secretion"	0
+"GO:0035932"	"aldosterone secretion"	"GO:2000858"	"regulation of aldosterone secretion"	1
+"GO:0035932"	"aldosterone secretion"	"GO:2000859"	"negative regulation of aldosterone secretion"	1
+"GO:0035932"	"aldosterone secretion"	"GO:2000860"	"positive regulation of aldosterone secretion"	1
+"GO:0035932"	"aldosterone secretion"	"GO:0002018"	"renin-angiotensin regulation of aldosterone production"	2
+"GO:0035801"	"adrenal cortex development"	"GO:0035801"	"adrenal cortex development"	0
+"GO:0035801"	"adrenal cortex development"	"GO:0035802"	"adrenal cortex formation"	1
+"GO:0035802"	"adrenal cortex formation"	"GO:0035802"	"adrenal cortex formation"	0
+"GO:0021982"	"pineal gland development"	"GO:0021982"	"pineal gland development"	0
+"GO:0006590"	"thyroid hormone generation"	"GO:0006590"	"thyroid hormone generation"	0
+"GO:0006590"	"thyroid hormone generation"	"GO:2000609"	"regulation of thyroid hormone generation"	1
+"GO:0006590"	"thyroid hormone generation"	"GO:2000610"	"negative regulation of thyroid hormone generation"	1
+"GO:0006590"	"thyroid hormone generation"	"GO:2000611"	"positive regulation of thyroid hormone generation"	1
+"GO:0030878"	"thyroid gland development"	"GO:0030878"	"thyroid gland development"	0
+"GO:0030878"	"thyroid gland development"	"GO:1990789"	"thyroid gland epithelial cell proliferation"	1
+"GO:0030878"	"thyroid gland development"	"GO:1904441"	"regulation of thyroid gland epithelial cell proliferation"	2
+"GO:0030878"	"thyroid gland development"	"GO:1904442"	"negative regulation of thyroid gland epithelial cell proliferation"	2
+"GO:0030878"	"thyroid gland development"	"GO:1904443"	"positive regulation of thyroid gland epithelial cell proliferation"	2
+"GO:0032342"	"aldosterone biosynthetic process"	"GO:0032342"	"aldosterone biosynthetic process"	0
+"GO:0032342"	"aldosterone biosynthetic process"	"GO:0032347"	"regulation of aldosterone biosynthetic process"	1
+"GO:0032342"	"aldosterone biosynthetic process"	"GO:0032348"	"negative regulation of aldosterone biosynthetic process"	1
+"GO:0032342"	"aldosterone biosynthetic process"	"GO:0032349"	"positive regulation of aldosterone biosynthetic process"	1
+"GO:0002384"	"hepatic immune response"	"GO:0002384"	"hepatic immune response"	0
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005978"	"glycogen biosynthetic process"	0
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005979"	"regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045719"	"negative regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045725"	"positive regulation of glycogen biosynthetic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0005980"	"glycogen catabolic process"	0
+"GO:0005980"	"glycogen catabolic process"	"GO:0005981"	"regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045818"	"negative regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045819"	"positive regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0061723"	"glycophagy"	1
+"GO:0001889"	"liver development"	"GO:0001889"	"liver development"	0
+"GO:0001889"	"liver development"	"GO:0035622"	"intrahepatic bile duct development"	1
+"GO:0001889"	"liver development"	"GO:0060344"	"liver trabecula formation"	1
+"GO:0001889"	"liver development"	"GO:0061017"	"hepatoblast differentiation"	1
+"GO:0001889"	"liver development"	"GO:0070365"	"hepatocyte differentiation"	1
+"GO:0001889"	"liver development"	"GO:0071910"	"determination of liver left/right asymmetry"	1
+"GO:0001889"	"liver development"	"GO:0072576"	"liver morphogenesis"	1
+"GO:0001889"	"liver development"	"GO:0097421"	"liver regeneration"	1
+"GO:0001889"	"liver development"	"GO:0070366"	"regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	2
+"GO:0001889"	"liver development"	"GO:0072574"	"hepatocyte proliferation"	3
+"GO:0001889"	"liver development"	"GO:2000345"	"regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	4
+"GO:0072576"	"liver morphogenesis"	"GO:0072576"	"liver morphogenesis"	0
+"GO:0072576"	"liver morphogenesis"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	1
+"GO:0072576"	"liver morphogenesis"	"GO:0072574"	"hepatocyte proliferation"	2
+"GO:0072576"	"liver morphogenesis"	"GO:2000345"	"regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	3
+"GO:0021984"	"adenohypophysis development"	"GO:0021984"	"adenohypophysis development"	0
+"GO:0021984"	"adenohypophysis development"	"GO:0048855"	"adenohypophysis morphogenesis"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060126"	"somatotropin secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060127"	"prolactin secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060128"	"corticotropin hormone secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0048847"	"adenohypophysis formation"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060131"	"corticotropin hormone secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060132"	"prolactin secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060133"	"somatotropin secreting cell development"	2
+"GO:0048847"	"adenohypophysis formation"	"GO:0048847"	"adenohypophysis formation"	0
+"GO:0048855"	"adenohypophysis morphogenesis"	"GO:0048855"	"adenohypophysis morphogenesis"	0
+"GO:0048855"	"adenohypophysis morphogenesis"	"GO:0048847"	"adenohypophysis formation"	1
+"GO:0001992"	"regulation of systemic arterial blood pressure by vasopressin"	"GO:0001992"	"regulation of systemic arterial blood pressure by vasopressin"	0
+"GO:0001992"	"regulation of systemic arterial blood pressure by vasopressin"	"GO:0002004"	"secretion of vasopressin involved in fast regulation of systemic arterial blood pressure"	1
+"GO:0001992"	"regulation of systemic arterial blood pressure by vasopressin"	"GO:0002006"	"vasoconstriction by vasopressin involved in systemic arterial blood pressure control"	1
+"GO:0021985"	"neurohypophysis development"	"GO:0021985"	"neurohypophysis development"	0
+"GO:0021985"	"neurohypophysis development"	"GO:0048848"	"neurohypophysis morphogenesis"	1
+"GO:0021985"	"neurohypophysis development"	"GO:0048849"	"neurohypophysis formation"	2
+"GO:0048848"	"neurohypophysis morphogenesis"	"GO:0048848"	"neurohypophysis morphogenesis"	0
+"GO:0048848"	"neurohypophysis morphogenesis"	"GO:0048849"	"neurohypophysis formation"	1
+"GO:0048849"	"neurohypophysis formation"	"GO:0048849"	"neurohypophysis formation"	0
+"GO:0030325"	"adrenal gland development"	"GO:0030325"	"adrenal gland development"	0
+"GO:0030325"	"adrenal gland development"	"GO:0035801"	"adrenal cortex development"	1
+"GO:0030325"	"adrenal gland development"	"GO:0061104"	"adrenal chromaffin cell differentiation"	1
+"GO:0030325"	"adrenal gland development"	"GO:0035802"	"adrenal cortex formation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0030217"	"T cell differentiation"	0
+"GO:0030217"	"T cell differentiation"	"GO:0002292"	"T cell differentiation involved in immune response"	1
+"GO:0030217"	"T cell differentiation"	"GO:0002360"	"T cell lineage commitment"	1
+"GO:0030217"	"T cell differentiation"	"GO:0002568"	"somatic diversification of T cell receptor genes"	1
+"GO:0030217"	"T cell differentiation"	"GO:0002572"	"pro-T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0033077"	"T cell differentiation in thymus"	1
+"GO:0030217"	"T cell differentiation"	"GO:0033078"	"extrathymic T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0042492"	"gamma-delta T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045058"	"T cell selection"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045065"	"cytotoxic T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045066"	"regulatory T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045580"	"regulation of T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045581"	"negative regulation of T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0045582"	"positive regulation of T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0046632"	"alpha-beta T cell differentiation"	1
+"GO:0030217"	"T cell differentiation"	"GO:0001865"	"NK T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002293"	"alpha-beta T cell differentiation involved in immune response"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002299"	"alpha-beta intraepithelial T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002303"	"gamma-delta T cell differentiation involved in immune response"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002304"	"gamma-delta intraepithelial T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002307"	"CD8-positive, alpha-beta regulatory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002308"	"CD8-positive, alpha-beta cytotoxic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002361"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002363"	"alpha-beta T cell lineage commitment"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002365"	"gamma-delta T cell lineage commitment"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002571"	"somatic diversification of T cell receptor genes by N region addition"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002680"	"pro-T cell lineage commitment"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002681"	"somatic recombination of T cell receptor gene segments"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033080"	"immature T cell proliferation in thymus"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033081"	"regulation of T cell differentiation in thymus"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033082"	"regulation of extrathymic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033085"	"negative regulation of T cell differentiation in thymus"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033086"	"negative regulation of extrathymic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033089"	"positive regulation of T cell differentiation in thymus"	2
+"GO:0030217"	"T cell differentiation"	"GO:0033090"	"positive regulation of extrathymic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043366"	"beta selection"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043367"	"CD4-positive, alpha-beta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043368"	"positive T cell selection"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043369"	"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043374"	"CD8-positive, alpha-beta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043379"	"memory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043380"	"regulation of memory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043381"	"negative regulation of memory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043382"	"positive regulation of memory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0043383"	"negative T cell selection"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045061"	"thymic T cell selection"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045062"	"extrathymic T cell selection"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045583"	"regulation of cytotoxic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045584"	"negative regulation of cytotoxic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045585"	"positive regulation of cytotoxic T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045586"	"regulation of gamma-delta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045587"	"negative regulation of gamma-delta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045588"	"positive regulation of gamma-delta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045589"	"regulation of regulatory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045590"	"negative regulation of regulatory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0045591"	"positive regulation of regulatory T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0046637"	"regulation of alpha-beta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0046638"	"positive regulation of alpha-beta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0046639"	"negative regulation of alpha-beta T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:1904155"	"DN2 thymocyte differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:1904156"	"DN3 thymocyte differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:1904157"	"DN4 thymocyte differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:2000174"	"regulation of pro-T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:2000175"	"negative regulation of pro-T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:2000176"	"positive regulation of pro-T cell differentiation"	2
+"GO:0030217"	"T cell differentiation"	"GO:0002294"	"CD4-positive, alpha-beta T cell differentiation involved in immune response"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002298"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002300"	"CD8-positive, alpha-beta intraepithelial T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002301"	"CD4-positive, alpha-beta intraepithelial T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002302"	"CD8-positive, alpha-beta T cell differentiation involved in immune response"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002305"	"CD8-positive, gamma-delta intraepithelial T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002306"	"CD4-positive gamma-delta intraepithelial T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002362"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002364"	"NK T cell lineage commitment"	3
+"GO:0030217"	"T cell differentiation"	"GO:0032829"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0032830"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0032831"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	3
+"GO:0030217"	"T cell differentiation"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	3
+"GO:0030217"	"T cell differentiation"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	3
+"GO:0030217"	"T cell differentiation"	"GO:0033153"	"T cell receptor V(D)J recombination"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043370"	"regulation of CD4-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043371"	"negative regulation of CD4-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043372"	"positive regulation of CD4-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043373"	"CD4-positive, alpha-beta T cell lineage commitment"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043375"	"CD8-positive, alpha-beta T cell lineage commitment"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043376"	"regulation of CD8-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043377"	"negative regulation of CD8-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0043378"	"positive regulation of CD8-positive, alpha-beta T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0045059"	"positive thymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:0045060"	"negative thymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:0045067"	"positive extrathymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:0045068"	"negative extrathymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:0051136"	"regulation of NK T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0051137"	"negative regulation of NK T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:0051138"	"positive regulation of NK T cell differentiation"	3
+"GO:0030217"	"T cell differentiation"	"GO:1902232"	"regulation of positive thymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:1902233"	"negative regulation of positive thymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:1902234"	"positive regulation of positive thymic T cell selection"	3
+"GO:0030217"	"T cell differentiation"	"GO:0002295"	"T-helper cell lineage commitment"	4
+"GO:0030217"	"T cell differentiation"	"GO:0032832"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	4
+"GO:0030217"	"T cell differentiation"	"GO:0032833"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	4
+"GO:0030217"	"T cell differentiation"	"GO:0032834"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	4
+"GO:0030217"	"T cell differentiation"	"GO:0042093"	"T-helper cell differentiation"	4
+"GO:0030217"	"T cell differentiation"	"GO:0045622"	"regulation of T-helper cell differentiation"	4
+"GO:0030217"	"T cell differentiation"	"GO:0045623"	"negative regulation of T-helper cell differentiation"	4
+"GO:0030217"	"T cell differentiation"	"GO:0045624"	"positive regulation of T-helper cell differentiation"	4
+"GO:0030217"	"T cell differentiation"	"GO:0002296"	"T-helper 1 cell lineage commitment"	5
+"GO:0030217"	"T cell differentiation"	"GO:0002297"	"T-helper 2 cell lineage commitment"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045063"	"T-helper 1 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045064"	"T-helper 2 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045625"	"regulation of T-helper 1 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045626"	"negative regulation of T-helper 1 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045627"	"positive regulation of T-helper 1 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045628"	"regulation of T-helper 2 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045629"	"negative regulation of T-helper 2 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0045630"	"positive regulation of T-helper 2 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0061470"	"T follicular helper cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0072539"	"T-helper 17 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:0072540"	"T-helper 17 cell lineage commitment"	5
+"GO:0030217"	"T cell differentiation"	"GO:2000319"	"regulation of T-helper 17 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:2000320"	"negative regulation of T-helper 17 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:2000321"	"positive regulation of T-helper 17 cell differentiation"	5
+"GO:0030217"	"T cell differentiation"	"GO:2000328"	"regulation of T-helper 17 cell lineage commitment"	6
+"GO:0030217"	"T cell differentiation"	"GO:2000329"	"negative regulation of T-helper 17 cell lineage commitment"	6
+"GO:0030217"	"T cell differentiation"	"GO:2000330"	"positive regulation of T-helper 17 cell lineage commitment"	6
+"GO:0048538"	"thymus development"	"GO:0048538"	"thymus development"	0
+"GO:0048538"	"thymus development"	"GO:0097536"	"thymus epithelium morphogenesis"	1
+"GO:0048538"	"thymus development"	"GO:1902637"	"neural crest cell differentiation involved in thymus development"	1
+"GO:0048538"	"thymus development"	"GO:1902550"	"lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis"	2
+"GO:0042701"	"progesterone secretion"	"GO:0042701"	"progesterone secretion"	0
+"GO:0042701"	"progesterone secretion"	"GO:2000870"	"regulation of progesterone secretion"	1
+"GO:0042701"	"progesterone secretion"	"GO:2000871"	"negative regulation of progesterone secretion"	1
+"GO:0042701"	"progesterone secretion"	"GO:2000872"	"positive regulation of progesterone secretion"	1
+"GO:0035622"	"intrahepatic bile duct development"	"GO:0035622"	"intrahepatic bile duct development"	0
+"GO:0097536"	"thymus epithelium morphogenesis"	"GO:0097536"	"thymus epithelium morphogenesis"	0
+"GO:0097536"	"thymus epithelium morphogenesis"	"GO:1902550"	"lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006694"	"steroid biosynthetic process"	0
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006699"	"bile acid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006704"	"glucocorticoid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010893"	"positive regulation of steroid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010894"	"negative regulation of steroid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0016126"	"sterol biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0016129"	"phytosteroid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0042368"	"vitamin D biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0050810"	"regulation of steroid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0061370"	"testosterone biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0062174"	"brexanolone biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0120178"	"steroid hormone biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:1900581"	"(17Z)-protosta-17(20),24-dien-3beta-ol biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:1900812"	"helvolic acid biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:1903449"	"androst-4-ene-3,17-dione biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:1904463"	"ergosteryl 3-beta-D-glucoside biosynthetic process"	1
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006695"	"cholesterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006696"	"ergosterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006697"	"ecdysone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006700"	"C21-steroid hormone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006702"	"androgen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006703"	"estrogen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006705"	"mineralocorticoid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010957"	"negative regulation of vitamin D biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0016132"	"brassinosteroid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0031946"	"regulation of glucocorticoid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0031947"	"negative regulation of glucocorticoid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0031948"	"positive regulation of glucocorticoid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0034651"	"cortisol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0036197"	"zymosterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0036378"	"calcitriol biosynthetic process from calciol"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045456"	"ecdysteroid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0060556"	"regulation of vitamin D biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0060557"	"positive regulation of vitamin D biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0070857"	"regulation of bile acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0070858"	"negative regulation of bile acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0070859"	"positive regulation of bile acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0090030"	"regulation of steroid hormone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0090031"	"positive regulation of steroid hormone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0090032"	"negative regulation of steroid hormone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0106118"	"regulation of sterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0106119"	"negative regulation of sterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0106120"	"positive regulation of sterol biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1900840"	"regulation of helvolic acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1900841"	"negative regulation of helvolic acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1900842"	"positive regulation of helvolic acid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1901755"	"vitamin D3 biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1903454"	"regulation of androst-4-ene-3,17-dione biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1903455"	"negative regulation of androst-4-ene-3,17-dione biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1903456"	"positive regulation of androst-4-ene-3,17-dione biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1904076"	"regulation of estrogen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1904077"	"negative regulation of estrogen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:1904078"	"positive regulation of estrogen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000180"	"negative regulation of androgen biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000182"	"regulation of progesterone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000183"	"negative regulation of progesterone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000184"	"positive regulation of progesterone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000224"	"regulation of testosterone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000225"	"negative regulation of testosterone biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000488"	"positive regulation of brassinosteroid biosynthetic process"	2
+"GO:0006694"	"steroid biosynthetic process"	"GO:0006701"	"progesterone biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0007554"	"regulation of ecdysteroid biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010422"	"regulation of brassinosteroid biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010423"	"negative regulation of brassinosteroid biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010895"	"negative regulation of ergosterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0010956"	"negative regulation of calcidiol 1-monooxygenase activity"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0032342"	"aldosterone biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0032347"	"regulation of aldosterone biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0032348"	"negative regulation of aldosterone biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0032349"	"positive regulation of aldosterone biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0032443"	"regulation of ergosterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0033488"	"cholesterol biosynthetic process via 24,25-dihydrolanosterol"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0033489"	"cholesterol biosynthetic process via desmosterol"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0033490"	"cholesterol biosynthetic process via lathosterol"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045540"	"regulation of cholesterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045541"	"negative regulation of cholesterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045542"	"positive regulation of cholesterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045997"	"negative regulation of ecdysteroid biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0045998"	"positive regulation of ecdysteroid biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:0070452"	"positive regulation of ergosterol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000064"	"regulation of cortisol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000065"	"negative regulation of cortisol biosynthetic process"	3
+"GO:0006694"	"steroid biosynthetic process"	"GO:2000066"	"positive regulation of cortisol biosynthetic process"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030097"	"hemopoiesis"	0
+"GO:0030097"	"hemopoiesis"	"GO:0002244"	"hematopoietic progenitor cell differentiation"	1
+"GO:0030097"	"hemopoiesis"	"GO:0002521"	"leukocyte differentiation"	1
+"GO:0030097"	"hemopoiesis"	"GO:0030099"	"myeloid cell differentiation"	1
+"GO:0030097"	"hemopoiesis"	"GO:0035162"	"embryonic hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:0035166"	"post-embryonic hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:0035603"	"fibroblast growth factor receptor signaling pathway involved in hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:0060216"	"definitive hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:0071425"	"hematopoietic stem cell proliferation"	1
+"GO:0030097"	"hemopoiesis"	"GO:1903706"	"regulation of hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:1903707"	"negative regulation of hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:1903708"	"positive regulation of hemopoiesis"	1
+"GO:0030097"	"hemopoiesis"	"GO:0002318"	"myeloid progenitor cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0002320"	"lymphoid progenitor cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0002573"	"myeloid leukocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0002574"	"thrombocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0030218"	"erythrocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0030219"	"megakaryocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0030220"	"platelet formation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0035099"	"hemocyte migration"	2
+"GO:0030097"	"hemopoiesis"	"GO:0035163"	"embryonic hemocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0035167"	"larval lymph gland hemopoiesis"	2
+"GO:0030097"	"hemopoiesis"	"GO:0035203"	"regulation of lamellocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0045637"	"regulation of myeloid cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0045638"	"negative regulation of myeloid cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0045639"	"positive regulation of myeloid cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0060215"	"primitive hemopoiesis"	2
+"GO:0030097"	"hemopoiesis"	"GO:0060218"	"hematopoietic stem cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0060318"	"definitive erythrocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0061515"	"myeloid cell development"	2
+"GO:0030097"	"hemopoiesis"	"GO:1901532"	"regulation of hematopoietic progenitor cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1901533"	"negative regulation of hematopoietic progenitor cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1901534"	"positive regulation of hematopoietic progenitor cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902033"	"regulation of hematopoietic stem cell proliferation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902034"	"negative regulation of hematopoietic stem cell proliferation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902035"	"positive regulation of hematopoietic stem cell proliferation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902105"	"regulation of leukocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902106"	"negative regulation of leukocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1902107"	"positive regulation of leukocyte differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:1903131"	"mononuclear cell differentiation"	2
+"GO:0030097"	"hemopoiesis"	"GO:0002321"	"natural killer cell progenitor differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0002328"	"pro-B cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0002572"	"pro-T cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0002761"	"regulation of myeloid leukocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0002762"	"negative regulation of myeloid leukocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0002763"	"positive regulation of myeloid leukocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0010724"	"regulation of definitive erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0014005"	"microglia development"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030098"	"lymphocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030224"	"monocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030225"	"macrophage differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030316"	"osteoclast differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0030851"	"granulocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035164"	"embryonic plasmatocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035165"	"embryonic crystal cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035168"	"larval lymph gland hemocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035204"	"negative regulation of lamellocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035205"	"positive regulation of lamellocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0035855"	"megakaryocyte development"	3
+"GO:0030097"	"hemopoiesis"	"GO:0036035"	"osteoclast development"	3
+"GO:0030097"	"hemopoiesis"	"GO:0043011"	"myeloid dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0043353"	"enucleate erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0043363"	"nucleate erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045619"	"regulation of lymphocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045620"	"negative regulation of lymphocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045621"	"positive regulation of lymphocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045646"	"regulation of erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045647"	"negative regulation of erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045648"	"positive regulation of erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045652"	"regulation of megakaryocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045653"	"negative regulation of megakaryocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0045654"	"positive regulation of megakaryocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0048821"	"erythrocyte development"	3
+"GO:0030097"	"hemopoiesis"	"GO:0060217"	"hemangioblast cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0060319"	"primitive erythrocyte differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0060374"	"mast cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0097028"	"dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0097029"	"mature conventional dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1902036"	"regulation of hematopoietic stem cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1902037"	"negative regulation of hematopoietic stem cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1902038"	"positive regulation of hematopoietic stem cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905219"	"regulation of platelet formation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905220"	"negative regulation of platelet formation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905221"	"positive regulation of platelet formation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905453"	"regulation of myeloid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905454"	"negative regulation of myeloid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905455"	"positive regulation of myeloid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905456"	"regulation of lymphoid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905457"	"negative regulation of lymphoid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:1905458"	"positive regulation of lymphoid progenitor cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:2001198"	"regulation of dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:2001199"	"negative regulation of dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:2001200"	"positive regulation of dendritic cell differentiation"	3
+"GO:0030097"	"hemopoiesis"	"GO:0001779"	"natural killer cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0002273"	"plasmacytoid dendritic cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0002284"	"myeloid dendritic cell differentiation involved in immune response"	4
+"GO:0030097"	"hemopoiesis"	"GO:0002680"	"pro-T cell lineage commitment"	4
+"GO:0030097"	"hemopoiesis"	"GO:0010725"	"regulation of primitive erythrocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0014004"	"microglia differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030183"	"B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030217"	"T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030221"	"basophil differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030222"	"eosinophil differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030223"	"neutrophil differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030852"	"regulation of granulocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030853"	"negative regulation of granulocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0030854"	"positive regulation of granulocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0032823"	"regulation of natural killer cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0032824"	"negative regulation of natural killer cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0032825"	"positive regulation of natural killer cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0035169"	"lymph gland plasmatocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0035170"	"lymph gland crystal cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0035171"	"lamellocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0036179"	"osteoclast maturation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0043249"	"erythrocyte maturation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045577"	"regulation of B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045578"	"negative regulation of B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045579"	"positive regulation of B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045580"	"regulation of T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045581"	"negative regulation of T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045582"	"positive regulation of T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045649"	"regulation of macrophage differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045650"	"negative regulation of macrophage differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045651"	"positive regulation of macrophage differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045655"	"regulation of monocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045656"	"negative regulation of monocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045657"	"positive regulation of monocyte differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045670"	"regulation of osteoclast differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045671"	"negative regulation of osteoclast differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0045672"	"positive regulation of osteoclast differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0048822"	"enucleate erythrocyte development"	4
+"GO:0030097"	"hemopoiesis"	"GO:0048823"	"nucleate erythrocyte development"	4
+"GO:0030097"	"hemopoiesis"	"GO:0060375"	"regulation of mast cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0060376"	"positive regulation of mast cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0060377"	"negative regulation of mast cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0061520"	"Langerhans cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:0072674"	"multinuclear osteoclast differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000174"	"regulation of pro-T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000175"	"negative regulation of pro-T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000176"	"positive regulation of pro-T cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000973"	"regulation of pro-B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000974"	"negative regulation of pro-B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2000975"	"positive regulation of pro-B cell differentiation"	4
+"GO:0030097"	"hemopoiesis"	"GO:2001204"	"regulation of osteoclast development"	4
+"GO:0030097"	"hemopoiesis"	"GO:2001205"	"negative regulation of osteoclast development"	4
+"GO:0030097"	"hemopoiesis"	"GO:2001206"	"positive regulation of osteoclast development"	4
+"GO:0030097"	"hemopoiesis"	"GO:0001924"	"regulation of B-1 B cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0001925"	"negative regulation of B-1 B cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0001926"	"positive regulation of B-1 B cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002272"	"plasmacytoid dendritic cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002292"	"T cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002325"	"natural killer cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002326"	"B cell lineage commitment"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002327"	"immature B cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002335"	"mature B cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002339"	"B cell selection"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002360"	"T cell lineage commitment"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002568"	"somatic diversification of T cell receptor genes"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002898"	"regulation of central B cell deletion"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002899"	"negative regulation of central B cell deletion"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002900"	"positive regulation of central B cell deletion"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002914"	"regulation of central B cell anergy"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002915"	"negative regulation of central B cell anergy"	5
+"GO:0030097"	"hemopoiesis"	"GO:0002916"	"positive regulation of central B cell anergy"	5
+"GO:0030097"	"hemopoiesis"	"GO:0014006"	"regulation of microglia differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0014007"	"negative regulation of microglia differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0014008"	"positive regulation of microglia differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0032826"	"regulation of natural killer cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0032827"	"negative regulation of natural killer cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0032828"	"positive regulation of natural killer cell differentiation involved in immune response"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033077"	"T cell differentiation in thymus"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033078"	"extrathymic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033081"	"regulation of T cell differentiation in thymus"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033082"	"regulation of extrathymic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033085"	"negative regulation of T cell differentiation in thymus"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033086"	"negative regulation of extrathymic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033089"	"positive regulation of T cell differentiation in thymus"	5
+"GO:0030097"	"hemopoiesis"	"GO:0033090"	"positive regulation of extrathymic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0035854"	"eosinophil fate commitment"	5
+"GO:0030097"	"hemopoiesis"	"GO:0042492"	"gamma-delta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0043354"	"enucleate erythrocyte maturation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0043362"	"nucleate erythrocyte maturation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0043380"	"regulation of memory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0043381"	"negative regulation of memory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0043382"	"positive regulation of memory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045058"	"T cell selection"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045065"	"cytotoxic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045066"	"regulatory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045583"	"regulation of cytotoxic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045584"	"negative regulation of cytotoxic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045585"	"positive regulation of cytotoxic T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045586"	"regulation of gamma-delta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045587"	"negative regulation of gamma-delta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045588"	"positive regulation of gamma-delta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045589"	"regulation of regulatory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045590"	"negative regulation of regulatory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045591"	"positive regulation of regulatory T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045640"	"regulation of basophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045641"	"negative regulation of basophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045642"	"positive regulation of basophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045643"	"regulation of eosinophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045644"	"negative regulation of eosinophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045645"	"positive regulation of eosinophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045658"	"regulation of neutrophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045659"	"negative regulation of neutrophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0045660"	"positive regulation of neutrophil differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0046632"	"alpha-beta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0046637"	"regulation of alpha-beta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0046638"	"positive regulation of alpha-beta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0046639"	"negative regulation of alpha-beta T cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0072675"	"osteoclast fusion"	5
+"GO:0030097"	"hemopoiesis"	"GO:1900098"	"regulation of plasma cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:1900099"	"negative regulation of plasma cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:1900100"	"positive regulation of plasma cell differentiation"	5
+"GO:0030097"	"hemopoiesis"	"GO:0001865"	"NK T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0001923"	"B-1 B cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002293"	"alpha-beta T cell differentiation involved in immune response"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002299"	"alpha-beta intraepithelial T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002303"	"gamma-delta T cell differentiation involved in immune response"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002304"	"gamma-delta intraepithelial T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002307"	"CD8-positive, alpha-beta regulatory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002308"	"CD8-positive, alpha-beta cytotoxic T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002313"	"mature B cell differentiation involved in immune response"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002329"	"pre-B cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002332"	"transitional stage B cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002336"	"B-1 B cell lineage commitment"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002340"	"central B cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002343"	"peripheral B cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002346"	"B cell positive selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002352"	"B cell negative selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002361"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002363"	"alpha-beta T cell lineage commitment"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002365"	"gamma-delta T cell lineage commitment"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002571"	"somatic diversification of T cell receptor genes by N region addition"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002681"	"somatic recombination of T cell receptor gene segments"	6
+"GO:0030097"	"hemopoiesis"	"GO:0032829"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0032830"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0032831"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0033080"	"immature T cell proliferation in thymus"	6
+"GO:0030097"	"hemopoiesis"	"GO:0033088"	"negative regulation of immature T cell proliferation in thymus"	6
+"GO:0030097"	"hemopoiesis"	"GO:0035857"	"eosinophil fate specification"	6
+"GO:0030097"	"hemopoiesis"	"GO:0035858"	"eosinophil fate determination"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043131"	"erythrocyte enucleation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043366"	"beta selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043367"	"CD4-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043368"	"positive T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043369"	"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043370"	"regulation of CD4-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043371"	"negative regulation of CD4-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043372"	"positive regulation of CD4-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043374"	"CD8-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043376"	"regulation of CD8-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043377"	"negative regulation of CD8-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043378"	"positive regulation of CD8-positive, alpha-beta T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043379"	"memory T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0043383"	"negative T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0045061"	"thymic T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0045062"	"extrathymic T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:0051136"	"regulation of NK T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0051137"	"negative regulation of NK T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0051138"	"positive regulation of NK T cell differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:1902232"	"regulation of positive thymic T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:1902233"	"negative regulation of positive thymic T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:1902234"	"positive regulation of positive thymic T cell selection"	6
+"GO:0030097"	"hemopoiesis"	"GO:1904155"	"DN2 thymocyte differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:1904156"	"DN3 thymocyte differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:1904157"	"DN4 thymocyte differentiation"	6
+"GO:0030097"	"hemopoiesis"	"GO:0002294"	"CD4-positive, alpha-beta T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002298"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002300"	"CD8-positive, alpha-beta intraepithelial T cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002301"	"CD4-positive, alpha-beta intraepithelial T cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002302"	"CD8-positive, alpha-beta T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002305"	"CD8-positive, gamma-delta intraepithelial T cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002306"	"CD4-positive gamma-delta intraepithelial T cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002314"	"germinal center B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002315"	"marginal zone B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002316"	"follicular B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002317"	"plasma cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002319"	"memory B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002330"	"pre-B cell receptor expression"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002331"	"pre-B cell allelic exclusion"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002333"	"transitional one stage B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002334"	"transitional two stage B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002337"	"B-1a B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002338"	"B-1b B cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002341"	"central B cell anergy"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002342"	"central B cell deletion"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002344"	"B cell affinity maturation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002348"	"central B cell positive selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002350"	"peripheral B cell positive selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002354"	"central B cell negative selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002356"	"peripheral B cell negative selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002362"	"CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002364"	"NK T cell lineage commitment"	7
+"GO:0030097"	"hemopoiesis"	"GO:0032832"	"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0032833"	"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0032834"	"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"	7
+"GO:0030097"	"hemopoiesis"	"GO:0033084"	"regulation of immature T cell proliferation in thymus"	7
+"GO:0030097"	"hemopoiesis"	"GO:0033092"	"positive regulation of immature T cell proliferation in thymus"	7
+"GO:0030097"	"hemopoiesis"	"GO:0033153"	"T cell receptor V(D)J recombination"	7
+"GO:0030097"	"hemopoiesis"	"GO:0043373"	"CD4-positive, alpha-beta T cell lineage commitment"	7
+"GO:0030097"	"hemopoiesis"	"GO:0043375"	"CD8-positive, alpha-beta T cell lineage commitment"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045059"	"positive thymic T cell selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045060"	"negative thymic T cell selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045067"	"positive extrathymic T cell selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045068"	"negative extrathymic T cell selection"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045622"	"regulation of T-helper cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045623"	"negative regulation of T-helper cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0045624"	"positive regulation of T-helper cell differentiation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0061930"	"regulation of erythrocyte enucleation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0061931"	"positive regulation of erythrocyte enucleation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0061932"	"negative regulation of erythrocyte enucleation"	7
+"GO:0030097"	"hemopoiesis"	"GO:0002205"	"somatic hypermutation of immunoglobulin genes involved in immune response"	8
+"GO:0030097"	"hemopoiesis"	"GO:0002295"	"T-helper cell lineage commitment"	8
+"GO:0030097"	"hemopoiesis"	"GO:0042093"	"T-helper cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045625"	"regulation of T-helper 1 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045626"	"negative regulation of T-helper 1 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045627"	"positive regulation of T-helper 1 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045628"	"regulation of T-helper 2 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045629"	"negative regulation of T-helper 2 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0045630"	"positive regulation of T-helper 2 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:2000319"	"regulation of T-helper 17 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:2000320"	"negative regulation of T-helper 17 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:2000321"	"positive regulation of T-helper 17 cell differentiation"	8
+"GO:0030097"	"hemopoiesis"	"GO:0002296"	"T-helper 1 cell lineage commitment"	9
+"GO:0030097"	"hemopoiesis"	"GO:0002297"	"T-helper 2 cell lineage commitment"	9
+"GO:0030097"	"hemopoiesis"	"GO:0045063"	"T-helper 1 cell differentiation"	9
+"GO:0030097"	"hemopoiesis"	"GO:0045064"	"T-helper 2 cell differentiation"	9
+"GO:0030097"	"hemopoiesis"	"GO:0061470"	"T follicular helper cell differentiation"	9
+"GO:0030097"	"hemopoiesis"	"GO:0072539"	"T-helper 17 cell differentiation"	9
+"GO:0030097"	"hemopoiesis"	"GO:0072540"	"T-helper 17 cell lineage commitment"	9
+"GO:0030097"	"hemopoiesis"	"GO:2000328"	"regulation of T-helper 17 cell lineage commitment"	9
+"GO:0030097"	"hemopoiesis"	"GO:2000329"	"negative regulation of T-helper 17 cell lineage commitment"	9
+"GO:0030097"	"hemopoiesis"	"GO:2000330"	"positive regulation of T-helper 17 cell lineage commitment"	9
+"GO:0072113"	"head kidney development"	"GO:0072113"	"head kidney development"	0
+"GO:0072113"	"head kidney development"	"GO:0072115"	"head kidney morphogenesis"	1
+"GO:0072113"	"head kidney development"	"GO:0072121"	"head kidney maturation"	1
+"GO:0072113"	"head kidney development"	"GO:0072117"	"head kidney formation"	2
+"GO:0072113"	"head kidney development"	"GO:0072119"	"head kidney structural organization"	2
+"GO:0072115"	"head kidney morphogenesis"	"GO:0072115"	"head kidney morphogenesis"	0
+"GO:0072115"	"head kidney morphogenesis"	"GO:0072117"	"head kidney formation"	1
+"GO:0072115"	"head kidney morphogenesis"	"GO:0072119"	"head kidney structural organization"	1
+"GO:0072117"	"head kidney formation"	"GO:0072117"	"head kidney formation"	0
+"GO:0072121"	"head kidney maturation"	"GO:0072121"	"head kidney maturation"	0
+"GO:0060344"	"liver trabecula formation"	"GO:0060344"	"liver trabecula formation"	0
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0002016"	"regulation of blood volume by renin-angiotensin"	0
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0002018"	"renin-angiotensin regulation of aldosterone production"	1
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0002019"	"regulation of renal output by angiotensin"	1
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0002035"	"brain renin-angiotensin system"	1
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0003051"	"angiotensin-mediated drinking behavior"	2
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0003083"	"negative regulation of renal output by angiotensin"	2
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0003106"	"negative regulation of glomerular filtration by angiotensin"	3
+"GO:0002016"	"regulation of blood volume by renin-angiotensin"	"GO:0035820"	"negative regulation of renal sodium excretion by angiotensin"	3

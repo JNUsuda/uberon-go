@@ -1,0 +1,630 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0001655"	"urogenital system development"	"GO:0001655"	"urogenital system development"	0
+"GO:0001655"	"urogenital system development"	"GO:0030850"	"prostate gland development"	1
+"GO:0001655"	"urogenital system development"	"GO:0035844"	"cloaca development"	1
+"GO:0001655"	"urogenital system development"	"GO:0072001"	"renal system development"	1
+"GO:0001655"	"urogenital system development"	"GO:0001822"	"kidney development"	2
+"GO:0001655"	"urogenital system development"	"GO:0044345"	"stromal-epithelial cell signaling involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060157"	"urinary bladder development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060197"	"cloacal septation"	2
+"GO:0001655"	"urogenital system development"	"GO:0060512"	"prostate gland morphogenesis"	2
+"GO:0001655"	"urogenital system development"	"GO:0060525"	"prostate glandular acinus development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060736"	"prostate gland growth"	2
+"GO:0001655"	"urogenital system development"	"GO:0060738"	"epithelial-mesenchymal signaling involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060739"	"mesenchymal-epithelial cell signaling involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060742"	"epithelial cell differentiation involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060767"	"epithelial cell proliferation involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0060781"	"mesenchymal cell proliferation involved in prostate gland development"	2
+"GO:0001655"	"urogenital system development"	"GO:0061068"	"urethra development"	2
+"GO:0001655"	"urogenital system development"	"GO:0061318"	"renal filtration cell differentiation"	2
+"GO:0001655"	"urogenital system development"	"GO:0061326"	"renal tubule development"	2
+"GO:0001655"	"urogenital system development"	"GO:0061437"	"renal system vasculature development"	2
+"GO:0001655"	"urogenital system development"	"GO:0072048"	"renal system pattern specification"	2
+"GO:0001655"	"urogenital system development"	"GO:0072189"	"ureter development"	2
+"GO:0001655"	"urogenital system development"	"GO:2001012"	"mesenchymal cell differentiation involved in renal system development"	2
+"GO:0001655"	"urogenital system development"	"GO:0001656"	"metanephros development"	3
+"GO:0001655"	"urogenital system development"	"GO:0001823"	"mesonephros development"	3
+"GO:0001655"	"urogenital system development"	"GO:0035787"	"cell migration involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0035799"	"ureter maturation"	3
+"GO:0001655"	"urogenital system development"	"GO:0048793"	"pronephros development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	3
+"GO:0001655"	"urogenital system development"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	3
+"GO:0001655"	"urogenital system development"	"GO:0060526"	"prostate glandular acinus morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0060528"	"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060529"	"squamous basal epithelial stem cell differentiation involved in prostate gland acinus development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060530"	"smooth muscle cell differentiation involved in prostate glandular acinus development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060737"	"prostate gland morphogenetic growth"	3
+"GO:0001655"	"urogenital system development"	"GO:0060740"	"prostate gland epithelium morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0060741"	"prostate gland stromal morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0060743"	"epithelial cell maturation involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060768"	"regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060769"	"positive regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060770"	"negative regulation of epithelial cell proliferation involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060782"	"regulation of mesenchymal cell proliferation involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060783"	"mesenchymal smoothened signaling pathway involved in prostate gland development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060993"	"kidney morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0060994"	"regulation of transcription from RNA polymerase II promoter involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0060995"	"cell-cell signaling involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061004"	"pattern specification involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061005"	"cell differentiation involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061069"	"male urethra development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061070"	"female urethra development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061071"	"urethra epithelium development"	3
+"GO:0001655"	"urogenital system development"	"GO:0061150"	"renal system segmentation"	3
+"GO:0001655"	"urogenital system development"	"GO:0061319"	"nephrocyte differentiation"	3
+"GO:0001655"	"urogenital system development"	"GO:0061333"	"renal tubule morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0061438"	"renal system vasculature morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0061440"	"kidney vasculature development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072002"	"Malpighian tubule development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072006"	"nephron development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072044"	"collecting duct development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072051"	"juxtaglomerular apparatus development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072053"	"renal inner medulla development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072054"	"renal outer medulla development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072055"	"renal cortex development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072056"	"pyramid development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072073"	"kidney epithelium development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072074"	"kidney mesenchyme development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072080"	"nephron tubule development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072111"	"cell proliferation involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072112"	"glomerular visceral epithelial cell differentiation"	3
+"GO:0001655"	"urogenital system development"	"GO:0072127"	"renal capsule development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072161"	"mesenchymal cell differentiation involved in kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072188"	"metanephric cap specification"	3
+"GO:0001655"	"urogenital system development"	"GO:0072190"	"ureter urothelium development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072191"	"ureter smooth muscle development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072194"	"kidney smooth muscle tissue development"	3
+"GO:0001655"	"urogenital system development"	"GO:0072197"	"ureter morphogenesis"	3
+"GO:0001655"	"urogenital system development"	"GO:0072198"	"mesenchymal cell proliferation involved in ureter development"	3
+"GO:0001655"	"urogenital system development"	"GO:0090183"	"regulation of kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0090184"	"positive regulation of kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0090185"	"negative regulation of kidney development"	3
+"GO:0001655"	"urogenital system development"	"GO:0003338"	"metanephros morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0007443"	"Malpighian tubule morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0032835"	"glomerulus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0035503"	"ureter part of ureteric bud development"	4
+"GO:0001655"	"urogenital system development"	"GO:0035564"	"regulation of kidney size"	4
+"GO:0001655"	"urogenital system development"	"GO:0035788"	"cell migration involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0035850"	"epithelial cell differentiation involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039009"	"rectal diverticulum development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039012"	"pronephric sinus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039014"	"cell differentiation involved in pronephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039015"	"cell proliferation involved in pronephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039016"	"cell-cell signaling involved in pronephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039017"	"pattern specification involved in pronephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039018"	"nephrostome development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039019"	"pronephric nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039020"	"pronephric nephron tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0039022"	"pronephric duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0060513"	"prostatic bud formation"	4
+"GO:0001655"	"urogenital system development"	"GO:0060516"	"primary prostatic bud elongation"	4
+"GO:0001655"	"urogenital system development"	"GO:0060523"	"prostate epithelial cord elongation"	4
+"GO:0001655"	"urogenital system development"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0061006"	"regulation of cell proliferation involved in kidney morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0061149"	"BMP signaling pathway involved in ureter morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0061151"	"BMP signaling pathway involved in renal system segmentation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061206"	"mesonephros morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0061208"	"cell differentiation involved in mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061209"	"cell proliferation involved in mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061210"	"cell-cell signaling involved in mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061211"	"mesonephric collecting duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061212"	"mesonephric juxtaglomerular apparatus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061213"	"positive regulation of mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061214"	"mesonephric smooth muscle tissue development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061215"	"mesonephric nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061216"	"regulation of transcription from RNA polymerase II promoter involved in mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061217"	"regulation of mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061218"	"negative regulation of mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061219"	"mesonephric mesenchyme development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061223"	"mesonephric mesenchymal cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061227"	"pattern specification involved in mesonephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061242"	"mesonephric nephron tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061256"	"mesonephric glomerular visceral epithelial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061285"	"mesonephric capsule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061289"	"Wnt signaling pathway involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061320"	"pericardial nephrocyte differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061321"	"garland nephrocyte differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061322"	"disseminated nephrocyte differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061327"	"anterior Malpighian tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061328"	"posterior Malpighian tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0061329"	"Malpighian tubule principal cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061330"	"Malpighian tubule stellate cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061382"	"Malpighian tubule tip cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0061439"	"kidney vasculature morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0061456"	"mesenchymal stem cell migration involved in uteric bud morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072003"	"kidney rudiment formation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072004"	"kidney field specification"	4
+"GO:0001655"	"urogenital system development"	"GO:0072007"	"mesangial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072009"	"nephron epithelium development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072012"	"glomerulus vasculature development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072013"	"glomus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072014"	"proximal tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072015"	"glomerular visceral epithelial cell development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072017"	"distal tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072019"	"proximal convoluted tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072020"	"proximal straight tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072021"	"ascending thin limb development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072023"	"thick ascending limb development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072024"	"macula densa development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072025"	"distal convoluted tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072027"	"connecting tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072028"	"nephron morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072029"	"long nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072030"	"short nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072034"	"renal vesicle induction"	4
+"GO:0001655"	"urogenital system development"	"GO:0072037"	"mesenchymal stem cell differentiation involved in nephron morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072047"	"proximal/distal pattern formation involved in nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072052"	"juxtaglomerulus cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072057"	"inner stripe development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072058"	"outer stripe development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072060"	"outer medullary collecting duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072061"	"inner medullary collecting duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072062"	"proximal convoluted tubule segment 1 cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072069"	"DCT cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072070"	"loop of Henle development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072071"	"kidney interstitial fibroblast differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072072"	"kidney stroma development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072075"	"metanephric mesenchyme development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072076"	"nephrogenic mesenchyme development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072078"	"nephron tubule morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072081"	"specification of nephron tubule identity"	4
+"GO:0001655"	"urogenital system development"	"GO:0072087"	"renal vesicle development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072098"	"anterior/posterior pattern specification involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072110"	"glomerular mesangial cell proliferation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072113"	"head kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072114"	"pronephros morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072120"	"pronephros maturation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072122"	"extraglomerular mesangial cell proliferation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072128"	"renal capsule morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072130"	"renal capsule specification"	4
+"GO:0001655"	"urogenital system development"	"GO:0072131"	"kidney mesenchyme morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072135"	"kidney mesenchymal cell proliferation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072149"	"glomerular visceral epithelial cell fate commitment"	4
+"GO:0001655"	"urogenital system development"	"GO:0072155"	"epithelial cell migration involved in nephron tubule morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0072160"	"nephron tubule epithelial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072162"	"metanephric mesenchymal cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072163"	"mesonephric epithelium development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072176"	"nephric duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072183"	"negative regulation of nephron tubule epithelial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072184"	"renal vesicle progenitor cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072192"	"ureter epithelial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072193"	"ureter smooth muscle cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072195"	"kidney smooth muscle cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072199"	"regulation of mesenchymal cell proliferation involved in ureter development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072200"	"negative regulation of mesenchymal cell proliferation involved in ureter development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072202"	"cell differentiation involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072203"	"cell proliferation involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072204"	"cell-cell signaling involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072205"	"metanephric collecting duct development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072206"	"metanephric juxtaglomerular apparatus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072207"	"metanephric epithelium development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072208"	"metanephric smooth muscle tissue development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072210"	"metanephric nephron development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072211"	"metanephric pyramids development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072212"	"regulation of transcription from RNA polymerase II promoter involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072213"	"metanephric capsule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072214"	"metanephric cortex development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072215"	"regulation of metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072216"	"positive regulation of metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072217"	"negative regulation of metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072234"	"metanephric nephron tubule development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072248"	"metanephric glomerular visceral epithelial cell differentiation"	4
+"GO:0001655"	"urogenital system development"	"GO:0072268"	"pattern specification involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:0072298"	"regulation of metanephric glomerulus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0090096"	"positive regulation of metanephric cap mesenchymal cell proliferation"	4
+"GO:0001655"	"urogenital system development"	"GO:0090189"	"regulation of branching involved in ureteric bud morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0090192"	"regulation of glomerulus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0090193"	"positive regulation of glomerulus development"	4
+"GO:0001655"	"urogenital system development"	"GO:0090194"	"negative regulation of glomerulus development"	4
+"GO:0001655"	"urogenital system development"	"GO:1900200"	"mesenchymal cell apoptotic process involved in metanephros development"	4
+"GO:0001655"	"urogenital system development"	"GO:1901722"	"regulation of cell proliferation involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:1901723"	"negative regulation of cell proliferation involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:1901724"	"positive regulation of cell proliferation involved in kidney development"	4
+"GO:0001655"	"urogenital system development"	"GO:2000729"	"positive regulation of mesenchymal cell proliferation involved in ureter development"	4
+"GO:0001655"	"urogenital system development"	"GO:2001013"	"epithelial cell proliferation involved in renal tubule morphogenesis"	4
+"GO:0001655"	"urogenital system development"	"GO:0003337"	"mesenchymal to epithelial transition involved in metanephros morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0032836"	"glomerular basement membrane development"	5
+"GO:0001655"	"urogenital system development"	"GO:0034672"	"anterior/posterior pattern specification involved in pronephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0035298"	"regulation of Malpighian tubule size"	5
+"GO:0001655"	"urogenital system development"	"GO:0035502"	"metanephric part of ureteric bud development"	5
+"GO:0001655"	"urogenital system development"	"GO:0035565"	"regulation of pronephros size"	5
+"GO:0001655"	"urogenital system development"	"GO:0035566"	"regulation of metanephros size"	5
+"GO:0001655"	"urogenital system development"	"GO:0035776"	"pronephric proximal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0035777"	"pronephric distal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0035778"	"pronephric nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0035789"	"metanephric mesenchymal cell migration"	5
+"GO:0001655"	"urogenital system development"	"GO:0039003"	"pronephric field specification"	5
+"GO:0001655"	"urogenital system development"	"GO:0039005"	"specification of pronephric tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0039007"	"pronephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0039008"	"pronephric nephron tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0039021"	"pronephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:0039023"	"pronephric duct morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0060515"	"prostate field specification"	5
+"GO:0001655"	"urogenital system development"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	5
+"GO:0001655"	"urogenital system development"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	5
+"GO:0001655"	"urogenital system development"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	5
+"GO:0001655"	"urogenital system development"	"GO:0060685"	"regulation of prostatic bud formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0060686"	"negative regulation of prostatic bud formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061207"	"mesonephric juxtaglomerulus cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0061220"	"mesonephric macula densa development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061221"	"mesonephric mesenchyme morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061222"	"mesonephric mesenchymal cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061224"	"mesonephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061225"	"mesonephric extraglomerular mesangial cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061226"	"proximal/distal pattern formation involved in mesonephric nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061228"	"mesonephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061231"	"mesonephric glomerulus vasculature development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061239"	"mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061240"	"mesonephric nephron tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061241"	"mesonephric nephron epithelium development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061250"	"mesonephric glomerular epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0061257"	"mesonephric glomerular visceral epithelial cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061258"	"mesonephric glomerular visceral epithelial cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0061260"	"mesonephric mesangial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0061261"	"mesenchymal to epithelial transition involved in mesonephros morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061265"	"mesonephric nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0061266"	"mesonephric interstitial fibroblast differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0061269"	"mesonephric glomerular mesangial cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061272"	"mesonephric connecting tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061274"	"mesonephric distal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061275"	"mesonephric proximal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061278"	"epithelial cell migration involved in mesonephric nephron tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061282"	"specification of mesonephric nephron tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0061286"	"mesonephric capsule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061288"	"mesonephric capsule specification"	5
+"GO:0001655"	"urogenital system development"	"GO:0061290"	"canonical Wnt signaling pathway involved in metanephric kidney development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061292"	"canonical Wnt signaling pathway involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061293"	"canonical Wnt signaling pathway involved in mesonephric nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0061294"	"mesonephric renal vesicle induction"	5
+"GO:0001655"	"urogenital system development"	"GO:0061296"	"negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061297"	"positive regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0061441"	"renal artery morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072005"	"maintenance of kidney identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072008"	"glomerular mesangial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072010"	"glomerular epithelium development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072011"	"glomerular endothelium development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072022"	"descending thin limb development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072031"	"proximal convoluted tubule segment 1 development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072032"	"proximal convoluted tubule segment 2 development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072036"	"mesenchymal to epithelial transition involved in renal vesicle formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072038"	"mesenchymal stem cell maintenance involved in nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072045"	"convergent extension involved in nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072046"	"establishment of planar polarity involved in nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072049"	"comma-shaped body morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072050"	"S-shaped body morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072063"	"short descending thin limb development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072064"	"long descending thin limb development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072067"	"early distal convoluted tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072068"	"late distal convoluted tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072077"	"renal vesicle morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072079"	"nephron tubule formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072082"	"specification of proximal tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072084"	"specification of distal tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072085"	"specification of connecting tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072086"	"specification of loop of Henle identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072088"	"nephron epithelium morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072094"	"metanephric renal vesicle induction"	5
+"GO:0001655"	"urogenital system development"	"GO:0072099"	"anterior/posterior pattern specification involved in ureteric bud development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072102"	"glomerulus morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072103"	"glomerulus vasculature morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072106"	"regulation of ureteric bud formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072109"	"glomerular mesangium development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072115"	"head kidney morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072116"	"pronephros formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072118"	"pronephros structural organization"	5
+"GO:0001655"	"urogenital system development"	"GO:0072121"	"head kidney maturation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072123"	"intraglomerular mesangial cell proliferation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072124"	"regulation of glomerular mesangial cell proliferation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072125"	"negative regulation of glomerular mesangial cell proliferation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072126"	"positive regulation of glomerular mesangial cell proliferation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072129"	"renal capsule formation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072133"	"metanephric mesenchyme morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072134"	"nephrogenic mesenchyme morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072136"	"metanephric mesenchymal cell proliferation involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072138"	"mesenchymal cell proliferation involved in ureteric bud development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072140"	"DCT cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072141"	"renal interstitial fibroblast development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072142"	"juxtaglomerulus cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072143"	"mesangial cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072145"	"proximal convoluted tubule segment 1 cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072146"	"DCT cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072150"	"juxtaglomerulus cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072151"	"mesangial cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072153"	"renal interstitial fibroblast fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072154"	"proximal convoluted tubule segment 1 cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072156"	"distal tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072157"	"epithelial cell migration involved in distal tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072158"	"proximal tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072159"	"epithelial cell migration involved in proximal tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072164"	"mesonephric tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072167"	"specification of mesonephric tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072168"	"specification of anterior mesonephric tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072169"	"specification of posterior mesonephric tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072170"	"metanephric tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072171"	"mesonephric tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072177"	"mesonephric duct development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072178"	"nephric duct morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072182"	"regulation of nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072185"	"metanephric cap development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072196"	"proximal/distal pattern formation involved in pronephric nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072209"	"metanephric mesangial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072218"	"metanephric ascending thin limb development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072221"	"metanephric distal convoluted tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072224"	"metanephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072227"	"metanephric macula densa development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072229"	"metanephric proximal convoluted tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072230"	"metanephric proximal straight tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072233"	"metanephric thick ascending limb development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072235"	"metanephric distal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072236"	"metanephric loop of Henle development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072237"	"metanephric proximal tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072238"	"metanephric long nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072239"	"metanephric glomerulus vasculature development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072240"	"metanephric DCT cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072243"	"metanephric nephron epithelium development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072249"	"metanephric glomerular visceral epithelial cell development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072250"	"metanephric glomerular visceral epithelial cell fate commitment"	5
+"GO:0001655"	"urogenital system development"	"GO:0072251"	"metanephric juxtaglomerulus cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072257"	"metanephric nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072258"	"metanephric interstitial fibroblast differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072261"	"metanephric extraglomerular mesangial cell proliferation involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072262"	"metanephric glomerular mesangial cell proliferation involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072265"	"metanephric capsule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072267"	"metanephric capsule specification"	5
+"GO:0001655"	"urogenital system development"	"GO:0072270"	"metanephric short nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072272"	"proximal/distal pattern formation involved in metanephric nephron development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072273"	"metanephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072281"	"mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072282"	"metanephric nephron tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072286"	"metanephric connecting tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072290"	"epithelial cell migration involved in metanephric nephron tubule morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0072293"	"specification of metanephric nephron tubule identity"	5
+"GO:0001655"	"urogenital system development"	"GO:0072299"	"negative regulation of metanephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072300"	"positive regulation of metanephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:0072308"	"negative regulation of metanephric nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072311"	"glomerular epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0072312"	"metanephric glomerular epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:0090094"	"metanephric cap mesenchymal cell proliferation involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:0090095"	"regulation of metanephric cap mesenchymal cell proliferation"	5
+"GO:0001655"	"urogenital system development"	"GO:0090190"	"positive regulation of branching involved in ureteric bud morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:0090191"	"negative regulation of branching involved in ureteric bud morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:1900204"	"apoptotic process involved in metanephric collecting duct development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900205"	"apoptotic process involved in metanephric nephron tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900206"	"regulation of pronephric nephron tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900207"	"negative regulation of pronephric nephron tubule development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900211"	"regulation of mesenchymal cell apoptotic process involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900212"	"negative regulation of mesenchymal cell apoptotic process involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:1900213"	"positive regulation of mesenchymal cell apoptotic process involved in metanephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:1901145"	"mesenchymal cell apoptotic process involved in nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:1901147"	"mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis"	5
+"GO:0001655"	"urogenital system development"	"GO:2000061"	"regulation of ureter smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000062"	"negative regulation of ureter smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000063"	"positive regulation of ureter smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000087"	"regulation of mesonephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000088"	"negative regulation of mesonephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000089"	"positive regulation of mesonephric glomerulus development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000094"	"negative regulation of mesonephric nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000356"	"regulation of kidney smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000357"	"negative regulation of kidney smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000358"	"positive regulation of kidney smooth muscle cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2000590"	"negative regulation of metanephric mesenchymal cell migration"	5
+"GO:0001655"	"urogenital system development"	"GO:2000606"	"regulation of cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000607"	"negative regulation of cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000608"	"positive regulation of cell proliferation involved in mesonephros development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000696"	"regulation of epithelial cell differentiation involved in kidney development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000697"	"negative regulation of epithelial cell differentiation involved in kidney development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000698"	"positive regulation of epithelial cell differentiation involved in kidney development"	5
+"GO:0001655"	"urogenital system development"	"GO:2000768"	"positive regulation of nephron tubule epithelial cell differentiation"	5
+"GO:0001655"	"urogenital system development"	"GO:2001074"	"regulation of metanephric ureteric bud development"	5
+"GO:0001655"	"urogenital system development"	"GO:0001657"	"ureteric bud development"	6
+"GO:0001655"	"urogenital system development"	"GO:0003339"	"regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0003340"	"negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0034671"	"retinoic acid receptor signaling pathway involved in pronephros anterior/posterior pattern specification"	6
+"GO:0001655"	"urogenital system development"	"GO:0035297"	"regulation of Malpighian tubule diameter"	6
+"GO:0001655"	"urogenital system development"	"GO:0035576"	"retinoic acid receptor signaling pathway involved in pronephric field specification"	6
+"GO:0001655"	"urogenital system development"	"GO:0035775"	"pronephric glomerulus morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0035849"	"nephric duct elongation"	6
+"GO:0001655"	"urogenital system development"	"GO:0039004"	"specification of pronephric proximal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0039006"	"pronephric nephron tubule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0039010"	"specification of pronephric distal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0039011"	"pronephric proximal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0039013"	"pronephric distal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0060514"	"prostate induction"	6
+"GO:0001655"	"urogenital system development"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	6
+"GO:0001655"	"urogenital system development"	"GO:0060675"	"ureteric bud morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061229"	"mesonephric juxtaglomerulus cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061230"	"mesonephric juxtaglomerulus cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0061232"	"mesonephric glomerular epithelium development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061233"	"mesonephric glomerular basement membrane development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061234"	"mesonephric glomerulus morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061235"	"mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061236"	"mesonephric comma-shaped body morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061237"	"convergent extension involved in mesonephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061238"	"establishment of planar polarity involved in mesonephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061243"	"mesonephric renal vesicle morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061244"	"mesonephric S-shaped body morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061247"	"mesonephric glomerular mesangium development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061248"	"mesonephric glomerulus vasculature morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061251"	"mesonephric glomerular epithelial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061252"	"mesonephric glomerular epithelial cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0061253"	"mesonephric glomerular parietal epithelial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061259"	"mesonephric glomerular mesangial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061267"	"mesonephric interstitial fibroblast development"	6
+"GO:0001655"	"urogenital system development"	"GO:0061268"	"mesonephric interstitial fibroblast fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0061270"	"mesonephric intraglomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061271"	"mesenchymal to epithelial transition involved in mesonephric renal vesicle formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061273"	"mesonephric distal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061276"	"mesonephric proximal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061277"	"mesonephric nephron tubule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061279"	"epithelial cell migration involved in mesonephric distal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061280"	"epithelial cell migration involved in mesonephric proximal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0061281"	"specification of mesonephric connecting tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0061283"	"specification of mesonephric distal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0061284"	"specification of mesonephric proximal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0061287"	"mesonephric capsule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0061291"	"canonical Wnt signaling pathway involved in ureteric bud branching"	6
+"GO:0001655"	"urogenital system development"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072033"	"renal vesicle formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072039"	"regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072040"	"negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072041"	"positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072065"	"long descending thin limb bend development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072066"	"prebend segment development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072100"	"specification of ureteric bud anterior/posterior symmetry"	6
+"GO:0001655"	"urogenital system development"	"GO:0072104"	"glomerular capillary formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072107"	"positive regulation of ureteric bud formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072108"	"positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072117"	"head kidney formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072119"	"head kidney structural organization"	6
+"GO:0001655"	"urogenital system development"	"GO:0072139"	"glomerular parietal epithelial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072144"	"glomerular mesangial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072152"	"glomerular mesangial cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0072165"	"anterior mesonephric tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072166"	"posterior mesonephric tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072172"	"mesonephric tubule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072173"	"metanephric tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072179"	"nephric duct formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072180"	"mesonephric duct morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072186"	"metanephric cap morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072220"	"metanephric descending thin limb development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072222"	"metanephric early distal convoluted tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072223"	"metanephric glomerular mesangium development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072225"	"metanephric late distal convoluted tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072231"	"metanephric proximal convoluted tubule segment 1 development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072232"	"metanephric proximal convoluted tubule segment 2 development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072241"	"metanephric DCT cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072242"	"metanephric DCT cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0072244"	"metanephric glomerular epithelium development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072245"	"metanephric glomerular parietal epithelial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072252"	"metanephric juxtaglomerulus cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072253"	"metanephric juxtaglomerulus cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0072254"	"metanephric glomerular mesangial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072259"	"metanephric interstitial fibroblast development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072260"	"metanephric interstitial fibroblast fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:0072263"	"metanephric intraglomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072264"	"metanephric glomerular endothelium development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072266"	"metanephric capsule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072269"	"metanephric long descending thin limb development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072271"	"metanephric short descending thin limb development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072274"	"metanephric glomerular basement membrane development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072275"	"metanephric glomerulus morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072276"	"metanephric glomerulus vasculature morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072278"	"metanephric comma-shaped body morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072279"	"convergent extension involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072280"	"establishment of planar polarity involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072283"	"metanephric renal vesicle morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072284"	"metanephric S-shaped body morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072285"	"mesenchymal to epithelial transition involved in metanephric renal vesicle formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072287"	"metanephric distal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072288"	"metanephric proximal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072289"	"metanephric nephron tubule formation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072291"	"epithelial cell migration involved in metanephric distal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072292"	"epithelial cell migration involved in metanephric proximal tubule morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072294"	"specification of metanephric connecting tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0072295"	"specification of metanephric distal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0072296"	"specification of metanephric loop of Henle identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0072297"	"specification of metanephric proximal tubule identity"	6
+"GO:0001655"	"urogenital system development"	"GO:0072301"	"regulation of metanephric glomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072302"	"negative regulation of metanephric glomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072303"	"positive regulation of glomerular metanephric mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072304"	"regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072305"	"negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072306"	"positive regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072307"	"regulation of metanephric nephron tubule epithelial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:0072309"	"mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:0072310"	"glomerular epithelial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072313"	"metanephric glomerular epithelial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:0072314"	"glomerular epithelial cell fate commitment"	6
+"GO:0001655"	"urogenital system development"	"GO:1900214"	"regulation of apoptotic process involved in metanephric collecting duct development"	6
+"GO:0001655"	"urogenital system development"	"GO:1900215"	"negative regulation of apoptotic process involved in metanephric collecting duct development"	6
+"GO:0001655"	"urogenital system development"	"GO:1900216"	"positive regulation of apoptotic process involved in metanephric collecting duct development"	6
+"GO:0001655"	"urogenital system development"	"GO:1900217"	"regulation of apoptotic process involved in metanephric nephron tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:1900218"	"negative regulation of apoptotic process involved in metanephric nephron tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:1900219"	"positive regulation of apoptotic process involved in metanephric nephron tubule development"	6
+"GO:0001655"	"urogenital system development"	"GO:1901146"	"mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:2000084"	"regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:2000085"	"negative regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:2000086"	"positive regulation of mesenchymal to epithelial transition involved in mesonephros morphogenesis"	6
+"GO:0001655"	"urogenital system development"	"GO:2000090"	"regulation of mesonephric glomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000091"	"negative regulation of mesonephric glomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000092"	"positive regulation of mesonephric glomerular mesangial cell proliferation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000093"	"regulation of mesonephric nephron tubule epithelial cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000477"	"regulation of metanephric glomerular visceral epithelial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:2000478"	"positive regulation of metanephric glomerular visceral epithelial cell development"	6
+"GO:0001655"	"urogenital system development"	"GO:2000589"	"regulation of metanephric mesenchymal cell migration"	6
+"GO:0001655"	"urogenital system development"	"GO:2000591"	"positive regulation of metanephric mesenchymal cell migration"	6
+"GO:0001655"	"urogenital system development"	"GO:2000592"	"regulation of metanephric DCT cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000593"	"negative regulation of metanephric DCT cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:2000594"	"positive regulation of metanephric DCT cell differentiation"	6
+"GO:0001655"	"urogenital system development"	"GO:2001075"	"negative regulation of metanephric ureteric bud development"	6
+"GO:0001655"	"urogenital system development"	"GO:2001076"	"positive regulation of metanephric ureteric bud development"	6
+"GO:0001655"	"urogenital system development"	"GO:0001658"	"branching involved in ureteric bud morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:0035793"	"positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway"	7
+"GO:0001655"	"urogenital system development"	"GO:0060676"	"ureteric bud formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0060677"	"ureteric bud elongation"	7
+"GO:0001655"	"urogenital system development"	"GO:0061249"	"mesonephric glomerular capillary formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0061254"	"mesonephric glomerular parietal epithelial cell development"	7
+"GO:0001655"	"urogenital system development"	"GO:0061255"	"mesonephric glomerular parietal epithelial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:0061262"	"mesonephric renal vesicle formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0061263"	"mesonephric glomerular mesangial cell development"	7
+"GO:0001655"	"urogenital system development"	"GO:0061264"	"mesonephric glomerular mesangial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:0061295"	"regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	7
+"GO:0001655"	"urogenital system development"	"GO:0071893"	"BMP signaling pathway involved in nephric duct formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072016"	"glomerular parietal epithelial cell development"	7
+"GO:0001655"	"urogenital system development"	"GO:0072035"	"pre-tubular aggregate formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072093"	"metanephric renal vesicle formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072101"	"specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway"	7
+"GO:0001655"	"urogenital system development"	"GO:0072147"	"glomerular parietal epithelial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:0072174"	"metanephric tubule formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072181"	"mesonephric duct formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072187"	"metanephric cap formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072226"	"metanephric long descending thin limb bend development"	7
+"GO:0001655"	"urogenital system development"	"GO:0072228"	"metanephric prebend segment development"	7
+"GO:0001655"	"urogenital system development"	"GO:0072246"	"metanephric glomerular parietal epithelial cell development"	7
+"GO:0001655"	"urogenital system development"	"GO:0072247"	"metanephric glomerular parietal epithelial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:0072255"	"metanephric glomerular mesangial cell development"	7
+"GO:0001655"	"urogenital system development"	"GO:0072256"	"metanephric glomerular mesangial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:0072277"	"metanephric glomerular capillary formation"	7
+"GO:0001655"	"urogenital system development"	"GO:0072315"	"metanephric glomerular epithelial cell fate commitment"	7
+"GO:0001655"	"urogenital system development"	"GO:1900238"	"regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway"	7
+"GO:0001655"	"urogenital system development"	"GO:2000004"	"regulation of metanephric S-shaped body morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:2000005"	"negative regulation of metanephric S-shaped body morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:2000006"	"regulation of metanephric comma-shaped body morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:2000007"	"negative regulation of metanephric comma-shaped body morphogenesis"	7
+"GO:0001655"	"urogenital system development"	"GO:0060678"	"dichotomous subdivision of terminal units involved in ureteric bud branching"	8
+"GO:0001655"	"urogenital system development"	"GO:0060679"	"trifid subdivision of terminal units involved in ureteric bud branching"	8
+"GO:0001655"	"urogenital system development"	"GO:0060680"	"lateral sprouting involved in ureteric bud morphogenesis"	8
+"GO:0001655"	"urogenital system development"	"GO:0060681"	"branch elongation involved in ureteric bud branching"	8
+"GO:0001655"	"urogenital system development"	"GO:0060682"	"primary ureteric bud growth"	8
+"GO:0001655"	"urogenital system development"	"GO:0072043"	"regulation of pre-tubular aggregate formation by cell-cell signaling"	8
+"GO:0001655"	"urogenital system development"	"GO:0072092"	"ureteric bud invasion"	8
+"GO:0001655"	"urogenital system development"	"GO:2000699"	"fibroblast growth factor receptor signaling pathway involved in ureteric bud formation"	8
+"GO:0001655"	"urogenital system development"	"GO:2000701"	"glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation"	8
+"GO:0001655"	"urogenital system development"	"GO:0072095"	"regulation of branch elongation involved in ureteric bud branching"	9
+"GO:0001655"	"urogenital system development"	"GO:0072096"	"negative regulation of branch elongation involved in ureteric bud branching"	9
+"GO:0001655"	"urogenital system development"	"GO:2000702"	"regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:2000703"	"negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:2000704"	"positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:2000733"	"regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:2000734"	"negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:2000735"	"positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation"	9
+"GO:0001655"	"urogenital system development"	"GO:0072097"	"negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway"	10
+"GO:0035844"	"cloaca development"	"GO:0035844"	"cloaca development"	0
+"GO:0035844"	"cloaca development"	"GO:0060197"	"cloacal septation"	1
+"GO:0060513"	"prostatic bud formation"	"GO:0060513"	"prostatic bud formation"	0
+"GO:0060513"	"prostatic bud formation"	"GO:0060515"	"prostate field specification"	1
+"GO:0060513"	"prostatic bud formation"	"GO:0060685"	"regulation of prostatic bud formation"	1
+"GO:0060513"	"prostatic bud formation"	"GO:0060686"	"negative regulation of prostatic bud formation"	1
+"GO:0060513"	"prostatic bud formation"	"GO:0060514"	"prostate induction"	2
+"GO:0060513"	"prostatic bud formation"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	2
+"GO:0060513"	"prostatic bud formation"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	3
+"GO:1904484"	"cloacal gland development"	"GO:1904484"	"cloacal gland development"	0

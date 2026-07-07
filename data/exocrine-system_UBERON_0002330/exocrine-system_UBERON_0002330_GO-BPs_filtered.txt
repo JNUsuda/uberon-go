@@ -1,0 +1,446 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0035272"	"exocrine system development"	"GO:0035272"	"exocrine system development"	0
+"GO:0035272"	"exocrine system development"	"GO:0007431"	"salivary gland development"	1
+"GO:0035272"	"exocrine system development"	"GO:0031017"	"exocrine pancreas development"	1
+"GO:0035272"	"exocrine system development"	"GO:0032808"	"lacrimal gland development"	1
+"GO:0035272"	"exocrine system development"	"GO:0007432"	"salivary gland boundary specification"	2
+"GO:0035272"	"exocrine system development"	"GO:0007435"	"salivary gland morphogenesis"	2
+"GO:0035272"	"exocrine system development"	"GO:0060689"	"cell differentiation involved in salivary gland development"	2
+"GO:0035272"	"exocrine system development"	"GO:0007434"	"adult salivary gland boundary specification"	3
+"GO:0035272"	"exocrine system development"	"GO:0007437"	"adult salivary gland morphogenesis"	3
+"GO:0035272"	"exocrine system development"	"GO:0035070"	"salivary gland histolysis"	3
+"GO:0035272"	"exocrine system development"	"GO:0045704"	"regulation of salivary gland boundary specification"	3
+"GO:0035272"	"exocrine system development"	"GO:0045705"	"negative regulation of salivary gland boundary specification"	3
+"GO:0035272"	"exocrine system development"	"GO:0045706"	"positive regulation of salivary gland boundary specification"	3
+"GO:0035272"	"exocrine system development"	"GO:0060445"	"branching involved in salivary gland morphogenesis"	3
+"GO:0035272"	"exocrine system development"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	3
+"GO:0035272"	"exocrine system development"	"GO:0060661"	"submandibular salivary gland formation"	3
+"GO:0035272"	"exocrine system development"	"GO:0060662"	"salivary gland cavitation"	3
+"GO:0035272"	"exocrine system development"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	3
+"GO:0035272"	"exocrine system development"	"GO:0060690"	"epithelial cell differentiation involved in salivary gland development"	3
+"GO:0035272"	"exocrine system development"	"GO:0060692"	"mesenchymal cell differentiation involved in salivary gland development"	3
+"GO:0035272"	"exocrine system development"	"GO:0060705"	"neuron differentiation involved in salivary gland development"	3
+"GO:0035272"	"exocrine system development"	"GO:0035071"	"salivary gland cell autophagic cell death"	4
+"GO:0035272"	"exocrine system development"	"GO:0045707"	"regulation of adult salivary gland boundary specification"	4
+"GO:0035272"	"exocrine system development"	"GO:0045709"	"negative regulation of adult salivary gland boundary specification"	4
+"GO:0035272"	"exocrine system development"	"GO:0045711"	"positive regulation of adult salivary gland boundary specification"	4
+"GO:0035272"	"exocrine system development"	"GO:0060663"	"apoptotic process involved in salivary gland cavitation"	4
+"GO:0035272"	"exocrine system development"	"GO:0060666"	"dichotomous subdivision of terminal units involved in salivary gland branching"	4
+"GO:0035272"	"exocrine system development"	"GO:0060667"	"branch elongation involved in salivary gland morphogenesis"	4
+"GO:0035272"	"exocrine system development"	"GO:0060691"	"epithelial cell maturation involved in salivary gland development"	4
+"GO:0035272"	"exocrine system development"	"GO:0060693"	"regulation of branching involved in salivary gland morphogenesis"	4
+"GO:0035272"	"exocrine system development"	"GO:0060704"	"acinar cell differentiation involved in salivary gland development"	4
+"GO:0035272"	"exocrine system development"	"GO:1990632"	"branching involved in submandibular gland morphogenesis"	4
+"GO:0035272"	"exocrine system development"	"GO:0035072"	"ecdysone-mediated induction of salivary gland cell autophagic cell death"	5
+"GO:0035272"	"exocrine system development"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	5
+"GO:0035272"	"exocrine system development"	"GO:0060668"	"regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling"	5
+"GO:0035272"	"exocrine system development"	"GO:0060683"	"regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling"	5
+"GO:0001696"	"gastric acid secretion"	"GO:0001696"	"gastric acid secretion"	0
+"GO:0001696"	"gastric acid secretion"	"GO:0001697"	"histamine-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0001698"	"gastrin-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060453"	"regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060454"	"positive regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060455"	"negative regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	2
+"GO:0001696"	"gastric acid secretion"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	2
+"GO:0001696"	"gastric acid secretion"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	2
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0006699"	"bile acid biosynthetic process"	0
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070857"	"regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070858"	"negative regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070859"	"positive regulation of bile acid biosynthetic process"	1
+"GO:0098754"	"detoxification"	"GO:0098754"	"detoxification"	0
+"GO:0098754"	"detoxification"	"GO:0009407"	"toxin catabolic process"	1
+"GO:0098754"	"detoxification"	"GO:0010127"	"mycothiol-dependent detoxification"	1
+"GO:0098754"	"detoxification"	"GO:0010312"	"detoxification of zinc ion"	1
+"GO:0098754"	"detoxification"	"GO:0051410"	"detoxification of nitrogen compound"	1
+"GO:0098754"	"detoxification"	"GO:0061687"	"detoxification of inorganic compound"	1
+"GO:0098754"	"detoxification"	"GO:0071722"	"detoxification of arsenic-containing substance"	1
+"GO:0098754"	"detoxification"	"GO:0140330"	"xenobiotic detoxification by transmembrane export across the cell outer membrane"	1
+"GO:0098754"	"detoxification"	"GO:1990748"	"cellular detoxification"	1
+"GO:0098754"	"detoxification"	"GO:1990961"	"xenobiotic detoxification by transmembrane export across the plasma membrane"	1
+"GO:0098754"	"detoxification"	"GO:0010273"	"detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:0010299"	"detoxification of cobalt ion"	2
+"GO:0098754"	"detoxification"	"GO:0043387"	"mycotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0045574"	"sterigmatocystin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046216"	"indole phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046225"	"bacteriocin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046701"	"insecticide catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0050787"	"detoxification of mercury ion"	2
+"GO:0098754"	"detoxification"	"GO:0052316"	"phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0061691"	"detoxification of hydrogen peroxide"	2
+"GO:0098754"	"detoxification"	"GO:0070458"	"cellular detoxification of nitrogen compound"	2
+"GO:0098754"	"detoxification"	"GO:0071585"	"detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098849"	"cellular detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098869"	"cellular oxidant detoxification"	2
+"GO:0098754"	"detoxification"	"GO:0110052"	"toxic metabolite repair"	2
+"GO:0098754"	"detoxification"	"GO:0110095"	"cellular detoxification of aldehyde"	2
+"GO:0098754"	"detoxification"	"GO:0140114"	"cellular detoxification of fluoride"	2
+"GO:0098754"	"detoxification"	"GO:1905699"	"regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905700"	"negative regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905701"	"positive regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1990461"	"detoxification of iron ion"	2
+"GO:0098754"	"detoxification"	"GO:1990880"	"cellular detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:2001309"	"gliotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0015694"	"mercury ion transport"	3
+"GO:0098754"	"detoxification"	"GO:0019430"	"removal of superoxide radicals"	3
+"GO:0098754"	"detoxification"	"GO:0042188"	"1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046223"	"aflatoxin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046286"	"flavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046290"	"isoflavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046294"	"formaldehyde catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0050788"	"sequestering of mercury"	3
+"GO:0098754"	"detoxification"	"GO:0061692"	"cellular detoxification of hydrogen peroxide"	3
+"GO:0098754"	"detoxification"	"GO:0140041"	"cellular detoxification of methylglyoxal"	3
+"GO:0098754"	"detoxification"	"GO:0106045"	"guanine deglycation, methylglyoxal removal"	4
+"GO:0098754"	"detoxification"	"GO:1904832"	"negative regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1904833"	"positive regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:2000121"	"regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1901670"	"negative regulation of superoxide dismutase activity"	5
+"GO:0036333"	"hepatocyte homeostasis"	"GO:0036333"	"hepatocyte homeostasis"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070365"	"hepatocyte differentiation"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070366"	"regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:0097284"	"hepatocyte apoptotic process"	0
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903943"	"regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903944"	"negative regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903945"	"positive regulation of hepatocyte apoptotic process"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1990654"	"sebum secreting cell proliferation"	0
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904002"	"regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904003"	"negative regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904004"	"positive regulation of sebum secreting cell proliferation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:0035733"	"hepatic stellate cell activation"	0
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000489"	"regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000490"	"negative regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000491"	"positive regulation of hepatic stellate cell activation"	1
+"GO:0061521"	"hepatic stellate cell differentiation"	"GO:0061521"	"hepatic stellate cell differentiation"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061868"	"hepatic stellate cell migration"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061869"	"regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061870"	"positive regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061871"	"negative regulation of hepatic stellate cell migration"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1990922"	"hepatic stellate cell proliferation"	0
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904897"	"regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904898"	"negative regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904899"	"positive regulation of hepatic stellate cell proliferation"	1
+"GO:1903680"	"acinar cell of sebaceous gland differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	0
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060644"	"mammary gland epithelial cell differentiation"	0
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	2
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	2
+"GO:0046541"	"saliva secretion"	"GO:0046541"	"saliva secretion"	0
+"GO:0046541"	"saliva secretion"	"GO:0046877"	"regulation of saliva secretion"	1
+"GO:0046541"	"saliva secretion"	"GO:0046878"	"positive regulation of saliva secretion"	1
+"GO:0046541"	"saliva secretion"	"GO:1905747"	"negative regulation of saliva secretion"	1
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:0001949"	"sebaceous gland cell differentiation"	0
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	1
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:0036376"	"sodium ion export across plasma membrane"	0
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903276"	"regulation of sodium ion export across plasma membrane"	1
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903277"	"negative regulation of sodium ion export across plasma membrane"	1
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903278"	"positive regulation of sodium ion export across plasma membrane"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1990573"	"potassium ion import across plasma membrane"	0
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903286"	"regulation of potassium ion import"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903287"	"negative regulation of potassium ion import across plasma membrane"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903288"	"positive regulation of potassium ion import across plasma membrane"	1
+"GO:0005983"	"starch catabolic process"	"GO:0005983"	"starch catabolic process"	0
+"GO:0005983"	"starch catabolic process"	"GO:2000881"	"regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000882"	"negative regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000883"	"positive regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000946"	"negative regulation of amylopectin catabolic process"	2
+"GO:0005983"	"starch catabolic process"	"GO:2000947"	"positive regulation of amylopectin catabolic process"	2
+"GO:0031017"	"exocrine pancreas development"	"GO:0031017"	"exocrine pancreas development"	0
+"GO:0070254"	"mucus secretion"	"GO:0070254"	"mucus secretion"	0
+"GO:0070254"	"mucus secretion"	"GO:0070255"	"regulation of mucus secretion"	1
+"GO:0070254"	"mucus secretion"	"GO:0070256"	"negative regulation of mucus secretion"	1
+"GO:0070254"	"mucus secretion"	"GO:0070257"	"positive regulation of mucus secretion"	1
+"GO:0007431"	"salivary gland development"	"GO:0007431"	"salivary gland development"	0
+"GO:0007431"	"salivary gland development"	"GO:0007432"	"salivary gland boundary specification"	1
+"GO:0007431"	"salivary gland development"	"GO:0007435"	"salivary gland morphogenesis"	1
+"GO:0007431"	"salivary gland development"	"GO:0060689"	"cell differentiation involved in salivary gland development"	1
+"GO:0007431"	"salivary gland development"	"GO:0007434"	"adult salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0007437"	"adult salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0035070"	"salivary gland histolysis"	2
+"GO:0007431"	"salivary gland development"	"GO:0045704"	"regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0045705"	"negative regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0045706"	"positive regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0060445"	"branching involved in salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	2
+"GO:0007431"	"salivary gland development"	"GO:0060661"	"submandibular salivary gland formation"	2
+"GO:0007431"	"salivary gland development"	"GO:0060662"	"salivary gland cavitation"	2
+"GO:0007431"	"salivary gland development"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0060690"	"epithelial cell differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0060692"	"mesenchymal cell differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0060705"	"neuron differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0035071"	"salivary gland cell autophagic cell death"	3
+"GO:0007431"	"salivary gland development"	"GO:0045707"	"regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045709"	"negative regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045711"	"positive regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0060663"	"apoptotic process involved in salivary gland cavitation"	3
+"GO:0007431"	"salivary gland development"	"GO:0060666"	"dichotomous subdivision of terminal units involved in salivary gland branching"	3
+"GO:0007431"	"salivary gland development"	"GO:0060667"	"branch elongation involved in salivary gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0060691"	"epithelial cell maturation involved in salivary gland development"	3
+"GO:0007431"	"salivary gland development"	"GO:0060693"	"regulation of branching involved in salivary gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0060704"	"acinar cell differentiation involved in salivary gland development"	3
+"GO:0007431"	"salivary gland development"	"GO:1990632"	"branching involved in submandibular gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0035072"	"ecdysone-mediated induction of salivary gland cell autophagic cell death"	4
+"GO:0007431"	"salivary gland development"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	4
+"GO:0007431"	"salivary gland development"	"GO:0060668"	"regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling"	4
+"GO:0007431"	"salivary gland development"	"GO:0060683"	"regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling"	4
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0007435"	"salivary gland morphogenesis"	0
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0007437"	"adult salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035070"	"salivary gland histolysis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060445"	"branching involved in salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060661"	"submandibular salivary gland formation"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060662"	"salivary gland cavitation"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035071"	"salivary gland cell autophagic cell death"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060663"	"apoptotic process involved in salivary gland cavitation"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060666"	"dichotomous subdivision of terminal units involved in salivary gland branching"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060667"	"branch elongation involved in salivary gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060693"	"regulation of branching involved in salivary gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:1990632"	"branching involved in submandibular gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035072"	"ecdysone-mediated induction of salivary gland cell autophagic cell death"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060668"	"regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060683"	"regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling"	3
+"GO:0060661"	"submandibular salivary gland formation"	"GO:0060661"	"submandibular salivary gland formation"	0
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	0
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060615"	"mammary gland bud formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060616"	"mammary gland cord formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0032808"	"lacrimal gland development"	"GO:0032808"	"lacrimal gland development"	0
+"GO:1903699"	"tarsal gland development"	"GO:1903699"	"tarsal gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060792"	"sweat gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060793"	"sweat gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0048733"	"sebaceous gland development"	0
+"GO:0048733"	"sebaceous gland development"	"GO:0001949"	"sebaceous gland cell differentiation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0060791"	"sebaceous gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903699"	"tarsal gland development"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	2
+"GO:0007595"	"lactation"	"GO:0007595"	"lactation"	0
+"GO:0007595"	"lactation"	"GO:0060156"	"milk ejection reflex"	1
+"GO:0007595"	"lactation"	"GO:1903487"	"regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903488"	"negative regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903489"	"positive regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	2
+"GO:0030879"	"mammary gland development"	"GO:0030879"	"mammary gland development"	0
+"GO:0030879"	"mammary gland development"	"GO:0002174"	"mammary stem cell proliferation"	1
+"GO:0030879"	"mammary gland development"	"GO:0007595"	"lactation"	1
+"GO:0030879"	"mammary gland development"	"GO:0042695"	"thelarche"	1
+"GO:0030879"	"mammary gland development"	"GO:0060443"	"mammary gland morphogenesis"	1
+"GO:0030879"	"mammary gland development"	"GO:0060610"	"mesenchymal cell differentiation involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060611"	"mammary gland fat development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060614"	"negative regulation of mammary gland development in males by androgen receptor signaling pathway"	1
+"GO:0030879"	"mammary gland development"	"GO:0060618"	"nipple development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060764"	"cell-cell signaling involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061180"	"mammary gland epithelium development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061377"	"mammary gland lobule development"	1
+"GO:0030879"	"mammary gland development"	"GO:0033598"	"mammary gland epithelial cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060056"	"mammary gland involution"	2
+"GO:0030879"	"mammary gland development"	"GO:0060156"	"milk ejection reflex"	2
+"GO:0030879"	"mammary gland development"	"GO:0060592"	"mammary gland formation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060603"	"mammary gland duct morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060644"	"mammary gland epithelial cell differentiation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060658"	"nipple morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0030879"	"mammary gland development"	"GO:0060749"	"mammary gland alveolus development"	2
+"GO:0030879"	"mammary gland development"	"GO:1903487"	"regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903488"	"negative regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903489"	"positive regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000101"	"regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000102"	"negative regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000103"	"positive regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0033599"	"regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033600"	"negative regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033601"	"positive regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060594"	"mammary gland specification"	3
+"GO:0030879"	"mammary gland development"	"GO:0060596"	"mammary placode formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060604"	"mammary gland duct cavitation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	3
+"GO:0030879"	"mammary gland development"	"GO:0060641"	"mammary gland duct regression in males"	3
+"GO:0030879"	"mammary gland development"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060648"	"mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060652"	"mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060659"	"nipple sheath formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060763"	"mammary duct terminal end bud growth"	3
+"GO:0030879"	"mammary gland development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	3
+"GO:0030879"	"mammary gland development"	"GO:1903519"	"regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903520"	"negative regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903521"	"positive regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	4
+"GO:0030879"	"mammary gland development"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060615"	"mammary gland bud formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060616"	"mammary gland cord formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	4
+"GO:0030879"	"mammary gland development"	"GO:0060619"	"cell migration involved in mammary placode formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060649"	"mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060654"	"mammary gland cord elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060745"	"mammary gland branching involved in pregnancy"	4
+"GO:0030879"	"mammary gland development"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	4
+"GO:0030879"	"mammary gland development"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	5
+"GO:0030879"	"mammary gland development"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060443"	"mammary gland morphogenesis"	0
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060056"	"mammary gland involution"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060592"	"mammary gland formation"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060594"	"mammary gland specification"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060596"	"mammary placode formation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903519"	"regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903520"	"negative regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903521"	"positive regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060615"	"mammary gland bud formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060616"	"mammary gland cord formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060619"	"cell migration involved in mammary placode formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	5
+"GO:0060592"	"mammary gland formation"	"GO:0060592"	"mammary gland formation"	0
+"GO:0060592"	"mammary gland formation"	"GO:0060594"	"mammary gland specification"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060596"	"mammary placode formation"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060619"	"cell migration involved in mammary placode formation"	2
+"GO:0061377"	"mammary gland lobule development"	"GO:0061377"	"mammary gland lobule development"	0
+"GO:0061377"	"mammary gland lobule development"	"GO:0060749"	"mammary gland alveolus development"	1
+"GO:0061377"	"mammary gland lobule development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	2
+"GO:0060618"	"nipple development"	"GO:0060618"	"nipple development"	0
+"GO:0060618"	"nipple development"	"GO:0060658"	"nipple morphogenesis"	1
+"GO:0060618"	"nipple development"	"GO:0060659"	"nipple sheath formation"	2
+"GO:0060618"	"nipple development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	2
+"GO:0060658"	"nipple morphogenesis"	"GO:0060658"	"nipple morphogenesis"	0
+"GO:0060658"	"nipple morphogenesis"	"GO:0060659"	"nipple sheath formation"	1
+"GO:0060658"	"nipple morphogenesis"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005978"	"glycogen biosynthetic process"	0
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005979"	"regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045719"	"negative regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045725"	"positive regulation of glycogen biosynthetic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0005980"	"glycogen catabolic process"	0
+"GO:0005980"	"glycogen catabolic process"	"GO:0005981"	"regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045818"	"negative regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045819"	"positive regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0061723"	"glycophagy"	1
+"GO:0001889"	"liver development"	"GO:0001889"	"liver development"	0
+"GO:0001889"	"liver development"	"GO:0035622"	"intrahepatic bile duct development"	1
+"GO:0001889"	"liver development"	"GO:0060344"	"liver trabecula formation"	1
+"GO:0001889"	"liver development"	"GO:0061017"	"hepatoblast differentiation"	1
+"GO:0001889"	"liver development"	"GO:0070365"	"hepatocyte differentiation"	1
+"GO:0001889"	"liver development"	"GO:0071910"	"determination of liver left/right asymmetry"	1
+"GO:0001889"	"liver development"	"GO:0072576"	"liver morphogenesis"	1
+"GO:0001889"	"liver development"	"GO:0097421"	"liver regeneration"	1
+"GO:0001889"	"liver development"	"GO:0070366"	"regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	2
+"GO:0001889"	"liver development"	"GO:0072574"	"hepatocyte proliferation"	3
+"GO:0001889"	"liver development"	"GO:2000345"	"regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	4
+"GO:0072576"	"liver morphogenesis"	"GO:0072576"	"liver morphogenesis"	0
+"GO:0072576"	"liver morphogenesis"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	1
+"GO:0072576"	"liver morphogenesis"	"GO:0072574"	"hepatocyte proliferation"	2
+"GO:0072576"	"liver morphogenesis"	"GO:2000345"	"regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	3
+"GO:1903709"	"uterine gland development"	"GO:1903709"	"uterine gland development"	0
+"GO:0060749"	"mammary gland alveolus development"	"GO:0060749"	"mammary gland alveolus development"	0
+"GO:0060749"	"mammary gland alveolus development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0035622"	"intrahepatic bile duct development"	"GO:0035622"	"intrahepatic bile duct development"	0
+"GO:0060611"	"mammary gland fat development"	"GO:0060611"	"mammary gland fat development"	0
+"GO:0060611"	"mammary gland fat development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	1
+"GO:0060611"	"mammary gland fat development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	1
+"GO:0060616"	"mammary gland cord formation"	"GO:0060616"	"mammary gland cord formation"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060616"	"mammary gland cord formation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	2
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	2
+"GO:0070384"	"Harderian gland development"	"GO:0070384"	"Harderian gland development"	0
+"GO:0060659"	"nipple sheath formation"	"GO:0060659"	"nipple sheath formation"	0
+"GO:0061153"	"trachea gland development"	"GO:0061153"	"trachea gland development"	0
+"GO:0071834"	"mating pheromone secretion"	"GO:0071834"	"mating pheromone secretion"	0
+"GO:0060763"	"mammary duct terminal end bud growth"	"GO:0060763"	"mammary duct terminal end bud growth"	0
+"GO:0060344"	"liver trabecula formation"	"GO:0060344"	"liver trabecula formation"	0
+"GO:0055078"	"sodium ion homeostasis"	"GO:0055078"	"sodium ion homeostasis"	0
+"GO:0055078"	"sodium ion homeostasis"	"GO:0006883"	"cellular sodium ion homeostasis"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035812"	"renal sodium excretion"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035813"	"regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035814"	"negative regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035815"	"positive regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0043182"	"vacuolar sequestering of sodium ion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035817"	"renal sodium ion absorption involved in negative regulation of renal sodium excretion"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035819"	"positive regulation of renal sodium excretion by pressure natriuresis"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035820"	"negative regulation of renal sodium excretion by angiotensin"	3

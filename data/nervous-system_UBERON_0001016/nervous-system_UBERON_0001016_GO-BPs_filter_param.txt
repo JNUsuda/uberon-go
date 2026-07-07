@@ -1,0 +1,58 @@
+removed_labels:
+- hormone secretion
+- compound eye photoreceptor cell differentiation
+- gamete generation
+- locomotion
+- acid secretion
+- ocellus development
+removed_ids: ~
+removed_children_of:
+- flight behavior
+- flight involved in flight behavior
+- proboscis extension reflex
+- male courtship behavior, orientation prior to leg tapping and wing vibration
+- male courtship behavior, tapping to detect pheromone
+- male courtship behavior, veined wing vibration
+- male courtship behavior, veined wing generated song production
+- male courtship behavior, proboscis-mediated licking
+- oviposition
+- regulation of oviposition
+- negative regulation of oviposition
+- positive regulation of oviposition
+- larval behavior
+- larval locomotory behavior
+- larval feeding behavior
+- larval foraging behavior
+- larval walking behavior
+- larval turning behavior
+- larval wandering behavior
+- larval burrowing behavior
+- response to hermaphrodite contact
+- vulval location
+- spicule insertion
+- larval central nervous system remodeling
+- imaginal disc-derived wing hair organization
+- establishment of imaginal disc-derived wing hair orientation
+- imaginal disc-derived wing hair outgrowth
+- imaginal disc-derived wing hair elongation
+- maintenance of imaginal disc-derived wing hair orientation
+- imaginal disc-derived wing hair site selection
+- ocellus photoreceptor cell development
+- ocellus photoreceptor cell differentiation
+- ocellus photoreceptor cell development
+- ocellus photoreceptor cell fate commitment
+- ocellus photoreceptor cell fate commitment
+- pharyngeal pumping
+- regulation of pharyngeal pumping
+- negative regulation of pharyngeal pumping
+- positive regulation of pharyngeal pumping
+- male courtship behavior, veined wing generated song production
+- male courtship behavior, veined wing extension
+- male courtship behavior, veined wing vibration
+- male courtship behavior, veined wing generated song production
+- echolocation
+- detection of mechanical stimulus involved in echolocation
+- oral incubation
+- regulation of turning behavior involved in mating
+- positive regulation of turning behavior involved in mating
+- negative regulation of turning behavior involved in mating

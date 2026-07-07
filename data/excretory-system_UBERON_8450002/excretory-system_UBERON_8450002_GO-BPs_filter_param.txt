@@ -1,0 +1,10 @@
+removed_labels:
+- secretion
+- blood circulation
+- prostatic bud formation
+- steroid biosynthetic process
+- hemopoiesis
+- penile erection
+- sensory perception of mechanical stimulus
+removed_ids: ~
+removed_children_of: ~

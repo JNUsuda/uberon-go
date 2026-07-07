@@ -1,0 +1,1651 @@
+removed_labels:
+- secretion by cell
+- hormone secretion
+- temperature homeostasis
+- embryo development
+- baculum development
+- regulation of systemic arterial blood pressure by vasopressin
+- vasopressin secretion
+- spermathecum morphogenesis
+- spongiotrophoblast differentiation
+- spongiotrophoblast layer development
+- spongiotrophoblast layer developmental growth
+removed_ids: ~
+removed_children_of:
+- karyogamy involved in conjugation with cellular fusion
+- conjugation with cellular fusion
+- karyogamy involved in conjugation with cellular fusion
+- nuclear migration involved in conjugation with cellular fusion
+- response to pheromone triggering conjugation with cellular fusion
+- agglutination involved in conjugation with cellular fusion
+- cell morphogenesis involved in conjugation with cellular fusion
+- cytogamy
+- regulation of conjugation with cellular fusion
+- negative regulation of conjugation with cellular fusion
+- positive regulation of conjugation with cellular fusion
+- cell wall organization involved in conjugation with cellular fusion
+- peptide mating pheromone maturation involved in positive regulation of conjugation
+  with cellular fusion
+- pheromone response MAPK cascade
+- actin fusion focus assembly
+- pheromone-dependent signal transduction involved in conjugation with cellular fusion
+- mitotic cell cycle G1 arrest in response to pheromone
+- adaptation of signaling pathway by response to pheromone involved in conjugation
+  with cellular fusion
+- induction of conjugation with cellular fusion
+- negative regulation of induction of conjugation with cellular fusion
+- mating projection formation
+- signal transduction involved in positive regulation of conjugation with cellular
+  fusion
+- cell wall macromolecule catabolic process involved in cytogamy
+- plasma membrane fusion involved in cytogamy
+- regulation of signal transduction involved in conjugation with cellular fusion
+- positive regulation of signal transduction involved in conjugation with cellular
+  fusion
+- regulation of induction of conjugation upon nitrogen starvation
+- positive regulation of pheromone response MAPK cascade
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- peptide pheromone export involved in positive regulation of conjugation with cellular
+  fusion
+- negative regulation of conjugation with zygote
+- positive regulation of induction of conjugation with cellular fusion
+- fungal-type cell wall disassembly involved in conjugation with cellular fusion
+- regulation of cell morphogenesis involved in conjugation with cellular fusion
+- re-entry into mitotic cell cycle after pheromone arrest
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- induction of conjugation upon nutrient starvation
+- regulation of mating projection assembly
+- negative regulation of signal transduction involved in conjugation with cellular
+  fusion
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- positive regulation of mating projection assembly
+- induction of conjugation upon carbon starvation
+- induction of conjugation upon nitrogen starvation
+- regulation of initiation of mating projection growth
+- regulation of termination of mating projection growth
+- response to pheromone triggering conjugation with cellular fusion
+- pheromone-dependent signal transduction involved in conjugation with cellular fusion
+- mitotic cell cycle G1 arrest in response to pheromone
+- agglutination involved in conjugation with cellular fusion
+- adaptation of signaling pathway by response to pheromone involved in conjugation
+  with cellular fusion
+- re-entry into mitotic cell cycle after pheromone arrest
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- pheromone response MAPK cascade
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- positive regulation of pheromone response MAPK cascade
+- pheromone-dependent signal transduction involved in conjugation with cellular fusion
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- pheromone response MAPK cascade
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- positive regulation of pheromone response MAPK cascade
+- mitotic cell cycle G1 arrest in response to pheromone
+- cell morphogenesis involved in conjugation with cellular fusion
+- mating projection formation
+- regulation of cell morphogenesis involved in conjugation with cellular fusion
+- regulation of mating projection assembly
+- positive regulation of mating projection assembly
+- regulation of initiation of mating projection growth
+- regulation of termination of mating projection growth
+- adaptation of signaling pathway by response to pheromone involved in conjugation
+  with cellular fusion
+- re-entry into mitotic cell cycle after pheromone arrest
+- regulation of mating-type specific transcription from RNA polymerase II promoter
+- positive regulation of mating-type specific transcription from RNA polymerase II
+  promoter
+- negative regulation of mating-type specific transcription from RNA polymerase II
+  promoter
+- pole cell development
+- pole cell fate determination
+- pole cell formation
+- pole cell fate determination
+- pole cell formation
+- pole cell migration
+- germarium-derived egg chamber formation
+- female germline ring canal formation
+- germarium-derived oocyte differentiation
+- germarium-derived female germ-line cyst encapsulation
+- oocyte localization involved in germarium-derived egg chamber formation
+- ovarian fusome organization
+- germarium-derived female germ-line cyst formation
+- germarium-derived oocyte fate determination
+- female germline ring canal formation, actin assembly
+- germarium-derived cystoblast division
+- germarium-derived oocyte fate determination
+- growth of a germarium-derived egg chamber
+- oocyte growth in germarium-derived egg chamber
+- ovarian nurse cell to oocyte transport
+- female germline ring canal formation
+- cytoplasmic transport, nurse cell to oocyte
+- female germline ring canal stabilization
+- female germline ring canal formation, actin assembly
+- cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte
+- female germline ring canal formation
+- female germline ring canal formation, actin assembly
+- cytoplasmic transport, nurse cell to oocyte
+- cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte
+- pole plasm assembly
+- pole plasm RNA localization
+- pole plasm protein localization
+- P granule organization
+- pole plasm mRNA localization
+- pole plasm mitochondrial rRNA localization
+- P granule assembly
+- P granule disassembly
+- pole plasm mitochondrial lrRNA localization
+- pole plasm mitochondrial srRNA localization
+- pole plasm oskar mRNA localization
+- maintenance of pole plasm mRNA location
+- establishment of pole plasm mRNA localization
+- regulation of pole plasm oskar mRNA localization
+- negative regulation of pole plasm oskar mRNA localization
+- positive regulation of pole plasm oskar mRNA localization
+- pole plasm RNA localization
+- pole plasm mRNA localization
+- pole plasm mitochondrial rRNA localization
+- pole plasm mitochondrial lrRNA localization
+- pole plasm mitochondrial srRNA localization
+- pole plasm oskar mRNA localization
+- maintenance of pole plasm mRNA location
+- establishment of pole plasm mRNA localization
+- regulation of pole plasm oskar mRNA localization
+- negative regulation of pole plasm oskar mRNA localization
+- positive regulation of pole plasm oskar mRNA localization
+- pole plasm protein localization
+- imaginal disc-derived genitalia development
+- imaginal disc-derived male genitalia development
+- imaginal disc-derived female genitalia development
+- imaginal disc-derived genitalia morphogenesis
+- imaginal disc-derived male genitalia morphogenesis
+- imaginal disc-derived female genitalia morphogenesis
+- gene conversion at mating-type locus
+- somatic processes downstream of sex determination signal
+- germ-line processes downstream of sex determination signal
+- female germline ring canal formation, actin assembly
+- female germline ring canal stabilization
+- embryo sac egg cell differentiation
+- regulation of embryo sac egg cell differentiation
+- negative regulation of embryo sac egg cell differentiation
+- positive regulation of embryo sac egg cell differentiation
+- double fertilization forming a zygote and endosperm
+- fusion of sperm to egg plasma membrane involved in double fertilization forming
+  a zygote and endosperm
+- regulation of double fertilization forming a zygote and endosperm
+- male-female gamete recognition during double fertilization forming a zygote and
+  endosperm
+- double fertilization forming two zygotes
+- fusion of sperm to egg plasma membrane involved in double fertilization forming
+  two zygotes
+- embryo development ending in seed dormancy
+- longitudinal axis specification
+- zygote asymmetric cytokinesis in embryo sac
+- somatic embryogenesis
+- apical cell fate commitment
+- embryonic meristem development
+- cotyledon development
+- primary meristem tissue development
+- root meristem specification
+- primary shoot apical meristem specification
+- cotyledon morphogenesis
+- ground meristem histogenesis
+- procambium histogenesis
+- protoderm histogenesis
+- cotyledon vascular tissue pattern formation
+- cell wall modification involved in fruit ripening
+- fruit ripening
+- cell wall modification involved in fruit ripening
+- fruit ripening, climacteric
+- fruit ripening, non-climacteric
+- pollen germination
+- pollination
+- pollen germination
+- pollen-pistil interaction
+- synergid death
+- pollen tube reception
+- pollen tube development
+- pollen hydration
+- pollen tube growth
+- pollen tube adhesion
+- pollen adhesion
+- pollen tube guidance
+- recognition of pollen
+- pollen-stigma interaction
+- pollen-style interaction
+- rejection of pollen from other species
+- rejection of self pollen
+- acceptance of pollen
+- regulation of pollen tube growth
+- pollen hydration
+- pollen tube adhesion
+- pollen-pistil interaction
+- pollen hydration
+- pollen tube adhesion
+- pollen adhesion
+- recognition of pollen
+- pollen-stigma interaction
+- pollen-style interaction
+- rejection of pollen from other species
+- rejection of self pollen
+- acceptance of pollen
+- pollen adhesion
+- dehiscence
+- anther dehiscence
+- fruit dehiscence
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- flower development
+- regulation of flower development
+- negative regulation of flower development
+- positive regulation of flower development
+- nectary development
+- floral meristem growth
+- floral meristem determinacy
+- floral organ development
+- floral whorl development
+- flower morphogenesis
+- specification of floral organ number
+- regulation of floral meristem growth
+- floral organ abscission
+- carpel development
+- petal development
+- sepal development
+- stamen development
+- floral organ morphogenesis
+- floral whorl morphogenesis
+- flower formation
+- flower structural organization
+- flower calyx development
+- corolla development
+- androecium development
+- gynoecium development
+- maintenance of floral organ identity
+- establishment of floral organ orientation
+- specification of petal number
+- floral organ senescence
+- perianth development
+- transmitting tissue development
+- plant-type ovary development
+- carpel morphogenesis
+- petal morphogenesis
+- sepal morphogenesis
+- stamen morphogenesis
+- floral organ formation
+- floral organ structural organization
+- floral whorl formation
+- floral whorl structural organization
+- style development
+- stigma development
+- establishment of petal orientation
+- anther development
+- anther morphogenesis
+- specification of decreased petal number
+- specification of increased petal number
+- vesicle-mediated transport involved in floral organ abscission
+- regulation of floral organ abscission
+- positive regulation of floral organ abscission
+- negative regulation of floral organ abscission
+- transmembrane receptor protein serine/threonine kinase signaling pathway involved
+  in floral organ abscission
+- cell wall disassembly involved in floral organ abscission
+- stamen filament development
+- anther dehiscence
+- specification of floral organ identity
+- microsporocyte differentiation
+- petal formation
+- petal structural organization
+- sepal formation
+- sepal structural organization
+- stamen formation
+- stamen structural organization
+- carpel formation
+- carpel structural organization
+- plant ovule development
+- plant ovule morphogenesis
+- anther wall tapetum morphogenesis
+- anther wall tapetum development
+- regulation of floral organ abscission by signal transduction
+- negative regulation of floral organ abscission by transmembrane receptor protein
+  serine/threonine kinase signaling pathway
+- ovary septum development
+- anther septum development
+- stomium development
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- specification of ovule identity
+- anther wall tapetum formation
+- integument development
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- regulation of flower development
+- negative regulation of flower development
+- positive regulation of flower development
+- negative regulation of flower development
+- positive regulation of flower development
+- longitudinal axis specification
+- endosperm development
+- negative regulation of endosperm development
+- regulation of endosperm development
+- root meristem specification
+- primary shoot apical meristem specification
+- regulation of floral meristem growth
+- regulation of inflorescence meristem growth
+- specification of floral organ identity
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- fruit development
+- fruit ripening
+- seed development
+- fruit morphogenesis
+- fruit septum development
+- fruit replum development
+- fruit valve development
+- embryo development ending in seed dormancy
+- cell wall modification involved in fruit ripening
+- fruit ripening, climacteric
+- fruit ripening, non-climacteric
+- endosperm development
+- seed coat development
+- seed oilbody biogenesis
+- seed maturation
+- seed morphogenesis
+- mucilage extrusion from seed coat
+- regulation of seed development
+- seed growth
+- seed trichome differentiation
+- acquisition of seed longevity
+- longitudinal axis specification
+- zygote asymmetric cytokinesis in embryo sac
+- seed dormancy process
+- somatic embryogenesis
+- apical cell fate commitment
+- mucilage metabolic process involved in seed coat development
+- embryonic meristem development
+- cotyledon development
+- regulation of seed growth
+- seed trichome initiation
+- seed trichome elongation
+- secondary cell wall biogenesis involved in seed trichome differentiation
+- seed trichome maturation
+- negative regulation of endosperm development
+- seed dehydration
+- regulation of endosperm development
+- regulation of seed maturation
+- negative regulation of seed maturation
+- positive regulation of seed maturation
+- primary meristem tissue development
+- root meristem specification
+- primary shoot apical meristem specification
+- maintenance of seed dormancy
+- mucilage biosynthetic process involved in seed coat development
+- acquisition of desiccation tolerance in seed
+- cotyledon morphogenesis
+- release of seed from dormancy
+- negative regulation of seed dormancy process
+- positive regulation of seed dormancy process
+- regulation of seed dormancy process
+- ground meristem histogenesis
+- procambium histogenesis
+- protoderm histogenesis
+- cotyledon vascular tissue pattern formation
+- maintenance of seed dormancy by absisic acid
+- seed dormancy process
+- maintenance of seed dormancy
+- acquisition of desiccation tolerance in seed
+- release of seed from dormancy
+- negative regulation of seed dormancy process
+- positive regulation of seed dormancy process
+- regulation of seed dormancy process
+- maintenance of seed dormancy by absisic acid
+- pollen tube guidance
+- seed coat development
+- mucilage metabolic process involved in seed coat development
+- mucilage biosynthetic process involved in seed coat development
+- floral organ abscission
+- vesicle-mediated transport involved in floral organ abscission
+- regulation of floral organ abscission
+- positive regulation of floral organ abscission
+- negative regulation of floral organ abscission
+- transmembrane receptor protein serine/threonine kinase signaling pathway involved
+  in floral organ abscission
+- cell wall disassembly involved in floral organ abscission
+- regulation of floral organ abscission by signal transduction
+- negative regulation of floral organ abscission by transmembrane receptor protein
+  serine/threonine kinase signaling pathway
+- vegetative to reproductive phase transition of meristem
+- photoperiodism, flowering
+- long-day photoperiodism, flowering
+- short-day photoperiodism, flowering
+- regulation of photoperiodism, flowering
+- positive regulation of short-day photoperiodism, flowering
+- negative regulation of short-day photoperiodism, flowering
+- positive regulation of long-day photoperiodism, flowering
+- negative regulation of long-day photoperiodism, flowering
+- regulation of long-day photoperiodism, flowering
+- regulation of short-day photoperiodism, flowering
+- inflorescence development
+- inflorescence meristem growth
+- inflorescence morphogenesis
+- regulation of inflorescence meristem growth
+- determinate inflorescence morphogenesis
+- indeterminate inflorescence morphogenesis
+- anther wall tapetum cell fate specification
+- nectary development
+- seed oilbody biogenesis
+- seed maturation
+- seed dormancy process
+- seed dehydration
+- regulation of seed maturation
+- negative regulation of seed maturation
+- positive regulation of seed maturation
+- maintenance of seed dormancy
+- acquisition of desiccation tolerance in seed
+- release of seed from dormancy
+- negative regulation of seed dormancy process
+- positive regulation of seed dormancy process
+- regulation of seed dormancy process
+- maintenance of seed dormancy by absisic acid
+- inflorescence meristem growth
+- regulation of inflorescence meristem growth
+- floral meristem growth
+- regulation of floral meristem growth
+- microsporocyte differentiation
+- pollen tube reception
+- regulation of budding cell apical bud growth
+- floral meristem determinacy
+- cotyledon vascular tissue pattern formation
+- specification of ovule identity
+- apical cell fate commitment
+- brassinosteroid biosynthetic process
+- regulation of brassinosteroid biosynthetic process
+- negative regulation of brassinosteroid biosynthetic process
+- positive regulation of brassinosteroid biosynthetic process
+- male courtship behavior, orientation prior to leg tapping and wing vibration
+- male courtship behavior, tapping to detect pheromone
+- male courtship behavior, veined wing vibration
+- male courtship behavior, veined wing generated song production
+- male courtship behavior, proboscis-mediated licking
+- oviposition
+- regulation of oviposition
+- negative regulation of oviposition
+- positive regulation of oviposition
+- cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte
+- reproductive process in single-celled organism
+- cytogamy
+- mating type switching
+- ascospore formation
+- actinomycete-type spore formation
+- gene conversion at mating-type locus
+- donor selection
+- ascospore-type prospore assembly
+- regulation of mating type switching
+- negative regulation of mating type switching
+- positive regulation of mating type switching
+- cell wall macromolecule catabolic process involved in cytogamy
+- plasma membrane fusion involved in cytogamy
+- regulation of ascospore formation
+- ascospore wall biogenesis
+- positive regulation of ascospore formation
+- negative regulation of ascospore formation
+- activation of recombination (HML)
+- inactivation of recombination (HML)
+- ascospore wall assembly
+- ascospore-type prospore-specific spindle pole body remodeling
+- ascospore-type prospore membrane formation
+- ascospore wall chitin biosynthetic process
+- ascospore wall beta-glucan metabolic process
+- genetic imprinting at mating-type locus
+- positive regulation of ascospore-type prospore membrane formation
+- regulation of ascospore wall chitin biosynthetic process
+- ascospore wall (1->3)-beta-D-glucan metabolic process
+- ascospore wall beta-glucan biosynthetic process
+- spore membrane bending pathway
+- establishment of imprinting at mating-type locus
+- maintenance of imprinting at mating-type locus
+- regulation of ascospore-type prospore membrane formation
+- ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- regulation of ascospore wall beta-glucan biosynthetic process
+- site-specific DNA replication termination at RTS1 barrier
+- regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- chorion-containing eggshell pattern formation
+- ascospore formation
+- ascospore-type prospore assembly
+- regulation of ascospore formation
+- ascospore wall biogenesis
+- positive regulation of ascospore formation
+- negative regulation of ascospore formation
+- ascospore wall assembly
+- ascospore-type prospore-specific spindle pole body remodeling
+- ascospore-type prospore membrane formation
+- ascospore wall chitin biosynthetic process
+- ascospore wall beta-glucan metabolic process
+- positive regulation of ascospore-type prospore membrane formation
+- regulation of ascospore wall chitin biosynthetic process
+- ascospore wall (1->3)-beta-D-glucan metabolic process
+- ascospore wall beta-glucan biosynthetic process
+- spore membrane bending pathway
+- regulation of ascospore-type prospore membrane formation
+- ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- regulation of ascospore wall beta-glucan biosynthetic process
+- regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- ascospore wall assembly
+- reproductive fruiting body development
+- sporocarp development
+- regulation of reproductive fruiting body development
+- aecium development
+- perithecium development
+- protoperithecium formation
+- sporocarp development involved in asexual reproduction
+- sporocarp development involved in sexual reproduction
+- regulation of aecium development
+- positive regulation of aecium development
+- negative regulation of aecium development
+- perithecium formation
+- regulation of sporocarp development involved in sexual reproduction
+- cleistothecium development
+- regulation of cleistothecium development
+- negative regulation of sporocarp development involved in sexual reproduction
+- positive regulation of sporocarp development involved in sexual reproduction
+- cleistothecium formation
+- Hulle cell development
+- negative regulation of cleistothecium development
+- positive regulation of cleistothecium development
+- regulation of Hulle cell development
+- negative regulation of Hulle cell development
+- positive regulation of Hulle cell development
+- eggshell formation
+- chorion-containing eggshell formation
+- vitelline membrane formation involved in chorion-containing eggshell formation
+- eggshell chorion assembly
+- chorion-containing eggshell pattern formation
+- eggshell chorion gene amplification
+- dorsal appendage formation
+- chorion micropyle formation
+- border follicle cell delamination
+- regulation of border follicle cell delamination
+- positive regulation of border follicle cell delamination
+- negative regulation of border follicle cell delamination
+- germline ring canal formation
+- female germline ring canal formation
+- male germline ring canal formation
+- female germline ring canal formation, actin assembly
+- male germline ring canal formation
+- germarium-derived female germ-line cyst formation
+- germarium-derived cystoblast division
+- linear element assembly
+- LinE complex assembly
+- linear element maturation
+- regulation of linear element assembly
+- regulation of linear element maturation
+- regulation of conjugation with cellular fusion
+- negative regulation of conjugation with cellular fusion
+- positive regulation of conjugation with cellular fusion
+- regulation of signal transduction involved in conjugation with cellular fusion
+- regulation of induction of conjugation upon nitrogen starvation
+- induction of conjugation with cellular fusion
+- negative regulation of induction of conjugation with cellular fusion
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- signal transduction involved in positive regulation of conjugation with cellular
+  fusion
+- positive regulation of signal transduction involved in conjugation with cellular
+  fusion
+- negative regulation of signal transduction involved in conjugation with cellular
+  fusion
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- peptide pheromone export involved in positive regulation of conjugation with cellular
+  fusion
+- negative regulation of conjugation with zygote
+- positive regulation of induction of conjugation with cellular fusion
+- pheromone-dependent signal transduction involved in conjugation with cellular fusion
+- induction of conjugation upon nutrient starvation
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- induction of conjugation upon carbon starvation
+- induction of conjugation upon nitrogen starvation
+- pheromone response MAPK cascade
+- positive regulation of pheromone response MAPK cascade
+- negative regulation of conjugation with cellular fusion
+- negative regulation of induction of conjugation with cellular fusion
+- negative regulation of conjugation with zygote
+- positive regulation of conjugation with cellular fusion
+- induction of conjugation with cellular fusion
+- signal transduction involved in positive regulation of conjugation with cellular
+  fusion
+- positive regulation of signal transduction involved in conjugation with cellular
+  fusion
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- peptide pheromone export involved in positive regulation of conjugation with cellular
+  fusion
+- positive regulation of induction of conjugation with cellular fusion
+- pheromone-dependent signal transduction involved in conjugation with cellular fusion
+- negative regulation of induction of conjugation with cellular fusion
+- induction of conjugation upon nutrient starvation
+- regulation of signal transduction involved in conjugation with cellular fusion
+- negative regulation of signal transduction involved in conjugation with cellular
+  fusion
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- induction of conjugation upon carbon starvation
+- induction of conjugation upon nitrogen starvation
+- pheromone response MAPK cascade
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- regulation of induction of conjugation upon nitrogen starvation
+- positive regulation of pheromone response MAPK cascade
+- induction of conjugation upon carbon starvation
+- induction of conjugation upon nitrogen starvation
+- regulation of induction of conjugation upon nitrogen starvation
+- ascospore-type prospore assembly
+- ascospore-type prospore-specific spindle pole body remodeling
+- ascospore-type prospore membrane formation
+- spore membrane bending pathway
+- regulation of ascospore-type prospore membrane formation
+- positive regulation of ascospore-type prospore membrane formation
+- ascospore-type prospore-specific spindle pole body remodeling
+- mating projection formation
+- regulation of mating projection assembly
+- positive regulation of mating projection assembly
+- regulation of initiation of mating projection growth
+- regulation of termination of mating projection growth
+- ascospore-type prospore membrane formation
+- spore membrane bending pathway
+- regulation of ascospore-type prospore membrane formation
+- positive regulation of ascospore-type prospore membrane formation
+- cell wall macromolecule catabolic process involved in cytogamy
+- plasma membrane fusion involved in cytogamy
+- ascospore wall chitin biosynthetic process
+- regulation of ascospore wall chitin biosynthetic process
+- sexual sporulation
+- sexual spore wall assembly
+- regulation of sexual sporulation
+- sexual sporulation resulting in formation of a cellular spore
+- plant-type sporogenesis
+- sexual sporulation resulting in formation of a multicellular or syncytial spore
+- megasporogenesis
+- microsporogenesis
+- ascospore formation
+- basidiospore formation
+- zygospore formation
+- regulation of sexual sporulation resulting in formation of a cellular spore
+- positive regulation of sexual sporulation resulting in formation of a cellular spore
+- negative regulation of sexual sporulation resulting in formation of a cellular spore
+- ascospore release from ascus
+- oospore formation
+- ascospore-type prospore assembly
+- regulation of ascospore formation
+- ascospore wall biogenesis
+- extracellular polysaccharide catabolic process involved in ascospore release from
+  ascus
+- regulation of oospore formation
+- positive regulation of oospore formation
+- negative regulation of oospore formation
+- positive regulation of ascospore formation
+- negative regulation of ascospore formation
+- regulation of zygospore formation
+- positive regulation of zygospore formation
+- negative regulation of zygospore formation
+- regulation of basidiospore formation
+- positive regulation of basidiospore formation
+- negative regulation of basidiospore formation
+- ascospore wall assembly
+- ascospore-type prospore-specific spindle pole body remodeling
+- ascospore-type prospore membrane formation
+- ascospore wall chitin biosynthetic process
+- ascospore wall beta-glucan metabolic process
+- alpha-glucan catabolic process involved in ascospore release from ascus
+- positive regulation of ascospore-type prospore membrane formation
+- regulation of ascospore wall chitin biosynthetic process
+- ascospore wall (1->3)-beta-D-glucan metabolic process
+- ascospore wall beta-glucan biosynthetic process
+- spore membrane bending pathway
+- regulation of ascospore-type prospore membrane formation
+- ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- regulation of ascospore wall beta-glucan biosynthetic process
+- regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- sexual spore wall assembly
+- actinomycete-type spore formation
+- ascospore wall beta-glucan metabolic process
+- ascospore wall (1->3)-beta-D-glucan metabolic process
+- ascospore wall beta-glucan biosynthetic process
+- ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- regulation of ascospore wall beta-glucan biosynthetic process
+- regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- response to hermaphrodite contact
+- turning behavior involved in mating
+- regulation of turning behavior involved in mating
+- positive regulation of turning behavior involved in mating
+- negative regulation of turning behavior involved in mating
+- vulval location
+- spicule insertion
+- genital disc sexually dimorphic development
+- egg coat formation
+- vitelline membrane formation
+- vitelline membrane formation involved in chorion-containing eggshell formation
+- hermaphrodite germ-line sex determination
+- feminization of hermaphroditic germ-line
+- masculinization of hermaphroditic germ-line
+- feminization of hermaphroditic germ-line
+- hermaphrodite genitalia development
+- hermaphrodite genitalia morphogenesis
+- hermaphrodite somatic sex determination
+- masculinization of hermaphrodite soma
+- feminization of hermaphrodite soma
+- masculinization of hermaphrodite soma
+- feminization of hermaphrodite soma
+- masculinization of hermaphroditic germ-line
+- asexual spore wall assembly
+- mating plug formation
+- FtsZ-dependent cytokinesis
+- regulation of FtsZ-dependent cytokinesis
+- negative regulation of FtsZ-dependent cytokinesis
+- positive regulation of FtsZ-dependent cytokinesis
+- sporangium development
+- sporangium germination
+- regulation of sporangium development
+- positive regulation of sporangium development
+- negative regulation of sporangium development
+- oomycete sporangium development
+- regulation of sporangium germination
+- positive regulation of sporangium germination
+- negative regulation of sporangium germination
+- regulation of oomycete sporangium development
+- positive regulation of oomycete sporangium development
+- negative regulation of oomycete sporangium development
+- sexual sporulation resulting in formation of a cellular spore
+- ascospore formation
+- basidiospore formation
+- zygospore formation
+- regulation of sexual sporulation resulting in formation of a cellular spore
+- positive regulation of sexual sporulation resulting in formation of a cellular spore
+- negative regulation of sexual sporulation resulting in formation of a cellular spore
+- ascospore release from ascus
+- oospore formation
+- ascospore-type prospore assembly
+- regulation of ascospore formation
+- ascospore wall biogenesis
+- extracellular polysaccharide catabolic process involved in ascospore release from
+  ascus
+- regulation of oospore formation
+- positive regulation of oospore formation
+- negative regulation of oospore formation
+- positive regulation of ascospore formation
+- negative regulation of ascospore formation
+- regulation of zygospore formation
+- positive regulation of zygospore formation
+- negative regulation of zygospore formation
+- regulation of basidiospore formation
+- positive regulation of basidiospore formation
+- negative regulation of basidiospore formation
+- ascospore wall assembly
+- ascospore-type prospore-specific spindle pole body remodeling
+- ascospore-type prospore membrane formation
+- ascospore wall chitin biosynthetic process
+- ascospore wall beta-glucan metabolic process
+- alpha-glucan catabolic process involved in ascospore release from ascus
+- positive regulation of ascospore-type prospore membrane formation
+- regulation of ascospore wall chitin biosynthetic process
+- ascospore wall (1->3)-beta-D-glucan metabolic process
+- ascospore wall beta-glucan biosynthetic process
+- spore membrane bending pathway
+- regulation of ascospore-type prospore membrane formation
+- ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- regulation of ascospore wall beta-glucan biosynthetic process
+- regulation of ascospore wall (1->3)-beta-D-glucan biosynthetic process
+- nematode male tail tip morphogenesis
+- regulation of nematode male tail tip morphogenesis
+- negative regulation of nematode male tail tip morphogenesis
+- positive regulation of nematode male tail tip morphogenesis
+- male courtship behavior, veined wing generated song production
+- bicoid mRNA localization
+- regulation of bicoid mRNA localization
+- negative regulation of bicoid mRNA localization
+- positive regulation of bicoid mRNA localization
+- ecdysteroid biosynthetic process
+- ecdysone biosynthetic process
+- regulation of ecdysteroid biosynthetic process
+- negative regulation of ecdysteroid biosynthetic process
+- positive regulation of ecdysteroid biosynthetic process
+- nurse cell apoptotic process
+- regulation of nurse cell apoptotic process
+- negative regulation of nurse cell apoptotic process
+- positive regulation of nurse cell apoptotic process
+- regulation of nurse cell apoptotic process
+- negative regulation of nurse cell apoptotic process
+- positive regulation of nurse cell apoptotic process
+- fusome organization
+- ovarian fusome organization
+- testicular fusome organization
+- vesicle targeting to fusome
+- vesicle targeting to fusome
+- regulation of embryo sac egg cell differentiation
+- negative regulation of embryo sac egg cell differentiation
+- positive regulation of embryo sac egg cell differentiation
+- negative regulation of embryo sac egg cell differentiation
+- positive regulation of embryo sac egg cell differentiation
+- negative regulation of nurse cell apoptotic process
+- positive regulation of nurse cell apoptotic process
+- negative regulation of bicoid mRNA localization
+- positive regulation of bicoid mRNA localization
+- establishment of pole plasm mRNA localization
+- regulation of oviposition
+- negative regulation of oviposition
+- positive regulation of oviposition
+- male courtship behavior, veined wing extension
+- male courtship behavior, veined wing vibration
+- male courtship behavior, veined wing generated song production
+- female germ-line cyst encapsulation
+- germarium-derived female germ-line cyst encapsulation
+- male germ-line cyst encapsulation
+- germarium-derived cystoblast division
+- pollen sperm cell differentiation
+- plant-type sporogenesis
+- megasporogenesis
+- microsporogenesis
+- inflorescence morphogenesis
+- determinate inflorescence morphogenesis
+- indeterminate inflorescence morphogenesis
+- seed development
+- embryo development ending in seed dormancy
+- endosperm development
+- seed coat development
+- seed oilbody biogenesis
+- seed maturation
+- seed morphogenesis
+- mucilage extrusion from seed coat
+- regulation of seed development
+- seed growth
+- seed trichome differentiation
+- acquisition of seed longevity
+- longitudinal axis specification
+- zygote asymmetric cytokinesis in embryo sac
+- seed dormancy process
+- somatic embryogenesis
+- apical cell fate commitment
+- mucilage metabolic process involved in seed coat development
+- embryonic meristem development
+- cotyledon development
+- regulation of seed growth
+- seed trichome initiation
+- seed trichome elongation
+- secondary cell wall biogenesis involved in seed trichome differentiation
+- seed trichome maturation
+- negative regulation of endosperm development
+- seed dehydration
+- regulation of endosperm development
+- regulation of seed maturation
+- negative regulation of seed maturation
+- positive regulation of seed maturation
+- primary meristem tissue development
+- root meristem specification
+- primary shoot apical meristem specification
+- maintenance of seed dormancy
+- mucilage biosynthetic process involved in seed coat development
+- acquisition of desiccation tolerance in seed
+- cotyledon morphogenesis
+- release of seed from dormancy
+- negative regulation of seed dormancy process
+- positive regulation of seed dormancy process
+- regulation of seed dormancy process
+- ground meristem histogenesis
+- procambium histogenesis
+- protoderm histogenesis
+- cotyledon vascular tissue pattern formation
+- maintenance of seed dormancy by absisic acid
+- seed morphogenesis
+- mucilage metabolic process involved in seed coat development
+- mucilage biosynthetic process involved in seed coat development
+- floral organ development
+- floral organ abscission
+- carpel development
+- petal development
+- sepal development
+- stamen development
+- floral organ morphogenesis
+- maintenance of floral organ identity
+- floral organ senescence
+- plant-type ovary development
+- carpel morphogenesis
+- petal morphogenesis
+- sepal morphogenesis
+- stamen morphogenesis
+- floral organ formation
+- floral organ structural organization
+- style development
+- stigma development
+- anther development
+- anther morphogenesis
+- vesicle-mediated transport involved in floral organ abscission
+- regulation of floral organ abscission
+- positive regulation of floral organ abscission
+- negative regulation of floral organ abscission
+- transmembrane receptor protein serine/threonine kinase signaling pathway involved
+  in floral organ abscission
+- cell wall disassembly involved in floral organ abscission
+- stamen filament development
+- anther dehiscence
+- specification of floral organ identity
+- microsporocyte differentiation
+- petal formation
+- petal structural organization
+- sepal formation
+- sepal structural organization
+- stamen formation
+- stamen structural organization
+- carpel formation
+- carpel structural organization
+- plant ovule development
+- plant ovule morphogenesis
+- establishment of petal orientation
+- anther wall tapetum morphogenesis
+- anther wall tapetum development
+- regulation of floral organ abscission by signal transduction
+- negative regulation of floral organ abscission by transmembrane receptor protein
+  serine/threonine kinase signaling pathway
+- ovary septum development
+- anther septum development
+- stomium development
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- specification of ovule identity
+- anther wall tapetum formation
+- integument development
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- floral whorl development
+- floral whorl morphogenesis
+- flower calyx development
+- corolla development
+- androecium development
+- gynoecium development
+- perianth development
+- transmitting tissue development
+- carpel development
+- petal development
+- sepal development
+- stamen development
+- floral whorl formation
+- floral whorl structural organization
+- specification of petal number
+- plant-type ovary development
+- carpel morphogenesis
+- petal morphogenesis
+- sepal morphogenesis
+- stamen morphogenesis
+- style development
+- stigma development
+- anther development
+- specification of decreased petal number
+- specification of increased petal number
+- stamen filament development
+- anther dehiscence
+- microsporocyte differentiation
+- petal formation
+- petal structural organization
+- sepal formation
+- sepal structural organization
+- stamen formation
+- stamen structural organization
+- carpel formation
+- carpel structural organization
+- plant ovule development
+- plant ovule morphogenesis
+- establishment of petal orientation
+- anther morphogenesis
+- anther wall tapetum development
+- ovary septum development
+- anther septum development
+- stomium development
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- specification of ovule identity
+- anther wall tapetum morphogenesis
+- anther wall tapetum formation
+- integument development
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- flower morphogenesis
+- floral whorl morphogenesis
+- flower formation
+- flower structural organization
+- establishment of floral organ orientation
+- floral organ structural organization
+- floral whorl formation
+- floral whorl structural organization
+- establishment of petal orientation
+- petal structural organization
+- sepal structural organization
+- stamen structural organization
+- carpel structural organization
+- floral organ morphogenesis
+- carpel morphogenesis
+- petal morphogenesis
+- sepal morphogenesis
+- stamen morphogenesis
+- floral organ formation
+- floral organ structural organization
+- anther morphogenesis
+- specification of floral organ identity
+- petal formation
+- petal structural organization
+- sepal formation
+- sepal structural organization
+- stamen formation
+- stamen structural organization
+- carpel formation
+- carpel structural organization
+- plant ovule morphogenesis
+- establishment of petal orientation
+- anther wall tapetum morphogenesis
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- specification of ovule identity
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- floral organ formation
+- specification of floral organ identity
+- petal formation
+- sepal formation
+- stamen formation
+- carpel formation
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- floral whorl morphogenesis
+- floral whorl formation
+- floral whorl structural organization
+- floral whorl formation
+- floral whorl structural organization
+- flower formation
+- flower structural organization
+- floral organ structural organization
+- floral whorl structural organization
+- petal structural organization
+- sepal structural organization
+- stamen structural organization
+- carpel structural organization
+- style development
+- stigma development
+- plant ovule development
+- plant ovule morphogenesis
+- integument development
+- specification of ovule identity
+- plant ovule morphogenesis
+- specification of ovule identity
+- maintenance of floral organ identity
+- fruit morphogenesis
+- recognition of pollen
+- rejection of self pollen
+- acceptance of pollen
+- establishment of floral organ orientation
+- establishment of petal orientation
+- photoperiodism, flowering
+- long-day photoperiodism, flowering
+- short-day photoperiodism, flowering
+- regulation of photoperiodism, flowering
+- positive regulation of short-day photoperiodism, flowering
+- negative regulation of short-day photoperiodism, flowering
+- positive regulation of long-day photoperiodism, flowering
+- negative regulation of long-day photoperiodism, flowering
+- regulation of long-day photoperiodism, flowering
+- regulation of short-day photoperiodism, flowering
+- plantlet formation on parent plant
+- anther development
+- anther dehiscence
+- microsporocyte differentiation
+- anther morphogenesis
+- anther wall tapetum development
+- anther septum development
+- stomium development
+- anther wall tapetum morphogenesis
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- anther wall tapetum morphogenesis
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- anther wall tapetum development
+- anther wall tapetum morphogenesis
+- anther wall tapetum formation
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- acquisition of desiccation tolerance in seed
+- imaginal disc-derived male genitalia morphogenesis
+- hermaphrodite genitalia morphogenesis
+- cotyledon morphogenesis
+- cotyledon vascular tissue pattern formation
+- specification of floral organ number
+- specification of petal number
+- specification of decreased petal number
+- specification of increased petal number
+- astral spindle assembly involved in male meiosis
+- regulation of signal transduction involved in conjugation with cellular fusion
+- regulation of pheromone-dependent signal transduction involved in conjugation with
+  cellular fusion
+- positive regulation of signal transduction involved in conjugation with cellular
+  fusion
+- negative regulation of signal transduction involved in conjugation with cellular
+  fusion
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- positive regulation of signal transduction involved in conjugation with cellular
+  fusion
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- negative regulation of signal transduction involved in conjugation with cellular
+  fusion
+- negative regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- spongiotrophoblast differentiation
+- spongiotrophoblast layer development
+- spongiotrophoblast differentiation
+- glycogen cell differentiation involved in embryonic placenta development
+- spongiotrophoblast layer developmental growth
+- spongiotrophoblast cell proliferation
+- regulation of spongiotrophoblast cell proliferation
+- oral incubation
+- negative regulation of trophoblast cell differentiation by transforming growth factor
+  beta signaling pathway
+- negative regulation of trophoblast cell differentiation by transcription regulation
+  from RNA polymerase II promoter
+- regulation of induction of conjugation upon nitrogen starvation
+- regulation of turning behavior involved in mating
+- positive regulation of turning behavior involved in mating
+- negative regulation of turning behavior involved in mating
+- positive regulation of turning behavior involved in mating
+- negative regulation of turning behavior involved in mating
+- positive regulation of pheromone response MAPK cascade
+- LinE complex assembly
+- cleistothecium formation
+- conidiophore development
+- conidiophore stalk development
+- metula development
+- phialide development
+- regulation of conidiophore development
+- negative regulation of conidiophore development
+- positive regulation of conidiophore development
+- regulation of conidiophore stalk development
+- negative regulation of conidiophore stalk development
+- positive regulation of conidiophore stalk development
+- regulation of metula development
+- negative regulation of metula development
+- positive regulation of metula development
+- regulation of phialide development
+- negative regulation of phialide development
+- positive regulation of phialide development
+- cell wall organization involved in conjugation with cellular fusion
+- fungal-type cell wall disassembly involved in conjugation with cellular fusion
+- peptide mating pheromone maturation involved in positive regulation of conjugation
+  with cellular fusion
+- pheromone response MAPK cascade
+- positive regulation of pheromone response MAPK cascade
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- peptide pheromone export involved in positive regulation of conjugation with cellular
+  fusion
+- mating pheromone secretion involved in regulation of conjugation
+- ascospore release from ascus
+- extracellular polysaccharide catabolic process involved in ascospore release from
+  ascus
+- alpha-glucan catabolic process involved in ascospore release from ascus
+- sporangium germination
+- regulation of sporangium germination
+- positive regulation of sporangium germination
+- negative regulation of sporangium germination
+- spore-bearing structure development
+- reproductive fruiting body development
+- sporangium development
+- conidiophore development
+- regulation of spore-bearing organ development
+- positive regulation of spore-bearing organ development
+- negative regulation of spore-bearing organ development
+- oogonium development
+- zygosporangium development
+- telium development
+- uredinium development
+- basidium development
+- ascus development
+- spore-bearing structure formation
+- sporocarp development
+- regulation of reproductive fruiting body development
+- negative regulation of sorocarp stalk cell differentiation
+- positive regulation of sorocarp stalk cell differentiation
+- conidiophore stalk development
+- metula development
+- phialide development
+- regulation of conidiophore development
+- negative regulation of conidiophore development
+- positive regulation of conidiophore development
+- sporangium germination
+- regulation of oogonium development
+- positive regulation of oogonium development
+- negative regulation of oogonium development
+- aecium development
+- positive regulation of aecium development
+- negative regulation of aecium development
+- regulation of zygosporangium development
+- positive regulation of zygosporangium development
+- negative regulation of zygosporangium development
+- regulation of telium development
+- positive regulation of telium development
+- negative regulation of telium development
+- regulation of uredinium development
+- positive regulation of uredinium development
+- negative regulation of uredinium development
+- regulation of sporangium development
+- positive regulation of sporangium development
+- negative regulation of sporangium development
+- regulation of basidium development
+- positive regulation of basidium development
+- negative regulation of basidium development
+- regulation of ascus development
+- positive regulation of ascus development
+- negative regulation of ascus development
+- oomycete sporangium development
+- perithecium development
+- protoperithecium formation
+- negative regulation of sporocarp development involved in sexual reproduction
+- positive regulation of sporocarp development involved in sexual reproduction
+- sporocarp development involved in asexual reproduction
+- sporocarp development involved in sexual reproduction
+- negative regulation of cleistothecium development
+- positive regulation of cleistothecium development
+- regulation of conidiophore stalk development
+- negative regulation of conidiophore stalk development
+- positive regulation of conidiophore stalk development
+- regulation of metula development
+- negative regulation of metula development
+- positive regulation of metula development
+- regulation of phialide development
+- negative regulation of phialide development
+- positive regulation of phialide development
+- regulation of sporangium germination
+- positive regulation of sporangium germination
+- negative regulation of sporangium germination
+- regulation of aecium development
+- regulation of oomycete sporangium development
+- positive regulation of oomycete sporangium development
+- negative regulation of oomycete sporangium development
+- perithecium formation
+- regulation of sporocarp development involved in sexual reproduction
+- cleistothecium development
+- regulation of cleistothecium development
+- cleistothecium formation
+- Hulle cell development
+- regulation of Hulle cell development
+- negative regulation of Hulle cell development
+- positive regulation of Hulle cell development
+- regulation of spore-bearing organ development
+- regulation of reproductive fruiting body development
+- regulation of conidiophore development
+- positive regulation of spore-bearing organ development
+- negative regulation of spore-bearing organ development
+- regulation of oogonium development
+- regulation of zygosporangium development
+- regulation of telium development
+- regulation of uredinium development
+- regulation of sporangium development
+- regulation of basidium development
+- regulation of ascus development
+- negative regulation of sorocarp stalk cell differentiation
+- positive regulation of sorocarp stalk cell differentiation
+- negative regulation of conidiophore development
+- positive regulation of conidiophore development
+- regulation of metula development
+- regulation of sporangium germination
+- positive regulation of oogonium development
+- negative regulation of oogonium development
+- regulation of aecium development
+- positive regulation of aecium development
+- negative regulation of aecium development
+- positive regulation of zygosporangium development
+- negative regulation of zygosporangium development
+- positive regulation of telium development
+- negative regulation of telium development
+- positive regulation of uredinium development
+- negative regulation of uredinium development
+- positive regulation of sporangium development
+- negative regulation of sporangium development
+- positive regulation of basidium development
+- negative regulation of basidium development
+- positive regulation of ascus development
+- negative regulation of ascus development
+- regulation of oomycete sporangium development
+- regulation of sporocarp development involved in sexual reproduction
+- negative regulation of sporocarp development involved in sexual reproduction
+- positive regulation of sporocarp development involved in sexual reproduction
+- regulation of cleistothecium development
+- negative regulation of cleistothecium development
+- positive regulation of cleistothecium development
+- positive regulation of conidiophore stalk development
+- negative regulation of metula development
+- positive regulation of metula development
+- negative regulation of phialide development
+- positive regulation of sporangium germination
+- negative regulation of sporangium germination
+- positive regulation of oomycete sporangium development
+- negative regulation of oomycete sporangium development
+- positive regulation of spore-bearing organ development
+- positive regulation of sorocarp stalk cell differentiation
+- positive regulation of conidiophore development
+- positive regulation of oogonium development
+- positive regulation of aecium development
+- positive regulation of zygosporangium development
+- positive regulation of telium development
+- positive regulation of uredinium development
+- positive regulation of sporangium development
+- positive regulation of basidium development
+- positive regulation of ascus development
+- positive regulation of sporocarp development involved in sexual reproduction
+- positive regulation of cleistothecium development
+- positive regulation of conidiophore stalk development
+- positive regulation of sporangium germination
+- positive regulation of oomycete sporangium development
+- negative regulation of spore-bearing organ development
+- negative regulation of sorocarp stalk cell differentiation
+- negative regulation of conidiophore development
+- negative regulation of oogonium development
+- negative regulation of aecium development
+- negative regulation of zygosporangium development
+- negative regulation of telium development
+- negative regulation of uredinium development
+- negative regulation of sporangium development
+- negative regulation of basidium development
+- negative regulation of ascus development
+- negative regulation of sporocarp development involved in sexual reproduction
+- negative regulation of cleistothecium development
+- negative regulation of phialide development
+- negative regulation of sporangium germination
+- negative regulation of oomycete sporangium development
+- aecium development
+- regulation of aecium development
+- positive regulation of aecium development
+- negative regulation of aecium development
+- zygosporangium development
+- regulation of zygosporangium development
+- positive regulation of zygosporangium development
+- negative regulation of zygosporangium development
+- telium development
+- regulation of telium development
+- positive regulation of telium development
+- negative regulation of telium development
+- oomycete sporangium development
+- regulation of oomycete sporangium development
+- positive regulation of oomycete sporangium development
+- negative regulation of oomycete sporangium development
+- mucilage extrusion from seed coat
+- regulation of seed development
+- regulation of seed maturation
+- regulation of seed dormancy process
+- negative regulation of seed maturation
+- positive regulation of seed maturation
+- negative regulation of seed dormancy process
+- positive regulation of seed dormancy process
+- integument development
+- stamen filament development
+- seed growth
+- regulation of seed growth
+- regulation of seed growth
+- ovary septum development
+- fruit septum development
+- anther septum development
+- stomium development
+- male-female gamete recognition during double fertilization forming a zygote and
+  endosperm
+- floral organ senescence
+- positive regulation of pheromone-dependent signal transduction involved in conjugation
+  with cellular fusion
+- spongiotrophoblast layer developmental growth
+- spongiotrophoblast cell proliferation
+- regulation of spongiotrophoblast cell proliferation
+- chromosome localization to nuclear envelope involved in homologous chromosome segregation
+- meiotic telomere clustering
+- meiotic attachment of telomeric heterochromatin to spindle pole body
+- meiotic telomere tethering at nuclear periphery
+- meiotic attachment of telomere to nuclear envelope
+- seed trichome differentiation
+- seed trichome initiation
+- seed trichome elongation
+- secondary cell wall biogenesis involved in seed trichome differentiation
+- seed trichome maturation
+- seed trichome initiation
+- seed trichome elongation
+- secondary cell wall biogenesis involved in seed trichome differentiation
+- seed trichome maturation
+- reproductive shoot system development
+- flower development
+- inflorescence development
+- regulation of flower development
+- negative regulation of flower development
+- positive regulation of flower development
+- nectary development
+- inflorescence meristem growth
+- floral meristem growth
+- floral meristem determinacy
+- inflorescence morphogenesis
+- floral organ development
+- floral whorl development
+- flower morphogenesis
+- specification of floral organ number
+- regulation of floral meristem growth
+- regulation of inflorescence meristem growth
+- floral organ abscission
+- determinate inflorescence morphogenesis
+- indeterminate inflorescence morphogenesis
+- carpel development
+- petal development
+- sepal development
+- stamen development
+- floral organ morphogenesis
+- floral whorl morphogenesis
+- flower formation
+- flower structural organization
+- flower calyx development
+- corolla development
+- androecium development
+- gynoecium development
+- maintenance of floral organ identity
+- establishment of floral organ orientation
+- specification of petal number
+- floral organ senescence
+- perianth development
+- transmitting tissue development
+- plant-type ovary development
+- carpel morphogenesis
+- petal morphogenesis
+- sepal morphogenesis
+- stamen morphogenesis
+- floral organ formation
+- floral organ structural organization
+- floral whorl formation
+- floral whorl structural organization
+- style development
+- stigma development
+- establishment of petal orientation
+- anther development
+- anther morphogenesis
+- specification of decreased petal number
+- specification of increased petal number
+- vesicle-mediated transport involved in floral organ abscission
+- regulation of floral organ abscission
+- positive regulation of floral organ abscission
+- negative regulation of floral organ abscission
+- transmembrane receptor protein serine/threonine kinase signaling pathway involved
+  in floral organ abscission
+- cell wall disassembly involved in floral organ abscission
+- stamen filament development
+- anther dehiscence
+- specification of floral organ identity
+- microsporocyte differentiation
+- petal formation
+- petal structural organization
+- sepal formation
+- sepal structural organization
+- stamen formation
+- stamen structural organization
+- carpel formation
+- carpel structural organization
+- plant ovule development
+- plant ovule morphogenesis
+- anther wall tapetum morphogenesis
+- anther wall tapetum development
+- regulation of floral organ abscission by signal transduction
+- negative regulation of floral organ abscission by transmembrane receptor protein
+  serine/threonine kinase signaling pathway
+- ovary septum development
+- anther septum development
+- stomium development
+- specification of carpel identity
+- specification of petal identity
+- specification of sepal identity
+- specification of stamen identity
+- specification of ovule identity
+- anther wall tapetum formation
+- integument development
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- anther wall tapetum cell differentiation
+- anther wall tapetum cell fate specification
+- nematode male tail mating organ morphogenesis
+- amoeboid sperm motility
+- regulation of amoeboid sperm motility
+- negative regulation of amoeboid sperm motility
+- positive regulation of amoeboid sperm motility
+- spore-bearing structure formation
+- fungal sorus development
+- perithecium formation
+- regulation of nematode male tail tip morphogenesis
+- negative regulation of nematode male tail tip morphogenesis
+- positive regulation of nematode male tail tip morphogenesis
+- negative regulation of nematode male tail tip morphogenesis
+- positive regulation of nematode male tail tip morphogenesis
+- perithecium development
+- perithecium formation
+- protoperithecium formation
+- regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- positive regulation of anther dehiscence
+- negative regulation of anther dehiscence
+- sexual macrocyst formation
+- regulation of protein localization to meiotic spindle pole body
+- positive regulation of protein localization to meiotic spindle pole body
+- negative regulation of protein localization to meiotic spindle pole body
+- positive regulation of protein localization to meiotic spindle pole body
+- negative regulation of protein localization to meiotic spindle pole body
+- initial meiotic spindle pole body separation
+- acquisition of seed longevity
+- negative regulation of oviposition
+- positive regulation of oviposition
+- protein localization to meiotic spindle pole body
+- regulation of protein localization to meiotic spindle pole body
+- positive regulation of protein localization to meiotic spindle pole body
+- negative regulation of protein localization to meiotic spindle pole body
+- regulation of asexual reproduction
+- regulation of cell budding
+- regulation of asexual sporulation
+- negative regulation of asexual reproduction
+- positive regulation of asexual reproduction
+- regulation of asexual sporulation resulting in formation of a cellular spore
+- negative regulation of asexual sporulation resulting in formation of a cellular
+  spore
+- positive regulation of asexual sporulation resulting in formation of a cellular
+  spore
+- negative regulation of cell budding
+- positive regulation of cell budding
+- regulation of conidium formation
+- positive regulation of conidium formation
+- negative regulation of conidium formation
+- regulation of oomycete sporangium development
+- positive regulation of oomycete sporangium development
+- negative regulation of oomycete sporangium development
+- regulation of aeciospore formation
+- positive regulation of aeciospore formation
+- negative regulation of aeciospore formation
+- regulation of uredospore formation
+- positive regulation of uredospore formation
+- negative regulation of uredospore formation
+- regulation of teliospore formation
+- positive regulation of teliospore formation
+- negative regulation of teliospore formation
+- regulation of sporangiospore formation
+- positive regulation of sporangiospore formation
+- negative regulation of sporangiospore formation
+- regulation of zoospore formation
+- positive regulation of zoospore formation
+- negative regulation of zoospore formation
+- regulation of aplanospore formation
+- positive regulation of aplanospore formation
+- negative regulation of aplanospore formation
+- fungal-type cell wall disassembly involved in conjugation with cellular fusion
+- regulation of cell morphogenesis involved in conjugation with cellular fusion
+- fruit replum development
+- fruit valve development
+- seed dehydration
+- rejection of pollen from other species
+- baculum development
+- meiotic spindle pole body organization
+- protein localization to meiotic spindle pole body
+- regulation of protein localization to meiotic spindle pole body
+- positive regulation of protein localization to meiotic spindle pole body
+- negative regulation of protein localization to meiotic spindle pole body
+- regulation of FtsZ-dependent cytokinesis
+- negative regulation of FtsZ-dependent cytokinesis
+- positive regulation of FtsZ-dependent cytokinesis
+- negative regulation of FtsZ-dependent cytokinesis
+- positive regulation of FtsZ-dependent cytokinesis

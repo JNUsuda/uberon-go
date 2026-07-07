@@ -1,0 +1,26 @@
+removed_labels:
+- mesenchymal-epithelial cell signaling
+- cell population proliferation
+- flight
+- chitin-based cuticle development
+- copulation
+- estrus
+removed_ids: ~
+removed_children_of:
+- fever generation
+- regulation of fever generation
+- negative regulation of fever generation
+- positive regulation of fever generation
+- regulation of fever generation by prostaglandin biosynthetic process
+- regulation of fever generation by prostaglandin secretion
+- positive regulation of fever generation by prostaglandin biosynthetic process
+- positive regulation of fever generation by prostaglandin secretion
+- regulation of fever generation by regulation of prostaglandin biosynthesis
+- regulation of fever generation by regulation of prostaglandin secretion
+- positive regulation of fever generation by positive regulation of prostaglandin
+  biosynthesis
+- positive regulation of fever generation by positive regulation of prostaglandin
+  secretion
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- mating pheromone secretion involved in regulation of conjugation

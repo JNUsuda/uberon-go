@@ -3,18 +3,26 @@
 Welcome to uberon-go, where the anatomy ontology [UBERON](http://uberon.org/) meets the [Gene Ontology](https://www.geneontology.org/) (GO) to programatically download their relations.
 
 An R script is provided to obtain, relative to an anatomy ontology term:
-- descendant anatomic terms;
-- related Gene Ontology (GO) Biological Process (BP) terms;
-- related genes.
+- *descendant anatomic terms* (`descendants.txt`);
+- related Gene Ontology (GO) *Biological Process* (BP) terms (`GO_BPs.txt`);
+- related *genes* (`genes.txt`).
 
-Sample results for some UBERON terms (nervous system UBERON:0001016; immune system, UBERON:0002405) are in the examples folder.
+Manually curated terms *specific for _Homo sapiens_* are further provided:
+- Relationships between anatomic terms and GO BPs for selection (`GO_relations.txt`);
+- Filtered GO BPs (`GO_BPs_filtered.txt`) and genes (`genes_filtered.txt`);
+- Applied filters (`GO-BPs_filter_param.txt`).
+
+The results for 15 anatomical systems are provided. 
+
+![Sharing of the Biological Processes and Genes (human filtered) between the 15 anatomical systems.](net.png)
+
+Feel free to use the script to perform the analysis on any organ, tissue, cell type, etc., and to apply personalized filters.
 
 ## Descendant terms
 
-The term id can be searched at the Ontology Lookup Service ([OLS](https://www.ebi.ac.uk/ols4/)).   
+The term ID can be searched at the Ontology Lookup Service ([OLS](https://www.ebi.ac.uk/ols4/)).   
 Children and further descendants from an anatomic ontology term are obtained from OLS through the R package rols.  
-The descendants generally include anatomic terms (UBERON), cell terms from cell ontology (CL), and cellular component terms (GO CC).  
-The input parent term is included for familiar completeness.  
+The subsets (e.g. human, mouse) that a term belongs to are available for filtering. Please note that this filter was not applied in the analyzed data.
 For large families (hundreds of descendants), it may take several minutes to complete the OLS queries.  
 
 Example:
@@ -29,6 +37,7 @@ Example:
 For each term of the obtained anatomic descendants, the related GO terms are obtained from OLS through the R package rols.  
 The term names, root node (BP/CC/MF) classification, and descendants of the obtained terms are retrieved with the R package GOfuncR.  
 For large families (hundreds of descendants), it may take several minutes to complete the OLS queries.  
+The parent ID, parent label, descendant ID, descendant label, and distance are provided in individual tables to allow filtering.
 
 Example:
 | id      | label     |
@@ -37,13 +46,15 @@ Example:
 | GO:0007399 | nervous system development |
 | GO:0007610| behavior | 
 
-A table with the anatomic terms, related GO terms and relationship between them is available in an optional section (_GO-relations.txt). This could optionally be used to filter the terms by relationship.   
+A table with the anatomic terms, related GO terms and relationship between them is available in an optional section (`GO-relations.txt`). This can optionally be used to filter the terms by relationship. 
+The filters are applied in the BP results, and the removed terms are available in the (`GO-BPs_filter_param.txt`) files.
 
 
 ## Genes
 
-For each term of the obtained anatomic descendants, the list of related genes are obtained from the GO annotations for _Homo sapiens_, available at http://current.geneontology.org/products/pages/downloads.html. Annotations for other organisms can also be used.  
-Please note that no relationship filters are currently applied (in development).   
+For each of the obtained BPs, the related genes are obtained from the GO annotations for _Homo sapiens_, through package GOfuncR. Annotations for other organisms can also be used.  
+Filtered genes (`genes_filtered.txt`) correspond to all genes related to the filtered BPs (`GO-BPs_filtered.txt`).
+
 
 ## Bibliography
 

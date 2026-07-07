@@ -1,0 +1,11 @@
+removed_labels:
+- calcium-ion regulated exocytosis
+- innate immune response
+- prostatic bud formation
+- B cell differentiation
+- hemopoiesis
+- bursa of Fabricius development
+- thyroid hormone generation
+- detection of stimulus involved in sensory perception
+removed_ids: ~
+removed_children_of: ~

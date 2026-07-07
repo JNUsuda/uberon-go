@@ -1,0 +1,420 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1990654"	"sebum secreting cell proliferation"	0
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904002"	"regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904003"	"negative regulation of sebum secreting cell proliferation"	1
+"GO:1990654"	"sebum secreting cell proliferation"	"GO:1904004"	"positive regulation of sebum secreting cell proliferation"	1
+"GO:0031069"	"hair follicle morphogenesis"	"GO:0031069"	"hair follicle morphogenesis"	0
+"GO:0042634"	"regulation of hair cycle"	"GO:0042634"	"regulation of hair cycle"	0
+"GO:0042634"	"regulation of hair cycle"	"GO:0042635"	"positive regulation of hair cycle"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0042636"	"negative regulation of hair cycle"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0051797"	"regulation of hair follicle development"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0060901"	"regulation of hair cycle by canonical Wnt signaling pathway"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0060902"	"regulation of hair cycle by BMP signaling pathway"	1
+"GO:0042634"	"regulation of hair cycle"	"GO:0051798"	"positive regulation of hair follicle development"	2
+"GO:0042634"	"regulation of hair cycle"	"GO:0051799"	"negative regulation of hair follicle development"	2
+"GO:0042634"	"regulation of hair cycle"	"GO:0048817"	"negative regulation of hair follicle maturation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0048818"	"positive regulation of hair follicle maturation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0061170"	"negative regulation of hair follicle placode formation"	3
+"GO:0042634"	"regulation of hair cycle"	"GO:0051795"	"positive regulation of timing of catagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051796"	"negative regulation of timing of catagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051885"	"positive regulation of timing of anagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051886"	"negative regulation of timing of anagen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051888"	"positive regulation of timing of exogen"	4
+"GO:0042634"	"regulation of hair cycle"	"GO:0051889"	"negative regulation of timing of exogen"	4
+"GO:1903680"	"acinar cell of sebaceous gland differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	0
+"GO:0003335"	"corneocyte development"	"GO:0003335"	"corneocyte development"	0
+"GO:0003335"	"corneocyte development"	"GO:0003336"	"corneocyte desquamation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0030216"	"keratinocyte differentiation"	0
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003334"	"keratinocyte development"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0031424"	"keratinization"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045616"	"regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045617"	"negative regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0045618"	"positive regulation of keratinocyte differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060890"	"limb spinous cell differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060891"	"limb granular cell differentiation"	1
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003335"	"corneocyte development"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060893"	"limb granular cell fate specification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0060894"	"limb spinous cell fate specification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0070268"	"cornification"	2
+"GO:0030216"	"keratinocyte differentiation"	"GO:0003336"	"corneocyte desquamation"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905715"	"regulation of cornification"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905716"	"negative regulation of cornification"	3
+"GO:0030216"	"keratinocyte differentiation"	"GO:1905717"	"positive regulation of cornification"	3
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060644"	"mammary gland epithelial cell differentiation"	0
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	2
+"GO:0060644"	"mammary gland epithelial cell differentiation"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	2
+"GO:0036334"	"epidermal stem cell homeostasis"	"GO:0036334"	"epidermal stem cell homeostasis"	0
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:0001949"	"sebaceous gland cell differentiation"	0
+"GO:0001949"	"sebaceous gland cell differentiation"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070278"	"extracellular matrix constituent secretion"	0
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003330"	"regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003331"	"positive regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003332"	"negative regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061864"	"basement membrane constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070468"	"dentin extracellular matrix secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061865"	"polarized secretion of basement membrane proteins in epithelium"	2
+"GO:0090023"	"positive regulation of neutrophil chemotaxis"	"GO:0090023"	"positive regulation of neutrophil chemotaxis"	0
+"GO:0007625"	"grooming behavior"	"GO:0007625"	"grooming behavior"	0
+"GO:0007625"	"grooming behavior"	"GO:2000821"	"regulation of grooming behavior"	1
+"GO:0098773"	"skin epidermis development"	"GO:0098773"	"skin epidermis development"	0
+"GO:0098773"	"skin epidermis development"	"GO:0001942"	"hair follicle development"	1
+"GO:0098773"	"skin epidermis development"	"GO:0060887"	"limb epidermis development"	1
+"GO:0098773"	"skin epidermis development"	"GO:0031069"	"hair follicle morphogenesis"	2
+"GO:0098773"	"skin epidermis development"	"GO:0048820"	"hair follicle maturation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051797"	"regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051798"	"positive regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0051799"	"negative regulation of hair follicle development"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060789"	"hair follicle placode formation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060888"	"limb epidermis stratification"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060889"	"limb basal epidermal cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060890"	"limb spinous cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0060891"	"limb granular cell differentiation"	2
+"GO:0098773"	"skin epidermis development"	"GO:0042637"	"catagen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0042638"	"exogen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0042640"	"anagen"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048817"	"negative regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048818"	"positive regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0048819"	"regulation of hair follicle maturation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060892"	"limb basal epidermal cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060893"	"limb granular cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0060894"	"limb spinous cell fate specification"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061168"	"regulation of hair follicle placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061169"	"positive regulation of hair placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	3
+"GO:0098773"	"skin epidermis development"	"GO:0051794"	"regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051795"	"positive regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051796"	"negative regulation of timing of catagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051884"	"regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051885"	"positive regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051886"	"negative regulation of timing of anagen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051887"	"regulation of timing of exogen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051888"	"positive regulation of timing of exogen"	4
+"GO:0098773"	"skin epidermis development"	"GO:0051889"	"negative regulation of timing of exogen"	4
+"GO:0035878"	"nail development"	"GO:0035878"	"nail development"	0
+"GO:0035878"	"nail development"	"GO:0035880"	"embryonic nail plate morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	0
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	1
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060615"	"mammary gland bud formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060616"	"mammary gland cord formation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	2
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0060603"	"mammary gland duct morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:1903699"	"tarsal gland development"	"GO:1903699"	"tarsal gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060792"	"sweat gland development"	0
+"GO:0060792"	"sweat gland development"	"GO:0060793"	"sweat gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0048733"	"sebaceous gland development"	0
+"GO:0048733"	"sebaceous gland development"	"GO:0001949"	"sebaceous gland cell differentiation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:0060791"	"sebaceous gland placode formation"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903699"	"tarsal gland development"	1
+"GO:0048733"	"sebaceous gland development"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	2
+"GO:0007595"	"lactation"	"GO:0007595"	"lactation"	0
+"GO:0007595"	"lactation"	"GO:0060156"	"milk ejection reflex"	1
+"GO:0007595"	"lactation"	"GO:1903487"	"regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903488"	"negative regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:1903489"	"positive regulation of lactation"	1
+"GO:0007595"	"lactation"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	2
+"GO:0030879"	"mammary gland development"	"GO:0030879"	"mammary gland development"	0
+"GO:0030879"	"mammary gland development"	"GO:0002174"	"mammary stem cell proliferation"	1
+"GO:0030879"	"mammary gland development"	"GO:0007595"	"lactation"	1
+"GO:0030879"	"mammary gland development"	"GO:0042695"	"thelarche"	1
+"GO:0030879"	"mammary gland development"	"GO:0060443"	"mammary gland morphogenesis"	1
+"GO:0030879"	"mammary gland development"	"GO:0060610"	"mesenchymal cell differentiation involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060611"	"mammary gland fat development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060614"	"negative regulation of mammary gland development in males by androgen receptor signaling pathway"	1
+"GO:0030879"	"mammary gland development"	"GO:0060618"	"nipple development"	1
+"GO:0030879"	"mammary gland development"	"GO:0060764"	"cell-cell signaling involved in mammary gland development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061180"	"mammary gland epithelium development"	1
+"GO:0030879"	"mammary gland development"	"GO:0061377"	"mammary gland lobule development"	1
+"GO:0030879"	"mammary gland development"	"GO:0033598"	"mammary gland epithelial cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060056"	"mammary gland involution"	2
+"GO:0030879"	"mammary gland development"	"GO:0060156"	"milk ejection reflex"	2
+"GO:0030879"	"mammary gland development"	"GO:0060592"	"mammary gland formation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060603"	"mammary gland duct morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060644"	"mammary gland epithelial cell differentiation"	2
+"GO:0030879"	"mammary gland development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	2
+"GO:0030879"	"mammary gland development"	"GO:0060658"	"nipple morphogenesis"	2
+"GO:0030879"	"mammary gland development"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0030879"	"mammary gland development"	"GO:0060749"	"mammary gland alveolus development"	2
+"GO:0030879"	"mammary gland development"	"GO:1903487"	"regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903488"	"negative regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:1903489"	"positive regulation of lactation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000101"	"regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000102"	"negative regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:2000103"	"positive regulation of mammary stem cell proliferation"	2
+"GO:0030879"	"mammary gland development"	"GO:0033599"	"regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033600"	"negative regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0033601"	"positive regulation of mammary gland epithelial cell proliferation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060594"	"mammary gland specification"	3
+"GO:0030879"	"mammary gland development"	"GO:0060596"	"mammary placode formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060604"	"mammary gland duct cavitation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060637"	"positive regulation of lactation by mesenchymal-epithelial cell signaling"	3
+"GO:0030879"	"mammary gland development"	"GO:0060641"	"mammary gland duct regression in males"	3
+"GO:0030879"	"mammary gland development"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060648"	"mammary gland bud morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060652"	"mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0030879"	"mammary gland development"	"GO:0060659"	"nipple sheath formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	3
+"GO:0030879"	"mammary gland development"	"GO:0060763"	"mammary duct terminal end bud growth"	3
+"GO:0030879"	"mammary gland development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	3
+"GO:0030879"	"mammary gland development"	"GO:1903519"	"regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903520"	"negative regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:1903521"	"positive regulation of mammary gland involution"	3
+"GO:0030879"	"mammary gland development"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	4
+"GO:0030879"	"mammary gland development"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	4
+"GO:0030879"	"mammary gland development"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060615"	"mammary gland bud formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060616"	"mammary gland cord formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	4
+"GO:0030879"	"mammary gland development"	"GO:0060619"	"cell migration involved in mammary placode formation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060649"	"mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060654"	"mammary gland cord elongation"	4
+"GO:0030879"	"mammary gland development"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060745"	"mammary gland branching involved in pregnancy"	4
+"GO:0030879"	"mammary gland development"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	4
+"GO:0030879"	"mammary gland development"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	4
+"GO:0030879"	"mammary gland development"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	5
+"GO:0030879"	"mammary gland development"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	5
+"GO:0030879"	"mammary gland development"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060443"	"mammary gland morphogenesis"	0
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060056"	"mammary gland involution"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060592"	"mammary gland formation"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060603"	"mammary gland duct morphogenesis"	1
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060057"	"apoptotic process involved in mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060444"	"branching involved in mammary gland duct morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060594"	"mammary gland specification"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060596"	"mammary placode formation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060604"	"mammary gland duct cavitation"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060641"	"mammary gland duct regression in males"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060648"	"mammary gland bud morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060763"	"mammary duct terminal end bud growth"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903519"	"regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903520"	"negative regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:1903521"	"positive regulation of mammary gland involution"	2
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060058"	"positive regulation of apoptotic process involved in mammary gland involution"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060599"	"lateral sprouting involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060615"	"mammary gland bud formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060616"	"mammary gland cord formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060619"	"cell migration involved in mammary placode formation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060649"	"mammary gland bud elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060744"	"mammary gland branching involved in thelarche"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060745"	"mammary gland branching involved in pregnancy"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060751"	"branch elongation involved in mammary gland duct branching"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060762"	"regulation of branching involved in mammary gland duct morphogenesis"	3
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060598"	"dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060643"	"epithelial cell differentiation involved in mammary gland bud morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060650"	"epithelial cell proliferation involved in mammary gland bud elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060750"	"epithelial cell proliferation involved in mammary gland duct elongation"	4
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060645"	"peripheral mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060646"	"internal mammary gland bud epithelial cell differentiation"	5
+"GO:0060443"	"mammary gland morphogenesis"	"GO:0060651"	"regulation of epithelial cell proliferation involved in mammary gland bud elongation"	5
+"GO:0060592"	"mammary gland formation"	"GO:0060592"	"mammary gland formation"	0
+"GO:0060592"	"mammary gland formation"	"GO:0060594"	"mammary gland specification"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060596"	"mammary placode formation"	1
+"GO:0060592"	"mammary gland formation"	"GO:0060593"	"Wnt signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060595"	"fibroblast growth factor receptor signaling pathway involved in mammary gland specification"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060617"	"positive regulation of mammary placode formation by mesenchymal-epithelial signaling"	2
+"GO:0060592"	"mammary gland formation"	"GO:0060619"	"cell migration involved in mammary placode formation"	2
+"GO:0061377"	"mammary gland lobule development"	"GO:0061377"	"mammary gland lobule development"	0
+"GO:0061377"	"mammary gland lobule development"	"GO:0060749"	"mammary gland alveolus development"	1
+"GO:0061377"	"mammary gland lobule development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	2
+"GO:0031424"	"keratinization"	"GO:0031424"	"keratinization"	0
+"GO:0031424"	"keratinization"	"GO:0070268"	"cornification"	1
+"GO:0031424"	"keratinization"	"GO:1905715"	"regulation of cornification"	2
+"GO:0031424"	"keratinization"	"GO:1905716"	"negative regulation of cornification"	2
+"GO:0031424"	"keratinization"	"GO:1905717"	"positive regulation of cornification"	2
+"GO:0060618"	"nipple development"	"GO:0060618"	"nipple development"	0
+"GO:0060618"	"nipple development"	"GO:0060658"	"nipple morphogenesis"	1
+"GO:0060618"	"nipple development"	"GO:0060659"	"nipple sheath formation"	2
+"GO:0060618"	"nipple development"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	2
+"GO:0060658"	"nipple morphogenesis"	"GO:0060658"	"nipple morphogenesis"	0
+"GO:0060658"	"nipple morphogenesis"	"GO:0060659"	"nipple sheath formation"	1
+"GO:0060658"	"nipple morphogenesis"	"GO:0060660"	"epidermis morphogenesis involved in nipple formation"	1
+"GO:0001942"	"hair follicle development"	"GO:0001942"	"hair follicle development"	0
+"GO:0001942"	"hair follicle development"	"GO:0031069"	"hair follicle morphogenesis"	1
+"GO:0001942"	"hair follicle development"	"GO:0048820"	"hair follicle maturation"	1
+"GO:0001942"	"hair follicle development"	"GO:0051797"	"regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0051798"	"positive regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0051799"	"negative regulation of hair follicle development"	1
+"GO:0001942"	"hair follicle development"	"GO:0060789"	"hair follicle placode formation"	1
+"GO:0001942"	"hair follicle development"	"GO:0042637"	"catagen"	2
+"GO:0001942"	"hair follicle development"	"GO:0042638"	"exogen"	2
+"GO:0001942"	"hair follicle development"	"GO:0042640"	"anagen"	2
+"GO:0001942"	"hair follicle development"	"GO:0048817"	"negative regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0048818"	"positive regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0048819"	"regulation of hair follicle maturation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061168"	"regulation of hair follicle placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061169"	"positive regulation of hair placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	2
+"GO:0001942"	"hair follicle development"	"GO:0051794"	"regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051795"	"positive regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051796"	"negative regulation of timing of catagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051884"	"regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051885"	"positive regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051886"	"negative regulation of timing of anagen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051887"	"regulation of timing of exogen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051888"	"positive regulation of timing of exogen"	3
+"GO:0001942"	"hair follicle development"	"GO:0051889"	"negative regulation of timing of exogen"	3
+"GO:0048820"	"hair follicle maturation"	"GO:0048820"	"hair follicle maturation"	0
+"GO:0048820"	"hair follicle maturation"	"GO:0042637"	"catagen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0042638"	"exogen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0042640"	"anagen"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048817"	"negative regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048818"	"positive regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0048819"	"regulation of hair follicle maturation"	1
+"GO:0048820"	"hair follicle maturation"	"GO:0051794"	"regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051795"	"positive regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051796"	"negative regulation of timing of catagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051884"	"regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051885"	"positive regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051886"	"negative regulation of timing of anagen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051887"	"regulation of timing of exogen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051888"	"positive regulation of timing of exogen"	2
+"GO:0048820"	"hair follicle maturation"	"GO:0051889"	"negative regulation of timing of exogen"	2
+"GO:0043588"	"skin development"	"GO:0043588"	"skin development"	0
+"GO:0043588"	"skin development"	"GO:0030216"	"keratinocyte differentiation"	1
+"GO:0043588"	"skin development"	"GO:0043589"	"skin morphogenesis"	1
+"GO:0043588"	"skin development"	"GO:0048733"	"sebaceous gland development"	1
+"GO:0043588"	"skin development"	"GO:0061436"	"establishment of skin barrier"	1
+"GO:0043588"	"skin development"	"GO:0098773"	"skin epidermis development"	1
+"GO:0043588"	"skin development"	"GO:0001942"	"hair follicle development"	2
+"GO:0043588"	"skin development"	"GO:0001949"	"sebaceous gland cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:0003334"	"keratinocyte development"	2
+"GO:0043588"	"skin development"	"GO:0031424"	"keratinization"	2
+"GO:0043588"	"skin development"	"GO:0045616"	"regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0045617"	"negative regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0045618"	"positive regulation of keratinocyte differentiation"	2
+"GO:0043588"	"skin development"	"GO:0060791"	"sebaceous gland placode formation"	2
+"GO:0043588"	"skin development"	"GO:0060887"	"limb epidermis development"	2
+"GO:0043588"	"skin development"	"GO:0060890"	"limb spinous cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:0060891"	"limb granular cell differentiation"	2
+"GO:0043588"	"skin development"	"GO:1903699"	"tarsal gland development"	2
+"GO:0043588"	"skin development"	"GO:0003335"	"corneocyte development"	3
+"GO:0043588"	"skin development"	"GO:0031069"	"hair follicle morphogenesis"	3
+"GO:0043588"	"skin development"	"GO:0048820"	"hair follicle maturation"	3
+"GO:0043588"	"skin development"	"GO:0051797"	"regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0051798"	"positive regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0051799"	"negative regulation of hair follicle development"	3
+"GO:0043588"	"skin development"	"GO:0060789"	"hair follicle placode formation"	3
+"GO:0043588"	"skin development"	"GO:0060888"	"limb epidermis stratification"	3
+"GO:0043588"	"skin development"	"GO:0060889"	"limb basal epidermal cell differentiation"	3
+"GO:0043588"	"skin development"	"GO:0060893"	"limb granular cell fate specification"	3
+"GO:0043588"	"skin development"	"GO:0060894"	"limb spinous cell fate specification"	3
+"GO:0043588"	"skin development"	"GO:0070268"	"cornification"	3
+"GO:0043588"	"skin development"	"GO:1903680"	"acinar cell of sebaceous gland differentiation"	3
+"GO:0043588"	"skin development"	"GO:0003336"	"corneocyte desquamation"	4
+"GO:0043588"	"skin development"	"GO:0042637"	"catagen"	4
+"GO:0043588"	"skin development"	"GO:0042638"	"exogen"	4
+"GO:0043588"	"skin development"	"GO:0042640"	"anagen"	4
+"GO:0043588"	"skin development"	"GO:0048817"	"negative regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0048818"	"positive regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0048819"	"regulation of hair follicle maturation"	4
+"GO:0043588"	"skin development"	"GO:0060892"	"limb basal epidermal cell fate specification"	4
+"GO:0043588"	"skin development"	"GO:0061168"	"regulation of hair follicle placode formation"	4
+"GO:0043588"	"skin development"	"GO:0061169"	"positive regulation of hair placode formation"	4
+"GO:0043588"	"skin development"	"GO:0061170"	"negative regulation of hair follicle placode formation"	4
+"GO:0043588"	"skin development"	"GO:1905715"	"regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:1905716"	"negative regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:1905717"	"positive regulation of cornification"	4
+"GO:0043588"	"skin development"	"GO:0051794"	"regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051795"	"positive regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051796"	"negative regulation of timing of catagen"	5
+"GO:0043588"	"skin development"	"GO:0051884"	"regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051885"	"positive regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051886"	"negative regulation of timing of anagen"	5
+"GO:0043588"	"skin development"	"GO:0051887"	"regulation of timing of exogen"	5
+"GO:0043588"	"skin development"	"GO:0051888"	"positive regulation of timing of exogen"	5
+"GO:0043588"	"skin development"	"GO:0051889"	"negative regulation of timing of exogen"	5
+"GO:0043589"	"skin morphogenesis"	"GO:0043589"	"skin morphogenesis"	0
+"GO:0060749"	"mammary gland alveolus development"	"GO:0060749"	"mammary gland alveolus development"	0
+"GO:0060749"	"mammary gland alveolus development"	"GO:0061030"	"epithelial cell differentiation involved in mammary gland alveolus development"	1
+"GO:0060611"	"mammary gland fat development"	"GO:0060611"	"mammary gland fat development"	0
+"GO:0060611"	"mammary gland fat development"	"GO:0060642"	"white fat cell differentiation involved in mammary gland fat development"	1
+"GO:0060611"	"mammary gland fat development"	"GO:0060647"	"mesenchymal cell condensation involved in mammary fat development"	1
+"GO:0060616"	"mammary gland cord formation"	"GO:0060616"	"mammary gland cord formation"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060652"	"mammary gland cord morphogenesis"	0
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060616"	"mammary gland cord formation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060653"	"epithelial cell differentiation involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060654"	"mammary gland cord elongation"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060655"	"branching involved in mammary gland cord morphogenesis"	1
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060656"	"regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling"	2
+"GO:0060652"	"mammary gland cord morphogenesis"	"GO:0060657"	"regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling"	2
+"GO:0060659"	"nipple sheath formation"	"GO:0060659"	"nipple sheath formation"	0
+"GO:0071834"	"mating pheromone secretion"	"GO:0071834"	"mating pheromone secretion"	0
+"GO:0060763"	"mammary duct terminal end bud growth"	"GO:0060763"	"mammary duct terminal end bud growth"	0
+"GO:0050975"	"sensory perception of touch"	"GO:0050975"	"sensory perception of touch"	0
+"GO:0050975"	"sensory perception of touch"	"GO:0050976"	"detection of mechanical stimulus involved in sensory perception of touch"	1
+"GO:0050975"	"sensory perception of touch"	"GO:1905787"	"regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0050975"	"sensory perception of touch"	"GO:1905788"	"negative regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0050975"	"sensory perception of touch"	"GO:1905789"	"positive regulation of detection of mechanical stimulus involved in sensory perception of touch"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0001659"	"temperature homeostasis"	0
+"GO:0001659"	"temperature homeostasis"	"GO:0031649"	"heat generation"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0031653"	"heat dissipation"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0042309"	"homoiothermy"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0060086"	"circadian temperature homeostasis"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0106106"	"cold-induced thermogenesis"	1
+"GO:0001659"	"temperature homeostasis"	"GO:0031650"	"regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031651"	"negative regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031652"	"positive regulation of heat generation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031654"	"regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031655"	"negative regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0031656"	"positive regulation of heat dissipation"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120161"	"regulation of cold-induced thermogenesis"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120162"	"positive regulation of cold-induced thermogenesis"	2
+"GO:0001659"	"temperature homeostasis"	"GO:0120163"	"negative regulation of cold-induced thermogenesis"	2
+"GO:0060887"	"limb epidermis development"	"GO:0060887"	"limb epidermis development"	0
+"GO:0060887"	"limb epidermis development"	"GO:0060888"	"limb epidermis stratification"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060889"	"limb basal epidermal cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060890"	"limb spinous cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060891"	"limb granular cell differentiation"	1
+"GO:0060887"	"limb epidermis development"	"GO:0060892"	"limb basal epidermal cell fate specification"	2
+"GO:0060887"	"limb epidermis development"	"GO:0060893"	"limb granular cell fate specification"	2
+"GO:0060887"	"limb epidermis development"	"GO:0060894"	"limb spinous cell fate specification"	2
+"GO:0043616"	"keratinocyte proliferation"	"GO:0043616"	"keratinocyte proliferation"	0
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010837"	"regulation of keratinocyte proliferation"	1
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010838"	"positive regulation of keratinocyte proliferation"	1
+"GO:0043616"	"keratinocyte proliferation"	"GO:0010839"	"negative regulation of keratinocyte proliferation"	1

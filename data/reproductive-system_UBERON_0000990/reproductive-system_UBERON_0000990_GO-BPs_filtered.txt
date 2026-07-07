@@ -1,0 +1,1602 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0022414"	"reproductive process"	"GO:0022414"	"reproductive process"	0
+"GO:0022414"	"reproductive process"	"GO:0002077"	"acrosome matrix dispersal"	1
+"GO:0022414"	"reproductive process"	"GO:0003006"	"developmental process involved in reproduction"	1
+"GO:0022414"	"reproductive process"	"GO:0007117"	"budding cell bud growth"	1
+"GO:0022414"	"reproductive process"	"GO:0007340"	"acrosome reaction"	1
+"GO:0022414"	"reproductive process"	"GO:0007343"	"egg activation"	1
+"GO:0022414"	"reproductive process"	"GO:0007344"	"pronuclear fusion"	1
+"GO:0022414"	"reproductive process"	"GO:0007543"	"sex determination, somatic-gonadal interaction"	1
+"GO:0022414"	"reproductive process"	"GO:0007566"	"embryo implantation"	1
+"GO:0022414"	"reproductive process"	"GO:0009566"	"fertilization"	1
+"GO:0022414"	"reproductive process"	"GO:0018985"	"pronuclear envelope synthesis"	1
+"GO:0022414"	"reproductive process"	"GO:0022412"	"cellular process involved in reproduction in multicellular organism"	1
+"GO:0022414"	"reproductive process"	"GO:0022602"	"ovulation cycle process"	1
+"GO:0022414"	"reproductive process"	"GO:0035036"	"sperm-egg recognition"	1
+"GO:0022414"	"reproductive process"	"GO:0035037"	"sperm entry"	1
+"GO:0022414"	"reproductive process"	"GO:0035038"	"female pronucleus assembly"	1
+"GO:0022414"	"reproductive process"	"GO:0035039"	"male pronucleus assembly"	1
+"GO:0022414"	"reproductive process"	"GO:0035040"	"sperm nuclear envelope removal"	1
+"GO:0022414"	"reproductive process"	"GO:0035041"	"sperm chromatin decondensation"	1
+"GO:0022414"	"reproductive process"	"GO:0035042"	"fertilization, exchange of chromosomal proteins"	1
+"GO:0022414"	"reproductive process"	"GO:0035044"	"sperm aster formation"	1
+"GO:0022414"	"reproductive process"	"GO:0035046"	"pronuclear migration"	1
+"GO:0022414"	"reproductive process"	"GO:0035471"	"luteinizing hormone signaling pathway involved in ovarian follicle development"	1
+"GO:0022414"	"reproductive process"	"GO:0044703"	"multi-organism reproductive process"	1
+"GO:0022414"	"reproductive process"	"GO:0045729"	"respiratory burst at fertilization"	1
+"GO:0022414"	"reproductive process"	"GO:0048609"	"multicellular organismal reproductive process"	1
+"GO:0022414"	"reproductive process"	"GO:0051037"	"regulation of transcription involved in meiotic cell cycle"	1
+"GO:0022414"	"reproductive process"	"GO:0051321"	"meiotic cell cycle"	1
+"GO:0022414"	"reproductive process"	"GO:0060011"	"Sertoli cell proliferation"	1
+"GO:0022414"	"reproductive process"	"GO:0060466"	"activation of meiosis involved in egg activation"	1
+"GO:0022414"	"reproductive process"	"GO:0060468"	"prevention of polyspermy"	1
+"GO:0022414"	"reproductive process"	"GO:0060469"	"positive regulation of transcription involved in egg activation"	1
+"GO:0022414"	"reproductive process"	"GO:0060470"	"positive regulation of cytosolic calcium ion concentration involved in egg activation"	1
+"GO:0022414"	"reproductive process"	"GO:0060471"	"cortical granule exocytosis"	1
+"GO:0022414"	"reproductive process"	"GO:0060474"	"positive regulation of flagellated sperm motility involved in capacitation"	1
+"GO:0022414"	"reproductive process"	"GO:0060475"	"positive regulation of actin filament polymerization involved in acrosome reaction"	1
+"GO:0022414"	"reproductive process"	"GO:0060476"	"protein localization involved in acrosome reaction"	1
+"GO:0022414"	"reproductive process"	"GO:0060478"	"acrosomal vesicle exocytosis"	1
+"GO:0022414"	"reproductive process"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	1
+"GO:0022414"	"reproductive process"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	1
+"GO:0022414"	"reproductive process"	"GO:0060673"	"cell-cell signaling involved in placenta development"	1
+"GO:0022414"	"reproductive process"	"GO:0060710"	"chorio-allantoic fusion"	1
+"GO:0022414"	"reproductive process"	"GO:0060722"	"cell proliferation involved in embryonic placenta development"	1
+"GO:0022414"	"reproductive process"	"GO:0060738"	"epithelial-mesenchymal signaling involved in prostate gland development"	1
+"GO:0022414"	"reproductive process"	"GO:0060739"	"mesenchymal-epithelial cell signaling involved in prostate gland development"	1
+"GO:0022414"	"reproductive process"	"GO:0060767"	"epithelial cell proliferation involved in prostate gland development"	1
+"GO:0022414"	"reproductive process"	"GO:0060781"	"mesenchymal cell proliferation involved in prostate gland development"	1
+"GO:0022414"	"reproductive process"	"GO:0060783"	"mesenchymal smoothened signaling pathway involved in prostate gland development"	1
+"GO:0022414"	"reproductive process"	"GO:0061450"	"trophoblast cell migration"	1
+"GO:0022414"	"reproductive process"	"GO:0061948"	"premature acrosome loss"	1
+"GO:0022414"	"reproductive process"	"GO:0061955"	"positive regulation of actin filament depolymerization involved in acrosome reaction"	1
+"GO:0022414"	"reproductive process"	"GO:0097722"	"sperm motility"	1
+"GO:0022414"	"reproductive process"	"GO:0110134"	"meiotic drive"	1
+"GO:0022414"	"reproductive process"	"GO:1902064"	"regulation of transcription from RNA polymerase II promoter involved in spermatogenesis"	1
+"GO:0022414"	"reproductive process"	"GO:1903046"	"meiotic cell cycle process"	1
+"GO:0022414"	"reproductive process"	"GO:2000241"	"regulation of reproductive process"	1
+"GO:0022414"	"reproductive process"	"GO:2000242"	"negative regulation of reproductive process"	1
+"GO:0022414"	"reproductive process"	"GO:2000243"	"positive regulation of reproductive process"	1
+"GO:0022414"	"reproductive process"	"GO:0000212"	"meiotic spindle organization"	2
+"GO:0022414"	"reproductive process"	"GO:0000706"	"meiotic DNA double-strand break processing"	2
+"GO:0022414"	"reproductive process"	"GO:0000709"	"meiotic joint molecule formation"	2
+"GO:0022414"	"reproductive process"	"GO:0001542"	"ovulation from ovarian follicle"	2
+"GO:0022414"	"reproductive process"	"GO:0001543"	"ovarian follicle rupture"	2
+"GO:0022414"	"reproductive process"	"GO:0001544"	"initiation of primordial ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:0001545"	"primary ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:0001546"	"preantral ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:0001547"	"antral ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	2
+"GO:0022414"	"reproductive process"	"GO:0001549"	"cumulus cell differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0001550"	"ovarian cumulus expansion"	2
+"GO:0022414"	"reproductive process"	"GO:0001551"	"ovarian follicle endowment"	2
+"GO:0022414"	"reproductive process"	"GO:0001552"	"ovarian follicle atresia"	2
+"GO:0022414"	"reproductive process"	"GO:0001553"	"luteinization"	2
+"GO:0022414"	"reproductive process"	"GO:0001554"	"luteolysis"	2
+"GO:0022414"	"reproductive process"	"GO:0001555"	"oocyte growth"	2
+"GO:0022414"	"reproductive process"	"GO:0001556"	"oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:0001675"	"acrosome assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0001880"	"Mullerian duct regression"	2
+"GO:0022414"	"reproductive process"	"GO:0001892"	"embryonic placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0001893"	"maternal placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0002078"	"membrane fusion involved in acrosome reaction"	2
+"GO:0022414"	"reproductive process"	"GO:0006279"	"premeiotic DNA replication"	2
+"GO:0022414"	"reproductive process"	"GO:0007053"	"spindle assembly involved in male meiosis"	2
+"GO:0022414"	"reproductive process"	"GO:0007056"	"spindle assembly involved in female meiosis"	2
+"GO:0022414"	"reproductive process"	"GO:0007060"	"male meiosis chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0007065"	"male meiosis sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0007066"	"female meiosis sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0007112"	"male meiosis cytokinesis"	2
+"GO:0022414"	"reproductive process"	"GO:0007118"	"budding cell apical bud growth"	2
+"GO:0022414"	"reproductive process"	"GO:0007119"	"budding cell isotropic bud growth"	2
+"GO:0022414"	"reproductive process"	"GO:0007131"	"reciprocal meiotic recombination"	2
+"GO:0022414"	"reproductive process"	"GO:0007140"	"male meiotic nuclear division"	2
+"GO:0022414"	"reproductive process"	"GO:0007143"	"female meiotic nuclear division"	2
+"GO:0022414"	"reproductive process"	"GO:0007276"	"gamete generation"	2
+"GO:0022414"	"reproductive process"	"GO:0007281"	"germ cell development"	2
+"GO:0022414"	"reproductive process"	"GO:0007282"	"cystoblast division"	2
+"GO:0022414"	"reproductive process"	"GO:0007283"	"spermatogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0007284"	"spermatogonial cell division"	2
+"GO:0022414"	"reproductive process"	"GO:0007285"	"primary spermatocyte growth"	2
+"GO:0022414"	"reproductive process"	"GO:0007287"	"Nebenkern assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0007288"	"sperm axoneme assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0007289"	"spermatid nucleus differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0007290"	"spermatid nucleus elongation"	2
+"GO:0022414"	"reproductive process"	"GO:0007291"	"sperm individualization"	2
+"GO:0022414"	"reproductive process"	"GO:0007296"	"vitellogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0007297"	"ovarian follicle cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:0007299"	"ovarian follicle cell-cell adhesion"	2
+"GO:0022414"	"reproductive process"	"GO:0007308"	"oocyte construction"	2
+"GO:0022414"	"reproductive process"	"GO:0007309"	"oocyte axis specification"	2
+"GO:0022414"	"reproductive process"	"GO:0007320"	"insemination"	2
+"GO:0022414"	"reproductive process"	"GO:0007338"	"single fertilization"	2
+"GO:0022414"	"reproductive process"	"GO:0007339"	"binding of sperm to zona pellucida"	2
+"GO:0022414"	"reproductive process"	"GO:0007341"	"penetration of zona pellucida"	2
+"GO:0022414"	"reproductive process"	"GO:0007342"	"fusion of sperm to egg plasma membrane involved in single fertilization"	2
+"GO:0022414"	"reproductive process"	"GO:0007530"	"sex determination"	2
+"GO:0022414"	"reproductive process"	"GO:0007540"	"sex determination, establishment of X:A ratio"	2
+"GO:0022414"	"reproductive process"	"GO:0007541"	"sex determination, primary response to X:A ratio"	2
+"GO:0022414"	"reproductive process"	"GO:0007548"	"sex differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0007565"	"female pregnancy"	2
+"GO:0022414"	"reproductive process"	"GO:0007567"	"parturition"	2
+"GO:0022414"	"reproductive process"	"GO:0007618"	"mating"	2
+"GO:0022414"	"reproductive process"	"GO:0008069"	"dorsal/ventral axis specification, ovarian follicular epithelium"	2
+"GO:0022414"	"reproductive process"	"GO:0008103"	"oocyte microtubule cytoskeleton polarization"	2
+"GO:0022414"	"reproductive process"	"GO:0008354"	"germ cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:0009994"	"oocyte differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0010520"	"regulation of reciprocal meiotic recombination"	2
+"GO:0022414"	"reproductive process"	"GO:0010672"	"regulation of transcription from RNA polymerase II promoter involved in meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0010946"	"regulation of meiotic joint molecule formation"	2
+"GO:0022414"	"reproductive process"	"GO:0010947"	"negative regulation of meiotic joint molecule formation"	2
+"GO:0022414"	"reproductive process"	"GO:0016321"	"female meiosis chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0016325"	"oocyte microtubule cytoskeleton organization"	2
+"GO:0022414"	"reproductive process"	"GO:0016344"	"meiotic chromosome movement towards spindle pole"	2
+"GO:0022414"	"reproductive process"	"GO:0016345"	"female meiotic chromosome movement towards spindle pole"	2
+"GO:0022414"	"reproductive process"	"GO:0016346"	"male meiotic chromosome movement towards spindle pole"	2
+"GO:0022414"	"reproductive process"	"GO:0019098"	"reproductive behavior"	2
+"GO:0022414"	"reproductive process"	"GO:0019953"	"sexual reproduction"	2
+"GO:0022414"	"reproductive process"	"GO:0022605"	"mammalian oogenesis stage"	2
+"GO:0022414"	"reproductive process"	"GO:0030317"	"flagellated sperm motility"	2
+"GO:0022414"	"reproductive process"	"GO:0030707"	"ovarian follicle cell development"	2
+"GO:0022414"	"reproductive process"	"GO:0030713"	"ovarian follicle cell stalk formation"	2
+"GO:0022414"	"reproductive process"	"GO:0030714"	"anterior/posterior axis specification, follicular epithelium"	2
+"GO:0022414"	"reproductive process"	"GO:0030728"	"ovulation"	2
+"GO:0022414"	"reproductive process"	"GO:0030989"	"dynein-driven meiotic oscillatory nuclear movement"	2
+"GO:0022414"	"reproductive process"	"GO:0032118"	"horsetail-astral microtubule organization"	2
+"GO:0022414"	"reproductive process"	"GO:0033206"	"meiotic cytokinesis"	2
+"GO:0022414"	"reproductive process"	"GO:0033313"	"meiotic cell cycle checkpoint signaling"	2
+"GO:0022414"	"reproductive process"	"GO:0033327"	"Leydig cell differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0034089"	"establishment of meiotic sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0034090"	"maintenance of meiotic sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0034094"	"regulation of maintenance of meiotic sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0034095"	"negative regulation of maintenance of meiotic sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0034096"	"positive regulation of maintenance of meiotic sister chromatid cohesion"	2
+"GO:0022414"	"reproductive process"	"GO:0035043"	"male pronuclear envelope synthesis"	2
+"GO:0022414"	"reproductive process"	"GO:0035045"	"sperm plasma membrane disassembly"	2
+"GO:0022414"	"reproductive process"	"GO:0035047"	"centrosomal and pronuclear rotation"	2
+"GO:0022414"	"reproductive process"	"GO:0035092"	"sperm chromatin condensation"	2
+"GO:0022414"	"reproductive process"	"GO:0035093"	"spermatogenesis, exchange of chromosomal proteins"	2
+"GO:0022414"	"reproductive process"	"GO:0035112"	"genitalia morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0035232"	"germ cell attraction"	2
+"GO:0022414"	"reproductive process"	"GO:0035233"	"germ cell repulsion"	2
+"GO:0022414"	"reproductive process"	"GO:0035234"	"ectopic germ cell programmed cell death"	2
+"GO:0022414"	"reproductive process"	"GO:0035262"	"gonad morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0035848"	"oviduct morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0036093"	"germ cell proliferation"	2
+"GO:0022414"	"reproductive process"	"GO:0040038"	"polar body extrusion after meiotic divisions"	2
+"GO:0022414"	"reproductive process"	"GO:0042078"	"germ-line stem cell division"	2
+"GO:0022414"	"reproductive process"	"GO:0042698"	"ovulation cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0042699"	"follicle-stimulating hormone signaling pathway"	2
+"GO:0022414"	"reproductive process"	"GO:0042701"	"progesterone secretion"	2
+"GO:0022414"	"reproductive process"	"GO:0042702"	"uterine wall growth"	2
+"GO:0022414"	"reproductive process"	"GO:0042704"	"uterine wall breakdown"	2
+"GO:0022414"	"reproductive process"	"GO:0042713"	"sperm ejaculation"	2
+"GO:0022414"	"reproductive process"	"GO:0043012"	"regulation of fusion of sperm to egg plasma membrane"	2
+"GO:0022414"	"reproductive process"	"GO:0043013"	"negative regulation of fusion of sperm to egg plasma membrane"	2
+"GO:0022414"	"reproductive process"	"GO:0043046"	"DNA methylation involved in gamete generation"	2
+"GO:0022414"	"reproductive process"	"GO:0043084"	"penile erection"	2
+"GO:0022414"	"reproductive process"	"GO:0044345"	"stromal-epithelial cell signaling involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0044771"	"meiotic cell cycle phase transition"	2
+"GO:0022414"	"reproductive process"	"GO:0044850"	"menstrual cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0045132"	"meiotic chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0045136"	"development of secondary sexual characteristics"	2
+"GO:0022414"	"reproductive process"	"GO:0045137"	"development of primary sexual characteristics"	2
+"GO:0022414"	"reproductive process"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0045700"	"regulation of spermatid nuclear differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0045701"	"negative regulation of spermatid nuclear differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0045702"	"positive regulation of spermatid nuclear differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0046692"	"sperm competition"	2
+"GO:0022414"	"reproductive process"	"GO:0046697"	"decidualization"	2
+"GO:0022414"	"reproductive process"	"GO:0048071"	"sex-specific pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048088"	"regulation of male pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048089"	"regulation of female pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048090"	"negative regulation of female pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048091"	"positive regulation of female pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048092"	"negative regulation of male pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048093"	"positive regulation of male pigmentation"	2
+"GO:0022414"	"reproductive process"	"GO:0048134"	"germ-line cyst formation"	2
+"GO:0022414"	"reproductive process"	"GO:0048137"	"spermatocyte division"	2
+"GO:0022414"	"reproductive process"	"GO:0048138"	"germ-line cyst encapsulation"	2
+"GO:0022414"	"reproductive process"	"GO:0048240"	"sperm capacitation"	2
+"GO:0022414"	"reproductive process"	"GO:0048515"	"spermatid differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0048600"	"oocyte fate commitment"	2
+"GO:0022414"	"reproductive process"	"GO:0048601"	"oocyte morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0048608"	"reproductive structure development"	2
+"GO:0022414"	"reproductive process"	"GO:0051026"	"chiasma assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0051038"	"negative regulation of transcription involved in meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0051039"	"positive regulation of transcription involved in meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0051078"	"meiotic nuclear membrane disassembly"	2
+"GO:0022414"	"reproductive process"	"GO:0051232"	"meiotic spindle elongation"	2
+"GO:0022414"	"reproductive process"	"GO:0051257"	"meiotic spindle midzone assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0051295"	"establishment of meiotic spindle localization"	2
+"GO:0022414"	"reproductive process"	"GO:0051307"	"meiotic chromosome separation"	2
+"GO:0022414"	"reproductive process"	"GO:0051311"	"meiotic metaphase plate congression"	2
+"GO:0022414"	"reproductive process"	"GO:0051316"	"attachment of spindle microtubules to kinetochore involved in meiotic chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0051333"	"meiotic nuclear membrane reassembly"	2
+"GO:0022414"	"reproductive process"	"GO:0051445"	"regulation of meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0051446"	"positive regulation of meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0051447"	"negative regulation of meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0051663"	"oocyte nucleus localization involved in oocyte dorsal/ventral axis specification"	2
+"GO:0022414"	"reproductive process"	"GO:0051755"	"meiotic sister chromatid arm separation"	2
+"GO:0022414"	"reproductive process"	"GO:0051756"	"meiotic sister chromatid centromere separation"	2
+"GO:0022414"	"reproductive process"	"GO:0051878"	"lateral element assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0055047"	"generative cell mitosis"	2
+"GO:0022414"	"reproductive process"	"GO:0060008"	"Sertoli cell differentiation"	2
+"GO:0022414"	"reproductive process"	"GO:0060009"	"Sertoli cell development"	2
+"GO:0022414"	"reproductive process"	"GO:0060010"	"Sertoli cell fate commitment"	2
+"GO:0022414"	"reproductive process"	"GO:0060046"	"regulation of acrosome reaction"	2
+"GO:0022414"	"reproductive process"	"GO:0060112"	"generation of ovulation cycle rhythm"	2
+"GO:0022414"	"reproductive process"	"GO:0060135"	"maternal process involved in female pregnancy"	2
+"GO:0022414"	"reproductive process"	"GO:0060136"	"embryonic process involved in female pregnancy"	2
+"GO:0022414"	"reproductive process"	"GO:0060137"	"maternal process involved in parturition"	2
+"GO:0022414"	"reproductive process"	"GO:0060138"	"fetal process involved in parturition"	2
+"GO:0022414"	"reproductive process"	"GO:0060278"	"regulation of ovulation"	2
+"GO:0022414"	"reproductive process"	"GO:0060279"	"positive regulation of ovulation"	2
+"GO:0022414"	"reproductive process"	"GO:0060280"	"negative regulation of ovulation"	2
+"GO:0022414"	"reproductive process"	"GO:0060282"	"positive regulation of oocyte development"	2
+"GO:0022414"	"reproductive process"	"GO:0060283"	"negative regulation of oocyte development"	2
+"GO:0022414"	"reproductive process"	"GO:0060378"	"regulation of brood size"	2
+"GO:0022414"	"reproductive process"	"GO:0060405"	"regulation of penile erection"	2
+"GO:0022414"	"reproductive process"	"GO:0060406"	"positive regulation of penile erection"	2
+"GO:0022414"	"reproductive process"	"GO:0060407"	"negative regulation of penile erection"	2
+"GO:0022414"	"reproductive process"	"GO:0060467"	"negative regulation of fertilization"	2
+"GO:0022414"	"reproductive process"	"GO:0060472"	"positive regulation of cortical granule exocytosis by positive regulation of cytosolic calcium ion concentration"	2
+"GO:0022414"	"reproductive process"	"GO:0060512"	"prostate gland morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060514"	"prostate induction"	2
+"GO:0022414"	"reproductive process"	"GO:0060515"	"prostate field specification"	2
+"GO:0022414"	"reproductive process"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	2
+"GO:0022414"	"reproductive process"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	2
+"GO:0022414"	"reproductive process"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	2
+"GO:0022414"	"reproductive process"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	2
+"GO:0022414"	"reproductive process"	"GO:0060530"	"smooth muscle cell differentiation involved in prostate glandular acinus development"	2
+"GO:0022414"	"reproductive process"	"GO:0060629"	"regulation of homologous chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0060669"	"embryonic placenta morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060670"	"branching involved in labyrinthine layer morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060672"	"epithelial cell morphogenesis involved in placental branching"	2
+"GO:0022414"	"reproductive process"	"GO:0060674"	"placenta blood vessel development"	2
+"GO:0022414"	"reproductive process"	"GO:0060685"	"regulation of prostatic bud formation"	2
+"GO:0022414"	"reproductive process"	"GO:0060686"	"negative regulation of prostatic bud formation"	2
+"GO:0022414"	"reproductive process"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060706"	"cell differentiation involved in embryonic placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0060713"	"labyrinthine layer morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060714"	"labyrinthine layer formation"	2
+"GO:0022414"	"reproductive process"	"GO:0060723"	"regulation of cell proliferation involved in embryonic placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0060736"	"prostate gland growth"	2
+"GO:0022414"	"reproductive process"	"GO:0060740"	"prostate gland epithelium morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060741"	"prostate gland stromal morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060742"	"epithelial cell differentiation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060743"	"epithelial cell maturation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060744"	"mammary gland branching involved in thelarche"	2
+"GO:0022414"	"reproductive process"	"GO:0060745"	"mammary gland branching involved in pregnancy"	2
+"GO:0022414"	"reproductive process"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0060768"	"regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060769"	"positive regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060770"	"negative regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060782"	"regulation of mesenchymal cell proliferation involved in prostate gland development"	2
+"GO:0022414"	"reproductive process"	"GO:0060800"	"regulation of cell differentiation involved in embryonic placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0060806"	"negative regulation of cell differentiation involved in embryonic placenta development"	2
+"GO:0022414"	"reproductive process"	"GO:0060833"	"Wnt signaling pathway involved in animal/vegetal axis specification"	2
+"GO:0022414"	"reproductive process"	"GO:0061038"	"uterus morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0061205"	"paramesonephric duct development"	2
+"GO:0022414"	"reproductive process"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	2
+"GO:0022414"	"reproductive process"	"GO:0061364"	"apoptotic process involved in luteolysis"	2
+"GO:0022414"	"reproductive process"	"GO:0061682"	"seminal vesicle morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0061683"	"branching involved in seminal vesicle morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0061883"	"clathrin-dependent endocytosis involved in vitellogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0061949"	"regulation of premature acrosome loss"	2
+"GO:0022414"	"reproductive process"	"GO:0061950"	"negative regulation of premature acrosome loss"	2
+"GO:0022414"	"reproductive process"	"GO:0061954"	"positive regulation of actin filament polymerization involved in sperm capacitation"	2
+"GO:0022414"	"reproductive process"	"GO:0061956"	"penetration of cumulus oophorus"	2
+"GO:0022414"	"reproductive process"	"GO:0061982"	"meiosis I cell cycle process"	2
+"GO:0022414"	"reproductive process"	"GO:0061983"	"meiosis II cell cycle process"	2
+"GO:0022414"	"reproductive process"	"GO:0061988"	"karyosome formation"	2
+"GO:0022414"	"reproductive process"	"GO:0070192"	"chromosome organization involved in meiotic cell cycle"	2
+"GO:0022414"	"reproductive process"	"GO:0070684"	"seminal clot liquefaction"	2
+"GO:0022414"	"reproductive process"	"GO:0072461"	"response to meiotic recombination checkpoint signaling"	2
+"GO:0022414"	"reproductive process"	"GO:0080154"	"regulation of fertilization"	2
+"GO:0022414"	"reproductive process"	"GO:0090172"	"microtubule cytoskeleton organization involved in homologous chromosome segregation"	2
+"GO:0022414"	"reproductive process"	"GO:0090173"	"regulation of synaptonemal complex assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0090598"	"male anatomical structure morphogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:0110079"	"regulation of placenta blood vessel development"	2
+"GO:0022414"	"reproductive process"	"GO:0110080"	"positive regulation of placenta blood vessel development"	2
+"GO:0022414"	"reproductive process"	"GO:0110081"	"negative regulation of placenta blood vessel development"	2
+"GO:0022414"	"reproductive process"	"GO:0120211"	"proacrosomal vesicle fusion"	2
+"GO:0022414"	"reproductive process"	"GO:0120313"	"regulation of oocyte karyosome formation"	2
+"GO:0022414"	"reproductive process"	"GO:0120314"	"negative regulation of oocyte karyosome formation"	2
+"GO:0022414"	"reproductive process"	"GO:0120315"	"positive regulation of oocyte karyosome formation"	2
+"GO:0022414"	"reproductive process"	"GO:0120316"	"sperm flagellum assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0120317"	"sperm mitochondrial sheath assembly"	2
+"GO:0022414"	"reproductive process"	"GO:0140013"	"meiotic nuclear division"	2
+"GO:0022414"	"reproductive process"	"GO:1900193"	"regulation of oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:1900194"	"negative regulation of oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:1900195"	"positive regulation of oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:1901163"	"regulation of trophoblast cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1901164"	"negative regulation of trophoblast cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1901165"	"positive regulation of trophoblast cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1901317"	"regulation of flagellated sperm motility"	2
+"GO:0022414"	"reproductive process"	"GO:1901318"	"negative regulation of flagellated sperm motility"	2
+"GO:0022414"	"reproductive process"	"GO:1901993"	"regulation of meiotic cell cycle phase transition"	2
+"GO:0022414"	"reproductive process"	"GO:1902093"	"positive regulation of flagellated sperm motility"	2
+"GO:0022414"	"reproductive process"	"GO:1902119"	"regulation of meiotic spindle elongation"	2
+"GO:0022414"	"reproductive process"	"GO:1902225"	"negative regulation of acrosome reaction"	2
+"GO:0022414"	"reproductive process"	"GO:1902435"	"regulation of male mating behavior"	2
+"GO:0022414"	"reproductive process"	"GO:1902436"	"negative regulation of male mating behavior"	2
+"GO:0022414"	"reproductive process"	"GO:1902437"	"positive regulation of male mating behavior"	2
+"GO:0022414"	"reproductive process"	"GO:1902490"	"regulation of sperm capacitation"	2
+"GO:0022414"	"reproductive process"	"GO:1902491"	"negative regulation of sperm capacitation"	2
+"GO:0022414"	"reproductive process"	"GO:1902492"	"positive regulation of sperm capacitation"	2
+"GO:0022414"	"reproductive process"	"GO:1902972"	"premeiotic DNA replication DNA ligation"	2
+"GO:0022414"	"reproductive process"	"GO:1902974"	"meiotic DNA replication initiation"	2
+"GO:0022414"	"reproductive process"	"GO:1902976"	"premeiotic DNA replication preinitiation complex assembly"	2
+"GO:0022414"	"reproductive process"	"GO:1902978"	"premeiotic DNA replication termination"	2
+"GO:0022414"	"reproductive process"	"GO:1902980"	"synthesis of RNA primer involved in premeiotic DNA replication"	2
+"GO:0022414"	"reproductive process"	"GO:1902982"	"DNA strand elongation involved in premeiotic DNA replication"	2
+"GO:0022414"	"reproductive process"	"GO:1902984"	"pre-replicative complex assembly involved in premeiotic DNA replication"	2
+"GO:0022414"	"reproductive process"	"GO:1903186"	"regulation of vitellogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1903187"	"negative regulation of vitellogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1903188"	"positive regulation of vitellogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1903341"	"regulation of meiotic DNA double-strand break formation"	2
+"GO:0022414"	"reproductive process"	"GO:1903342"	"negative regulation of meiotic DNA double-strand break formation"	2
+"GO:0022414"	"reproductive process"	"GO:1903343"	"positive regulation of meiotic DNA double-strand break formation"	2
+"GO:0022414"	"reproductive process"	"GO:1903537"	"meiotic cell cycle process involved in oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:1903538"	"regulation of meiotic cell cycle process involved in oocyte maturation"	2
+"GO:0022414"	"reproductive process"	"GO:1903563"	"microtubule bundle formation involved in horsetail-astral microtubule organization"	2
+"GO:0022414"	"reproductive process"	"GO:1903684"	"regulation of border follicle cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1903687"	"negative regulation of border follicle cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1903688"	"positive regulation of border follicle cell migration"	2
+"GO:0022414"	"reproductive process"	"GO:1904301"	"regulation of maternal process involved in parturition"	2
+"GO:0022414"	"reproductive process"	"GO:1904302"	"negative regulation of maternal process involved in parturition"	2
+"GO:0022414"	"reproductive process"	"GO:1904303"	"positive regulation of maternal process involved in parturition"	2
+"GO:0022414"	"reproductive process"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	2
+"GO:0022414"	"reproductive process"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	2
+"GO:0022414"	"reproductive process"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	2
+"GO:0022414"	"reproductive process"	"GO:1904514"	"positive regulation of initiation of premeiotic DNA replication"	2
+"GO:0022414"	"reproductive process"	"GO:1904838"	"regulation of male germ-line stem cell asymmetric division"	2
+"GO:0022414"	"reproductive process"	"GO:1904839"	"negative regulation of male germ-line stem cell asymmetric division"	2
+"GO:0022414"	"reproductive process"	"GO:1904840"	"positive regulation of male germ-line stem cell asymmetric division"	2
+"GO:0022414"	"reproductive process"	"GO:1904967"	"regulation of monopolar spindle attachment to meiosis I kinetochore"	2
+"GO:0022414"	"reproductive process"	"GO:1904968"	"positive regulation of monopolar spindle attachment to meiosis I kinetochore"	2
+"GO:0022414"	"reproductive process"	"GO:1905088"	"positive regulation of synaptonemal complex assembly"	2
+"GO:0022414"	"reproductive process"	"GO:1905132"	"regulation of meiotic chromosome separation"	2
+"GO:0022414"	"reproductive process"	"GO:1905133"	"negative regulation of meiotic chromosome separation"	2
+"GO:0022414"	"reproductive process"	"GO:1905134"	"positive regulation of meiotic chromosome separation"	2
+"GO:0022414"	"reproductive process"	"GO:1905198"	"manchette assembly"	2
+"GO:0022414"	"reproductive process"	"GO:1905199"	"manchette disassembly"	2
+"GO:0022414"	"reproductive process"	"GO:1905326"	"positive regulation of meiosis I spindle assembly checkpoint"	2
+"GO:0022414"	"reproductive process"	"GO:1905516"	"positive regulation of fertilization"	2
+"GO:0022414"	"reproductive process"	"GO:1905879"	"regulation of oogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1905880"	"negative regulation of oogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1905881"	"positive regulation of oogenesis"	2
+"GO:0022414"	"reproductive process"	"GO:1905936"	"regulation of germ cell proliferation"	2
+"GO:0022414"	"reproductive process"	"GO:1905937"	"negative regulation of germ cell proliferation"	2
+"GO:0022414"	"reproductive process"	"GO:1905938"	"positive regulation of germ cell proliferation"	2
+"GO:0022414"	"reproductive process"	"GO:1905939"	"regulation of gonad development"	2
+"GO:0022414"	"reproductive process"	"GO:1905940"	"negative regulation of gonad development"	2
+"GO:0022414"	"reproductive process"	"GO:1905941"	"positive regulation of gonad development"	2
+"GO:0022414"	"reproductive process"	"GO:1990898"	"meiotic DNA double-strand break clipping"	2
+"GO:0022414"	"reproductive process"	"GO:1990899"	"meiotic DNA double-strand break resectioning"	2
+"GO:0022414"	"reproductive process"	"GO:1990918"	"double-strand break repair involved in meiotic recombination"	2
+"GO:0022414"	"reproductive process"	"GO:1990953"	"intramanchette transport"	2
+"GO:0022414"	"reproductive process"	"GO:2000344"	"positive regulation of acrosome reaction"	2
+"GO:0022414"	"reproductive process"	"GO:2000354"	"regulation of ovarian follicle development"	2
+"GO:0022414"	"reproductive process"	"GO:2000355"	"negative regulation of ovarian follicle development"	2
+"GO:0022414"	"reproductive process"	"GO:2000359"	"regulation of binding of sperm to zona pellucida"	2
+"GO:0022414"	"reproductive process"	"GO:2000360"	"negative regulation of binding of sperm to zona pellucida"	2
+"GO:0022414"	"reproductive process"	"GO:2000367"	"regulation of acrosomal vesicle exocytosis"	2
+"GO:0022414"	"reproductive process"	"GO:2000368"	"positive regulation of acrosomal vesicle exocytosis"	2
+"GO:0022414"	"reproductive process"	"GO:2000386"	"positive regulation of ovarian follicle development"	2
+"GO:0022414"	"reproductive process"	"GO:2000387"	"regulation of antral ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	2
+"GO:0022414"	"reproductive process"	"GO:0000707"	"meiotic DNA recombinase assembly"	3
+"GO:0022414"	"reproductive process"	"GO:0000708"	"meiotic strand invasion"	3
+"GO:0022414"	"reproductive process"	"GO:0000710"	"meiotic mismatch repair"	3
+"GO:0022414"	"reproductive process"	"GO:0000711"	"meiotic DNA repair synthesis"	3
+"GO:0022414"	"reproductive process"	"GO:0000712"	"resolution of meiotic recombination intermediates"	3
+"GO:0022414"	"reproductive process"	"GO:0000713"	"meiotic heteroduplex formation"	3
+"GO:0022414"	"reproductive process"	"GO:0000714"	"meiotic strand displacement"	3
+"GO:0022414"	"reproductive process"	"GO:0001541"	"ovarian follicle development"	3
+"GO:0022414"	"reproductive process"	"GO:0001890"	"placenta development"	3
+"GO:0022414"	"reproductive process"	"GO:0002176"	"male germ cell proliferation"	3
+"GO:0022414"	"reproductive process"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	3
+"GO:0022414"	"reproductive process"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	3
+"GO:0022414"	"reproductive process"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	3
+"GO:0022414"	"reproductive process"	"GO:0006311"	"meiotic gene conversion"	3
+"GO:0022414"	"reproductive process"	"GO:0007054"	"spindle assembly involved in male meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:0007055"	"spindle assembly involved in male meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:0007057"	"spindle assembly involved in female meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:0007058"	"spindle assembly involved in female meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:0007110"	"meiosis I cytokinesis"	3
+"GO:0022414"	"reproductive process"	"GO:0007111"	"meiosis II cytokinesis"	3
+"GO:0022414"	"reproductive process"	"GO:0007127"	"meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:0007129"	"homologous chromosome pairing at meiosis"	3
+"GO:0022414"	"reproductive process"	"GO:0007130"	"synaptonemal complex assembly"	3
+"GO:0022414"	"reproductive process"	"GO:0007135"	"meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:0007141"	"male meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:0007142"	"male meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:0007144"	"female meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:0007147"	"female meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:0007286"	"spermatid development"	3
+"GO:0022414"	"reproductive process"	"GO:0007292"	"female gamete generation"	3
+"GO:0022414"	"reproductive process"	"GO:0007298"	"border follicle cell migration"	3
+"GO:0022414"	"reproductive process"	"GO:0007310"	"oocyte dorsal/ventral axis specification"	3
+"GO:0022414"	"reproductive process"	"GO:0007312"	"oocyte nucleus migration involved in oocyte dorsal/ventral axis specification"	3
+"GO:0022414"	"reproductive process"	"GO:0007314"	"oocyte anterior/posterior axis specification"	3
+"GO:0022414"	"reproductive process"	"GO:0007321"	"sperm displacement"	3
+"GO:0022414"	"reproductive process"	"GO:0007506"	"gonadal mesoderm development"	3
+"GO:0022414"	"reproductive process"	"GO:0007531"	"mating type determination"	3
+"GO:0022414"	"reproductive process"	"GO:0007538"	"primary sex determination"	3
+"GO:0022414"	"reproductive process"	"GO:0007545"	"processes downstream of sex determination signal"	3
+"GO:0022414"	"reproductive process"	"GO:0007617"	"mating behavior"	3
+"GO:0022414"	"reproductive process"	"GO:0007620"	"copulation"	3
+"GO:0022414"	"reproductive process"	"GO:0008070"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"	3
+"GO:0022414"	"reproductive process"	"GO:0008071"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"	3
+"GO:0022414"	"reproductive process"	"GO:0008315"	"G2/MI transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0008406"	"gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:0009971"	"anastral spindle assembly involved in male meiosis"	3
+"GO:0022414"	"reproductive process"	"GO:0010032"	"meiotic chromosome condensation"	3
+"GO:0022414"	"reproductive process"	"GO:0010673"	"positive regulation of transcription from RNA polymerase II promoter involved in meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0010674"	"negative regulation of transcription from RNA polymerase II promoter involved in meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0010704"	"meiotic DNA double-strand break processing involved in meiotic gene conversion"	3
+"GO:0022414"	"reproductive process"	"GO:0010705"	"meiotic DNA double-strand break processing involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010772"	"meiotic DNA recombinase assembly involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010774"	"meiotic strand invasion involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010777"	"meiotic mismatch repair involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010778"	"meiotic DNA repair synthesis involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010780"	"meiotic DNA double-strand break formation involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0010845"	"positive regulation of reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0018992"	"germ-line sex determination"	3
+"GO:0022414"	"reproductive process"	"GO:0018993"	"somatic sex determination"	3
+"GO:0022414"	"reproductive process"	"GO:0030237"	"female sex determination"	3
+"GO:0022414"	"reproductive process"	"GO:0030238"	"male sex determination"	3
+"GO:0022414"	"reproductive process"	"GO:0030538"	"embryonic genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0030717"	"oocyte karyosome formation"	3
+"GO:0022414"	"reproductive process"	"GO:0030850"	"prostate gland development"	3
+"GO:0022414"	"reproductive process"	"GO:0032837"	"distributive segregation"	3
+"GO:0022414"	"reproductive process"	"GO:0035126"	"post-embryonic genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0035260"	"internal genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0035261"	"external genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0035846"	"oviduct epithelium development"	3
+"GO:0022414"	"reproductive process"	"GO:0035875"	"maintenance of meiotic sister chromatid cohesion, centromeric"	3
+"GO:0022414"	"reproductive process"	"GO:0035876"	"maintenance of meiotic sister chromatid cohesion, arms"	3
+"GO:0022414"	"reproductive process"	"GO:0040020"	"regulation of meiotic nuclear division"	3
+"GO:0022414"	"reproductive process"	"GO:0042070"	"maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification"	3
+"GO:0022414"	"reproductive process"	"GO:0042138"	"meiotic DNA double-strand break formation"	3
+"GO:0022414"	"reproductive process"	"GO:0043060"	"meiotic metaphase I plate congression"	3
+"GO:0022414"	"reproductive process"	"GO:0043061"	"meiotic metaphase II plate congression"	3
+"GO:0022414"	"reproductive process"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0044705"	"multi-organism reproductive behavior"	3
+"GO:0022414"	"reproductive process"	"GO:0044778"	"meiotic DNA integrity checkpoint signaling"	3
+"GO:0022414"	"reproductive process"	"GO:0044779"	"meiotic spindle checkpoint signaling"	3
+"GO:0022414"	"reproductive process"	"GO:0044785"	"metaphase/anaphase transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0044849"	"estrous cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0045128"	"negative regulation of reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:0045143"	"homologous chromosome segregation"	3
+"GO:0022414"	"reproductive process"	"GO:0045144"	"meiotic sister chromatid segregation"	3
+"GO:0022414"	"reproductive process"	"GO:0045592"	"regulation of cumulus cell differentiation"	3
+"GO:0022414"	"reproductive process"	"GO:0045835"	"negative regulation of meiotic nuclear division"	3
+"GO:0022414"	"reproductive process"	"GO:0045836"	"positive regulation of meiotic nuclear division"	3
+"GO:0022414"	"reproductive process"	"GO:0046543"	"development of secondary female sexual characteristics"	3
+"GO:0022414"	"reproductive process"	"GO:0046544"	"development of secondary male sexual characteristics"	3
+"GO:0022414"	"reproductive process"	"GO:0046545"	"development of primary female sexual characteristics"	3
+"GO:0022414"	"reproductive process"	"GO:0046546"	"development of primary male sexual characteristics"	3
+"GO:0022414"	"reproductive process"	"GO:0046660"	"female sex differentiation"	3
+"GO:0022414"	"reproductive process"	"GO:0046661"	"male sex differentiation"	3
+"GO:0022414"	"reproductive process"	"GO:0046693"	"sperm storage"	3
+"GO:0022414"	"reproductive process"	"GO:0046694"	"sperm incapacitation"	3
+"GO:0022414"	"reproductive process"	"GO:0048094"	"male pigmentation"	3
+"GO:0022414"	"reproductive process"	"GO:0048095"	"female pigmentation"	3
+"GO:0022414"	"reproductive process"	"GO:0048133"	"male germ-line stem cell asymmetric division"	3
+"GO:0022414"	"reproductive process"	"GO:0048135"	"female germ-line cyst formation"	3
+"GO:0022414"	"reproductive process"	"GO:0048136"	"male germ-line cyst formation"	3
+"GO:0022414"	"reproductive process"	"GO:0048158"	"oogonium stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048159"	"primary oocyte stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048160"	"primary follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048161"	"double layer follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048162"	"multi-layer follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048163"	"scattered antral spaces stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048164"	"distinct antral spaces stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048165"	"fused antrum stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048166"	"mature follicle stage"	3
+"GO:0022414"	"reproductive process"	"GO:0048232"	"male gamete generation"	3
+"GO:0022414"	"reproductive process"	"GO:0048477"	"oogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0048599"	"oocyte development"	3
+"GO:0022414"	"reproductive process"	"GO:0048806"	"genitalia development"	3
+"GO:0022414"	"reproductive process"	"GO:0048807"	"female genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0048808"	"male genitalia morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0051079"	"meiosis I nuclear membrane disassembly"	3
+"GO:0022414"	"reproductive process"	"GO:0051080"	"meiosis II nuclear membrane disassembly"	3
+"GO:0022414"	"reproductive process"	"GO:0051177"	"meiotic sister chromatid cohesion"	3
+"GO:0022414"	"reproductive process"	"GO:0051178"	"meiotic chromosome decondensation"	3
+"GO:0022414"	"reproductive process"	"GO:0051229"	"meiotic spindle disassembly"	3
+"GO:0022414"	"reproductive process"	"GO:0051296"	"establishment of meiotic spindle orientation"	3
+"GO:0022414"	"reproductive process"	"GO:0051308"	"male meiosis chromosome separation"	3
+"GO:0022414"	"reproductive process"	"GO:0051309"	"female meiosis chromosome separation"	3
+"GO:0022414"	"reproductive process"	"GO:0051334"	"meiosis I nuclear membrane reassembly"	3
+"GO:0022414"	"reproductive process"	"GO:0051335"	"meiosis II nuclear membrane reassembly"	3
+"GO:0022414"	"reproductive process"	"GO:0051455"	"monopolar spindle attachment to meiosis I kinetochore"	3
+"GO:0022414"	"reproductive process"	"GO:0051456"	"attachment of spindle microtubules to kinetochore involved in meiotic sister chromatid segregation"	3
+"GO:0022414"	"reproductive process"	"GO:0051598"	"meiotic recombination checkpoint signaling"	3
+"GO:0022414"	"reproductive process"	"GO:0051728"	"cell cycle switching, mitotic to meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0051757"	"meiotic sister chromatid separation"	3
+"GO:0022414"	"reproductive process"	"GO:0051758"	"homologous chromosome movement towards spindle pole in meiosis I anaphase"	3
+"GO:0022414"	"reproductive process"	"GO:0051759"	"sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation"	3
+"GO:0022414"	"reproductive process"	"GO:0060065"	"uterus development"	3
+"GO:0022414"	"reproductive process"	"GO:0060066"	"oviduct development"	3
+"GO:0022414"	"reproductive process"	"GO:0060067"	"cervix development"	3
+"GO:0022414"	"reproductive process"	"GO:0060269"	"centripetally migrating follicle cell migration"	3
+"GO:0022414"	"reproductive process"	"GO:0060270"	"main body follicle cell migration"	3
+"GO:0022414"	"reproductive process"	"GO:0060281"	"regulation of oocyte development"	3
+"GO:0022414"	"reproductive process"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0060513"	"prostatic bud formation"	3
+"GO:0022414"	"reproductive process"	"GO:0060516"	"primary prostatic bud elongation"	3
+"GO:0022414"	"reproductive process"	"GO:0060523"	"prostate epithelial cord elongation"	3
+"GO:0022414"	"reproductive process"	"GO:0060525"	"prostate glandular acinus development"	3
+"GO:0022414"	"reproductive process"	"GO:0060526"	"prostate glandular acinus morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0060528"	"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"	3
+"GO:0022414"	"reproductive process"	"GO:0060529"	"squamous basal epithelial stem cell differentiation involved in prostate gland acinus development"	3
+"GO:0022414"	"reproductive process"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	3
+"GO:0022414"	"reproductive process"	"GO:0060671"	"epithelial cell differentiation involved in embryonic placenta development"	3
+"GO:0022414"	"reproductive process"	"GO:0060707"	"trophoblast giant cell differentiation"	3
+"GO:0022414"	"reproductive process"	"GO:0060711"	"labyrinthine layer development"	3
+"GO:0022414"	"reproductive process"	"GO:0060715"	"syncytiotrophoblast cell differentiation involved in labyrinthine layer development"	3
+"GO:0022414"	"reproductive process"	"GO:0060716"	"labyrinthine layer blood vessel development"	3
+"GO:0022414"	"reproductive process"	"GO:0060737"	"prostate gland morphogenetic growth"	3
+"GO:0022414"	"reproductive process"	"GO:0060746"	"parental behavior"	3
+"GO:0022414"	"reproductive process"	"GO:0060832"	"oocyte animal/vegetal axis specification"	3
+"GO:0022414"	"reproductive process"	"GO:0061040"	"female gonad morphogenesis"	3
+"GO:0022414"	"reproductive process"	"GO:0061107"	"seminal vesicle development"	3
+"GO:0022414"	"reproductive process"	"GO:0061108"	"seminal vesicle epithelium development"	3
+"GO:0022414"	"reproductive process"	"GO:0061989"	"sperm karyosome formation"	3
+"GO:0022414"	"reproductive process"	"GO:0062041"	"positive regulation of meiotic sister chromatid arm separation"	3
+"GO:0022414"	"reproductive process"	"GO:0072520"	"seminiferous tubule development"	3
+"GO:0022414"	"reproductive process"	"GO:0090306"	"spindle assembly involved in meiosis"	3
+"GO:0022414"	"reproductive process"	"GO:0090687"	"activation of meiosis I spindle assembly checkpoint"	3
+"GO:0022414"	"reproductive process"	"GO:0090727"	"positive regulation of brood size"	3
+"GO:0022414"	"reproductive process"	"GO:0090728"	"negative regulation of brood size"	3
+"GO:0022414"	"reproductive process"	"GO:0097368"	"establishment of Sertoli cell barrier"	3
+"GO:0022414"	"reproductive process"	"GO:0098728"	"germline stem cell asymmetric division"	3
+"GO:0022414"	"reproductive process"	"GO:0098729"	"germline stem cell symmetric division"	3
+"GO:0022414"	"reproductive process"	"GO:0106060"	"regulation of exit from meiosis"	3
+"GO:0022414"	"reproductive process"	"GO:0106212"	"centromere detachment from spindle pole body involved in meiotic chromosome organization"	3
+"GO:0022414"	"reproductive process"	"GO:0106213"	"kinetochore disassembly involved in meiotic chromosome organization"	3
+"GO:0022414"	"reproductive process"	"GO:0110030"	"regulation of G2/MI transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:0110044"	"regulation of cell cycle switching, mitotic to meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:1901994"	"negative regulation of meiotic cell cycle phase transition"	3
+"GO:0022414"	"reproductive process"	"GO:1901995"	"positive regulation of meiotic cell cycle phase transition"	3
+"GO:0022414"	"reproductive process"	"GO:1902102"	"regulation of metaphase/anaphase transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:1902103"	"negative regulation of metaphase/anaphase transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:1902104"	"positive regulation of metaphase/anaphase transition of meiotic cell cycle"	3
+"GO:0022414"	"reproductive process"	"GO:1902120"	"negative regulation of meiotic spindle elongation"	3
+"GO:0022414"	"reproductive process"	"GO:1902970"	"premeiotic DNA replication DNA duplex unwinding"	3
+"GO:0022414"	"reproductive process"	"GO:1902989"	"meiotic telomere maintenance via semi-conservative replication"	3
+"GO:0022414"	"reproductive process"	"GO:1903709"	"uterine gland development"	3
+"GO:0022414"	"reproductive process"	"GO:1904145"	"negative regulation of meiotic cell cycle process involved in oocyte maturation"	3
+"GO:0022414"	"reproductive process"	"GO:1904146"	"positive regulation of meiotic cell cycle process involved in oocyte maturation"	3
+"GO:0022414"	"reproductive process"	"GO:1904512"	"regulation of initiation of premeiotic DNA replication"	3
+"GO:0022414"	"reproductive process"	"GO:1904513"	"negative regulation of initiation of premeiotic DNA replication"	3
+"GO:0022414"	"reproductive process"	"GO:1905261"	"regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:1905262"	"negative regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:1905263"	"positive regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination"	3
+"GO:0022414"	"reproductive process"	"GO:1905318"	"meiosis I spindle assembly checkpoint signaling"	3
+"GO:0022414"	"reproductive process"	"GO:1905867"	"epididymis development"	3
+"GO:0022414"	"reproductive process"	"GO:1905886"	"chromatin remodeling involved in meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:1990571"	"meiotic centromere clustering"	3
+"GO:0022414"	"reproductive process"	"GO:1990946"	"meiosis I/meiosis II transition"	3
+"GO:0022414"	"reproductive process"	"GO:1990947"	"exit from meiosis"	3
+"GO:0022414"	"reproductive process"	"GO:1990949"	"metaphase/anaphase transition of meiosis I"	3
+"GO:0022414"	"reproductive process"	"GO:1990950"	"metaphase/anaphase transition of meiosis II"	3
+"GO:0022414"	"reproductive process"	"GO:2000018"	"regulation of male gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000019"	"negative regulation of male gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000020"	"positive regulation of male gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000194"	"regulation of female gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000195"	"negative regulation of female gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000196"	"positive regulation of female gonad development"	3
+"GO:0022414"	"reproductive process"	"GO:2000254"	"regulation of male germ cell proliferation"	3
+"GO:0022414"	"reproductive process"	"GO:2000255"	"negative regulation of male germ cell proliferation"	3
+"GO:0022414"	"reproductive process"	"GO:2000256"	"positive regulation of male germ cell proliferation"	3
+"GO:0022414"	"reproductive process"	"GO:2000709"	"regulation of maintenance of meiotic sister chromatid cohesion, centromeric"	3
+"GO:0022414"	"reproductive process"	"GO:2000710"	"negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric"	3
+"GO:0022414"	"reproductive process"	"GO:2000711"	"positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric"	3
+"GO:0022414"	"reproductive process"	"GO:2000712"	"regulation of maintenance of meiotic sister chromatid cohesion, arms"	3
+"GO:0022414"	"reproductive process"	"GO:2000713"	"negative regulation of maintenance of meiotic sister chromatid cohesion, arms"	3
+"GO:0022414"	"reproductive process"	"GO:2000714"	"positive regulation of maintenance of meiotic sister chromatid cohesion, arms"	3
+"GO:0022414"	"reproductive process"	"GO:2000870"	"regulation of progesterone secretion"	3
+"GO:0022414"	"reproductive process"	"GO:2000871"	"negative regulation of progesterone secretion"	3
+"GO:0022414"	"reproductive process"	"GO:2000872"	"positive regulation of progesterone secretion"	3
+"GO:0022414"	"reproductive process"	"GO:0000705"	"achiasmate meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:0007146"	"meiotic recombination nodule assembly"	4
+"GO:0022414"	"reproductive process"	"GO:0007311"	"maternal specification of dorsal/ventral axis, oocyte, germ-line encoded"	4
+"GO:0022414"	"reproductive process"	"GO:0007313"	"maternal specification of dorsal/ventral axis, oocyte, soma encoded"	4
+"GO:0022414"	"reproductive process"	"GO:0007532"	"regulation of mating-type specific transcription, DNA-templated"	4
+"GO:0022414"	"reproductive process"	"GO:0007539"	"primary sex determination, soma"	4
+"GO:0022414"	"reproductive process"	"GO:0007542"	"primary sex determination, germ-line"	4
+"GO:0022414"	"reproductive process"	"GO:0007619"	"courtship behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0008584"	"male gonad development"	4
+"GO:0022414"	"reproductive process"	"GO:0008585"	"female gonad development"	4
+"GO:0022414"	"reproductive process"	"GO:0010773"	"meiotic DNA recombinase assembly involved in meiotic gene conversion"	4
+"GO:0022414"	"reproductive process"	"GO:0010775"	"meiotic strand invasion involved in meiotic gene conversion"	4
+"GO:0022414"	"reproductive process"	"GO:0010776"	"meiotic mismatch repair involved in meiotic gene conversion"	4
+"GO:0022414"	"reproductive process"	"GO:0010779"	"meiotic DNA repair synthesis involved in meiotic gene conversion"	4
+"GO:0022414"	"reproductive process"	"GO:0010781"	"meiotic DNA double-strand break formation involved in meiotic gene conversion"	4
+"GO:0022414"	"reproductive process"	"GO:0010789"	"meiotic sister chromatid cohesion involved in meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:0010790"	"meiotic sister chromatid cohesion involved in meiosis II"	4
+"GO:0022414"	"reproductive process"	"GO:0010846"	"activation of reciprocal meiotic recombination"	4
+"GO:0022414"	"reproductive process"	"GO:0019099"	"female germ-line sex determination"	4
+"GO:0022414"	"reproductive process"	"GO:0019100"	"male germ-line sex determination"	4
+"GO:0022414"	"reproductive process"	"GO:0019101"	"female somatic sex determination"	4
+"GO:0022414"	"reproductive process"	"GO:0019102"	"male somatic sex determination"	4
+"GO:0022414"	"reproductive process"	"GO:0030539"	"male genitalia development"	4
+"GO:0022414"	"reproductive process"	"GO:0030540"	"female genitalia development"	4
+"GO:0022414"	"reproductive process"	"GO:0031619"	"homologous chromosome orientation involved in meiotic metaphase I plate congression"	4
+"GO:0022414"	"reproductive process"	"GO:0033315"	"meiotic G2/MI DNA replication checkpoint signaling"	4
+"GO:0022414"	"reproductive process"	"GO:0033316"	"meiotic spindle assembly checkpoint signaling"	4
+"GO:0022414"	"reproductive process"	"GO:0035648"	"circadian mating behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0035847"	"uterine epithelium development"	4
+"GO:0022414"	"reproductive process"	"GO:0042695"	"thelarche"	4
+"GO:0022414"	"reproductive process"	"GO:0042711"	"maternal behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0042712"	"paternal behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0048047"	"mating behavior, sex discrimination"	4
+"GO:0022414"	"reproductive process"	"GO:0048132"	"female germ-line stem cell asymmetric division"	4
+"GO:0022414"	"reproductive process"	"GO:0051729"	"germline cell cycle switching, mitotic to meiotic cell cycle"	4
+"GO:0022414"	"reproductive process"	"GO:0051754"	"meiotic sister chromatid cohesion, centromeric"	4
+"GO:0022414"	"reproductive process"	"GO:0051760"	"meiotic sister chromatid cohesion, arms"	4
+"GO:0022414"	"reproductive process"	"GO:0060179"	"male mating behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0060180"	"female mating behavior"	4
+"GO:0022414"	"reproductive process"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	4
+"GO:0022414"	"reproductive process"	"GO:0060631"	"regulation of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:0060903"	"positive regulation of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:0062102"	"female germline stem cell symmetric division"	4
+"GO:0022414"	"reproductive process"	"GO:0062209"	"spatial regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination"	4
+"GO:0022414"	"reproductive process"	"GO:0090427"	"activation of meiosis"	4
+"GO:0022414"	"reproductive process"	"GO:0098730"	"male germline stem cell symmetric division"	4
+"GO:0022414"	"reproductive process"	"GO:0106061"	"negative regulation of exit from meiosis"	4
+"GO:0022414"	"reproductive process"	"GO:0106062"	"positive regulation of exit from meiosis"	4
+"GO:0022414"	"reproductive process"	"GO:0110029"	"negative regulation of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:0110031"	"negative regulation of G2/MI transition of meiotic cell cycle"	4
+"GO:0022414"	"reproductive process"	"GO:0110032"	"positive regulation of G2/MI transition of meiotic cell cycle"	4
+"GO:0022414"	"reproductive process"	"GO:0110045"	"negative regulation of cell cycle switching, mitotic to meiotic cell cycle"	4
+"GO:0022414"	"reproductive process"	"GO:0110046"	"signal transduction involved in cell cycle switching, mitotic to meiotic cell cycle"	4
+"GO:0022414"	"reproductive process"	"GO:1902346"	"meiotic strand displacement involved in double-strand break repair via SDSA"	4
+"GO:0022414"	"reproductive process"	"GO:1904191"	"positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in meiotic nuclear division"	4
+"GO:0022414"	"reproductive process"	"GO:1905186"	"regulation of metaphase/anaphase transition of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:1905187"	"negative regulation of metaphase/anaphase transition of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:1905188"	"positive regulation of metaphase/anaphase transition of meiosis I"	4
+"GO:0022414"	"reproductive process"	"GO:1905189"	"regulation of metaphase/anaphase transition of meiosis II"	4
+"GO:0022414"	"reproductive process"	"GO:1905190"	"negative regulation of metaphase/anaphase transition of meiosis II"	4
+"GO:0022414"	"reproductive process"	"GO:1905191"	"positive regulation of metaphase/anaphase transition of meiosis II"	4
+"GO:0022414"	"reproductive process"	"GO:1905325"	"regulation of meiosis I spindle assembly checkpoint"	4
+"GO:0022414"	"reproductive process"	"GO:1990813"	"meiotic centromeric cohesion protection"	4
+"GO:0022414"	"reproductive process"	"GO:0008049"	"male courtship behavior"	5
+"GO:0022414"	"reproductive process"	"GO:0008050"	"female courtship behavior"	5
+"GO:0022414"	"reproductive process"	"GO:0042139"	"early meiotic recombination nodule assembly"	5
+"GO:0022414"	"reproductive process"	"GO:0042140"	"late meiotic recombination nodule assembly"	5
+"GO:0022414"	"reproductive process"	"GO:0045894"	"negative regulation of mating-type specific transcription, DNA-templated"	5
+"GO:0022414"	"reproductive process"	"GO:0045895"	"positive regulation of mating-type specific transcription, DNA-templated"	5
+"GO:0022414"	"reproductive process"	"GO:0045924"	"regulation of female receptivity"	5
+"GO:0022414"	"reproductive process"	"GO:0060068"	"vagina development"	5
+"GO:0022414"	"reproductive process"	"GO:0007621"	"negative regulation of female receptivity"	6
+"GO:0022414"	"reproductive process"	"GO:0045925"	"positive regulation of female receptivity"	6
+"GO:0022414"	"reproductive process"	"GO:0046008"	"regulation of female receptivity, post-mating"	6
+"GO:0022414"	"reproductive process"	"GO:0045434"	"negative regulation of female receptivity, post-mating"	7
+"GO:0022414"	"reproductive process"	"GO:0046009"	"positive regulation of female receptivity, post-mating"	7
+"GO:0035112"	"genitalia morphogenesis"	"GO:0035112"	"genitalia morphogenesis"	0
+"GO:0035112"	"genitalia morphogenesis"	"GO:0030538"	"embryonic genitalia morphogenesis"	1
+"GO:0035112"	"genitalia morphogenesis"	"GO:0035126"	"post-embryonic genitalia morphogenesis"	1
+"GO:0035112"	"genitalia morphogenesis"	"GO:0035260"	"internal genitalia morphogenesis"	1
+"GO:0035112"	"genitalia morphogenesis"	"GO:0035261"	"external genitalia morphogenesis"	1
+"GO:0035112"	"genitalia morphogenesis"	"GO:0048807"	"female genitalia morphogenesis"	1
+"GO:0035112"	"genitalia morphogenesis"	"GO:0048808"	"male genitalia morphogenesis"	1
+"GO:0061458"	"reproductive system development"	"GO:0061458"	"reproductive system development"	0
+"GO:0061458"	"reproductive system development"	"GO:0030539"	"male genitalia development"	1
+"GO:0061458"	"reproductive system development"	"GO:0048608"	"reproductive structure development"	1
+"GO:0061458"	"reproductive system development"	"GO:0001541"	"ovarian follicle development"	2
+"GO:0061458"	"reproductive system development"	"GO:0001890"	"placenta development"	2
+"GO:0061458"	"reproductive system development"	"GO:0007506"	"gonadal mesoderm development"	2
+"GO:0061458"	"reproductive system development"	"GO:0008406"	"gonad development"	2
+"GO:0061458"	"reproductive system development"	"GO:0030850"	"prostate gland development"	2
+"GO:0061458"	"reproductive system development"	"GO:0035846"	"oviduct epithelium development"	2
+"GO:0061458"	"reproductive system development"	"GO:0048806"	"genitalia development"	2
+"GO:0061458"	"reproductive system development"	"GO:0048808"	"male genitalia morphogenesis"	2
+"GO:0061458"	"reproductive system development"	"GO:0060065"	"uterus development"	2
+"GO:0061458"	"reproductive system development"	"GO:0060066"	"oviduct development"	2
+"GO:0061458"	"reproductive system development"	"GO:0060067"	"cervix development"	2
+"GO:0061458"	"reproductive system development"	"GO:0060525"	"prostate glandular acinus development"	2
+"GO:0061458"	"reproductive system development"	"GO:0060711"	"labyrinthine layer development"	2
+"GO:0061458"	"reproductive system development"	"GO:0060716"	"labyrinthine layer blood vessel development"	2
+"GO:0061458"	"reproductive system development"	"GO:0061107"	"seminal vesicle development"	2
+"GO:0061458"	"reproductive system development"	"GO:0061108"	"seminal vesicle epithelium development"	2
+"GO:0061458"	"reproductive system development"	"GO:0072520"	"seminiferous tubule development"	2
+"GO:0061458"	"reproductive system development"	"GO:1903709"	"uterine gland development"	2
+"GO:0061458"	"reproductive system development"	"GO:1905867"	"epididymis development"	2
+"GO:0061458"	"reproductive system development"	"GO:0001544"	"initiation of primordial ovarian follicle growth"	3
+"GO:0061458"	"reproductive system development"	"GO:0001545"	"primary ovarian follicle growth"	3
+"GO:0061458"	"reproductive system development"	"GO:0001546"	"preantral ovarian follicle growth"	3
+"GO:0061458"	"reproductive system development"	"GO:0001547"	"antral ovarian follicle growth"	3
+"GO:0061458"	"reproductive system development"	"GO:0001551"	"ovarian follicle endowment"	3
+"GO:0061458"	"reproductive system development"	"GO:0001892"	"embryonic placenta development"	3
+"GO:0061458"	"reproductive system development"	"GO:0001893"	"maternal placenta development"	3
+"GO:0061458"	"reproductive system development"	"GO:0008584"	"male gonad development"	3
+"GO:0061458"	"reproductive system development"	"GO:0008585"	"female gonad development"	3
+"GO:0061458"	"reproductive system development"	"GO:0030540"	"female genitalia development"	3
+"GO:0061458"	"reproductive system development"	"GO:0035112"	"genitalia morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0035262"	"gonad morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0035471"	"luteinizing hormone signaling pathway involved in ovarian follicle development"	3
+"GO:0061458"	"reproductive system development"	"GO:0035847"	"uterine epithelium development"	3
+"GO:0061458"	"reproductive system development"	"GO:0035848"	"oviduct morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0042699"	"follicle-stimulating hormone signaling pathway"	3
+"GO:0061458"	"reproductive system development"	"GO:0044345"	"stromal-epithelial cell signaling involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060512"	"prostate gland morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0060526"	"prostate glandular acinus morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0060528"	"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060529"	"squamous basal epithelial stem cell differentiation involved in prostate gland acinus development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060530"	"smooth muscle cell differentiation involved in prostate glandular acinus development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060671"	"epithelial cell differentiation involved in embryonic placenta development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060674"	"placenta blood vessel development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060713"	"labyrinthine layer morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0060715"	"syncytiotrophoblast cell differentiation involved in labyrinthine layer development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060736"	"prostate gland growth"	3
+"GO:0061458"	"reproductive system development"	"GO:0060738"	"epithelial-mesenchymal signaling involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060739"	"mesenchymal-epithelial cell signaling involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060742"	"epithelial cell differentiation involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060767"	"epithelial cell proliferation involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0060781"	"mesenchymal cell proliferation involved in prostate gland development"	3
+"GO:0061458"	"reproductive system development"	"GO:0061038"	"uterus morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0061682"	"seminal vesicle morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:0061683"	"branching involved in seminal vesicle morphogenesis"	3
+"GO:0061458"	"reproductive system development"	"GO:1905939"	"regulation of gonad development"	3
+"GO:0061458"	"reproductive system development"	"GO:1905940"	"negative regulation of gonad development"	3
+"GO:0061458"	"reproductive system development"	"GO:1905941"	"positive regulation of gonad development"	3
+"GO:0061458"	"reproductive system development"	"GO:2000354"	"regulation of ovarian follicle development"	3
+"GO:0061458"	"reproductive system development"	"GO:2000355"	"negative regulation of ovarian follicle development"	3
+"GO:0061458"	"reproductive system development"	"GO:2000386"	"positive regulation of ovarian follicle development"	3
+"GO:0061458"	"reproductive system development"	"GO:0001542"	"ovulation from ovarian follicle"	4
+"GO:0061458"	"reproductive system development"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	4
+"GO:0061458"	"reproductive system development"	"GO:0001549"	"cumulus cell differentiation"	4
+"GO:0061458"	"reproductive system development"	"GO:0001550"	"ovarian cumulus expansion"	4
+"GO:0061458"	"reproductive system development"	"GO:0001552"	"ovarian follicle atresia"	4
+"GO:0061458"	"reproductive system development"	"GO:0001553"	"luteinization"	4
+"GO:0061458"	"reproductive system development"	"GO:0001554"	"luteolysis"	4
+"GO:0061458"	"reproductive system development"	"GO:0030538"	"embryonic genitalia morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0033327"	"Leydig cell differentiation"	4
+"GO:0061458"	"reproductive system development"	"GO:0035126"	"post-embryonic genitalia morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0035260"	"internal genitalia morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0035261"	"external genitalia morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	4
+"GO:0061458"	"reproductive system development"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	4
+"GO:0061458"	"reproductive system development"	"GO:0046697"	"decidualization"	4
+"GO:0061458"	"reproductive system development"	"GO:0048807"	"female genitalia morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060008"	"Sertoli cell differentiation"	4
+"GO:0061458"	"reproductive system development"	"GO:0060011"	"Sertoli cell proliferation"	4
+"GO:0061458"	"reproductive system development"	"GO:0060068"	"vagina development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	4
+"GO:0061458"	"reproductive system development"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	4
+"GO:0061458"	"reproductive system development"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060669"	"embryonic placenta morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060670"	"branching involved in labyrinthine layer morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060672"	"epithelial cell morphogenesis involved in placental branching"	4
+"GO:0061458"	"reproductive system development"	"GO:0060673"	"cell-cell signaling involved in placenta development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060706"	"cell differentiation involved in embryonic placenta development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060710"	"chorio-allantoic fusion"	4
+"GO:0061458"	"reproductive system development"	"GO:0060714"	"labyrinthine layer formation"	4
+"GO:0061458"	"reproductive system development"	"GO:0060722"	"cell proliferation involved in embryonic placenta development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060737"	"prostate gland morphogenetic growth"	4
+"GO:0061458"	"reproductive system development"	"GO:0060740"	"prostate gland epithelium morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060741"	"prostate gland stromal morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0060743"	"epithelial cell maturation involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060768"	"regulation of epithelial cell proliferation involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060769"	"positive regulation of epithelial cell proliferation involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060770"	"negative regulation of epithelial cell proliferation involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060782"	"regulation of mesenchymal cell proliferation involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0060783"	"mesenchymal smoothened signaling pathway involved in prostate gland development"	4
+"GO:0061458"	"reproductive system development"	"GO:0061040"	"female gonad morphogenesis"	4
+"GO:0061458"	"reproductive system development"	"GO:0110079"	"regulation of placenta blood vessel development"	4
+"GO:0061458"	"reproductive system development"	"GO:0110080"	"positive regulation of placenta blood vessel development"	4
+"GO:0061458"	"reproductive system development"	"GO:0110081"	"negative regulation of placenta blood vessel development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000018"	"regulation of male gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000019"	"negative regulation of male gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000020"	"positive regulation of male gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000194"	"regulation of female gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000195"	"negative regulation of female gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000196"	"positive regulation of female gonad development"	4
+"GO:0061458"	"reproductive system development"	"GO:2000387"	"regulation of antral ovarian follicle growth"	4
+"GO:0061458"	"reproductive system development"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	4
+"GO:0061458"	"reproductive system development"	"GO:0001543"	"ovarian follicle rupture"	5
+"GO:0061458"	"reproductive system development"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	5
+"GO:0061458"	"reproductive system development"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	5
+"GO:0061458"	"reproductive system development"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	5
+"GO:0061458"	"reproductive system development"	"GO:0042701"	"progesterone secretion"	5
+"GO:0061458"	"reproductive system development"	"GO:0042702"	"uterine wall growth"	5
+"GO:0061458"	"reproductive system development"	"GO:0045592"	"regulation of cumulus cell differentiation"	5
+"GO:0061458"	"reproductive system development"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	5
+"GO:0061458"	"reproductive system development"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	5
+"GO:0061458"	"reproductive system development"	"GO:0060009"	"Sertoli cell development"	5
+"GO:0061458"	"reproductive system development"	"GO:0060010"	"Sertoli cell fate commitment"	5
+"GO:0061458"	"reproductive system development"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	5
+"GO:0061458"	"reproductive system development"	"GO:0060513"	"prostatic bud formation"	5
+"GO:0061458"	"reproductive system development"	"GO:0060516"	"primary prostatic bud elongation"	5
+"GO:0061458"	"reproductive system development"	"GO:0060523"	"prostate epithelial cord elongation"	5
+"GO:0061458"	"reproductive system development"	"GO:0060707"	"trophoblast giant cell differentiation"	5
+"GO:0061458"	"reproductive system development"	"GO:0060723"	"regulation of cell proliferation involved in embryonic placenta development"	5
+"GO:0061458"	"reproductive system development"	"GO:0060800"	"regulation of cell differentiation involved in embryonic placenta development"	5
+"GO:0061458"	"reproductive system development"	"GO:0060806"	"negative regulation of cell differentiation involved in embryonic placenta development"	5
+"GO:0061458"	"reproductive system development"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	5
+"GO:0061458"	"reproductive system development"	"GO:0061364"	"apoptotic process involved in luteolysis"	5
+"GO:0061458"	"reproductive system development"	"GO:2000870"	"regulation of progesterone secretion"	5
+"GO:0061458"	"reproductive system development"	"GO:2000871"	"negative regulation of progesterone secretion"	5
+"GO:0061458"	"reproductive system development"	"GO:2000872"	"positive regulation of progesterone secretion"	5
+"GO:0061458"	"reproductive system development"	"GO:0060515"	"prostate field specification"	6
+"GO:0061458"	"reproductive system development"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	6
+"GO:0061458"	"reproductive system development"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	6
+"GO:0061458"	"reproductive system development"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	6
+"GO:0061458"	"reproductive system development"	"GO:0060685"	"regulation of prostatic bud formation"	6
+"GO:0061458"	"reproductive system development"	"GO:0060686"	"negative regulation of prostatic bud formation"	6
+"GO:0061458"	"reproductive system development"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	6
+"GO:0061458"	"reproductive system development"	"GO:0097368"	"establishment of Sertoli cell barrier"	6
+"GO:0061458"	"reproductive system development"	"GO:0060514"	"prostate induction"	7
+"GO:0061458"	"reproductive system development"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	7
+"GO:0061458"	"reproductive system development"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	7
+"GO:0061458"	"reproductive system development"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	7
+"GO:0061458"	"reproductive system development"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	7
+"GO:1903728"	"luteal cell differentiation"	"GO:1903728"	"luteal cell differentiation"	0
+"GO:0033327"	"Leydig cell differentiation"	"GO:0033327"	"Leydig cell differentiation"	0
+"GO:0060008"	"Sertoli cell differentiation"	"GO:0060008"	"Sertoli cell differentiation"	0
+"GO:0060008"	"Sertoli cell differentiation"	"GO:0060009"	"Sertoli cell development"	1
+"GO:0060008"	"Sertoli cell differentiation"	"GO:0060010"	"Sertoli cell fate commitment"	1
+"GO:0060008"	"Sertoli cell differentiation"	"GO:0097368"	"establishment of Sertoli cell barrier"	2
+"GO:0060008"	"Sertoli cell differentiation"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	3
+"GO:0060008"	"Sertoli cell differentiation"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	3
+"GO:0060008"	"Sertoli cell differentiation"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	3
+"GO:0060009"	"Sertoli cell development"	"GO:0060009"	"Sertoli cell development"	0
+"GO:0060009"	"Sertoli cell development"	"GO:0097368"	"establishment of Sertoli cell barrier"	1
+"GO:0060009"	"Sertoli cell development"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	2
+"GO:0060009"	"Sertoli cell development"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	2
+"GO:0060009"	"Sertoli cell development"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	2
+"GO:0060011"	"Sertoli cell proliferation"	"GO:0060011"	"Sertoli cell proliferation"	0
+"GO:1902484"	"Sertoli cell apoptotic process"	"GO:1902484"	"Sertoli cell apoptotic process"	0
+"GO:0007297"	"ovarian follicle cell migration"	"GO:0007297"	"ovarian follicle cell migration"	0
+"GO:0007297"	"ovarian follicle cell migration"	"GO:0007298"	"border follicle cell migration"	1
+"GO:0007297"	"ovarian follicle cell migration"	"GO:0060269"	"centripetally migrating follicle cell migration"	1
+"GO:0007297"	"ovarian follicle cell migration"	"GO:0060270"	"main body follicle cell migration"	1
+"GO:0007297"	"ovarian follicle cell migration"	"GO:1903684"	"regulation of border follicle cell migration"	2
+"GO:0007297"	"ovarian follicle cell migration"	"GO:1903687"	"negative regulation of border follicle cell migration"	2
+"GO:0007297"	"ovarian follicle cell migration"	"GO:1903688"	"positive regulation of border follicle cell migration"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:0030707"	"ovarian follicle cell development"	0
+"GO:0030707"	"ovarian follicle cell development"	"GO:0007297"	"ovarian follicle cell migration"	1
+"GO:0030707"	"ovarian follicle cell development"	"GO:0007299"	"ovarian follicle cell-cell adhesion"	1
+"GO:0030707"	"ovarian follicle cell development"	"GO:0008069"	"dorsal/ventral axis specification, ovarian follicular epithelium"	1
+"GO:0030707"	"ovarian follicle cell development"	"GO:0030713"	"ovarian follicle cell stalk formation"	1
+"GO:0030707"	"ovarian follicle cell development"	"GO:0030714"	"anterior/posterior axis specification, follicular epithelium"	1
+"GO:0030707"	"ovarian follicle cell development"	"GO:0007298"	"border follicle cell migration"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:0008070"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:0008071"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:0060269"	"centripetally migrating follicle cell migration"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:0060270"	"main body follicle cell migration"	2
+"GO:0030707"	"ovarian follicle cell development"	"GO:1903684"	"regulation of border follicle cell migration"	3
+"GO:0030707"	"ovarian follicle cell development"	"GO:1903687"	"negative regulation of border follicle cell migration"	3
+"GO:0030707"	"ovarian follicle cell development"	"GO:1903688"	"positive regulation of border follicle cell migration"	3
+"GO:0032529"	"follicle cell microvillus organization"	"GO:0032529"	"follicle cell microvillus organization"	0
+"GO:0032529"	"follicle cell microvillus organization"	"GO:0032531"	"regulation of follicle cell microvillus organization"	1
+"GO:0032529"	"follicle cell microvillus organization"	"GO:0032533"	"regulation of follicle cell microvillus length"	2
+"GO:0060014"	"granulosa cell differentiation"	"GO:0060014"	"granulosa cell differentiation"	0
+"GO:0060014"	"granulosa cell differentiation"	"GO:0060015"	"granulosa cell fate commitment"	1
+"GO:0060014"	"granulosa cell differentiation"	"GO:0060016"	"granulosa cell development"	1
+"GO:0060016"	"granulosa cell development"	"GO:0060016"	"granulosa cell development"	0
+"GO:1904700"	"granulosa cell apoptotic process"	"GO:1904700"	"granulosa cell apoptotic process"	0
+"GO:1904700"	"granulosa cell apoptotic process"	"GO:1904708"	"regulation of granulosa cell apoptotic process"	1
+"GO:1904700"	"granulosa cell apoptotic process"	"GO:1904709"	"negative regulation of granulosa cell apoptotic process"	1
+"GO:1904700"	"granulosa cell apoptotic process"	"GO:1904710"	"positive regulation of granulosa cell apoptotic process"	1
+"GO:1990739"	"granulosa cell proliferation"	"GO:1990739"	"granulosa cell proliferation"	0
+"GO:1990739"	"granulosa cell proliferation"	"GO:1904195"	"regulation of granulosa cell proliferation"	1
+"GO:1990739"	"granulosa cell proliferation"	"GO:1904196"	"negative regulation of granulosa cell proliferation"	1
+"GO:1990739"	"granulosa cell proliferation"	"GO:1904197"	"positive regulation of granulosa cell proliferation"	1
+"GO:0046697"	"decidualization"	"GO:0046697"	"decidualization"	0
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0120178"	"steroid hormone biosynthetic process"	0
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0006700"	"C21-steroid hormone biosynthetic process"	1
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0006702"	"androgen biosynthetic process"	1
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0006703"	"estrogen biosynthetic process"	1
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0006705"	"mineralocorticoid biosynthetic process"	1
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0006701"	"progesterone biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0032342"	"aldosterone biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:1904076"	"regulation of estrogen biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:1904077"	"negative regulation of estrogen biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:1904078"	"positive regulation of estrogen biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:2000180"	"negative regulation of androgen biosynthetic process"	2
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0032347"	"regulation of aldosterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0032348"	"negative regulation of aldosterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0032349"	"positive regulation of aldosterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:2000182"	"regulation of progesterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:2000183"	"negative regulation of progesterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:2000184"	"positive regulation of progesterone biosynthetic process"	3
+"GO:0120178"	"steroid hormone biosynthetic process"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	4
+"GO:0060067"	"cervix development"	"GO:0060067"	"cervix development"	0
+"GO:0007276"	"gamete generation"	"GO:0007276"	"gamete generation"	0
+"GO:0007276"	"gamete generation"	"GO:0007281"	"germ cell development"	1
+"GO:0007276"	"gamete generation"	"GO:0007292"	"female gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0008354"	"germ cell migration"	1
+"GO:0007276"	"gamete generation"	"GO:0036093"	"germ cell proliferation"	1
+"GO:0007276"	"gamete generation"	"GO:0043046"	"DNA methylation involved in gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0048138"	"germ-line cyst encapsulation"	1
+"GO:0007276"	"gamete generation"	"GO:0048232"	"male gamete generation"	1
+"GO:0007276"	"gamete generation"	"GO:0061988"	"karyosome formation"	1
+"GO:0007276"	"gamete generation"	"GO:0002176"	"male germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:0007140"	"male meiotic nuclear division"	2
+"GO:0007276"	"gamete generation"	"GO:0007143"	"female meiotic nuclear division"	2
+"GO:0007276"	"gamete generation"	"GO:0007282"	"cystoblast division"	2
+"GO:0007276"	"gamete generation"	"GO:0007283"	"spermatogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0007286"	"spermatid development"	2
+"GO:0007276"	"gamete generation"	"GO:0007296"	"vitellogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0030717"	"oocyte karyosome formation"	2
+"GO:0007276"	"gamete generation"	"GO:0030728"	"ovulation"	2
+"GO:0007276"	"gamete generation"	"GO:0035232"	"germ cell attraction"	2
+"GO:0007276"	"gamete generation"	"GO:0035233"	"germ cell repulsion"	2
+"GO:0007276"	"gamete generation"	"GO:0042078"	"germ-line stem cell division"	2
+"GO:0007276"	"gamete generation"	"GO:0048134"	"germ-line cyst formation"	2
+"GO:0007276"	"gamete generation"	"GO:0048477"	"oogenesis"	2
+"GO:0007276"	"gamete generation"	"GO:0048599"	"oocyte development"	2
+"GO:0007276"	"gamete generation"	"GO:0055047"	"generative cell mitosis"	2
+"GO:0007276"	"gamete generation"	"GO:0061989"	"sperm karyosome formation"	2
+"GO:0007276"	"gamete generation"	"GO:1905936"	"regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:1905937"	"negative regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:1905938"	"positive regulation of germ cell proliferation"	2
+"GO:0007276"	"gamete generation"	"GO:0001542"	"ovulation from ovarian follicle"	3
+"GO:0007276"	"gamete generation"	"GO:0001555"	"oocyte growth"	3
+"GO:0007276"	"gamete generation"	"GO:0001556"	"oocyte maturation"	3
+"GO:0007276"	"gamete generation"	"GO:0001675"	"acrosome assembly"	3
+"GO:0007276"	"gamete generation"	"GO:0007053"	"spindle assembly involved in male meiosis"	3
+"GO:0007276"	"gamete generation"	"GO:0007056"	"spindle assembly involved in female meiosis"	3
+"GO:0007276"	"gamete generation"	"GO:0007060"	"male meiosis chromosome segregation"	3
+"GO:0007276"	"gamete generation"	"GO:0007065"	"male meiosis sister chromatid cohesion"	3
+"GO:0007276"	"gamete generation"	"GO:0007066"	"female meiosis sister chromatid cohesion"	3
+"GO:0007276"	"gamete generation"	"GO:0007112"	"male meiosis cytokinesis"	3
+"GO:0007276"	"gamete generation"	"GO:0007141"	"male meiosis I"	3
+"GO:0007276"	"gamete generation"	"GO:0007142"	"male meiosis II"	3
+"GO:0007276"	"gamete generation"	"GO:0007144"	"female meiosis I"	3
+"GO:0007276"	"gamete generation"	"GO:0007147"	"female meiosis II"	3
+"GO:0007276"	"gamete generation"	"GO:0007284"	"spermatogonial cell division"	3
+"GO:0007276"	"gamete generation"	"GO:0007285"	"primary spermatocyte growth"	3
+"GO:0007276"	"gamete generation"	"GO:0007287"	"Nebenkern assembly"	3
+"GO:0007276"	"gamete generation"	"GO:0007289"	"spermatid nucleus differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0007291"	"sperm individualization"	3
+"GO:0007276"	"gamete generation"	"GO:0007308"	"oocyte construction"	3
+"GO:0007276"	"gamete generation"	"GO:0009994"	"oocyte differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0016321"	"female meiosis chromosome segregation"	3
+"GO:0007276"	"gamete generation"	"GO:0022605"	"mammalian oogenesis stage"	3
+"GO:0007276"	"gamete generation"	"GO:0030707"	"ovarian follicle cell development"	3
+"GO:0007276"	"gamete generation"	"GO:0040038"	"polar body extrusion after meiotic divisions"	3
+"GO:0007276"	"gamete generation"	"GO:0048132"	"female germ-line stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0048133"	"male germ-line stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0048135"	"female germ-line cyst formation"	3
+"GO:0007276"	"gamete generation"	"GO:0048136"	"male germ-line cyst formation"	3
+"GO:0007276"	"gamete generation"	"GO:0048137"	"spermatocyte division"	3
+"GO:0007276"	"gamete generation"	"GO:0048240"	"sperm capacitation"	3
+"GO:0007276"	"gamete generation"	"GO:0048515"	"spermatid differentiation"	3
+"GO:0007276"	"gamete generation"	"GO:0048601"	"oocyte morphogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:0060278"	"regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060279"	"positive regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060280"	"negative regulation of ovulation"	3
+"GO:0007276"	"gamete generation"	"GO:0060281"	"regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0060282"	"positive regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0060283"	"negative regulation of oocyte development"	3
+"GO:0007276"	"gamete generation"	"GO:0061883"	"clathrin-dependent endocytosis involved in vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:0098728"	"germline stem cell asymmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0098729"	"germline stem cell symmetric division"	3
+"GO:0007276"	"gamete generation"	"GO:0120313"	"regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120314"	"negative regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120315"	"positive regulation of oocyte karyosome formation"	3
+"GO:0007276"	"gamete generation"	"GO:0120316"	"sperm flagellum assembly"	3
+"GO:0007276"	"gamete generation"	"GO:1902064"	"regulation of transcription from RNA polymerase II promoter involved in spermatogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903186"	"regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903187"	"negative regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1903188"	"positive regulation of vitellogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905198"	"manchette assembly"	3
+"GO:0007276"	"gamete generation"	"GO:1905199"	"manchette disassembly"	3
+"GO:0007276"	"gamete generation"	"GO:1905879"	"regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905880"	"negative regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1905881"	"positive regulation of oogenesis"	3
+"GO:0007276"	"gamete generation"	"GO:1990953"	"intramanchette transport"	3
+"GO:0007276"	"gamete generation"	"GO:2000254"	"regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:2000255"	"negative regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:2000256"	"positive regulation of male germ cell proliferation"	3
+"GO:0007276"	"gamete generation"	"GO:0001543"	"ovarian follicle rupture"	4
+"GO:0007276"	"gamete generation"	"GO:0007054"	"spindle assembly involved in male meiosis I"	4
+"GO:0007276"	"gamete generation"	"GO:0007055"	"spindle assembly involved in male meiosis II"	4
+"GO:0007276"	"gamete generation"	"GO:0007057"	"spindle assembly involved in female meiosis I"	4
+"GO:0007276"	"gamete generation"	"GO:0007058"	"spindle assembly involved in female meiosis II"	4
+"GO:0007276"	"gamete generation"	"GO:0007288"	"sperm axoneme assembly"	4
+"GO:0007276"	"gamete generation"	"GO:0007290"	"spermatid nucleus elongation"	4
+"GO:0007276"	"gamete generation"	"GO:0007297"	"ovarian follicle cell migration"	4
+"GO:0007276"	"gamete generation"	"GO:0007299"	"ovarian follicle cell-cell adhesion"	4
+"GO:0007276"	"gamete generation"	"GO:0007309"	"oocyte axis specification"	4
+"GO:0007276"	"gamete generation"	"GO:0008069"	"dorsal/ventral axis specification, ovarian follicular epithelium"	4
+"GO:0007276"	"gamete generation"	"GO:0009971"	"anastral spindle assembly involved in male meiosis"	4
+"GO:0007276"	"gamete generation"	"GO:0016325"	"oocyte microtubule cytoskeleton organization"	4
+"GO:0007276"	"gamete generation"	"GO:0016345"	"female meiotic chromosome movement towards spindle pole"	4
+"GO:0007276"	"gamete generation"	"GO:0016346"	"male meiotic chromosome movement towards spindle pole"	4
+"GO:0007276"	"gamete generation"	"GO:0030713"	"ovarian follicle cell stalk formation"	4
+"GO:0007276"	"gamete generation"	"GO:0030714"	"anterior/posterior axis specification, follicular epithelium"	4
+"GO:0007276"	"gamete generation"	"GO:0035092"	"sperm chromatin condensation"	4
+"GO:0007276"	"gamete generation"	"GO:0045700"	"regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0045701"	"negative regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0045702"	"positive regulation of spermatid nuclear differentiation"	4
+"GO:0007276"	"gamete generation"	"GO:0048158"	"oogonium stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048159"	"primary oocyte stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048160"	"primary follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048161"	"double layer follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048162"	"multi-layer follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048163"	"scattered antral spaces stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048164"	"distinct antral spaces stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048165"	"fused antrum stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048166"	"mature follicle stage"	4
+"GO:0007276"	"gamete generation"	"GO:0048600"	"oocyte fate commitment"	4
+"GO:0007276"	"gamete generation"	"GO:0051308"	"male meiosis chromosome separation"	4
+"GO:0007276"	"gamete generation"	"GO:0051309"	"female meiosis chromosome separation"	4
+"GO:0007276"	"gamete generation"	"GO:0060474"	"positive regulation of flagellated sperm motility involved in capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:0061954"	"positive regulation of actin filament polymerization involved in sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:0062102"	"female germline stem cell symmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0098730"	"male germline stem cell symmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0120211"	"proacrosomal vesicle fusion"	4
+"GO:0007276"	"gamete generation"	"GO:0120317"	"sperm mitochondrial sheath assembly"	4
+"GO:0007276"	"gamete generation"	"GO:1900193"	"regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1900194"	"negative regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1900195"	"positive regulation of oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1902490"	"regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1902491"	"negative regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1902492"	"positive regulation of sperm capacitation"	4
+"GO:0007276"	"gamete generation"	"GO:1903537"	"meiotic cell cycle process involved in oocyte maturation"	4
+"GO:0007276"	"gamete generation"	"GO:1904838"	"regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:1904839"	"negative regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:1904840"	"positive regulation of male germ-line stem cell asymmetric division"	4
+"GO:0007276"	"gamete generation"	"GO:0001546"	"preantral ovarian follicle growth"	5
+"GO:0007276"	"gamete generation"	"GO:0001549"	"cumulus cell differentiation"	5
+"GO:0007276"	"gamete generation"	"GO:0001550"	"ovarian cumulus expansion"	5
+"GO:0007276"	"gamete generation"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	5
+"GO:0007276"	"gamete generation"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	5
+"GO:0007276"	"gamete generation"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	5
+"GO:0007276"	"gamete generation"	"GO:0007298"	"border follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0007310"	"oocyte dorsal/ventral axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:0007314"	"oocyte anterior/posterior axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:0008070"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"	5
+"GO:0007276"	"gamete generation"	"GO:0008071"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"	5
+"GO:0007276"	"gamete generation"	"GO:0008103"	"oocyte microtubule cytoskeleton polarization"	5
+"GO:0007276"	"gamete generation"	"GO:0035093"	"spermatogenesis, exchange of chromosomal proteins"	5
+"GO:0007276"	"gamete generation"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	5
+"GO:0007276"	"gamete generation"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	5
+"GO:0007276"	"gamete generation"	"GO:0060269"	"centripetally migrating follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0060270"	"main body follicle cell migration"	5
+"GO:0007276"	"gamete generation"	"GO:0060832"	"oocyte animal/vegetal axis specification"	5
+"GO:0007276"	"gamete generation"	"GO:1903538"	"regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:1904145"	"negative regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:1904146"	"positive regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0007276"	"gamete generation"	"GO:0007311"	"maternal specification of dorsal/ventral axis, oocyte, germ-line encoded"	6
+"GO:0007276"	"gamete generation"	"GO:0007313"	"maternal specification of dorsal/ventral axis, oocyte, soma encoded"	6
+"GO:0007276"	"gamete generation"	"GO:0045592"	"regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	6
+"GO:0007276"	"gamete generation"	"GO:0051663"	"oocyte nucleus localization involved in oocyte dorsal/ventral axis specification"	6
+"GO:0007276"	"gamete generation"	"GO:0060833"	"Wnt signaling pathway involved in animal/vegetal axis specification"	6
+"GO:0007276"	"gamete generation"	"GO:1903684"	"regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:1903687"	"negative regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:1903688"	"positive regulation of border follicle cell migration"	6
+"GO:0007276"	"gamete generation"	"GO:0007312"	"oocyte nucleus migration involved in oocyte dorsal/ventral axis specification"	7
+"GO:0007276"	"gamete generation"	"GO:0042070"	"maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification"	7
+"GO:0021983"	"pituitary gland development"	"GO:0021983"	"pituitary gland development"	0
+"GO:0021983"	"pituitary gland development"	"GO:0021984"	"adenohypophysis development"	1
+"GO:0021983"	"pituitary gland development"	"GO:0021985"	"neurohypophysis development"	1
+"GO:0021983"	"pituitary gland development"	"GO:0048850"	"hypophysis morphogenesis"	1
+"GO:0021983"	"pituitary gland development"	"GO:0048848"	"neurohypophysis morphogenesis"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048851"	"hypophysis formation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048855"	"adenohypophysis morphogenesis"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060126"	"somatotropin secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060127"	"prolactin secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060128"	"corticotropin hormone secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	2
+"GO:0021983"	"pituitary gland development"	"GO:0048847"	"adenohypophysis formation"	3
+"GO:0021983"	"pituitary gland development"	"GO:0048849"	"neurohypophysis formation"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060131"	"corticotropin hormone secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060132"	"prolactin secreting cell development"	3
+"GO:0021983"	"pituitary gland development"	"GO:0060133"	"somatotropin secreting cell development"	3
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048850"	"hypophysis morphogenesis"	0
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048848"	"neurohypophysis morphogenesis"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048851"	"hypophysis formation"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048855"	"adenohypophysis morphogenesis"	1
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048847"	"adenohypophysis formation"	2
+"GO:0048850"	"hypophysis morphogenesis"	"GO:0048849"	"neurohypophysis formation"	2
+"GO:0048851"	"hypophysis formation"	"GO:0048851"	"hypophysis formation"	0
+"GO:0001545"	"primary ovarian follicle growth"	"GO:0001545"	"primary ovarian follicle growth"	0
+"GO:0001545"	"primary ovarian follicle growth"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	1
+"GO:0001545"	"primary ovarian follicle growth"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	1
+"GO:0001546"	"preantral ovarian follicle growth"	"GO:0001546"	"preantral ovarian follicle growth"	0
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0001547"	"antral ovarian follicle growth"	0
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	1
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0001549"	"cumulus cell differentiation"	1
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0001550"	"ovarian cumulus expansion"	1
+"GO:0001547"	"antral ovarian follicle growth"	"GO:2000387"	"regulation of antral ovarian follicle growth"	1
+"GO:0001547"	"antral ovarian follicle growth"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	1
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	2
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	2
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	2
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0045592"	"regulation of cumulus cell differentiation"	2
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	2
+"GO:0001547"	"antral ovarian follicle growth"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	2
+"GO:0030539"	"male genitalia development"	"GO:0030539"	"male genitalia development"	0
+"GO:0030539"	"male genitalia development"	"GO:0048808"	"male genitalia morphogenesis"	1
+"GO:0048808"	"male genitalia morphogenesis"	"GO:0048808"	"male genitalia morphogenesis"	0
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060740"	"prostate gland epithelium morphogenesis"	0
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	1
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060513"	"prostatic bud formation"	1
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060516"	"primary prostatic bud elongation"	1
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060523"	"prostate epithelial cord elongation"	1
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060526"	"prostate glandular acinus morphogenesis"	1
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060515"	"prostate field specification"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060685"	"regulation of prostatic bud formation"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060686"	"negative regulation of prostatic bud formation"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	2
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060514"	"prostate induction"	3
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	3
+"GO:0060740"	"prostate gland epithelium morphogenesis"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	4
+"GO:0042702"	"uterine wall growth"	"GO:0042702"	"uterine wall growth"	0
+"GO:0008584"	"male gonad development"	"GO:0008584"	"male gonad development"	0
+"GO:0008584"	"male gonad development"	"GO:0033327"	"Leydig cell differentiation"	1
+"GO:0008584"	"male gonad development"	"GO:0060008"	"Sertoli cell differentiation"	1
+"GO:0008584"	"male gonad development"	"GO:0060011"	"Sertoli cell proliferation"	1
+"GO:0008584"	"male gonad development"	"GO:0072520"	"seminiferous tubule development"	1
+"GO:0008584"	"male gonad development"	"GO:2000018"	"regulation of male gonad development"	1
+"GO:0008584"	"male gonad development"	"GO:2000019"	"negative regulation of male gonad development"	1
+"GO:0008584"	"male gonad development"	"GO:2000020"	"positive regulation of male gonad development"	1
+"GO:0008584"	"male gonad development"	"GO:0060009"	"Sertoli cell development"	2
+"GO:0008584"	"male gonad development"	"GO:0060010"	"Sertoli cell fate commitment"	2
+"GO:0008584"	"male gonad development"	"GO:0097368"	"establishment of Sertoli cell barrier"	3
+"GO:0008584"	"male gonad development"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	4
+"GO:0008584"	"male gonad development"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	4
+"GO:0008584"	"male gonad development"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	4
+"GO:0008406"	"gonad development"	"GO:0008406"	"gonad development"	0
+"GO:0008406"	"gonad development"	"GO:0007506"	"gonadal mesoderm development"	1
+"GO:0008406"	"gonad development"	"GO:0008584"	"male gonad development"	1
+"GO:0008406"	"gonad development"	"GO:0008585"	"female gonad development"	1
+"GO:0008406"	"gonad development"	"GO:0035262"	"gonad morphogenesis"	1
+"GO:0008406"	"gonad development"	"GO:1905939"	"regulation of gonad development"	1
+"GO:0008406"	"gonad development"	"GO:1905940"	"negative regulation of gonad development"	1
+"GO:0008406"	"gonad development"	"GO:1905941"	"positive regulation of gonad development"	1
+"GO:0008406"	"gonad development"	"GO:0001541"	"ovarian follicle development"	2
+"GO:0008406"	"gonad development"	"GO:0001542"	"ovulation from ovarian follicle"	2
+"GO:0008406"	"gonad development"	"GO:0001552"	"ovarian follicle atresia"	2
+"GO:0008406"	"gonad development"	"GO:0001553"	"luteinization"	2
+"GO:0008406"	"gonad development"	"GO:0001554"	"luteolysis"	2
+"GO:0008406"	"gonad development"	"GO:0033327"	"Leydig cell differentiation"	2
+"GO:0008406"	"gonad development"	"GO:0060008"	"Sertoli cell differentiation"	2
+"GO:0008406"	"gonad development"	"GO:0060011"	"Sertoli cell proliferation"	2
+"GO:0008406"	"gonad development"	"GO:0061040"	"female gonad morphogenesis"	2
+"GO:0008406"	"gonad development"	"GO:0072520"	"seminiferous tubule development"	2
+"GO:0008406"	"gonad development"	"GO:2000018"	"regulation of male gonad development"	2
+"GO:0008406"	"gonad development"	"GO:2000019"	"negative regulation of male gonad development"	2
+"GO:0008406"	"gonad development"	"GO:2000020"	"positive regulation of male gonad development"	2
+"GO:0008406"	"gonad development"	"GO:2000194"	"regulation of female gonad development"	2
+"GO:0008406"	"gonad development"	"GO:2000195"	"negative regulation of female gonad development"	2
+"GO:0008406"	"gonad development"	"GO:2000196"	"positive regulation of female gonad development"	2
+"GO:0008406"	"gonad development"	"GO:0001543"	"ovarian follicle rupture"	3
+"GO:0008406"	"gonad development"	"GO:0001544"	"initiation of primordial ovarian follicle growth"	3
+"GO:0008406"	"gonad development"	"GO:0001545"	"primary ovarian follicle growth"	3
+"GO:0008406"	"gonad development"	"GO:0001546"	"preantral ovarian follicle growth"	3
+"GO:0008406"	"gonad development"	"GO:0001547"	"antral ovarian follicle growth"	3
+"GO:0008406"	"gonad development"	"GO:0001551"	"ovarian follicle endowment"	3
+"GO:0008406"	"gonad development"	"GO:0035471"	"luteinizing hormone signaling pathway involved in ovarian follicle development"	3
+"GO:0008406"	"gonad development"	"GO:0042699"	"follicle-stimulating hormone signaling pathway"	3
+"GO:0008406"	"gonad development"	"GO:0042701"	"progesterone secretion"	3
+"GO:0008406"	"gonad development"	"GO:0042702"	"uterine wall growth"	3
+"GO:0008406"	"gonad development"	"GO:0060009"	"Sertoli cell development"	3
+"GO:0008406"	"gonad development"	"GO:0060010"	"Sertoli cell fate commitment"	3
+"GO:0008406"	"gonad development"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	3
+"GO:0008406"	"gonad development"	"GO:0061364"	"apoptotic process involved in luteolysis"	3
+"GO:0008406"	"gonad development"	"GO:2000354"	"regulation of ovarian follicle development"	3
+"GO:0008406"	"gonad development"	"GO:2000355"	"negative regulation of ovarian follicle development"	3
+"GO:0008406"	"gonad development"	"GO:2000386"	"positive regulation of ovarian follicle development"	3
+"GO:0008406"	"gonad development"	"GO:2000870"	"regulation of progesterone secretion"	3
+"GO:0008406"	"gonad development"	"GO:2000871"	"negative regulation of progesterone secretion"	3
+"GO:0008406"	"gonad development"	"GO:2000872"	"positive regulation of progesterone secretion"	3
+"GO:0008406"	"gonad development"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	4
+"GO:0008406"	"gonad development"	"GO:0001549"	"cumulus cell differentiation"	4
+"GO:0008406"	"gonad development"	"GO:0001550"	"ovarian cumulus expansion"	4
+"GO:0008406"	"gonad development"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	4
+"GO:0008406"	"gonad development"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	4
+"GO:0008406"	"gonad development"	"GO:0097368"	"establishment of Sertoli cell barrier"	4
+"GO:0008406"	"gonad development"	"GO:2000387"	"regulation of antral ovarian follicle growth"	4
+"GO:0008406"	"gonad development"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	4
+"GO:0008406"	"gonad development"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	5
+"GO:0008406"	"gonad development"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	5
+"GO:0008406"	"gonad development"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	5
+"GO:0008406"	"gonad development"	"GO:0045592"	"regulation of cumulus cell differentiation"	5
+"GO:0008406"	"gonad development"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	5
+"GO:0008406"	"gonad development"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	5
+"GO:0008406"	"gonad development"	"GO:1904444"	"regulation of establishment of Sertoli cell barrier"	5
+"GO:0008406"	"gonad development"	"GO:1904445"	"negative regulation of establishment of Sertoli cell barrier"	5
+"GO:0008406"	"gonad development"	"GO:1904446"	"positive regulation of establishment of Sertoli cell barrier"	5
+"GO:0035262"	"gonad morphogenesis"	"GO:0035262"	"gonad morphogenesis"	0
+"GO:0035262"	"gonad morphogenesis"	"GO:0061040"	"female gonad morphogenesis"	1
+"GO:0008585"	"female gonad development"	"GO:0008585"	"female gonad development"	0
+"GO:0008585"	"female gonad development"	"GO:0001541"	"ovarian follicle development"	1
+"GO:0008585"	"female gonad development"	"GO:0001542"	"ovulation from ovarian follicle"	1
+"GO:0008585"	"female gonad development"	"GO:0001552"	"ovarian follicle atresia"	1
+"GO:0008585"	"female gonad development"	"GO:0001553"	"luteinization"	1
+"GO:0008585"	"female gonad development"	"GO:0001554"	"luteolysis"	1
+"GO:0008585"	"female gonad development"	"GO:0061040"	"female gonad morphogenesis"	1
+"GO:0008585"	"female gonad development"	"GO:2000194"	"regulation of female gonad development"	1
+"GO:0008585"	"female gonad development"	"GO:2000195"	"negative regulation of female gonad development"	1
+"GO:0008585"	"female gonad development"	"GO:2000196"	"positive regulation of female gonad development"	1
+"GO:0008585"	"female gonad development"	"GO:0001543"	"ovarian follicle rupture"	2
+"GO:0008585"	"female gonad development"	"GO:0001544"	"initiation of primordial ovarian follicle growth"	2
+"GO:0008585"	"female gonad development"	"GO:0001545"	"primary ovarian follicle growth"	2
+"GO:0008585"	"female gonad development"	"GO:0001546"	"preantral ovarian follicle growth"	2
+"GO:0008585"	"female gonad development"	"GO:0001547"	"antral ovarian follicle growth"	2
+"GO:0008585"	"female gonad development"	"GO:0001551"	"ovarian follicle endowment"	2
+"GO:0008585"	"female gonad development"	"GO:0035471"	"luteinizing hormone signaling pathway involved in ovarian follicle development"	2
+"GO:0008585"	"female gonad development"	"GO:0042699"	"follicle-stimulating hormone signaling pathway"	2
+"GO:0008585"	"female gonad development"	"GO:0042701"	"progesterone secretion"	2
+"GO:0008585"	"female gonad development"	"GO:0042702"	"uterine wall growth"	2
+"GO:0008585"	"female gonad development"	"GO:0061363"	"negative regulation of progesterone biosynthesis involved in luteolysis"	2
+"GO:0008585"	"female gonad development"	"GO:0061364"	"apoptotic process involved in luteolysis"	2
+"GO:0008585"	"female gonad development"	"GO:2000354"	"regulation of ovarian follicle development"	2
+"GO:0008585"	"female gonad development"	"GO:2000355"	"negative regulation of ovarian follicle development"	2
+"GO:0008585"	"female gonad development"	"GO:2000386"	"positive regulation of ovarian follicle development"	2
+"GO:0008585"	"female gonad development"	"GO:2000870"	"regulation of progesterone secretion"	2
+"GO:0008585"	"female gonad development"	"GO:2000871"	"negative regulation of progesterone secretion"	2
+"GO:0008585"	"female gonad development"	"GO:2000872"	"positive regulation of progesterone secretion"	2
+"GO:0008585"	"female gonad development"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	3
+"GO:0008585"	"female gonad development"	"GO:0001549"	"cumulus cell differentiation"	3
+"GO:0008585"	"female gonad development"	"GO:0001550"	"ovarian cumulus expansion"	3
+"GO:0008585"	"female gonad development"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	3
+"GO:0008585"	"female gonad development"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	3
+"GO:0008585"	"female gonad development"	"GO:2000387"	"regulation of antral ovarian follicle growth"	3
+"GO:0008585"	"female gonad development"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	3
+"GO:0008585"	"female gonad development"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	4
+"GO:0008585"	"female gonad development"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	4
+"GO:0008585"	"female gonad development"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	4
+"GO:0008585"	"female gonad development"	"GO:0045592"	"regulation of cumulus cell differentiation"	4
+"GO:0008585"	"female gonad development"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	4
+"GO:0008585"	"female gonad development"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	4
+"GO:0061040"	"female gonad morphogenesis"	"GO:0061040"	"female gonad morphogenesis"	0
+"GO:0035848"	"oviduct morphogenesis"	"GO:0035848"	"oviduct morphogenesis"	0
+"GO:0060065"	"uterus development"	"GO:0060065"	"uterus development"	0
+"GO:0060065"	"uterus development"	"GO:0035847"	"uterine epithelium development"	1
+"GO:0060065"	"uterus development"	"GO:0061038"	"uterus morphogenesis"	1
+"GO:0061038"	"uterus morphogenesis"	"GO:0061038"	"uterus morphogenesis"	0
+"GO:0060068"	"vagina development"	"GO:0060068"	"vagina development"	0
+"GO:0061107"	"seminal vesicle development"	"GO:0061107"	"seminal vesicle development"	0
+"GO:0061107"	"seminal vesicle development"	"GO:0061108"	"seminal vesicle epithelium development"	1
+"GO:0061107"	"seminal vesicle development"	"GO:0061682"	"seminal vesicle morphogenesis"	1
+"GO:0061107"	"seminal vesicle development"	"GO:0061683"	"branching involved in seminal vesicle morphogenesis"	2
+"GO:0061682"	"seminal vesicle morphogenesis"	"GO:0061682"	"seminal vesicle morphogenesis"	0
+"GO:0061682"	"seminal vesicle morphogenesis"	"GO:0061683"	"branching involved in seminal vesicle morphogenesis"	1
+"GO:0042713"	"sperm ejaculation"	"GO:0042713"	"sperm ejaculation"	0
+"GO:1905867"	"epididymis development"	"GO:1905867"	"epididymis development"	0
+"GO:0001541"	"ovarian follicle development"	"GO:0001541"	"ovarian follicle development"	0
+"GO:0001541"	"ovarian follicle development"	"GO:0001544"	"initiation of primordial ovarian follicle growth"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0001545"	"primary ovarian follicle growth"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0001546"	"preantral ovarian follicle growth"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0001547"	"antral ovarian follicle growth"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0001551"	"ovarian follicle endowment"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0035471"	"luteinizing hormone signaling pathway involved in ovarian follicle development"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0042699"	"follicle-stimulating hormone signaling pathway"	1
+"GO:0001541"	"ovarian follicle development"	"GO:2000354"	"regulation of ovarian follicle development"	1
+"GO:0001541"	"ovarian follicle development"	"GO:2000355"	"negative regulation of ovarian follicle development"	1
+"GO:0001541"	"ovarian follicle development"	"GO:2000386"	"positive regulation of ovarian follicle development"	1
+"GO:0001541"	"ovarian follicle development"	"GO:0001548"	"follicular fluid formation in ovarian follicle antrum"	2
+"GO:0001541"	"ovarian follicle development"	"GO:0001549"	"cumulus cell differentiation"	2
+"GO:0001541"	"ovarian follicle development"	"GO:0001550"	"ovarian cumulus expansion"	2
+"GO:0001541"	"ovarian follicle development"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	2
+"GO:0001541"	"ovarian follicle development"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	2
+"GO:0001541"	"ovarian follicle development"	"GO:2000387"	"regulation of antral ovarian follicle growth"	2
+"GO:0001541"	"ovarian follicle development"	"GO:2000388"	"positive regulation of antral ovarian follicle growth"	2
+"GO:0001541"	"ovarian follicle development"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	3
+"GO:0001541"	"ovarian follicle development"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	3
+"GO:0001541"	"ovarian follicle development"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	3
+"GO:0001541"	"ovarian follicle development"	"GO:0045592"	"regulation of cumulus cell differentiation"	3
+"GO:0001541"	"ovarian follicle development"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	3
+"GO:0001541"	"ovarian follicle development"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	3
+"GO:0001550"	"ovarian cumulus expansion"	"GO:0001550"	"ovarian cumulus expansion"	0
+"GO:0007283"	"spermatogenesis"	"GO:0007283"	"spermatogenesis"	0
+"GO:0007283"	"spermatogenesis"	"GO:0007284"	"spermatogonial cell division"	1
+"GO:0007283"	"spermatogenesis"	"GO:0007285"	"primary spermatocyte growth"	1
+"GO:0007283"	"spermatogenesis"	"GO:0048133"	"male germ-line stem cell asymmetric division"	1
+"GO:0007283"	"spermatogenesis"	"GO:0048136"	"male germ-line cyst formation"	1
+"GO:0007283"	"spermatogenesis"	"GO:0048137"	"spermatocyte division"	1
+"GO:0007283"	"spermatogenesis"	"GO:0048515"	"spermatid differentiation"	1
+"GO:0007283"	"spermatogenesis"	"GO:0061989"	"sperm karyosome formation"	1
+"GO:0007283"	"spermatogenesis"	"GO:1902064"	"regulation of transcription from RNA polymerase II promoter involved in spermatogenesis"	1
+"GO:0007283"	"spermatogenesis"	"GO:0007286"	"spermatid development"	2
+"GO:0007283"	"spermatogenesis"	"GO:1904838"	"regulation of male germ-line stem cell asymmetric division"	2
+"GO:0007283"	"spermatogenesis"	"GO:1904839"	"negative regulation of male germ-line stem cell asymmetric division"	2
+"GO:0007283"	"spermatogenesis"	"GO:1904840"	"positive regulation of male germ-line stem cell asymmetric division"	2
+"GO:0007283"	"spermatogenesis"	"GO:0001675"	"acrosome assembly"	3
+"GO:0007283"	"spermatogenesis"	"GO:0007287"	"Nebenkern assembly"	3
+"GO:0007283"	"spermatogenesis"	"GO:0007289"	"spermatid nucleus differentiation"	3
+"GO:0007283"	"spermatogenesis"	"GO:0007291"	"sperm individualization"	3
+"GO:0007283"	"spermatogenesis"	"GO:0048240"	"sperm capacitation"	3
+"GO:0007283"	"spermatogenesis"	"GO:0120316"	"sperm flagellum assembly"	3
+"GO:0007283"	"spermatogenesis"	"GO:1905198"	"manchette assembly"	3
+"GO:0007283"	"spermatogenesis"	"GO:1905199"	"manchette disassembly"	3
+"GO:0007283"	"spermatogenesis"	"GO:1990953"	"intramanchette transport"	3
+"GO:0007283"	"spermatogenesis"	"GO:0007288"	"sperm axoneme assembly"	4
+"GO:0007283"	"spermatogenesis"	"GO:0007290"	"spermatid nucleus elongation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0035092"	"sperm chromatin condensation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0045700"	"regulation of spermatid nuclear differentiation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0045701"	"negative regulation of spermatid nuclear differentiation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0045702"	"positive regulation of spermatid nuclear differentiation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0060474"	"positive regulation of flagellated sperm motility involved in capacitation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0061954"	"positive regulation of actin filament polymerization involved in sperm capacitation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0120211"	"proacrosomal vesicle fusion"	4
+"GO:0007283"	"spermatogenesis"	"GO:0120317"	"sperm mitochondrial sheath assembly"	4
+"GO:0007283"	"spermatogenesis"	"GO:1902490"	"regulation of sperm capacitation"	4
+"GO:0007283"	"spermatogenesis"	"GO:1902491"	"negative regulation of sperm capacitation"	4
+"GO:0007283"	"spermatogenesis"	"GO:1902492"	"positive regulation of sperm capacitation"	4
+"GO:0007283"	"spermatogenesis"	"GO:0035093"	"spermatogenesis, exchange of chromosomal proteins"	5
+"GO:0072520"	"seminiferous tubule development"	"GO:0072520"	"seminiferous tubule development"	0
+"GO:0001890"	"placenta development"	"GO:0001890"	"placenta development"	0
+"GO:0001890"	"placenta development"	"GO:0001892"	"embryonic placenta development"	1
+"GO:0001890"	"placenta development"	"GO:0001893"	"maternal placenta development"	1
+"GO:0001890"	"placenta development"	"GO:0060674"	"placenta blood vessel development"	1
+"GO:0001890"	"placenta development"	"GO:0046697"	"decidualization"	2
+"GO:0001890"	"placenta development"	"GO:0060669"	"embryonic placenta morphogenesis"	2
+"GO:0001890"	"placenta development"	"GO:0060673"	"cell-cell signaling involved in placenta development"	2
+"GO:0001890"	"placenta development"	"GO:0060706"	"cell differentiation involved in embryonic placenta development"	2
+"GO:0001890"	"placenta development"	"GO:0060711"	"labyrinthine layer development"	2
+"GO:0001890"	"placenta development"	"GO:0060716"	"labyrinthine layer blood vessel development"	2
+"GO:0001890"	"placenta development"	"GO:0060722"	"cell proliferation involved in embryonic placenta development"	2
+"GO:0001890"	"placenta development"	"GO:0110079"	"regulation of placenta blood vessel development"	2
+"GO:0001890"	"placenta development"	"GO:0110080"	"positive regulation of placenta blood vessel development"	2
+"GO:0001890"	"placenta development"	"GO:0110081"	"negative regulation of placenta blood vessel development"	2
+"GO:0001890"	"placenta development"	"GO:0060671"	"epithelial cell differentiation involved in embryonic placenta development"	3
+"GO:0001890"	"placenta development"	"GO:0060707"	"trophoblast giant cell differentiation"	3
+"GO:0001890"	"placenta development"	"GO:0060713"	"labyrinthine layer morphogenesis"	3
+"GO:0001890"	"placenta development"	"GO:0060715"	"syncytiotrophoblast cell differentiation involved in labyrinthine layer development"	3
+"GO:0001890"	"placenta development"	"GO:0060723"	"regulation of cell proliferation involved in embryonic placenta development"	3
+"GO:0001890"	"placenta development"	"GO:0060800"	"regulation of cell differentiation involved in embryonic placenta development"	3
+"GO:0001890"	"placenta development"	"GO:0060806"	"negative regulation of cell differentiation involved in embryonic placenta development"	3
+"GO:0001890"	"placenta development"	"GO:0060670"	"branching involved in labyrinthine layer morphogenesis"	4
+"GO:0001890"	"placenta development"	"GO:0060672"	"epithelial cell morphogenesis involved in placental branching"	4
+"GO:0001890"	"placenta development"	"GO:0060710"	"chorio-allantoic fusion"	4
+"GO:0001890"	"placenta development"	"GO:0060714"	"labyrinthine layer formation"	4
+"GO:0021984"	"adenohypophysis development"	"GO:0021984"	"adenohypophysis development"	0
+"GO:0021984"	"adenohypophysis development"	"GO:0048855"	"adenohypophysis morphogenesis"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060126"	"somatotropin secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060127"	"prolactin secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060128"	"corticotropin hormone secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0060129"	"thyroid-stimulating hormone-secreting cell differentiation"	1
+"GO:0021984"	"adenohypophysis development"	"GO:0048847"	"adenohypophysis formation"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060130"	"thyroid-stimulating hormone-secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060131"	"corticotropin hormone secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060132"	"prolactin secreting cell development"	2
+"GO:0021984"	"adenohypophysis development"	"GO:0060133"	"somatotropin secreting cell development"	2
+"GO:0048847"	"adenohypophysis formation"	"GO:0048847"	"adenohypophysis formation"	0
+"GO:0048855"	"adenohypophysis morphogenesis"	"GO:0048855"	"adenohypophysis morphogenesis"	0
+"GO:0048855"	"adenohypophysis morphogenesis"	"GO:0048847"	"adenohypophysis formation"	1
+"GO:0021985"	"neurohypophysis development"	"GO:0021985"	"neurohypophysis development"	0
+"GO:0021985"	"neurohypophysis development"	"GO:0048848"	"neurohypophysis morphogenesis"	1
+"GO:0021985"	"neurohypophysis development"	"GO:0048849"	"neurohypophysis formation"	2
+"GO:0048848"	"neurohypophysis morphogenesis"	"GO:0048848"	"neurohypophysis morphogenesis"	0
+"GO:0048848"	"neurohypophysis morphogenesis"	"GO:0048849"	"neurohypophysis formation"	1
+"GO:0048849"	"neurohypophysis formation"	"GO:0048849"	"neurohypophysis formation"	0
+"GO:0030850"	"prostate gland development"	"GO:0030850"	"prostate gland development"	0
+"GO:0030850"	"prostate gland development"	"GO:0044345"	"stromal-epithelial cell signaling involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060512"	"prostate gland morphogenesis"	1
+"GO:0030850"	"prostate gland development"	"GO:0060525"	"prostate glandular acinus development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060736"	"prostate gland growth"	1
+"GO:0030850"	"prostate gland development"	"GO:0060738"	"epithelial-mesenchymal signaling involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060739"	"mesenchymal-epithelial cell signaling involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060742"	"epithelial cell differentiation involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060767"	"epithelial cell proliferation involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060781"	"mesenchymal cell proliferation involved in prostate gland development"	1
+"GO:0030850"	"prostate gland development"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	2
+"GO:0030850"	"prostate gland development"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	2
+"GO:0030850"	"prostate gland development"	"GO:0060526"	"prostate glandular acinus morphogenesis"	2
+"GO:0030850"	"prostate gland development"	"GO:0060528"	"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060529"	"squamous basal epithelial stem cell differentiation involved in prostate gland acinus development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060530"	"smooth muscle cell differentiation involved in prostate glandular acinus development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060737"	"prostate gland morphogenetic growth"	2
+"GO:0030850"	"prostate gland development"	"GO:0060740"	"prostate gland epithelium morphogenesis"	2
+"GO:0030850"	"prostate gland development"	"GO:0060741"	"prostate gland stromal morphogenesis"	2
+"GO:0030850"	"prostate gland development"	"GO:0060743"	"epithelial cell maturation involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060768"	"regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060769"	"positive regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060770"	"negative regulation of epithelial cell proliferation involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060782"	"regulation of mesenchymal cell proliferation involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060783"	"mesenchymal smoothened signaling pathway involved in prostate gland development"	2
+"GO:0030850"	"prostate gland development"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	3
+"GO:0030850"	"prostate gland development"	"GO:0060513"	"prostatic bud formation"	3
+"GO:0030850"	"prostate gland development"	"GO:0060516"	"primary prostatic bud elongation"	3
+"GO:0030850"	"prostate gland development"	"GO:0060523"	"prostate epithelial cord elongation"	3
+"GO:0030850"	"prostate gland development"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	3
+"GO:0030850"	"prostate gland development"	"GO:0060515"	"prostate field specification"	4
+"GO:0030850"	"prostate gland development"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	4
+"GO:0030850"	"prostate gland development"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	4
+"GO:0030850"	"prostate gland development"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	4
+"GO:0030850"	"prostate gland development"	"GO:0060685"	"regulation of prostatic bud formation"	4
+"GO:0030850"	"prostate gland development"	"GO:0060686"	"negative regulation of prostatic bud formation"	4
+"GO:0030850"	"prostate gland development"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	4
+"GO:0030850"	"prostate gland development"	"GO:0060514"	"prostate induction"	5
+"GO:0030850"	"prostate gland development"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	5
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060512"	"prostate gland morphogenesis"	0
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060737"	"prostate gland morphogenetic growth"	1
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060740"	"prostate gland epithelium morphogenesis"	1
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060741"	"prostate gland stromal morphogenesis"	1
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060442"	"branching involved in prostate gland morphogenesis"	2
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060513"	"prostatic bud formation"	2
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060516"	"primary prostatic bud elongation"	2
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060523"	"prostate epithelial cord elongation"	2
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060526"	"prostate glandular acinus morphogenesis"	2
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060515"	"prostate field specification"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060524"	"dichotomous subdivision of prostate epithelial cord terminal unit"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060685"	"regulation of prostatic bud formation"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060686"	"negative regulation of prostatic bud formation"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060687"	"regulation of branching involved in prostate gland morphogenesis"	3
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060514"	"prostate induction"	4
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060520"	"activation of prostate induction by androgen receptor signaling pathway"	4
+"GO:0060512"	"prostate gland morphogenesis"	"GO:0060521"	"mesenchymal-epithelial cell signaling involved in prostate induction"	5
+"GO:0060736"	"prostate gland growth"	"GO:0060736"	"prostate gland growth"	0
+"GO:0060736"	"prostate gland growth"	"GO:0060737"	"prostate gland morphogenetic growth"	1
+"GO:0060736"	"prostate gland growth"	"GO:0060516"	"primary prostatic bud elongation"	2
+"GO:0060736"	"prostate gland growth"	"GO:0060523"	"prostate epithelial cord elongation"	2
+"GO:0060736"	"prostate gland growth"	"GO:0060517"	"epithelial cell proliferation involved in prostatic bud elongation"	3
+"GO:0060736"	"prostate gland growth"	"GO:0060518"	"cell migration involved in prostatic bud elongation"	3
+"GO:0060736"	"prostate gland growth"	"GO:0060519"	"cell adhesion involved in prostatic bud elongation"	3
+"GO:0001893"	"maternal placenta development"	"GO:0001893"	"maternal placenta development"	0
+"GO:0001893"	"maternal placenta development"	"GO:0046697"	"decidualization"	1
+"GO:1903709"	"uterine gland development"	"GO:1903709"	"uterine gland development"	0
+"GO:0042701"	"progesterone secretion"	"GO:0042701"	"progesterone secretion"	0
+"GO:0042701"	"progesterone secretion"	"GO:2000870"	"regulation of progesterone secretion"	1
+"GO:0042701"	"progesterone secretion"	"GO:2000871"	"negative regulation of progesterone secretion"	1
+"GO:0042701"	"progesterone secretion"	"GO:2000872"	"positive regulation of progesterone secretion"	1
+"GO:0048477"	"oogenesis"	"GO:0048477"	"oogenesis"	0
+"GO:0048477"	"oogenesis"	"GO:0009994"	"oocyte differentiation"	1
+"GO:0048477"	"oogenesis"	"GO:0022605"	"mammalian oogenesis stage"	1
+"GO:0048477"	"oogenesis"	"GO:0030707"	"ovarian follicle cell development"	1
+"GO:0048477"	"oogenesis"	"GO:0030717"	"oocyte karyosome formation"	1
+"GO:0048477"	"oogenesis"	"GO:0048132"	"female germ-line stem cell asymmetric division"	1
+"GO:0048477"	"oogenesis"	"GO:0048135"	"female germ-line cyst formation"	1
+"GO:0048477"	"oogenesis"	"GO:1905879"	"regulation of oogenesis"	1
+"GO:0048477"	"oogenesis"	"GO:1905880"	"negative regulation of oogenesis"	1
+"GO:0048477"	"oogenesis"	"GO:1905881"	"positive regulation of oogenesis"	1
+"GO:0048477"	"oogenesis"	"GO:0007297"	"ovarian follicle cell migration"	2
+"GO:0048477"	"oogenesis"	"GO:0007299"	"ovarian follicle cell-cell adhesion"	2
+"GO:0048477"	"oogenesis"	"GO:0008069"	"dorsal/ventral axis specification, ovarian follicular epithelium"	2
+"GO:0048477"	"oogenesis"	"GO:0030713"	"ovarian follicle cell stalk formation"	2
+"GO:0048477"	"oogenesis"	"GO:0030714"	"anterior/posterior axis specification, follicular epithelium"	2
+"GO:0048477"	"oogenesis"	"GO:0048158"	"oogonium stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048159"	"primary oocyte stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048160"	"primary follicle stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048161"	"double layer follicle stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048162"	"multi-layer follicle stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048163"	"scattered antral spaces stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048164"	"distinct antral spaces stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048165"	"fused antrum stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048166"	"mature follicle stage"	2
+"GO:0048477"	"oogenesis"	"GO:0048599"	"oocyte development"	2
+"GO:0048477"	"oogenesis"	"GO:0048600"	"oocyte fate commitment"	2
+"GO:0048477"	"oogenesis"	"GO:0060281"	"regulation of oocyte development"	2
+"GO:0048477"	"oogenesis"	"GO:0120313"	"regulation of oocyte karyosome formation"	2
+"GO:0048477"	"oogenesis"	"GO:0120314"	"negative regulation of oocyte karyosome formation"	2
+"GO:0048477"	"oogenesis"	"GO:0120315"	"positive regulation of oocyte karyosome formation"	2
+"GO:0048477"	"oogenesis"	"GO:0001546"	"preantral ovarian follicle growth"	3
+"GO:0048477"	"oogenesis"	"GO:0001549"	"cumulus cell differentiation"	3
+"GO:0048477"	"oogenesis"	"GO:0001550"	"ovarian cumulus expansion"	3
+"GO:0048477"	"oogenesis"	"GO:0001555"	"oocyte growth"	3
+"GO:0048477"	"oogenesis"	"GO:0001556"	"oocyte maturation"	3
+"GO:0048477"	"oogenesis"	"GO:0003003"	"follicular fluid formation in ovarian follicle antrum involved in fused antrum stage"	3
+"GO:0048477"	"oogenesis"	"GO:0003004"	"follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage"	3
+"GO:0048477"	"oogenesis"	"GO:0003005"	"follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage"	3
+"GO:0048477"	"oogenesis"	"GO:0007298"	"border follicle cell migration"	3
+"GO:0048477"	"oogenesis"	"GO:0007308"	"oocyte construction"	3
+"GO:0048477"	"oogenesis"	"GO:0008070"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"	3
+"GO:0048477"	"oogenesis"	"GO:0008071"	"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"	3
+"GO:0048477"	"oogenesis"	"GO:0043929"	"primary ovarian follicle growth involved in double layer follicle stage"	3
+"GO:0048477"	"oogenesis"	"GO:0043930"	"primary ovarian follicle growth involved in primary follicle stage"	3
+"GO:0048477"	"oogenesis"	"GO:0048601"	"oocyte morphogenesis"	3
+"GO:0048477"	"oogenesis"	"GO:0060269"	"centripetally migrating follicle cell migration"	3
+"GO:0048477"	"oogenesis"	"GO:0060270"	"main body follicle cell migration"	3
+"GO:0048477"	"oogenesis"	"GO:0060282"	"positive regulation of oocyte development"	3
+"GO:0048477"	"oogenesis"	"GO:0060283"	"negative regulation of oocyte development"	3
+"GO:0048477"	"oogenesis"	"GO:0007309"	"oocyte axis specification"	4
+"GO:0048477"	"oogenesis"	"GO:0016325"	"oocyte microtubule cytoskeleton organization"	4
+"GO:0048477"	"oogenesis"	"GO:0045592"	"regulation of cumulus cell differentiation"	4
+"GO:0048477"	"oogenesis"	"GO:0045593"	"negative regulation of cumulus cell differentiation"	4
+"GO:0048477"	"oogenesis"	"GO:0045594"	"positive regulation of cumulus cell differentiation"	4
+"GO:0048477"	"oogenesis"	"GO:1900193"	"regulation of oocyte maturation"	4
+"GO:0048477"	"oogenesis"	"GO:1900194"	"negative regulation of oocyte maturation"	4
+"GO:0048477"	"oogenesis"	"GO:1900195"	"positive regulation of oocyte maturation"	4
+"GO:0048477"	"oogenesis"	"GO:1903537"	"meiotic cell cycle process involved in oocyte maturation"	4
+"GO:0048477"	"oogenesis"	"GO:1903684"	"regulation of border follicle cell migration"	4
+"GO:0048477"	"oogenesis"	"GO:1903687"	"negative regulation of border follicle cell migration"	4
+"GO:0048477"	"oogenesis"	"GO:1903688"	"positive regulation of border follicle cell migration"	4
+"GO:0048477"	"oogenesis"	"GO:0007310"	"oocyte dorsal/ventral axis specification"	5
+"GO:0048477"	"oogenesis"	"GO:0007314"	"oocyte anterior/posterior axis specification"	5
+"GO:0048477"	"oogenesis"	"GO:0008103"	"oocyte microtubule cytoskeleton polarization"	5
+"GO:0048477"	"oogenesis"	"GO:0060832"	"oocyte animal/vegetal axis specification"	5
+"GO:0048477"	"oogenesis"	"GO:1903538"	"regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0048477"	"oogenesis"	"GO:1904145"	"negative regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0048477"	"oogenesis"	"GO:1904146"	"positive regulation of meiotic cell cycle process involved in oocyte maturation"	5
+"GO:0048477"	"oogenesis"	"GO:0007311"	"maternal specification of dorsal/ventral axis, oocyte, germ-line encoded"	6
+"GO:0048477"	"oogenesis"	"GO:0007313"	"maternal specification of dorsal/ventral axis, oocyte, soma encoded"	6
+"GO:0048477"	"oogenesis"	"GO:0051663"	"oocyte nucleus localization involved in oocyte dorsal/ventral axis specification"	6
+"GO:0048477"	"oogenesis"	"GO:0060833"	"Wnt signaling pathway involved in animal/vegetal axis specification"	6
+"GO:0048477"	"oogenesis"	"GO:0007312"	"oocyte nucleus migration involved in oocyte dorsal/ventral axis specification"	7
+"GO:0048477"	"oogenesis"	"GO:0042070"	"maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification"	7
+"GO:0007506"	"gonadal mesoderm development"	"GO:0007506"	"gonadal mesoderm development"	0
+"GO:0060066"	"oviduct development"	"GO:0060066"	"oviduct development"	0
+"GO:0060066"	"oviduct development"	"GO:0035846"	"oviduct epithelium development"	1
+"GO:0060066"	"oviduct development"	"GO:0035848"	"oviduct morphogenesis"	1
+"GO:0060066"	"oviduct development"	"GO:0035847"	"uterine epithelium development"	2
+"GO:0060711"	"labyrinthine layer development"	"GO:0060711"	"labyrinthine layer development"	0
+"GO:0060711"	"labyrinthine layer development"	"GO:0060671"	"epithelial cell differentiation involved in embryonic placenta development"	1
+"GO:0060711"	"labyrinthine layer development"	"GO:0060713"	"labyrinthine layer morphogenesis"	1
+"GO:0060711"	"labyrinthine layer development"	"GO:0060715"	"syncytiotrophoblast cell differentiation involved in labyrinthine layer development"	1
+"GO:0060711"	"labyrinthine layer development"	"GO:0060716"	"labyrinthine layer blood vessel development"	1
+"GO:0060711"	"labyrinthine layer development"	"GO:0060670"	"branching involved in labyrinthine layer morphogenesis"	2
+"GO:0060711"	"labyrinthine layer development"	"GO:0060672"	"epithelial cell morphogenesis involved in placental branching"	2
+"GO:0060711"	"labyrinthine layer development"	"GO:0060710"	"chorio-allantoic fusion"	2
+"GO:0060711"	"labyrinthine layer development"	"GO:0060714"	"labyrinthine layer formation"	2
+"GO:0060713"	"labyrinthine layer morphogenesis"	"GO:0060713"	"labyrinthine layer morphogenesis"	0
+"GO:0060713"	"labyrinthine layer morphogenesis"	"GO:0060670"	"branching involved in labyrinthine layer morphogenesis"	1
+"GO:0060713"	"labyrinthine layer morphogenesis"	"GO:0060710"	"chorio-allantoic fusion"	1
+"GO:0060713"	"labyrinthine layer morphogenesis"	"GO:0060714"	"labyrinthine layer formation"	1
+"GO:0060713"	"labyrinthine layer morphogenesis"	"GO:0060672"	"epithelial cell morphogenesis involved in placental branching"	2
+"GO:0060714"	"labyrinthine layer formation"	"GO:0060714"	"labyrinthine layer formation"	0
+"GO:0035260"	"internal genitalia morphogenesis"	"GO:0035260"	"internal genitalia morphogenesis"	0
+"GO:0035261"	"external genitalia morphogenesis"	"GO:0035261"	"external genitalia morphogenesis"	0
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060525"	"prostate glandular acinus development"	0
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060526"	"prostate glandular acinus morphogenesis"	1
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060528"	"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"	1
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060529"	"squamous basal epithelial stem cell differentiation involved in prostate gland acinus development"	1
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060530"	"smooth muscle cell differentiation involved in prostate glandular acinus development"	1
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060531"	"neuroendocrine cell differentiation involved in prostate gland acinus development"	1
+"GO:0060525"	"prostate glandular acinus development"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	2
+"GO:0060526"	"prostate glandular acinus morphogenesis"	"GO:0060526"	"prostate glandular acinus morphogenesis"	0
+"GO:0060526"	"prostate glandular acinus morphogenesis"	"GO:0060527"	"prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis"	1
+"GO:0060716"	"labyrinthine layer blood vessel development"	"GO:0060716"	"labyrinthine layer blood vessel development"	0
+"GO:0060741"	"prostate gland stromal morphogenesis"	"GO:0060741"	"prostate gland stromal morphogenesis"	0
+"GO:0043084"	"penile erection"	"GO:0043084"	"penile erection"	0
+"GO:0043084"	"penile erection"	"GO:0060405"	"regulation of penile erection"	1
+"GO:0043084"	"penile erection"	"GO:0060406"	"positive regulation of penile erection"	1
+"GO:0043084"	"penile erection"	"GO:0060407"	"negative regulation of penile erection"	1
+"GO:0035846"	"oviduct epithelium development"	"GO:0035846"	"oviduct epithelium development"	0
+"GO:0035846"	"oviduct epithelium development"	"GO:0035847"	"uterine epithelium development"	1
+"GO:0061108"	"seminal vesicle epithelium development"	"GO:0061108"	"seminal vesicle epithelium development"	0
+"GO:0061108"	"seminal vesicle epithelium development"	"GO:0061683"	"branching involved in seminal vesicle morphogenesis"	1
+"GO:0071834"	"mating pheromone secretion"	"GO:0071834"	"mating pheromone secretion"	0
+"GO:0035847"	"uterine epithelium development"	"GO:0035847"	"uterine epithelium development"	0
+"GO:0007620"	"copulation"	"GO:0007620"	"copulation"	0
+"GO:0007620"	"copulation"	"GO:0007320"	"insemination"	1
+"GO:0007620"	"copulation"	"GO:0043084"	"penile erection"	1
+"GO:0007620"	"copulation"	"GO:0042713"	"sperm ejaculation"	2
+"GO:0007620"	"copulation"	"GO:0046692"	"sperm competition"	2
+"GO:0007620"	"copulation"	"GO:0060405"	"regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0060406"	"positive regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0060407"	"negative regulation of penile erection"	2
+"GO:0007620"	"copulation"	"GO:0070684"	"seminal clot liquefaction"	2
+"GO:0007620"	"copulation"	"GO:0007321"	"sperm displacement"	3
+"GO:0007620"	"copulation"	"GO:0046693"	"sperm storage"	3
+"GO:0007620"	"copulation"	"GO:0046694"	"sperm incapacitation"	3
+"GO:0007565"	"female pregnancy"	"GO:0007565"	"female pregnancy"	0
+"GO:0007565"	"female pregnancy"	"GO:0007566"	"embryo implantation"	1
+"GO:0007565"	"female pregnancy"	"GO:0060135"	"maternal process involved in female pregnancy"	1
+"GO:0007565"	"female pregnancy"	"GO:0060136"	"embryonic process involved in female pregnancy"	1
+"GO:0007565"	"female pregnancy"	"GO:0001893"	"maternal placenta development"	2
+"GO:0007565"	"female pregnancy"	"GO:0060745"	"mammary gland branching involved in pregnancy"	2
+"GO:0007565"	"female pregnancy"	"GO:0061450"	"trophoblast cell migration"	2
+"GO:0007565"	"female pregnancy"	"GO:0046697"	"decidualization"	3
+"GO:0007565"	"female pregnancy"	"GO:0060748"	"tertiary branching involved in mammary gland duct morphogenesis"	3
+"GO:0007565"	"female pregnancy"	"GO:1901163"	"regulation of trophoblast cell migration"	3
+"GO:0007565"	"female pregnancy"	"GO:1901164"	"negative regulation of trophoblast cell migration"	3
+"GO:0007565"	"female pregnancy"	"GO:1901165"	"positive regulation of trophoblast cell migration"	3

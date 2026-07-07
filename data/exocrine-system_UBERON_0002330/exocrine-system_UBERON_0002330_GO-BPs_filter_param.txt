@@ -1,0 +1,19 @@
+removed_labels:
+- calcium-ion regulated exocytosis
+- innate immune response
+- secretion by cell
+- digestion
+- hepatic immune response
+- grooming behavior
+- immunoglobulin production
+- exocytosis
+removed_ids: ~
+removed_children_of:
+- larval salivary gland boundary specification
+- regulation of larval salivary gland boundary specification
+- negative regulation of larval salivary gland boundary specification
+- positive regulation of larval salivary gland boundary specification
+- larval salivary gland morphogenesis
+- mating pheromone secretion involved in positive regulation of conjugation with cellular
+  fusion
+- mating pheromone secretion involved in regulation of conjugation

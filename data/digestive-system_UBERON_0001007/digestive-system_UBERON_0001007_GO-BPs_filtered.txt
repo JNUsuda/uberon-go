@@ -1,0 +1,768 @@
+"parent_id"	"parent_label"	"descendant_id"	"descendant_label"	"distance"
+"GO:0022600"	"digestive system process"	"GO:0022600"	"digestive system process"	0
+"GO:0022600"	"digestive system process"	"GO:0001696"	"gastric acid secretion"	1
+"GO:0022600"	"digestive system process"	"GO:0030157"	"pancreatic juice secretion"	1
+"GO:0022600"	"digestive system process"	"GO:0030277"	"maintenance of gastrointestinal epithelium"	1
+"GO:0022600"	"digestive system process"	"GO:0035482"	"gastric motility"	1
+"GO:0022600"	"digestive system process"	"GO:0036147"	"rumination"	1
+"GO:0022600"	"digestive system process"	"GO:0043133"	"hindgut contraction"	1
+"GO:0022600"	"digestive system process"	"GO:0044056"	"modulation by symbiont of host digestive system process"	1
+"GO:0022600"	"digestive system process"	"GO:0044058"	"regulation of digestive system process"	1
+"GO:0022600"	"digestive system process"	"GO:0046541"	"saliva secretion"	1
+"GO:0022600"	"digestive system process"	"GO:0050892"	"intestinal absorption"	1
+"GO:0022600"	"digestive system process"	"GO:0060456"	"positive regulation of digestive system process"	1
+"GO:0022600"	"digestive system process"	"GO:0060457"	"negative regulation of digestive system process"	1
+"GO:0022600"	"digestive system process"	"GO:0071626"	"mastication"	1
+"GO:0022600"	"digestive system process"	"GO:0120054"	"intestinal motility"	1
+"GO:0022600"	"digestive system process"	"GO:0001697"	"histamine-induced gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0001698"	"gastrin-induced gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0035483"	"gastric emptying"	2
+"GO:0022600"	"digestive system process"	"GO:0036395"	"pancreatic amylase secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0043134"	"regulation of hindgut contraction"	2
+"GO:0022600"	"digestive system process"	"GO:0046877"	"regulation of saliva secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0046878"	"positive regulation of saliva secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0060450"	"positive regulation of hindgut contraction"	2
+"GO:0022600"	"digestive system process"	"GO:0060451"	"negative regulation of hindgut contraction"	2
+"GO:0022600"	"digestive system process"	"GO:0060453"	"regulation of gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0060454"	"positive regulation of gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0060455"	"negative regulation of gastric acid secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0060729"	"intestinal epithelial structure maintenance"	2
+"GO:0022600"	"digestive system process"	"GO:0060730"	"regulation of intestinal epithelial structure maintenance"	2
+"GO:0022600"	"digestive system process"	"GO:0060731"	"positive regulation of intestinal epithelial structure maintenance"	2
+"GO:0022600"	"digestive system process"	"GO:0090186"	"regulation of pancreatic juice secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0090187"	"positive regulation of pancreatic juice secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0090188"	"negative regulation of pancreatic juice secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0098829"	"intestinal folate absorption"	2
+"GO:0022600"	"digestive system process"	"GO:0098856"	"intestinal lipid absorption"	2
+"GO:0022600"	"digestive system process"	"GO:0106001"	"intestinal hexose absorption"	2
+"GO:0022600"	"digestive system process"	"GO:0120055"	"small intestinal transit"	2
+"GO:0022600"	"digestive system process"	"GO:0120056"	"large intestinal transit"	2
+"GO:0022600"	"digestive system process"	"GO:0120057"	"regulation of small intestinal transit"	2
+"GO:0022600"	"digestive system process"	"GO:0120058"	"positive regulation of small intestinal transit"	2
+"GO:0022600"	"digestive system process"	"GO:0120059"	"negative regulation of small intestinal transit"	2
+"GO:0022600"	"digestive system process"	"GO:0120061"	"negative regulation of gastric emptying"	2
+"GO:0022600"	"digestive system process"	"GO:0120062"	"positive regulation of gastric emptying"	2
+"GO:0022600"	"digestive system process"	"GO:1904478"	"regulation of intestinal absorption"	2
+"GO:0022600"	"digestive system process"	"GO:1904479"	"negative regulation of intestinal absorption"	2
+"GO:0022600"	"digestive system process"	"GO:1904480"	"positive regulation of intestinal absorption"	2
+"GO:0022600"	"digestive system process"	"GO:1905333"	"regulation of gastric motility"	2
+"GO:0022600"	"digestive system process"	"GO:1905747"	"negative regulation of saliva secretion"	2
+"GO:0022600"	"digestive system process"	"GO:1990747"	"pancreatic trypsinogen secretion"	2
+"GO:0022600"	"digestive system process"	"GO:0001951"	"intestinal D-glucose absorption"	3
+"GO:0022600"	"digestive system process"	"GO:0030299"	"intestinal cholesterol absorption"	3
+"GO:0022600"	"digestive system process"	"GO:0060752"	"intestinal phytosterol absorption"	3
+"GO:0022600"	"digestive system process"	"GO:0120060"	"regulation of gastric emptying"	3
+"GO:0022600"	"digestive system process"	"GO:1902276"	"regulation of pancreatic amylase secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1902277"	"negative regulation of pancreatic amylase secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1902278"	"positive regulation of pancreatic amylase secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1903985"	"regulation of intestinal D-glucose absorption"	3
+"GO:0022600"	"digestive system process"	"GO:1904242"	"regulation of pancreatic trypsinogen secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1904243"	"negative regulation of pancreatic trypsinogen secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1904244"	"positive regulation of pancreatic trypsinogen secretion"	3
+"GO:0022600"	"digestive system process"	"GO:1904729"	"regulation of intestinal lipid absorption"	3
+"GO:0022600"	"digestive system process"	"GO:1904730"	"negative regulation of intestinal lipid absorption"	3
+"GO:0022600"	"digestive system process"	"GO:1904731"	"positive regulation of intestinal lipid absorption"	3
+"GO:0022600"	"digestive system process"	"GO:0010949"	"negative regulation of intestinal phytosterol absorption"	4
+"GO:0022600"	"digestive system process"	"GO:0030300"	"regulation of intestinal cholesterol absorption"	4
+"GO:0022600"	"digestive system process"	"GO:0045796"	"negative regulation of intestinal cholesterol absorption"	4
+"GO:0022600"	"digestive system process"	"GO:0045797"	"positive regulation of intestinal cholesterol absorption"	4
+"GO:0022600"	"digestive system process"	"GO:1902279"	"positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway"	4
+"GO:0055123"	"digestive system development"	"GO:0055123"	"digestive system development"	0
+"GO:0055123"	"digestive system development"	"GO:0031017"	"exocrine pancreas development"	1
+"GO:0055123"	"digestive system development"	"GO:0048565"	"digestive tract development"	1
+"GO:0055123"	"digestive system development"	"GO:0007439"	"ectodermal digestive tract development"	2
+"GO:0055123"	"digestive system development"	"GO:0007494"	"midgut development"	2
+"GO:0055123"	"digestive system development"	"GO:0007502"	"digestive tract mesoderm development"	2
+"GO:0055123"	"digestive system development"	"GO:0035645"	"enteric smooth muscle cell differentiation"	2
+"GO:0055123"	"digestive system development"	"GO:0048546"	"digestive tract morphogenesis"	2
+"GO:0055123"	"digestive system development"	"GO:0048566"	"embryonic digestive tract development"	2
+"GO:0055123"	"digestive system development"	"GO:0060465"	"pharynx development"	2
+"GO:0055123"	"digestive system development"	"GO:0060575"	"intestinal epithelial cell differentiation"	2
+"GO:0055123"	"digestive system development"	"GO:0061525"	"hindgut development"	2
+"GO:0055123"	"digestive system development"	"GO:0062094"	"stomach development"	2
+"GO:0055123"	"digestive system development"	"GO:0071907"	"determination of digestive tract left/right asymmetry"	2
+"GO:0055123"	"digestive system development"	"GO:0007440"	"foregut morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0007442"	"hindgut morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0007495"	"visceral mesoderm-endoderm interaction involved in midgut development"	3
+"GO:0055123"	"digestive system development"	"GO:0007496"	"anterior midgut development"	3
+"GO:0055123"	"digestive system development"	"GO:0007497"	"posterior midgut development"	3
+"GO:0055123"	"digestive system development"	"GO:0035844"	"cloaca development"	3
+"GO:0055123"	"digestive system development"	"GO:0043282"	"pharyngeal muscle development"	3
+"GO:0055123"	"digestive system development"	"GO:0044333"	"Wnt signaling pathway involved in digestive tract morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0048557"	"embryonic digestive tract morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0048567"	"ectodermal digestive tract morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0048611"	"embryonic ectodermal digestive tract development"	3
+"GO:0055123"	"digestive system development"	"GO:0048612"	"post-embryonic ectodermal digestive tract development"	3
+"GO:0055123"	"digestive system development"	"GO:0048621"	"post-embryonic digestive tract morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0060576"	"intestinal epithelial cell development"	3
+"GO:0055123"	"digestive system development"	"GO:0061031"	"endodermal digestive tract morphogenesis"	3
+"GO:0055123"	"digestive system development"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	3
+"GO:0055123"	"digestive system development"	"GO:0061453"	"interstitial cell of Cajal differentiation"	3
+"GO:0055123"	"digestive system development"	"GO:0071908"	"determination of intestine left/right asymmetry"	3
+"GO:0055123"	"digestive system development"	"GO:0071909"	"determination of stomach left/right asymmetry"	3
+"GO:0055123"	"digestive system development"	"GO:1903703"	"enterocyte differentiation"	3
+"GO:0055123"	"digestive system development"	"GO:0007441"	"anterior midgut (ectodermal) morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048613"	"embryonic ectodermal digestive tract morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048614"	"post-embryonic ectodermal digestive tract morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048617"	"embryonic foregut morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048618"	"post-embryonic foregut morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048619"	"embryonic hindgut morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0048620"	"post-embryonic hindgut morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0060197"	"cloacal septation"	4
+"GO:0055123"	"digestive system development"	"GO:0060574"	"intestinal epithelial cell maturation"	4
+"GO:0055123"	"digestive system development"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	4
+"GO:0055123"	"digestive system development"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	4
+"GO:0055123"	"digestive system development"	"GO:1905298"	"regulation of intestinal epithelial cell development"	4
+"GO:0055123"	"digestive system development"	"GO:1905299"	"negative regulation of intestinal epithelial cell development"	4
+"GO:0055123"	"digestive system development"	"GO:1905300"	"positive regulation of intestinal epithelial cell development"	4
+"GO:0055123"	"digestive system development"	"GO:2000056"	"regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:2000057"	"negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	4
+"GO:0055123"	"digestive system development"	"GO:0007443"	"Malpighian tubule morphogenesis"	5
+"GO:0055123"	"digestive system development"	"GO:0048615"	"embryonic anterior midgut (ectodermal) morphogenesis"	5
+"GO:0055123"	"digestive system development"	"GO:0048616"	"post-embryonic anterior midgut (ectodermal) morphogenesis"	5
+"GO:0055123"	"digestive system development"	"GO:0035298"	"regulation of Malpighian tubule size"	6
+"GO:0055123"	"digestive system development"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	6
+"GO:0055123"	"digestive system development"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	6
+"GO:0055123"	"digestive system development"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	6
+"GO:0055123"	"digestive system development"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	6
+"GO:0055123"	"digestive system development"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	6
+"GO:0055123"	"digestive system development"	"GO:0035297"	"regulation of Malpighian tubule diameter"	7
+"GO:0055123"	"digestive system development"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	7
+"GO:0055123"	"digestive system development"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	8
+"GO:0001696"	"gastric acid secretion"	"GO:0001696"	"gastric acid secretion"	0
+"GO:0001696"	"gastric acid secretion"	"GO:0001697"	"histamine-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0001698"	"gastrin-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060453"	"regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060454"	"positive regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:0060455"	"negative regulation of gastric acid secretion"	1
+"GO:0001696"	"gastric acid secretion"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	2
+"GO:0001696"	"gastric acid secretion"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	2
+"GO:0001696"	"gastric acid secretion"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	2
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0006699"	"bile acid biosynthetic process"	0
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070857"	"regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070858"	"negative regulation of bile acid biosynthetic process"	1
+"GO:0006699"	"bile acid biosynthetic process"	"GO:0070859"	"positive regulation of bile acid biosynthetic process"	1
+"GO:0098754"	"detoxification"	"GO:0098754"	"detoxification"	0
+"GO:0098754"	"detoxification"	"GO:0009407"	"toxin catabolic process"	1
+"GO:0098754"	"detoxification"	"GO:0010127"	"mycothiol-dependent detoxification"	1
+"GO:0098754"	"detoxification"	"GO:0010312"	"detoxification of zinc ion"	1
+"GO:0098754"	"detoxification"	"GO:0051410"	"detoxification of nitrogen compound"	1
+"GO:0098754"	"detoxification"	"GO:0061687"	"detoxification of inorganic compound"	1
+"GO:0098754"	"detoxification"	"GO:0071722"	"detoxification of arsenic-containing substance"	1
+"GO:0098754"	"detoxification"	"GO:0140330"	"xenobiotic detoxification by transmembrane export across the cell outer membrane"	1
+"GO:0098754"	"detoxification"	"GO:1990748"	"cellular detoxification"	1
+"GO:0098754"	"detoxification"	"GO:1990961"	"xenobiotic detoxification by transmembrane export across the plasma membrane"	1
+"GO:0098754"	"detoxification"	"GO:0010273"	"detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:0010299"	"detoxification of cobalt ion"	2
+"GO:0098754"	"detoxification"	"GO:0043387"	"mycotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0045574"	"sterigmatocystin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046216"	"indole phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046225"	"bacteriocin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0046701"	"insecticide catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0050787"	"detoxification of mercury ion"	2
+"GO:0098754"	"detoxification"	"GO:0052316"	"phytoalexin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0061691"	"detoxification of hydrogen peroxide"	2
+"GO:0098754"	"detoxification"	"GO:0070458"	"cellular detoxification of nitrogen compound"	2
+"GO:0098754"	"detoxification"	"GO:0071585"	"detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098849"	"cellular detoxification of cadmium ion"	2
+"GO:0098754"	"detoxification"	"GO:0098869"	"cellular oxidant detoxification"	2
+"GO:0098754"	"detoxification"	"GO:0110052"	"toxic metabolite repair"	2
+"GO:0098754"	"detoxification"	"GO:0110095"	"cellular detoxification of aldehyde"	2
+"GO:0098754"	"detoxification"	"GO:0140114"	"cellular detoxification of fluoride"	2
+"GO:0098754"	"detoxification"	"GO:1905699"	"regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905700"	"negative regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1905701"	"positive regulation of xenobiotic detoxification by transmembrane export across the plasma membrane"	2
+"GO:0098754"	"detoxification"	"GO:1990461"	"detoxification of iron ion"	2
+"GO:0098754"	"detoxification"	"GO:1990880"	"cellular detoxification of copper ion"	2
+"GO:0098754"	"detoxification"	"GO:2001309"	"gliotoxin catabolic process"	2
+"GO:0098754"	"detoxification"	"GO:0015694"	"mercury ion transport"	3
+"GO:0098754"	"detoxification"	"GO:0019430"	"removal of superoxide radicals"	3
+"GO:0098754"	"detoxification"	"GO:0042188"	"1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046223"	"aflatoxin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046286"	"flavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046290"	"isoflavonoid phytoalexin catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0046294"	"formaldehyde catabolic process"	3
+"GO:0098754"	"detoxification"	"GO:0050788"	"sequestering of mercury"	3
+"GO:0098754"	"detoxification"	"GO:0061692"	"cellular detoxification of hydrogen peroxide"	3
+"GO:0098754"	"detoxification"	"GO:0140041"	"cellular detoxification of methylglyoxal"	3
+"GO:0098754"	"detoxification"	"GO:0106045"	"guanine deglycation, methylglyoxal removal"	4
+"GO:0098754"	"detoxification"	"GO:1904832"	"negative regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1904833"	"positive regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:2000121"	"regulation of removal of superoxide radicals"	4
+"GO:0098754"	"detoxification"	"GO:1901670"	"negative regulation of superoxide dismutase activity"	5
+"GO:0036333"	"hepatocyte homeostasis"	"GO:0036333"	"hepatocyte homeostasis"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070365"	"hepatocyte differentiation"	0
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070366"	"regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	1
+"GO:0070365"	"hepatocyte differentiation"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:0097284"	"hepatocyte apoptotic process"	0
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903943"	"regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903944"	"negative regulation of hepatocyte apoptotic process"	1
+"GO:0097284"	"hepatocyte apoptotic process"	"GO:1903945"	"positive regulation of hepatocyte apoptotic process"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:0035733"	"hepatic stellate cell activation"	0
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000489"	"regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000490"	"negative regulation of hepatic stellate cell activation"	1
+"GO:0035733"	"hepatic stellate cell activation"	"GO:2000491"	"positive regulation of hepatic stellate cell activation"	1
+"GO:0061521"	"hepatic stellate cell differentiation"	"GO:0061521"	"hepatic stellate cell differentiation"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061868"	"hepatic stellate cell migration"	0
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061869"	"regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061870"	"positive regulation of hepatic stellate cell migration"	1
+"GO:0061868"	"hepatic stellate cell migration"	"GO:0061871"	"negative regulation of hepatic stellate cell migration"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1990922"	"hepatic stellate cell proliferation"	0
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904897"	"regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904898"	"negative regulation of hepatic stellate cell proliferation"	1
+"GO:1990922"	"hepatic stellate cell proliferation"	"GO:1904899"	"positive regulation of hepatic stellate cell proliferation"	1
+"GO:0070254"	"mucus secretion"	"GO:0070254"	"mucus secretion"	0
+"GO:0070254"	"mucus secretion"	"GO:0070255"	"regulation of mucus secretion"	1
+"GO:0070254"	"mucus secretion"	"GO:0070256"	"negative regulation of mucus secretion"	1
+"GO:0070254"	"mucus secretion"	"GO:0070257"	"positive regulation of mucus secretion"	1
+"GO:0035645"	"enteric smooth muscle cell differentiation"	"GO:0035645"	"enteric smooth muscle cell differentiation"	0
+"GO:0060574"	"intestinal epithelial cell maturation"	"GO:0060574"	"intestinal epithelial cell maturation"	0
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:0060575"	"intestinal epithelial cell differentiation"	0
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:0060576"	"intestinal epithelial cell development"	1
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:0061453"	"interstitial cell of Cajal differentiation"	1
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:1903703"	"enterocyte differentiation"	1
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:0060574"	"intestinal epithelial cell maturation"	2
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:1905298"	"regulation of intestinal epithelial cell development"	2
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:1905299"	"negative regulation of intestinal epithelial cell development"	2
+"GO:0060575"	"intestinal epithelial cell differentiation"	"GO:1905300"	"positive regulation of intestinal epithelial cell development"	2
+"GO:0060576"	"intestinal epithelial cell development"	"GO:0060576"	"intestinal epithelial cell development"	0
+"GO:0060576"	"intestinal epithelial cell development"	"GO:0060574"	"intestinal epithelial cell maturation"	1
+"GO:0060576"	"intestinal epithelial cell development"	"GO:1905298"	"regulation of intestinal epithelial cell development"	1
+"GO:0060576"	"intestinal epithelial cell development"	"GO:1905299"	"negative regulation of intestinal epithelial cell development"	1
+"GO:0060576"	"intestinal epithelial cell development"	"GO:1905300"	"positive regulation of intestinal epithelial cell development"	1
+"GO:0061582"	"intestinal epithelial cell migration"	"GO:0061582"	"intestinal epithelial cell migration"	0
+"GO:0061582"	"intestinal epithelial cell migration"	"GO:0061580"	"colon epithelial cell migration"	1
+"GO:0061582"	"intestinal epithelial cell migration"	"GO:0061583"	"colon epithelial cell chemotaxis"	2
+"GO:0046541"	"saliva secretion"	"GO:0046541"	"saliva secretion"	0
+"GO:0046541"	"saliva secretion"	"GO:0046877"	"regulation of saliva secretion"	1
+"GO:0046541"	"saliva secretion"	"GO:0046878"	"positive regulation of saliva secretion"	1
+"GO:0046541"	"saliva secretion"	"GO:1905747"	"negative regulation of saliva secretion"	1
+"GO:0035981"	"tongue muscle cell differentiation"	"GO:0035981"	"tongue muscle cell differentiation"	0
+"GO:0035981"	"tongue muscle cell differentiation"	"GO:2001035"	"regulation of tongue muscle cell differentiation"	1
+"GO:0035981"	"tongue muscle cell differentiation"	"GO:2001036"	"negative regulation of tongue muscle cell differentiation"	1
+"GO:0035981"	"tongue muscle cell differentiation"	"GO:2001037"	"positive regulation of tongue muscle cell differentiation"	1
+"GO:0061580"	"colon epithelial cell migration"	"GO:0061580"	"colon epithelial cell migration"	0
+"GO:0061580"	"colon epithelial cell migration"	"GO:0061583"	"colon epithelial cell chemotaxis"	1
+"GO:0046717"	"acid secretion"	"GO:0046717"	"acid secretion"	0
+"GO:0046717"	"acid secretion"	"GO:0001696"	"gastric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0014051"	"gamma-aminobutyric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0032782"	"bile acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046720"	"citric acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046721"	"formic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046722"	"lactic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046723"	"malic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0046724"	"oxalic acid secretion"	1
+"GO:0046717"	"acid secretion"	"GO:0001697"	"histamine-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0001698"	"gastrin-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014052"	"regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014053"	"negative regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0014054"	"positive regulation of gamma-aminobutyric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060453"	"regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060454"	"positive regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0060455"	"negative regulation of gastric acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0061534"	"gamma-aminobutyric acid secretion, neurotransmission"	2
+"GO:0046717"	"acid secretion"	"GO:0120188"	"regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0120189"	"positive regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:0120190"	"negative regulation of bile acid secretion"	2
+"GO:0046717"	"acid secretion"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	3
+"GO:0046717"	"acid secretion"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	3
+"GO:0046717"	"acid secretion"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	3
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	0
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	1
+"GO:0061102"	"stomach neuroendocrine cell differentiation"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	1
+"GO:0061017"	"hepatoblast differentiation"	"GO:0061017"	"hepatoblast differentiation"	0
+"GO:1902488"	"cholangiocyte apoptotic process"	"GO:1902488"	"cholangiocyte apoptotic process"	0
+"GO:1902488"	"cholangiocyte apoptotic process"	"GO:1904192"	"regulation of cholangiocyte apoptotic process"	1
+"GO:1902488"	"cholangiocyte apoptotic process"	"GO:1904193"	"negative regulation of cholangiocyte apoptotic process"	1
+"GO:1902488"	"cholangiocyte apoptotic process"	"GO:1904194"	"positive regulation of cholangiocyte apoptotic process"	1
+"GO:1990705"	"cholangiocyte proliferation"	"GO:1990705"	"cholangiocyte proliferation"	0
+"GO:1990705"	"cholangiocyte proliferation"	"GO:1904054"	"regulation of cholangiocyte proliferation"	1
+"GO:1990705"	"cholangiocyte proliferation"	"GO:1904055"	"negative regulation of cholangiocyte proliferation"	1
+"GO:1990705"	"cholangiocyte proliferation"	"GO:1904056"	"positive regulation of cholangiocyte proliferation"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070278"	"extracellular matrix constituent secretion"	0
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003330"	"regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003331"	"positive regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0003332"	"negative regulation of extracellular matrix constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061864"	"basement membrane constituent secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0070468"	"dentin extracellular matrix secretion"	1
+"GO:0070278"	"extracellular matrix constituent secretion"	"GO:0061865"	"polarized secretion of basement membrane proteins in epithelium"	2
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:0036376"	"sodium ion export across plasma membrane"	0
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903276"	"regulation of sodium ion export across plasma membrane"	1
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903277"	"negative regulation of sodium ion export across plasma membrane"	1
+"GO:0036376"	"sodium ion export across plasma membrane"	"GO:1903278"	"positive regulation of sodium ion export across plasma membrane"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1990573"	"potassium ion import across plasma membrane"	0
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903286"	"regulation of potassium ion import"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903287"	"negative regulation of potassium ion import across plasma membrane"	1
+"GO:1990573"	"potassium ion import across plasma membrane"	"GO:1903288"	"positive regulation of potassium ion import across plasma membrane"	1
+"GO:0005983"	"starch catabolic process"	"GO:0005983"	"starch catabolic process"	0
+"GO:0005983"	"starch catabolic process"	"GO:2000881"	"regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000882"	"negative regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000883"	"positive regulation of starch catabolic process"	1
+"GO:0005983"	"starch catabolic process"	"GO:2000946"	"negative regulation of amylopectin catabolic process"	2
+"GO:0005983"	"starch catabolic process"	"GO:2000947"	"positive regulation of amylopectin catabolic process"	2
+"GO:0007586"	"digestion"	"GO:0007586"	"digestion"	0
+"GO:0007586"	"digestion"	"GO:0022600"	"digestive system process"	1
+"GO:0007586"	"digestion"	"GO:0044241"	"lipid digestion"	1
+"GO:0007586"	"digestion"	"GO:0044245"	"polysaccharide digestion"	1
+"GO:0007586"	"digestion"	"GO:0044256"	"protein digestion"	1
+"GO:0007586"	"digestion"	"GO:0001696"	"gastric acid secretion"	2
+"GO:0007586"	"digestion"	"GO:0030157"	"pancreatic juice secretion"	2
+"GO:0007586"	"digestion"	"GO:0030277"	"maintenance of gastrointestinal epithelium"	2
+"GO:0007586"	"digestion"	"GO:0030299"	"intestinal cholesterol absorption"	2
+"GO:0007586"	"digestion"	"GO:0035482"	"gastric motility"	2
+"GO:0007586"	"digestion"	"GO:0036147"	"rumination"	2
+"GO:0007586"	"digestion"	"GO:0043133"	"hindgut contraction"	2
+"GO:0007586"	"digestion"	"GO:0044056"	"modulation by symbiont of host digestive system process"	2
+"GO:0007586"	"digestion"	"GO:0044058"	"regulation of digestive system process"	2
+"GO:0007586"	"digestion"	"GO:0046541"	"saliva secretion"	2
+"GO:0007586"	"digestion"	"GO:0050892"	"intestinal absorption"	2
+"GO:0007586"	"digestion"	"GO:0060456"	"positive regulation of digestive system process"	2
+"GO:0007586"	"digestion"	"GO:0060457"	"negative regulation of digestive system process"	2
+"GO:0007586"	"digestion"	"GO:0071626"	"mastication"	2
+"GO:0007586"	"digestion"	"GO:0120054"	"intestinal motility"	2
+"GO:0007586"	"digestion"	"GO:0001697"	"histamine-induced gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0001698"	"gastrin-induced gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0001699"	"acetylcholine-induced gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0030300"	"regulation of intestinal cholesterol absorption"	3
+"GO:0007586"	"digestion"	"GO:0035483"	"gastric emptying"	3
+"GO:0007586"	"digestion"	"GO:0036395"	"pancreatic amylase secretion"	3
+"GO:0007586"	"digestion"	"GO:0043134"	"regulation of hindgut contraction"	3
+"GO:0007586"	"digestion"	"GO:0045796"	"negative regulation of intestinal cholesterol absorption"	3
+"GO:0007586"	"digestion"	"GO:0045797"	"positive regulation of intestinal cholesterol absorption"	3
+"GO:0007586"	"digestion"	"GO:0046877"	"regulation of saliva secretion"	3
+"GO:0007586"	"digestion"	"GO:0046878"	"positive regulation of saliva secretion"	3
+"GO:0007586"	"digestion"	"GO:0060450"	"positive regulation of hindgut contraction"	3
+"GO:0007586"	"digestion"	"GO:0060451"	"negative regulation of hindgut contraction"	3
+"GO:0007586"	"digestion"	"GO:0060453"	"regulation of gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0060454"	"positive regulation of gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0060455"	"negative regulation of gastric acid secretion"	3
+"GO:0007586"	"digestion"	"GO:0060729"	"intestinal epithelial structure maintenance"	3
+"GO:0007586"	"digestion"	"GO:0060730"	"regulation of intestinal epithelial structure maintenance"	3
+"GO:0007586"	"digestion"	"GO:0060731"	"positive regulation of intestinal epithelial structure maintenance"	3
+"GO:0007586"	"digestion"	"GO:0090186"	"regulation of pancreatic juice secretion"	3
+"GO:0007586"	"digestion"	"GO:0090187"	"positive regulation of pancreatic juice secretion"	3
+"GO:0007586"	"digestion"	"GO:0090188"	"negative regulation of pancreatic juice secretion"	3
+"GO:0007586"	"digestion"	"GO:0098829"	"intestinal folate absorption"	3
+"GO:0007586"	"digestion"	"GO:0098856"	"intestinal lipid absorption"	3
+"GO:0007586"	"digestion"	"GO:0106001"	"intestinal hexose absorption"	3
+"GO:0007586"	"digestion"	"GO:0120055"	"small intestinal transit"	3
+"GO:0007586"	"digestion"	"GO:0120056"	"large intestinal transit"	3
+"GO:0007586"	"digestion"	"GO:0120057"	"regulation of small intestinal transit"	3
+"GO:0007586"	"digestion"	"GO:0120058"	"positive regulation of small intestinal transit"	3
+"GO:0007586"	"digestion"	"GO:0120059"	"negative regulation of small intestinal transit"	3
+"GO:0007586"	"digestion"	"GO:0120061"	"negative regulation of gastric emptying"	3
+"GO:0007586"	"digestion"	"GO:0120062"	"positive regulation of gastric emptying"	3
+"GO:0007586"	"digestion"	"GO:1904478"	"regulation of intestinal absorption"	3
+"GO:0007586"	"digestion"	"GO:1904479"	"negative regulation of intestinal absorption"	3
+"GO:0007586"	"digestion"	"GO:1904480"	"positive regulation of intestinal absorption"	3
+"GO:0007586"	"digestion"	"GO:1905333"	"regulation of gastric motility"	3
+"GO:0007586"	"digestion"	"GO:1905747"	"negative regulation of saliva secretion"	3
+"GO:0007586"	"digestion"	"GO:1990747"	"pancreatic trypsinogen secretion"	3
+"GO:0007586"	"digestion"	"GO:0001951"	"intestinal D-glucose absorption"	4
+"GO:0007586"	"digestion"	"GO:0060752"	"intestinal phytosterol absorption"	4
+"GO:0007586"	"digestion"	"GO:0120060"	"regulation of gastric emptying"	4
+"GO:0007586"	"digestion"	"GO:1902276"	"regulation of pancreatic amylase secretion"	4
+"GO:0007586"	"digestion"	"GO:1902277"	"negative regulation of pancreatic amylase secretion"	4
+"GO:0007586"	"digestion"	"GO:1902278"	"positive regulation of pancreatic amylase secretion"	4
+"GO:0007586"	"digestion"	"GO:1903639"	"regulation of gastrin-induced gastric acid secretion"	4
+"GO:0007586"	"digestion"	"GO:1903640"	"negative regulation of gastrin-induced gastric acid secretion"	4
+"GO:0007586"	"digestion"	"GO:1903641"	"positive regulation of gastrin-induced gastric acid secretion"	4
+"GO:0007586"	"digestion"	"GO:1903985"	"regulation of intestinal D-glucose absorption"	4
+"GO:0007586"	"digestion"	"GO:1904242"	"regulation of pancreatic trypsinogen secretion"	4
+"GO:0007586"	"digestion"	"GO:1904243"	"negative regulation of pancreatic trypsinogen secretion"	4
+"GO:0007586"	"digestion"	"GO:1904244"	"positive regulation of pancreatic trypsinogen secretion"	4
+"GO:0007586"	"digestion"	"GO:1904729"	"regulation of intestinal lipid absorption"	4
+"GO:0007586"	"digestion"	"GO:1904730"	"negative regulation of intestinal lipid absorption"	4
+"GO:0007586"	"digestion"	"GO:1904731"	"positive regulation of intestinal lipid absorption"	4
+"GO:0007586"	"digestion"	"GO:0010949"	"negative regulation of intestinal phytosterol absorption"	5
+"GO:0007586"	"digestion"	"GO:1902279"	"positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway"	5
+"GO:0031017"	"exocrine pancreas development"	"GO:0031017"	"exocrine pancreas development"	0
+"GO:0044258"	"intestinal lipid catabolic process"	"GO:0044258"	"intestinal lipid catabolic process"	0
+"GO:0035844"	"cloaca development"	"GO:0035844"	"cloaca development"	0
+"GO:0035844"	"cloaca development"	"GO:0060197"	"cloacal septation"	1
+"GO:0062094"	"stomach development"	"GO:0062094"	"stomach development"	0
+"GO:0062094"	"stomach development"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	1
+"GO:0062094"	"stomach development"	"GO:0071909"	"determination of stomach left/right asymmetry"	1
+"GO:0062094"	"stomach development"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	2
+"GO:0062094"	"stomach development"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	2
+"GO:0007440"	"foregut morphogenesis"	"GO:0007440"	"foregut morphogenesis"	0
+"GO:0007440"	"foregut morphogenesis"	"GO:0048617"	"embryonic foregut morphogenesis"	1
+"GO:0007440"	"foregut morphogenesis"	"GO:0048618"	"post-embryonic foregut morphogenesis"	1
+"GO:1903702"	"esophagus development"	"GO:1903702"	"esophagus development"	0
+"GO:0007431"	"salivary gland development"	"GO:0007431"	"salivary gland development"	0
+"GO:0007431"	"salivary gland development"	"GO:0007432"	"salivary gland boundary specification"	1
+"GO:0007431"	"salivary gland development"	"GO:0007435"	"salivary gland morphogenesis"	1
+"GO:0007431"	"salivary gland development"	"GO:0060689"	"cell differentiation involved in salivary gland development"	1
+"GO:0007431"	"salivary gland development"	"GO:0007433"	"larval salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0007434"	"adult salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0007436"	"larval salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0007437"	"adult salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0035070"	"salivary gland histolysis"	2
+"GO:0007431"	"salivary gland development"	"GO:0045704"	"regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0045705"	"negative regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0045706"	"positive regulation of salivary gland boundary specification"	2
+"GO:0007431"	"salivary gland development"	"GO:0060445"	"branching involved in salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	2
+"GO:0007431"	"salivary gland development"	"GO:0060661"	"submandibular salivary gland formation"	2
+"GO:0007431"	"salivary gland development"	"GO:0060662"	"salivary gland cavitation"	2
+"GO:0007431"	"salivary gland development"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	2
+"GO:0007431"	"salivary gland development"	"GO:0060690"	"epithelial cell differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0060692"	"mesenchymal cell differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0060705"	"neuron differentiation involved in salivary gland development"	2
+"GO:0007431"	"salivary gland development"	"GO:0035071"	"salivary gland cell autophagic cell death"	3
+"GO:0007431"	"salivary gland development"	"GO:0045707"	"regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045708"	"regulation of larval salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045709"	"negative regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045710"	"negative regulation of larval salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045711"	"positive regulation of adult salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0045712"	"positive regulation of larval salivary gland boundary specification"	3
+"GO:0007431"	"salivary gland development"	"GO:0060663"	"apoptotic process involved in salivary gland cavitation"	3
+"GO:0007431"	"salivary gland development"	"GO:0060666"	"dichotomous subdivision of terminal units involved in salivary gland branching"	3
+"GO:0007431"	"salivary gland development"	"GO:0060667"	"branch elongation involved in salivary gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0060691"	"epithelial cell maturation involved in salivary gland development"	3
+"GO:0007431"	"salivary gland development"	"GO:0060693"	"regulation of branching involved in salivary gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0060704"	"acinar cell differentiation involved in salivary gland development"	3
+"GO:0007431"	"salivary gland development"	"GO:1990632"	"branching involved in submandibular gland morphogenesis"	3
+"GO:0007431"	"salivary gland development"	"GO:0035072"	"ecdysone-mediated induction of salivary gland cell autophagic cell death"	4
+"GO:0007431"	"salivary gland development"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	4
+"GO:0007431"	"salivary gland development"	"GO:0060668"	"regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling"	4
+"GO:0007431"	"salivary gland development"	"GO:0060683"	"regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling"	4
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0007435"	"salivary gland morphogenesis"	0
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0007436"	"larval salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0007437"	"adult salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035070"	"salivary gland histolysis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060445"	"branching involved in salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060639"	"positive regulation of salivary gland formation by mesenchymal-epithelial signaling"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060661"	"submandibular salivary gland formation"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060662"	"salivary gland cavitation"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060664"	"epithelial cell proliferation involved in salivary gland morphogenesis"	1
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035071"	"salivary gland cell autophagic cell death"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060663"	"apoptotic process involved in salivary gland cavitation"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060666"	"dichotomous subdivision of terminal units involved in salivary gland branching"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060667"	"branch elongation involved in salivary gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060693"	"regulation of branching involved in salivary gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:1990632"	"branching involved in submandibular gland morphogenesis"	2
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0035072"	"ecdysone-mediated induction of salivary gland cell autophagic cell death"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060665"	"regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060668"	"regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling"	3
+"GO:0007435"	"salivary gland morphogenesis"	"GO:0060683"	"regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling"	3
+"GO:0007494"	"midgut development"	"GO:0007494"	"midgut development"	0
+"GO:0007494"	"midgut development"	"GO:0007495"	"visceral mesoderm-endoderm interaction involved in midgut development"	1
+"GO:0007494"	"midgut development"	"GO:0007496"	"anterior midgut development"	1
+"GO:0007494"	"midgut development"	"GO:0007497"	"posterior midgut development"	1
+"GO:0007442"	"hindgut morphogenesis"	"GO:0007442"	"hindgut morphogenesis"	0
+"GO:0007442"	"hindgut morphogenesis"	"GO:0048619"	"embryonic hindgut morphogenesis"	1
+"GO:0007442"	"hindgut morphogenesis"	"GO:0048620"	"post-embryonic hindgut morphogenesis"	1
+"GO:0007442"	"hindgut morphogenesis"	"GO:0007443"	"Malpighian tubule morphogenesis"	2
+"GO:0007442"	"hindgut morphogenesis"	"GO:0035298"	"regulation of Malpighian tubule size"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	3
+"GO:0007442"	"hindgut morphogenesis"	"GO:0035297"	"regulation of Malpighian tubule diameter"	4
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	4
+"GO:0007442"	"hindgut morphogenesis"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	5
+"GO:0043133"	"hindgut contraction"	"GO:0043133"	"hindgut contraction"	0
+"GO:0043133"	"hindgut contraction"	"GO:0043134"	"regulation of hindgut contraction"	1
+"GO:0043133"	"hindgut contraction"	"GO:0060450"	"positive regulation of hindgut contraction"	1
+"GO:0043133"	"hindgut contraction"	"GO:0060451"	"negative regulation of hindgut contraction"	1
+"GO:0061525"	"hindgut development"	"GO:0061525"	"hindgut development"	0
+"GO:0061525"	"hindgut development"	"GO:0007442"	"hindgut morphogenesis"	1
+"GO:0061525"	"hindgut development"	"GO:0048619"	"embryonic hindgut morphogenesis"	2
+"GO:0061525"	"hindgut development"	"GO:0048620"	"post-embryonic hindgut morphogenesis"	2
+"GO:0061525"	"hindgut development"	"GO:0007443"	"Malpighian tubule morphogenesis"	3
+"GO:0061525"	"hindgut development"	"GO:0035298"	"regulation of Malpighian tubule size"	4
+"GO:0061525"	"hindgut development"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	4
+"GO:0061525"	"hindgut development"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	4
+"GO:0061525"	"hindgut development"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	4
+"GO:0061525"	"hindgut development"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	4
+"GO:0061525"	"hindgut development"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	4
+"GO:0061525"	"hindgut development"	"GO:0035297"	"regulation of Malpighian tubule diameter"	5
+"GO:0061525"	"hindgut development"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	5
+"GO:0061525"	"hindgut development"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	6
+"GO:0035628"	"cystic duct development"	"GO:0035628"	"cystic duct development"	0
+"GO:1903700"	"caecum development"	"GO:1903700"	"caecum development"	0
+"GO:1990765"	"colon smooth muscle contraction"	"GO:1990765"	"colon smooth muscle contraction"	0
+"GO:1990765"	"colon smooth muscle contraction"	"GO:1904341"	"regulation of colon smooth muscle contraction"	1
+"GO:1990765"	"colon smooth muscle contraction"	"GO:1904342"	"negative regulation of colon smooth muscle contraction"	1
+"GO:1990765"	"colon smooth muscle contraction"	"GO:1904343"	"positive regulation of colon smooth muscle contraction"	1
+"GO:0061011"	"hepatic duct development"	"GO:0061011"	"hepatic duct development"	0
+"GO:0002388"	"immune response in Peyer's patch"	"GO:0002388"	"immune response in Peyer's patch"	0
+"GO:0002388"	"immune response in Peyer's patch"	"GO:0002389"	"tolerance induction in Peyer's patch"	1
+"GO:0048541"	"Peyer's patch development"	"GO:0048541"	"Peyer's patch development"	0
+"GO:0048541"	"Peyer's patch development"	"GO:0061146"	"Peyer's patch morphogenesis"	1
+"GO:0061146"	"Peyer's patch morphogenesis"	"GO:0061146"	"Peyer's patch morphogenesis"	0
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048546"	"digestive tract morphogenesis"	0
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0007440"	"foregut morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0007442"	"hindgut morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0035844"	"cloaca development"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0044333"	"Wnt signaling pathway involved in digestive tract morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048557"	"embryonic digestive tract morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048567"	"ectodermal digestive tract morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048621"	"post-embryonic digestive tract morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061031"	"endodermal digestive tract morphogenesis"	1
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0007441"	"anterior midgut (ectodermal) morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048613"	"embryonic ectodermal digestive tract morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048614"	"post-embryonic ectodermal digestive tract morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048617"	"embryonic foregut morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048618"	"post-embryonic foregut morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048619"	"embryonic hindgut morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048620"	"post-embryonic hindgut morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0060197"	"cloacal septation"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:2000056"	"regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:2000057"	"negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	2
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0007443"	"Malpighian tubule morphogenesis"	3
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048615"	"embryonic anterior midgut (ectodermal) morphogenesis"	3
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0048616"	"post-embryonic anterior midgut (ectodermal) morphogenesis"	3
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0035298"	"regulation of Malpighian tubule size"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	4
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0035297"	"regulation of Malpighian tubule diameter"	5
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	5
+"GO:0048546"	"digestive tract morphogenesis"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	6
+"GO:0048565"	"digestive tract development"	"GO:0048565"	"digestive tract development"	0
+"GO:0048565"	"digestive tract development"	"GO:0007439"	"ectodermal digestive tract development"	1
+"GO:0048565"	"digestive tract development"	"GO:0007494"	"midgut development"	1
+"GO:0048565"	"digestive tract development"	"GO:0007502"	"digestive tract mesoderm development"	1
+"GO:0048565"	"digestive tract development"	"GO:0035645"	"enteric smooth muscle cell differentiation"	1
+"GO:0048565"	"digestive tract development"	"GO:0048546"	"digestive tract morphogenesis"	1
+"GO:0048565"	"digestive tract development"	"GO:0048566"	"embryonic digestive tract development"	1
+"GO:0048565"	"digestive tract development"	"GO:0060465"	"pharynx development"	1
+"GO:0048565"	"digestive tract development"	"GO:0060575"	"intestinal epithelial cell differentiation"	1
+"GO:0048565"	"digestive tract development"	"GO:0061525"	"hindgut development"	1
+"GO:0048565"	"digestive tract development"	"GO:0062094"	"stomach development"	1
+"GO:0048565"	"digestive tract development"	"GO:0071907"	"determination of digestive tract left/right asymmetry"	1
+"GO:0048565"	"digestive tract development"	"GO:0007440"	"foregut morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0007442"	"hindgut morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0007495"	"visceral mesoderm-endoderm interaction involved in midgut development"	2
+"GO:0048565"	"digestive tract development"	"GO:0007496"	"anterior midgut development"	2
+"GO:0048565"	"digestive tract development"	"GO:0007497"	"posterior midgut development"	2
+"GO:0048565"	"digestive tract development"	"GO:0035844"	"cloaca development"	2
+"GO:0048565"	"digestive tract development"	"GO:0043282"	"pharyngeal muscle development"	2
+"GO:0048565"	"digestive tract development"	"GO:0044333"	"Wnt signaling pathway involved in digestive tract morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0048557"	"embryonic digestive tract morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0048567"	"ectodermal digestive tract morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0048611"	"embryonic ectodermal digestive tract development"	2
+"GO:0048565"	"digestive tract development"	"GO:0048612"	"post-embryonic ectodermal digestive tract development"	2
+"GO:0048565"	"digestive tract development"	"GO:0048621"	"post-embryonic digestive tract morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0060576"	"intestinal epithelial cell development"	2
+"GO:0048565"	"digestive tract development"	"GO:0061031"	"endodermal digestive tract morphogenesis"	2
+"GO:0048565"	"digestive tract development"	"GO:0061102"	"stomach neuroendocrine cell differentiation"	2
+"GO:0048565"	"digestive tract development"	"GO:0061453"	"interstitial cell of Cajal differentiation"	2
+"GO:0048565"	"digestive tract development"	"GO:0071908"	"determination of intestine left/right asymmetry"	2
+"GO:0048565"	"digestive tract development"	"GO:0071909"	"determination of stomach left/right asymmetry"	2
+"GO:0048565"	"digestive tract development"	"GO:1903703"	"enterocyte differentiation"	2
+"GO:0048565"	"digestive tract development"	"GO:0007441"	"anterior midgut (ectodermal) morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048613"	"embryonic ectodermal digestive tract morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048614"	"post-embryonic ectodermal digestive tract morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048617"	"embryonic foregut morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048618"	"post-embryonic foregut morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048619"	"embryonic hindgut morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0048620"	"post-embryonic hindgut morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0060197"	"cloacal septation"	3
+"GO:0048565"	"digestive tract development"	"GO:0060574"	"intestinal epithelial cell maturation"	3
+"GO:0048565"	"digestive tract development"	"GO:0061105"	"regulation of stomach neuroendocrine cell differentiation"	3
+"GO:0048565"	"digestive tract development"	"GO:0061106"	"negative regulation of stomach neuroendocrine cell differentiation"	3
+"GO:0048565"	"digestive tract development"	"GO:1905298"	"regulation of intestinal epithelial cell development"	3
+"GO:0048565"	"digestive tract development"	"GO:1905299"	"negative regulation of intestinal epithelial cell development"	3
+"GO:0048565"	"digestive tract development"	"GO:1905300"	"positive regulation of intestinal epithelial cell development"	3
+"GO:0048565"	"digestive tract development"	"GO:2000056"	"regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:2000057"	"negative regulation of Wnt signaling pathway involved in digestive tract morphogenesis"	3
+"GO:0048565"	"digestive tract development"	"GO:0007443"	"Malpighian tubule morphogenesis"	4
+"GO:0048565"	"digestive tract development"	"GO:0048615"	"embryonic anterior midgut (ectodermal) morphogenesis"	4
+"GO:0048565"	"digestive tract development"	"GO:0048616"	"post-embryonic anterior midgut (ectodermal) morphogenesis"	4
+"GO:0048565"	"digestive tract development"	"GO:0035298"	"regulation of Malpighian tubule size"	5
+"GO:0048565"	"digestive tract development"	"GO:0061331"	"epithelial cell proliferation involved in Malpighian tubule morphogenesis"	5
+"GO:0048565"	"digestive tract development"	"GO:0061332"	"Malpighian tubule bud morphogenesis"	5
+"GO:0048565"	"digestive tract development"	"GO:0061334"	"cell rearrangement involved in Malpighian tubule morphogenesis"	5
+"GO:0048565"	"digestive tract development"	"GO:0061335"	"cell growth involved in Malpighian tubule morphogenesis"	5
+"GO:0048565"	"digestive tract development"	"GO:0061336"	"cell morphogenesis involved in Malpighian tubule morphogenesis"	5
+"GO:0048565"	"digestive tract development"	"GO:0035297"	"regulation of Malpighian tubule diameter"	6
+"GO:0048565"	"digestive tract development"	"GO:0061352"	"cell chemotaxis involved in Malpighian tubule morphogenesis"	6
+"GO:0048565"	"digestive tract development"	"GO:0061353"	"BMP signaling pathway involved in Malpighian tubule cell chemotaxis"	7
+"GO:0062009"	"secondary palate development"	"GO:0062009"	"secondary palate development"	0
+"GO:0062009"	"secondary palate development"	"GO:0060022"	"hard palate development"	1
+"GO:0062009"	"secondary palate development"	"GO:0060023"	"soft palate development"	1
+"GO:0062009"	"secondary palate development"	"GO:1990134"	"epithelial cell apoptotic process involved in palatal shelf morphogenesis"	1
+"GO:0043586"	"tongue development"	"GO:0043586"	"tongue development"	0
+"GO:0043586"	"tongue development"	"GO:0043587"	"tongue morphogenesis"	1
+"GO:0043586"	"tongue development"	"GO:0061193"	"taste bud development"	1
+"GO:0043586"	"tongue development"	"GO:0061196"	"fungiform papilla development"	1
+"GO:0043586"	"tongue development"	"GO:0061194"	"taste bud morphogenesis"	2
+"GO:0043586"	"tongue development"	"GO:0061197"	"fungiform papilla morphogenesis"	2
+"GO:0043586"	"tongue development"	"GO:0061195"	"taste bud formation"	3
+"GO:0043586"	"tongue development"	"GO:0061198"	"fungiform papilla formation"	3
+"GO:0043587"	"tongue morphogenesis"	"GO:0043587"	"tongue morphogenesis"	0
+"GO:0043587"	"tongue morphogenesis"	"GO:0061194"	"taste bud morphogenesis"	1
+"GO:0043587"	"tongue morphogenesis"	"GO:0061197"	"fungiform papilla morphogenesis"	1
+"GO:0043587"	"tongue morphogenesis"	"GO:0061195"	"taste bud formation"	2
+"GO:0043587"	"tongue morphogenesis"	"GO:0061198"	"fungiform papilla formation"	2
+"GO:0060023"	"soft palate development"	"GO:0060023"	"soft palate development"	0
+"GO:0071625"	"vocalization behavior"	"GO:0071625"	"vocalization behavior"	0
+"GO:0071625"	"vocalization behavior"	"GO:0098582"	"innate vocalization behavior"	1
+"GO:0071625"	"vocalization behavior"	"GO:0098583"	"learned vocalization behavior"	1
+"GO:0060661"	"submandibular salivary gland formation"	"GO:0060661"	"submandibular salivary gland formation"	0
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002387"	"immune response in gut-associated lymphoid tissue"	0
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002388"	"immune response in Peyer's patch"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002394"	"tolerance induction in gut-associated lymphoid tissue"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	1
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002389"	"tolerance induction in Peyer's patch"	2
+"GO:0002387"	"immune response in gut-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	2
+"GO:0002384"	"hepatic immune response"	"GO:0002384"	"hepatic immune response"	0
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005978"	"glycogen biosynthetic process"	0
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0005979"	"regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045719"	"negative regulation of glycogen biosynthetic process"	1
+"GO:0005978"	"glycogen biosynthetic process"	"GO:0045725"	"positive regulation of glycogen biosynthetic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0005980"	"glycogen catabolic process"	0
+"GO:0005980"	"glycogen catabolic process"	"GO:0005981"	"regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045818"	"negative regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0045819"	"positive regulation of glycogen catabolic process"	1
+"GO:0005980"	"glycogen catabolic process"	"GO:0061723"	"glycophagy"	1
+"GO:0001889"	"liver development"	"GO:0001889"	"liver development"	0
+"GO:0001889"	"liver development"	"GO:0035622"	"intrahepatic bile duct development"	1
+"GO:0001889"	"liver development"	"GO:0060344"	"liver trabecula formation"	1
+"GO:0001889"	"liver development"	"GO:0061017"	"hepatoblast differentiation"	1
+"GO:0001889"	"liver development"	"GO:0070365"	"hepatocyte differentiation"	1
+"GO:0001889"	"liver development"	"GO:0071910"	"determination of liver left/right asymmetry"	1
+"GO:0001889"	"liver development"	"GO:0072576"	"liver morphogenesis"	1
+"GO:0001889"	"liver development"	"GO:0097421"	"liver regeneration"	1
+"GO:0001889"	"liver development"	"GO:0070366"	"regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	2
+"GO:0001889"	"liver development"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	2
+"GO:0001889"	"liver development"	"GO:0072574"	"hepatocyte proliferation"	3
+"GO:0001889"	"liver development"	"GO:2000345"	"regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	4
+"GO:0001889"	"liver development"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	4
+"GO:0072576"	"liver morphogenesis"	"GO:0072576"	"liver morphogenesis"	0
+"GO:0072576"	"liver morphogenesis"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	1
+"GO:0072576"	"liver morphogenesis"	"GO:0072574"	"hepatocyte proliferation"	2
+"GO:0072576"	"liver morphogenesis"	"GO:2000345"	"regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	3
+"GO:0072576"	"liver morphogenesis"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	3
+"GO:1990770"	"small intestine smooth muscle contraction"	"GO:1990770"	"small intestine smooth muscle contraction"	0
+"GO:1990770"	"small intestine smooth muscle contraction"	"GO:1904347"	"regulation of small intestine smooth muscle contraction"	1
+"GO:1990770"	"small intestine smooth muscle contraction"	"GO:1904348"	"negative regulation of small intestine smooth muscle contraction"	1
+"GO:1990770"	"small intestine smooth muscle contraction"	"GO:1904349"	"positive regulation of small intestine smooth muscle contraction"	1
+"GO:0061010"	"gall bladder development"	"GO:0061010"	"gall bladder development"	0
+"GO:0015721"	"bile acid and bile salt transport"	"GO:0015721"	"bile acid and bile salt transport"	0
+"GO:0015721"	"bile acid and bile salt transport"	"GO:0015722"	"canalicular bile acid transport"	1
+"GO:0061009"	"common bile duct development"	"GO:0061009"	"common bile duct development"	0
+"GO:0061009"	"common bile duct development"	"GO:0035622"	"intrahepatic bile duct development"	1
+"GO:0061009"	"common bile duct development"	"GO:0035628"	"cystic duct development"	1
+"GO:0061009"	"common bile duct development"	"GO:0061011"	"hepatic duct development"	1
+"GO:0061007"	"hepaticobiliary system process"	"GO:0061007"	"hepaticobiliary system process"	0
+"GO:0061008"	"hepaticobiliary system development"	"GO:0061008"	"hepaticobiliary system development"	0
+"GO:0061008"	"hepaticobiliary system development"	"GO:0001889"	"liver development"	1
+"GO:0061008"	"hepaticobiliary system development"	"GO:0061009"	"common bile duct development"	1
+"GO:0061008"	"hepaticobiliary system development"	"GO:0061010"	"gall bladder development"	1
+"GO:0061008"	"hepaticobiliary system development"	"GO:0035622"	"intrahepatic bile duct development"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0035628"	"cystic duct development"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0060344"	"liver trabecula formation"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0061011"	"hepatic duct development"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0061017"	"hepatoblast differentiation"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0070365"	"hepatocyte differentiation"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0071910"	"determination of liver left/right asymmetry"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0072576"	"liver morphogenesis"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0097421"	"liver regeneration"	2
+"GO:0061008"	"hepaticobiliary system development"	"GO:0070366"	"regulation of hepatocyte differentiation"	3
+"GO:0061008"	"hepaticobiliary system development"	"GO:0070367"	"negative regulation of hepatocyte differentiation"	3
+"GO:0061008"	"hepaticobiliary system development"	"GO:0070368"	"positive regulation of hepatocyte differentiation"	3
+"GO:0061008"	"hepaticobiliary system development"	"GO:0072575"	"epithelial cell proliferation involved in liver morphogenesis"	3
+"GO:0061008"	"hepaticobiliary system development"	"GO:0072574"	"hepatocyte proliferation"	4
+"GO:0061008"	"hepaticobiliary system development"	"GO:2000345"	"regulation of hepatocyte proliferation"	5
+"GO:0061008"	"hepaticobiliary system development"	"GO:2000346"	"negative regulation of hepatocyte proliferation"	5
+"GO:0061008"	"hepaticobiliary system development"	"GO:2000347"	"positive regulation of hepatocyte proliferation"	5
+"GO:0030432"	"peristalsis"	"GO:0030432"	"peristalsis"	0
+"GO:0030432"	"peristalsis"	"GO:0072105"	"ureteric peristalsis"	1
+"GO:0061196"	"fungiform papilla development"	"GO:0061196"	"fungiform papilla development"	0
+"GO:0061196"	"fungiform papilla development"	"GO:0061197"	"fungiform papilla morphogenesis"	1
+"GO:0061196"	"fungiform papilla development"	"GO:0061198"	"fungiform papilla formation"	2
+"GO:0061197"	"fungiform papilla morphogenesis"	"GO:0061197"	"fungiform papilla morphogenesis"	0
+"GO:0061197"	"fungiform papilla morphogenesis"	"GO:0061198"	"fungiform papilla formation"	1
+"GO:0061198"	"fungiform papilla formation"	"GO:0061198"	"fungiform papilla formation"	0
+"GO:0060022"	"hard palate development"	"GO:0060022"	"hard palate development"	0
+"GO:1905748"	"hard palate morphogenesis"	"GO:1905748"	"hard palate morphogenesis"	0
+"GO:0035622"	"intrahepatic bile duct development"	"GO:0035622"	"intrahepatic bile duct development"	0
+"GO:0061626"	"pharyngeal arch artery morphogenesis"	"GO:0061626"	"pharyngeal arch artery morphogenesis"	0
+"GO:0002317"	"plasma cell differentiation"	"GO:0002317"	"plasma cell differentiation"	0
+"GO:0002317"	"plasma cell differentiation"	"GO:1900098"	"regulation of plasma cell differentiation"	1
+"GO:0002317"	"plasma cell differentiation"	"GO:1900099"	"negative regulation of plasma cell differentiation"	1
+"GO:0002317"	"plasma cell differentiation"	"GO:1900100"	"positive regulation of plasma cell differentiation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0042100"	"B cell proliferation"	0
+"GO:0042100"	"B cell proliferation"	"GO:0002322"	"B cell proliferation involved in immune response"	1
+"GO:0042100"	"B cell proliferation"	"GO:0002358"	"B cell homeostatic proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0002359"	"B-1 B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030888"	"regulation of B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030889"	"negative regulation of B cell proliferation"	1
+"GO:0042100"	"B cell proliferation"	"GO:0030890"	"positive regulation of B cell proliferation"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0055078"	"sodium ion homeostasis"	0
+"GO:0055078"	"sodium ion homeostasis"	"GO:0006883"	"cellular sodium ion homeostasis"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035812"	"renal sodium excretion"	1
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035813"	"regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035814"	"negative regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035815"	"positive regulation of renal sodium excretion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0043182"	"vacuolar sequestering of sodium ion"	2
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035817"	"renal sodium ion absorption involved in negative regulation of renal sodium excretion"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035819"	"positive regulation of renal sodium excretion by pressure natriuresis"	3
+"GO:0055078"	"sodium ion homeostasis"	"GO:0035820"	"negative regulation of renal sodium excretion by angiotensin"	3
+"GO:1990768"	"gastric mucosal blood circulation"	"GO:1990768"	"gastric mucosal blood circulation"	0
+"GO:1990768"	"gastric mucosal blood circulation"	"GO:1904344"	"regulation of gastric mucosal blood circulation"	1
+"GO:1990768"	"gastric mucosal blood circulation"	"GO:1904345"	"negative regulation of gastric mucosal blood circulation"	1
+"GO:1990768"	"gastric mucosal blood circulation"	"GO:1904346"	"positive regulation of gastric mucosal blood circulation"	1
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0007439"	"ectodermal digestive tract development"	0
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048567"	"ectodermal digestive tract morphogenesis"	1
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048611"	"embryonic ectodermal digestive tract development"	1
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048612"	"post-embryonic ectodermal digestive tract development"	1
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0007441"	"anterior midgut (ectodermal) morphogenesis"	2
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048613"	"embryonic ectodermal digestive tract morphogenesis"	2
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048614"	"post-embryonic ectodermal digestive tract morphogenesis"	2
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048615"	"embryonic anterior midgut (ectodermal) morphogenesis"	3
+"GO:0007439"	"ectodermal digestive tract development"	"GO:0048616"	"post-embryonic anterior midgut (ectodermal) morphogenesis"	3
+"GO:1903929"	"primary palate development"	"GO:1903929"	"primary palate development"	0
+"GO:0060465"	"pharynx development"	"GO:0060465"	"pharynx development"	0
+"GO:0060465"	"pharynx development"	"GO:0043282"	"pharyngeal muscle development"	1
+"GO:0060037"	"pharyngeal system development"	"GO:0060037"	"pharyngeal system development"	0
+"GO:0060037"	"pharyngeal system development"	"GO:0061626"	"pharyngeal arch artery morphogenesis"	1
+"GO:0007631"	"feeding behavior"	"GO:0007631"	"feeding behavior"	0
+"GO:0007631"	"feeding behavior"	"GO:0001661"	"conditioned taste aversion"	1
+"GO:0007631"	"feeding behavior"	"GO:0001967"	"suckling behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0008343"	"adult feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0030536"	"larval feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0035199"	"salt aversion"	1
+"GO:0007631"	"feeding behavior"	"GO:0042755"	"eating behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0042756"	"drinking behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0060259"	"regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:2000252"	"negative regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:2000253"	"positive regulation of feeding behavior"	1
+"GO:0007631"	"feeding behavior"	"GO:0002023"	"reduction of food intake in response to dietary excess"	2
+"GO:0007631"	"feeding behavior"	"GO:0003051"	"angiotensin-mediated drinking behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:0043050"	"pharyngeal pumping"	2
+"GO:0007631"	"feeding behavior"	"GO:0075329"	"regulation of arbuscule formation for nutrient acquisition from host"	2
+"GO:0007631"	"feeding behavior"	"GO:1903998"	"regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:1903999"	"negative regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:1904000"	"positive regulation of eating behavior"	2
+"GO:0007631"	"feeding behavior"	"GO:0043051"	"regulation of pharyngeal pumping"	3
+"GO:0007631"	"feeding behavior"	"GO:0075330"	"positive regulation of arbuscule formation for nutrient acquisition from host"	3
+"GO:0007631"	"feeding behavior"	"GO:0075331"	"negative regulation of arbuscule formation for nutrient acquisition from host"	3
+"GO:0007631"	"feeding behavior"	"GO:1903745"	"negative regulation of pharyngeal pumping"	3
+"GO:0007631"	"feeding behavior"	"GO:1903746"	"positive regulation of pharyngeal pumping"	3
+"GO:0060344"	"liver trabecula formation"	"GO:0060344"	"liver trabecula formation"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	0
+"GO:0002395"	"immune response in nasopharyngeal-associated lymphoid tissue"	"GO:0002400"	"tolerance induction in nasopharyngeal-associated lymphoid tissue"	1
+"GO:1904484"	"cloacal gland development"	"GO:1904484"	"cloacal gland development"	0
+"GO:0110040"	"pharynx morphogenesis"	"GO:0110040"	"pharynx morphogenesis"	0
+"GO:0110040"	"pharynx morphogenesis"	"GO:0110041"	"regulation of pharynx morphogenesis"	1
+"GO:0110040"	"pharynx morphogenesis"	"GO:0110042"	"negative regulation of pharynx morphogenesis"	1
+"GO:0110040"	"pharynx morphogenesis"	"GO:0110043"	"positive regulation of pharynx morphogenesis"	1
